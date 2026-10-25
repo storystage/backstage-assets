@@ -1,0 +1,2662 @@
+{
+  "manifestVersion": "1.0.0",
+  "items": [
+    {
+      "id": "kaykit/Biped/barbarian",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Barbarian",
+      "themes": [
+        "fantasy",
+        "adventure"
+      ],
+      "files": {
+        "model": "models/kaykit/Biped/barbarian.glb",
+        "thumbnail": "sketches/kaykit/Biped/barbarian/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "head",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.4
+      },
+      "licence": "CC0-1.0",
+      "credit": "Barbarian by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Biped/barbarian/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Biped/barbarian/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Biped/barbarian/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Biped/barbarian/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/barbarian/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/barbarian/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/barbarian/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/barbarian/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/barbarian/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/barbarian/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/barbarian/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/barbarian/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/barbarian/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/barbarian/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/barbarian/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/barbarian/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "kaykit/Biped/knight",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Knight",
+      "themes": [
+        "fantasy",
+        "adventure",
+        "history"
+      ],
+      "files": {
+        "model": "models/kaykit/Biped/knight.glb",
+        "thumbnail": "sketches/kaykit/Biped/knight/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "head",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.47
+      },
+      "licence": "CC0-1.0",
+      "credit": "Knight by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Biped/knight/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Biped/knight/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Biped/knight/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Biped/knight/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/knight/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/knight/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/knight/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/knight/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/knight/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/knight/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/knight/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/knight/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/knight/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/knight/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/knight/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/knight/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "kaykit/Biped/mage",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Mage",
+      "themes": [
+        "fantasy",
+        "adventure"
+      ],
+      "files": {
+        "model": "models/kaykit/Biped/mage.glb",
+        "thumbnail": "sketches/kaykit/Biped/mage/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "head",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.72
+      },
+      "licence": "CC0-1.0",
+      "credit": "Mage by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Biped/mage/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Biped/mage/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Biped/mage/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Biped/mage/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/mage/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/mage/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/mage/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/mage/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/mage/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/mage/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/mage/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/mage/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/mage/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/mage/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/mage/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/mage/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "kaykit/Biped/rogue",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Rogue",
+      "themes": [
+        "fantasy",
+        "adventure"
+      ],
+      "files": {
+        "model": "models/kaykit/Biped/rogue.glb",
+        "thumbnail": "sketches/kaykit/Biped/rogue/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "head",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.19
+      },
+      "licence": "CC0-1.0",
+      "credit": "Rogue by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Biped/rogue/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Biped/rogue/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Biped/rogue/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Biped/rogue/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/rogue/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/rogue/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/rogue/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/rogue/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/rogue/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/rogue/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/rogue/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/rogue/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/rogue/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/rogue/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/rogue/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/rogue/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "kaykit/Biped/rogue-hooded",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Hooded rogue",
+      "themes": [
+        "fantasy",
+        "adventure"
+      ],
+      "files": {
+        "model": "models/kaykit/Biped/rogue-hooded.glb",
+        "thumbnail": "sketches/kaykit/Biped/rogue-hooded/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "head",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.25
+      },
+      "licence": "CC0-1.0",
+      "credit": "Hooded rogue by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Biped/rogue-hooded/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Biped/rogue-hooded/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Biped/rogue-hooded/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Biped/rogue-hooded/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/rogue-hooded/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/rogue-hooded/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/rogue-hooded/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/rogue-hooded/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/rogue-hooded/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/rogue-hooded/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/rogue-hooded/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/rogue-hooded/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/rogue-hooded/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/rogue-hooded/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/rogue-hooded/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/rogue-hooded/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "kaykit/Biped/skeleton-mage",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Skeleton mage",
+      "themes": [
+        "fantasy",
+        "spooky"
+      ],
+      "files": {
+        "model": "models/kaykit/Biped/skeleton-mage.glb",
+        "thumbnail": "sketches/kaykit/Biped/skeleton-mage/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "head",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.63
+      },
+      "licence": "CC0-1.0",
+      "credit": "Skeleton mage by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Mage.glb",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Biped/skeleton-mage/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Biped/skeleton-mage/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Biped/skeleton-mage/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Biped/skeleton-mage/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-mage/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-mage/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-mage/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-mage/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-mage/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-mage/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-mage/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-mage/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-mage/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-mage/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-mage/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-mage/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "kaykit/Biped/skeleton-minion",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Skeleton minion",
+      "themes": [
+        "fantasy",
+        "spooky"
+      ],
+      "files": {
+        "model": "models/kaykit/Biped/skeleton-minion.glb",
+        "thumbnail": "sketches/kaykit/Biped/skeleton-minion/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "head",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.17
+      },
+      "licence": "CC0-1.0",
+      "credit": "Skeleton minion by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Biped/skeleton-minion/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Biped/skeleton-minion/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Biped/skeleton-minion/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Biped/skeleton-minion/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-minion/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-minion/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-minion/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-minion/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-minion/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-minion/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-minion/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-minion/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-minion/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-minion/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-minion/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-minion/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "kaykit/Biped/skeleton-rogue",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Skeleton rogue",
+      "themes": [
+        "fantasy",
+        "spooky"
+      ],
+      "files": {
+        "model": "models/kaykit/Biped/skeleton-rogue.glb",
+        "thumbnail": "sketches/kaykit/Biped/skeleton-rogue/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "head",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.31
+      },
+      "licence": "CC0-1.0",
+      "credit": "Skeleton rogue by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Rogue.glb",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-rogue/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "kaykit/Biped/skeleton-warrior",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Skeleton warrior",
+      "themes": [
+        "fantasy",
+        "spooky"
+      ],
+      "files": {
+        "model": "models/kaykit/Biped/skeleton-warrior.glb",
+        "thumbnail": "sketches/kaykit/Biped/skeleton-warrior/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "head",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.59
+      },
+      "licence": "CC0-1.0",
+      "credit": "Skeleton warrior by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/kaykit/Biped/skeleton-warrior/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "kaykit/Prop/mug",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Mug",
+      "themes": [
+        "fantasy",
+        "food"
+      ],
+      "files": {
+        "model": "models/kaykit/Prop/mug.glb",
+        "thumbnail": "sketches/kaykit/Prop/mug/front.svg"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.55
+      },
+      "licence": "CC0-1.0",
+      "credit": "Mug by Kay Lousberg, KayKit (CC0)",
+      "source": {
+        "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Assets/gltf/mug_full.gltf",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/kaykit/Prop/mug/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/kaykit/Prop/mug/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/kaykit/Prop/mug/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/kaykit/Prop/mug/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/astronaut",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Astronaut",
+      "themes": [
+        "everyday",
+        "space"
+      ],
+      "files": {
+        "model": "models/osa/Biped/astronaut.vrm",
+        "thumbnail": "sketches/osa/Biped/astronaut/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.36
+      },
+      "licence": "CC0-1.0",
+      "credit": "Astronaut by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/T0c0z_XEPQHy3vyXz31XB22s_6JTqHdnau8exq_I8tI",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/astronaut/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/astronaut/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/astronaut/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/astronaut/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/astronaut/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/astronaut/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/astronaut/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/astronaut/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/astronaut/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/astronaut/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/astronaut/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/astronaut/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/astronaut/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/astronaut/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/astronaut/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/astronaut/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/david",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "David",
+      "themes": [
+        "everyday"
+      ],
+      "files": {
+        "model": "models/osa/Biped/david.vrm",
+        "thumbnail": "sketches/osa/Biped/david/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.58
+      },
+      "licence": "CC0-1.0",
+      "credit": "David by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/H3cBhsOEoiQ8XZiwG31SyCUtiDewBZRccxIDztyHfSY",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/david/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/david/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/david/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/david/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/david/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/david/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/david/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/david/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/david/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/david/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/david/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/david/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/david/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/david/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/david/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/david/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/dino-kid",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Dino kid",
+      "themes": [
+        "everyday",
+        "dinosaurs"
+      ],
+      "files": {
+        "model": "models/osa/Biped/dino-kid.vrm",
+        "thumbnail": "sketches/osa/Biped/dino-kid/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.24
+      },
+      "licence": "CC0-1.0",
+      "credit": "Dino kid by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/T1gkB95XKXAZl_VmU1ozg5Txm--o9nY0Nge3s8zNoBs",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/dino-kid/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/dino-kid/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/dino-kid/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/dino-kid/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/dino-kid/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/dino-kid/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/dino-kid/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/dino-kid/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/dino-kid/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/dino-kid/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/dino-kid/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/dino-kid/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/dino-kid/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/dino-kid/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/dino-kid/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/dino-kid/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/erika",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Erika",
+      "themes": [
+        "everyday"
+      ],
+      "files": {
+        "model": "models/osa/Biped/erika.vrm",
+        "thumbnail": "sketches/osa/Biped/erika/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.66
+      },
+      "licence": "CC0-1.0",
+      "credit": "Erika by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/GZkfa0SNnrBWluRL_pXpakg7T3K3d4l87__wR4mD3UM",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/erika/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/erika/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/erika/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/erika/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/erika/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/erika/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/erika/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/erika/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/erika/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/erika/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/erika/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/erika/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/erika/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/erika/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/erika/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/erika/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/kyle",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Kyle",
+      "themes": [
+        "everyday"
+      ],
+      "files": {
+        "model": "models/osa/Biped/kyle.vrm",
+        "thumbnail": "sketches/osa/Biped/kyle/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.67
+      },
+      "licence": "CC0-1.0",
+      "credit": "Kyle by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/0E5wEEVl5VGCcuGVQylq3dpC3TClLR3JhuhEyhYh7NQ",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/kyle/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/kyle/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/kyle/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/kyle/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/kyle/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/kyle/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/kyle/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/kyle/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/kyle/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/kyle/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/kyle/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/kyle/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/kyle/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/kyle/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/kyle/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/kyle/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/olivia",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Olivia",
+      "themes": [
+        "everyday"
+      ],
+      "files": {
+        "model": "models/osa/Biped/olivia.vrm",
+        "thumbnail": "sketches/osa/Biped/olivia/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.67
+      },
+      "licence": "CC0-1.0",
+      "credit": "Olivia by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/MgsNlTetzAoVEC6E-lswj65vp7StkOZXXd5OjjqzYZI",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/olivia/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/olivia/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/olivia/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/olivia/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/olivia/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/olivia/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/olivia/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/olivia/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/olivia/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/olivia/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/olivia/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/olivia/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/olivia/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/olivia/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/olivia/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/olivia/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/polybot",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Polybot",
+      "themes": [
+        "everyday",
+        "robots"
+      ],
+      "files": {
+        "model": "models/osa/Biped/polybot.vrm",
+        "thumbnail": "sketches/osa/Biped/polybot/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftIndexProximal",
+        "leftMiddleProximal",
+        "leftRingProximal",
+        "leftLittleProximal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightIndexProximal",
+        "rightMiddleProximal",
+        "rightRingProximal",
+        "rightLittleProximal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.06
+      },
+      "licence": "CC0-1.0",
+      "credit": "Polybot by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/DUR8v-IugXppdMBxPdE1rDO2dZCJJ7ZgBTXSRgPJFNo",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/polybot/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/polybot/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/polybot/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/polybot/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/polybot/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/polybot/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/polybot/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/polybot/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/polybot/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/polybot/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/polybot/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/polybot/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/polybot/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/polybot/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/polybot/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/polybot/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/robert",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Robert",
+      "themes": [
+        "everyday"
+      ],
+      "files": {
+        "model": "models/osa/Biped/robert.vrm",
+        "thumbnail": "sketches/osa/Biped/robert/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.61
+      },
+      "licence": "CC0-1.0",
+      "credit": "Robert by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/gwG7w4bY-A5c3R6A6GOz3xBCgbPvkFQmqPIDtvnNsYI",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/robert/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/robert/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/robert/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/robert/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/robert/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/robert/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/robert/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/robert/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/robert/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/robert/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/robert/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/robert/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/robert/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/robert/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/robert/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/robert/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/rose",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Rose",
+      "themes": [
+        "everyday"
+      ],
+      "files": {
+        "model": "models/osa/Biped/rose.vrm",
+        "thumbnail": "sketches/osa/Biped/rose/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.66
+      },
+      "licence": "CC0-1.0",
+      "credit": "Rose by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/Ea1KXujzJatQgCFSMzGOzp_UtHqB1pyia--U3AtkMAY",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/rose/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/rose/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/rose/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/rose/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/rose/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/rose/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/rose/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/rose/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/rose/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/rose/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/rose/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/rose/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/rose/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/rose/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/rose/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/rose/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "osa/Biped/teddy",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Teddy",
+      "themes": [
+        "everyday",
+        "toys"
+      ],
+      "files": {
+        "model": "models/osa/Biped/teddy.vrm",
+        "thumbnail": "sketches/osa/Biped/teddy/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.65
+      },
+      "licence": "CC0-1.0",
+      "credit": "Teddy by Polygonal Mind, 100Avatars (CC0)",
+      "source": {
+        "url": "https://arweave.net/KbaYR3YmtjweLgEcJAWekeh3MNAlF9ZWOYJkbNfi8MM",
+        "retrieved": "2026-10-25"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/osa/Biped/teddy/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/osa/Biped/teddy/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/osa/Biped/teddy/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/osa/Biped/teddy/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/teddy/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/teddy/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/teddy/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/osa/Biped/teddy/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/osa/Biped/teddy/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/osa/Biped/teddy/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/osa/Biped/teddy/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/osa/Biped/teddy/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/teddy/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/teddy/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/teddy/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/osa/Biped/teddy/back-sit.svg"
+        }
+      ]
+    }
+  ]
+}
