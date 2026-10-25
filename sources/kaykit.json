@@ -1,0 +1,186 @@
+{
+  "source": "kaykit",
+  "items": [
+    {
+      "id": "kaykit/Biped/barbarian",
+      "displayName": "Barbarian",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy",
+        "adventure"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Barbarian by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb"
+      }
+    },
+    {
+      "id": "kaykit/Biped/knight",
+      "displayName": "Knight",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy",
+        "adventure",
+        "history"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Knight by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb"
+      }
+    },
+    {
+      "id": "kaykit/Biped/mage",
+      "displayName": "Mage",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy",
+        "adventure"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Mage by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb"
+      }
+    },
+    {
+      "id": "kaykit/Biped/rogue",
+      "displayName": "Rogue",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy",
+        "adventure"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Rogue by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb"
+      }
+    },
+    {
+      "id": "kaykit/Biped/rogue-hooded",
+      "displayName": "Hooded rogue",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy",
+        "adventure"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Hooded rogue by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb"
+      }
+    },
+    {
+      "id": "kaykit/Biped/skeleton-mage",
+      "displayName": "Skeleton mage",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy",
+        "spooky"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Skeleton mage by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Mage.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+        "commit": "15b62b9bad122f72926c10fb14d622c73819fa54",
+        "path": "addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Mage.glb"
+      }
+    },
+    {
+      "id": "kaykit/Biped/skeleton-minion",
+      "displayName": "Skeleton minion",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy",
+        "spooky"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Skeleton minion by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+        "commit": "15b62b9bad122f72926c10fb14d622c73819fa54",
+        "path": "addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb"
+      }
+    },
+    {
+      "id": "kaykit/Biped/skeleton-rogue",
+      "displayName": "Skeleton rogue",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy",
+        "spooky"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Skeleton rogue by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Rogue.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+        "commit": "15b62b9bad122f72926c10fb14d622c73819fa54",
+        "path": "addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Rogue.glb"
+      }
+    },
+    {
+      "id": "kaykit/Biped/skeleton-warrior",
+      "displayName": "Skeleton warrior",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy",
+        "spooky"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Skeleton warrior by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+        "commit": "15b62b9bad122f72926c10fb14d622c73819fa54",
+        "path": "addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb"
+      }
+    },
+    {
+      "id": "kaykit/Prop/mug",
+      "displayName": "Mug",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "fantasy",
+        "food"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Mug by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Assets/gltf/mug_full.gltf",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Assets/gltf/mug_full.gltf"
+      }
+    }
+  ]
+}

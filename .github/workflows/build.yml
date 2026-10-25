@@ -1,0 +1,67 @@
+# Builds Backstage from sources/*.json with the tools in storystage/storystage2 (WP3.7):
+# fetches every item (pinned), writes models/, backstage.json, provenance.json, the sketches and
+# sources-report.md, and opens a pull request for a person to review.
+name: Build Backstage
+
+on:
+  workflow_dispatch:
+    inputs:
+      tools_ref:
+        description: storystage2 branch or commit whose tools to use
+        required: true
+        default: main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: assets
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: storystage/storystage2
+          ref: ${{ inputs.tools_ref }}
+          path: storystage2
+          persist-credentials: false
+      - uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+        with:
+          package_json_file: storystage2/package.json
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: storystage2/.nvmrc
+      - name: Install the tools
+        working-directory: storystage2
+        run: pnpm install --frozen-lockfile
+      - name: Build Backstage
+        working-directory: storystage2
+        run: node tools/backstage-sources/src/cli.ts ../assets
+      - name: Open a pull request
+        working-directory: assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TOOLS_REF: ${{ inputs.tools_ref }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "Nothing changed."; exit 0; fi
+          branch="build/${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add -A
+          git commit -m "Build Backstage from sources/ (tools: storystage2 ${TOOLS_REF})"
+          git push origin "$branch"
+          {
+            echo "Built by [this run]($RUN_URL) with the tools in storystage/storystage2 at \`$TOOLS_REF\`."
+            echo
+            echo "**Before merging:** look at each new item's sketches (\`sketches/<id>/\`) for respectful, age-appropriate representation (learners are 6 to 13), and at \`sketches/touch-up.md\`."
+            echo
+            cat sources-report.md
+          } > pr-body.md
+          gh pr create --title "Build Backstage ($TOOLS_REF)" --body-file pr-body.md --base main --head "$branch" \
+            || echo "Could not open the pull request (the repository may not let Actions open them); the branch $branch is pushed."

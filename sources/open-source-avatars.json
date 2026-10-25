@@ -1,0 +1,169 @@
+{
+  "source": "open-source-avatars",
+  "items": [
+    {
+      "id": "osa/Biped/rose",
+      "displayName": "Rose",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Rose by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/Ea1KXujzJatQgCFSMzGOzp_UtHqB1pyia--U3AtkMAY",
+      "fetch": {
+        "url": "https://arweave.net/Ea1KXujzJatQgCFSMzGOzp_UtHqB1pyia--U3AtkMAY",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/robert",
+      "displayName": "Robert",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Robert by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/gwG7w4bY-A5c3R6A6GOz3xBCgbPvkFQmqPIDtvnNsYI",
+      "fetch": {
+        "url": "https://arweave.net/gwG7w4bY-A5c3R6A6GOz3xBCgbPvkFQmqPIDtvnNsYI",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/olivia",
+      "displayName": "Olivia",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Olivia by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/MgsNlTetzAoVEC6E-lswj65vp7StkOZXXd5OjjqzYZI",
+      "fetch": {
+        "url": "https://arweave.net/MgsNlTetzAoVEC6E-lswj65vp7StkOZXXd5OjjqzYZI",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/david",
+      "displayName": "David",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "David by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/H3cBhsOEoiQ8XZiwG31SyCUtiDewBZRccxIDztyHfSY",
+      "fetch": {
+        "url": "https://arweave.net/H3cBhsOEoiQ8XZiwG31SyCUtiDewBZRccxIDztyHfSY",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/erika",
+      "displayName": "Erika",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Erika by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/GZkfa0SNnrBWluRL_pXpakg7T3K3d4l87__wR4mD3UM",
+      "fetch": {
+        "url": "https://arweave.net/GZkfa0SNnrBWluRL_pXpakg7T3K3d4l87__wR4mD3UM",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/kyle",
+      "displayName": "Kyle",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Kyle by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/0E5wEEVl5VGCcuGVQylq3dpC3TClLR3JhuhEyhYh7NQ",
+      "fetch": {
+        "url": "https://arweave.net/0E5wEEVl5VGCcuGVQylq3dpC3TClLR3JhuhEyhYh7NQ",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/astronaut",
+      "displayName": "Astronaut",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "space"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Astronaut by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/T0c0z_XEPQHy3vyXz31XB22s_6JTqHdnau8exq_I8tI",
+      "fetch": {
+        "url": "https://arweave.net/T0c0z_XEPQHy3vyXz31XB22s_6JTqHdnau8exq_I8tI",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/polybot",
+      "displayName": "Polybot",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "robots"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Polybot by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/DUR8v-IugXppdMBxPdE1rDO2dZCJJ7ZgBTXSRgPJFNo",
+      "fetch": {
+        "url": "https://arweave.net/DUR8v-IugXppdMBxPdE1rDO2dZCJJ7ZgBTXSRgPJFNo",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/teddy",
+      "displayName": "Teddy",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "toys"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Teddy by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/KbaYR3YmtjweLgEcJAWekeh3MNAlF9ZWOYJkbNfi8MM",
+      "fetch": {
+        "url": "https://arweave.net/KbaYR3YmtjweLgEcJAWekeh3MNAlF9ZWOYJkbNfi8MM",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/dino-kid",
+      "displayName": "Dino kid",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "dinosaurs"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Dino kid by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/T1gkB95XKXAZl_VmU1ozg5Txm--o9nY0Nge3s8zNoBs",
+      "fetch": {
+        "url": "https://arweave.net/T1gkB95XKXAZl_VmU1ozg5Txm--o9nY0Nge3s8zNoBs",
+        "ext": "vrm"
+      }
+    }
+  ]
+}
