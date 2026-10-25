@@ -1,0 +1,760 @@
+{
+  "kaykit/Biped/barbarian": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
+        "sha256": "cefc311a0e10c7858b6141f5ada7e33268727564fb8ac1347aab97d000669cc6"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 5203,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "1H_Axe_Offhand",
+        "Barbarian_Round_Shield",
+        "1H_Axe",
+        "2H_Axe"
+      ],
+      "animations": [
+        "1H_Melee_Attack_Chop",
+        "1H_Melee_Attack_Slice_Diagonal",
+        "1H_Melee_Attack_Slice_Horizontal",
+        "1H_Melee_Attack_Stab",
+        "1H_Ranged_Aiming",
+        "1H_Ranged_Reload",
+        "1H_Ranged_Shoot",
+        "1H_Ranged_Shooting",
+        "2H_Melee_Attack_Chop",
+        "2H_Melee_Attack_Slice",
+        "2H_Melee_Attack_Spin",
+        "2H_Melee_Attack_Spinning",
+        "2H_Melee_Attack_Stab",
+        "2H_Melee_Idle",
+        "2H_Ranged_Aiming",
+        "2H_Ranged_Reload",
+        "2H_Ranged_Shoot",
+        "2H_Ranged_Shooting",
+        "Block",
+        "Block_Attack",
+        "Block_Hit",
+        "Blocking",
+        "Death_A",
+        "Death_A_Pose",
+        "Death_B",
+        "Death_B_Pose",
+        "Dualwield_Melee_Attack_Chop",
+        "Dualwield_Melee_Attack_Slice",
+        "Dualwield_Melee_Attack_Stab",
+        "Hit_A",
+        "Hit_B",
+        "T-Pose",
+        "Unarmed_Melee_Attack_Kick",
+        "Unarmed_Melee_Attack_Punch_A",
+        "Unarmed_Melee_Attack_Punch_B"
+      ]
+    }
+  },
+  "kaykit/Biped/knight": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb",
+        "sha256": "60428e3abc09ba83e595d256e3af8c5c976b46cdae599f0802fc82b4a3445168"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 4712,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "1H_Sword_Offhand",
+        "Badge_Shield",
+        "Rectangle_Shield",
+        "Round_Shield",
+        "Spike_Shield",
+        "1H_Sword",
+        "2H_Sword"
+      ],
+      "animations": [
+        "1H_Melee_Attack_Chop",
+        "1H_Melee_Attack_Slice_Diagonal",
+        "1H_Melee_Attack_Slice_Horizontal",
+        "1H_Melee_Attack_Stab",
+        "1H_Ranged_Aiming",
+        "1H_Ranged_Reload",
+        "1H_Ranged_Shoot",
+        "1H_Ranged_Shooting",
+        "2H_Melee_Attack_Chop",
+        "2H_Melee_Attack_Slice",
+        "2H_Melee_Attack_Spin",
+        "2H_Melee_Attack_Spinning",
+        "2H_Melee_Attack_Stab",
+        "2H_Melee_Idle",
+        "2H_Ranged_Aiming",
+        "2H_Ranged_Reload",
+        "2H_Ranged_Shoot",
+        "2H_Ranged_Shooting",
+        "Block",
+        "Block_Attack",
+        "Block_Hit",
+        "Blocking",
+        "Death_A",
+        "Death_A_Pose",
+        "Death_B",
+        "Death_B_Pose",
+        "Dualwield_Melee_Attack_Chop",
+        "Dualwield_Melee_Attack_Slice",
+        "Dualwield_Melee_Attack_Stab",
+        "Hit_A",
+        "Hit_B",
+        "T-Pose",
+        "Unarmed_Melee_Attack_Kick",
+        "Unarmed_Melee_Attack_Punch_A",
+        "Unarmed_Melee_Attack_Punch_B"
+      ]
+    }
+  },
+  "kaykit/Biped/mage": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
+        "sha256": "cf898585da33fab50c724d31605fb931eb2912e6d2280092141e98ca81ad507d"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 4509,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Spellbook",
+        "Spellbook_open",
+        "1H_Wand",
+        "2H_Staff"
+      ],
+      "animations": [
+        "1H_Melee_Attack_Chop",
+        "1H_Melee_Attack_Slice_Diagonal",
+        "1H_Melee_Attack_Slice_Horizontal",
+        "1H_Melee_Attack_Stab",
+        "1H_Ranged_Aiming",
+        "1H_Ranged_Reload",
+        "1H_Ranged_Shoot",
+        "1H_Ranged_Shooting",
+        "2H_Melee_Attack_Chop",
+        "2H_Melee_Attack_Slice",
+        "2H_Melee_Attack_Spin",
+        "2H_Melee_Attack_Spinning",
+        "2H_Melee_Attack_Stab",
+        "2H_Melee_Idle",
+        "2H_Ranged_Aiming",
+        "2H_Ranged_Reload",
+        "2H_Ranged_Shoot",
+        "2H_Ranged_Shooting",
+        "Block",
+        "Block_Attack",
+        "Block_Hit",
+        "Blocking",
+        "Death_A",
+        "Death_A_Pose",
+        "Death_B",
+        "Death_B_Pose",
+        "Dualwield_Melee_Attack_Chop",
+        "Dualwield_Melee_Attack_Slice",
+        "Dualwield_Melee_Attack_Stab",
+        "Hit_A",
+        "Hit_B",
+        "T-Pose",
+        "Unarmed_Melee_Attack_Kick",
+        "Unarmed_Melee_Attack_Punch_A",
+        "Unarmed_Melee_Attack_Punch_B"
+      ]
+    }
+  },
+  "kaykit/Biped/rogue": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
+        "sha256": "e825437cd4d2ee9c1960b517a74a69101e33eb409ae7fa8cedc7134a998fbb7d"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 4347,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Knife_Offhand",
+        "1H_Crossbow",
+        "2H_Crossbow",
+        "Knife",
+        "Throwable"
+      ],
+      "animations": [
+        "1H_Melee_Attack_Chop",
+        "1H_Melee_Attack_Slice_Diagonal",
+        "1H_Melee_Attack_Slice_Horizontal",
+        "1H_Melee_Attack_Stab",
+        "1H_Ranged_Aiming",
+        "1H_Ranged_Reload",
+        "1H_Ranged_Shoot",
+        "1H_Ranged_Shooting",
+        "2H_Melee_Attack_Chop",
+        "2H_Melee_Attack_Slice",
+        "2H_Melee_Attack_Spin",
+        "2H_Melee_Attack_Spinning",
+        "2H_Melee_Attack_Stab",
+        "2H_Melee_Idle",
+        "2H_Ranged_Aiming",
+        "2H_Ranged_Reload",
+        "2H_Ranged_Shoot",
+        "2H_Ranged_Shooting",
+        "Block",
+        "Block_Attack",
+        "Block_Hit",
+        "Blocking",
+        "Death_A",
+        "Death_A_Pose",
+        "Death_B",
+        "Death_B_Pose",
+        "Dualwield_Melee_Attack_Chop",
+        "Dualwield_Melee_Attack_Slice",
+        "Dualwield_Melee_Attack_Stab",
+        "Hit_A",
+        "Hit_B",
+        "T-Pose",
+        "Unarmed_Melee_Attack_Kick",
+        "Unarmed_Melee_Attack_Punch_A",
+        "Unarmed_Melee_Attack_Punch_B"
+      ]
+    }
+  },
+  "kaykit/Biped/rogue-hooded": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb",
+        "sha256": "93e6e25213009952276d9cf34f5d96a243767334c66f280db0433ddfabb91545"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 4005,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Knife_Offhand",
+        "1H_Crossbow",
+        "2H_Crossbow",
+        "Knife",
+        "Throwable"
+      ],
+      "animations": [
+        "1H_Melee_Attack_Chop",
+        "1H_Melee_Attack_Slice_Diagonal",
+        "1H_Melee_Attack_Slice_Horizontal",
+        "1H_Melee_Attack_Stab",
+        "1H_Ranged_Aiming",
+        "1H_Ranged_Reload",
+        "1H_Ranged_Shoot",
+        "1H_Ranged_Shooting",
+        "2H_Melee_Attack_Chop",
+        "2H_Melee_Attack_Slice",
+        "2H_Melee_Attack_Spin",
+        "2H_Melee_Attack_Spinning",
+        "2H_Melee_Attack_Stab",
+        "2H_Melee_Idle",
+        "2H_Ranged_Aiming",
+        "2H_Ranged_Reload",
+        "2H_Ranged_Shoot",
+        "2H_Ranged_Shooting",
+        "Block",
+        "Block_Attack",
+        "Block_Hit",
+        "Blocking",
+        "Death_A",
+        "Death_A_Pose",
+        "Death_B",
+        "Death_B_Pose",
+        "Dualwield_Melee_Attack_Chop",
+        "Dualwield_Melee_Attack_Slice",
+        "Dualwield_Melee_Attack_Stab",
+        "Hit_A",
+        "Hit_B",
+        "T-Pose",
+        "Unarmed_Melee_Attack_Kick",
+        "Unarmed_Melee_Attack_Punch_A",
+        "Unarmed_Melee_Attack_Punch_B"
+      ]
+    }
+  },
+  "kaykit/Biped/skeleton-mage": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Mage.glb",
+        "sha256": "e05b0f5cfa395271c9f75fd07c0a0613c56f401ece4ab644e080001a79971075"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 4588,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": [
+        "1H_Melee_Attack_Chop",
+        "1H_Melee_Attack_Jump_Chop",
+        "1H_Melee_Attack_Slice_Diagonal",
+        "1H_Melee_Attack_Slice_Horizontal",
+        "1H_Melee_Attack_Stab",
+        "1H_Ranged_Aiming",
+        "1H_Ranged_Reload",
+        "1H_Ranged_Shoot",
+        "1H_Ranged_Shooting",
+        "2H_Melee_Attack_Chop",
+        "2H_Melee_Attack_Slice",
+        "2H_Melee_Attack_Spin",
+        "2H_Melee_Attack_Spinning",
+        "2H_Melee_Attack_Stab",
+        "2H_Melee_Idle",
+        "2H_Ranged_Aiming",
+        "2H_Ranged_Reload",
+        "2H_Ranged_Shoot",
+        "2H_Ranged_Shooting",
+        "Block",
+        "Block_Attack",
+        "Block_Hit",
+        "Blocking",
+        "Death_A",
+        "Death_A_Pose",
+        "Death_B",
+        "Death_B_Pose",
+        "Death_C_Pose",
+        "Death_C_Skeletons",
+        "Death_C_Skeletons_Resurrect",
+        "Dualwield_Melee_Attack_Chop",
+        "Dualwield_Melee_Attack_Slice",
+        "Dualwield_Melee_Attack_Stab",
+        "Hit_A",
+        "Hit_B",
+        "T-Pose",
+        "Unarmed_Melee_Attack_Kick",
+        "Unarmed_Melee_Attack_Punch_A",
+        "Unarmed_Melee_Attack_Punch_B"
+      ]
+    }
+  },
+  "kaykit/Biped/skeleton-minion": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb",
+        "sha256": "6ffc003f895bed0b074791e0e490846210a2e2f8fc7da300aba53cc185f95968"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 5288,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": [
+        "1H_Melee_Attack_Chop",
+        "1H_Melee_Attack_Jump_Chop",
+        "1H_Melee_Attack_Slice_Diagonal",
+        "1H_Melee_Attack_Slice_Horizontal",
+        "1H_Melee_Attack_Stab",
+        "1H_Ranged_Aiming",
+        "1H_Ranged_Reload",
+        "1H_Ranged_Shoot",
+        "1H_Ranged_Shooting",
+        "2H_Melee_Attack_Chop",
+        "2H_Melee_Attack_Slice",
+        "2H_Melee_Attack_Spin",
+        "2H_Melee_Attack_Spinning",
+        "2H_Melee_Attack_Stab",
+        "2H_Melee_Idle",
+        "2H_Ranged_Aiming",
+        "2H_Ranged_Reload",
+        "2H_Ranged_Shoot",
+        "2H_Ranged_Shooting",
+        "Block",
+        "Block_Attack",
+        "Block_Hit",
+        "Blocking",
+        "Death_A",
+        "Death_A_Pose",
+        "Death_B",
+        "Death_B_Pose",
+        "Death_C_Pose",
+        "Death_C_Skeletons",
+        "Death_C_Skeletons_Resurrect",
+        "Dualwield_Melee_Attack_Chop",
+        "Dualwield_Melee_Attack_Slice",
+        "Dualwield_Melee_Attack_Stab",
+        "Hit_A",
+        "Hit_B",
+        "T-Pose",
+        "Unarmed_Melee_Attack_Kick",
+        "Unarmed_Melee_Attack_Punch_A",
+        "Unarmed_Melee_Attack_Punch_B"
+      ]
+    }
+  },
+  "kaykit/Biped/skeleton-rogue": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Rogue.glb",
+        "sha256": "4003f2b77891bb56f7e0de7d555abcb497aebbcaee35b614211f16275f9ccae3"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 5278,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": [
+        "1H_Melee_Attack_Chop",
+        "1H_Melee_Attack_Jump_Chop",
+        "1H_Melee_Attack_Slice_Diagonal",
+        "1H_Melee_Attack_Slice_Horizontal",
+        "1H_Melee_Attack_Stab",
+        "1H_Ranged_Aiming",
+        "1H_Ranged_Reload",
+        "1H_Ranged_Shoot",
+        "1H_Ranged_Shooting",
+        "2H_Melee_Attack_Chop",
+        "2H_Melee_Attack_Slice",
+        "2H_Melee_Attack_Spin",
+        "2H_Melee_Attack_Spinning",
+        "2H_Melee_Attack_Stab",
+        "2H_Melee_Idle",
+        "2H_Ranged_Aiming",
+        "2H_Ranged_Reload",
+        "2H_Ranged_Shoot",
+        "2H_Ranged_Shooting",
+        "Block",
+        "Block_Attack",
+        "Block_Hit",
+        "Blocking",
+        "Death_A",
+        "Death_A_Pose",
+        "Death_B",
+        "Death_B_Pose",
+        "Death_C_Pose",
+        "Death_C_Skeletons",
+        "Death_C_Skeletons_Resurrect",
+        "Dualwield_Melee_Attack_Chop",
+        "Dualwield_Melee_Attack_Slice",
+        "Dualwield_Melee_Attack_Stab",
+        "Hit_A",
+        "Hit_B",
+        "T-Pose",
+        "Unarmed_Melee_Attack_Kick",
+        "Unarmed_Melee_Attack_Punch_A",
+        "Unarmed_Melee_Attack_Punch_B"
+      ]
+    }
+  },
+  "kaykit/Biped/skeleton-warrior": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb",
+        "sha256": "178b6fda810b814c250d8a2010c24dfd9b458b9006dd323353e620b7ff118bbe"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 5934,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": [
+        "1H_Melee_Attack_Chop",
+        "1H_Melee_Attack_Jump_Chop",
+        "1H_Melee_Attack_Slice_Diagonal",
+        "1H_Melee_Attack_Slice_Horizontal",
+        "1H_Melee_Attack_Stab",
+        "1H_Ranged_Aiming",
+        "1H_Ranged_Reload",
+        "1H_Ranged_Shoot",
+        "1H_Ranged_Shooting",
+        "2H_Melee_Attack_Chop",
+        "2H_Melee_Attack_Slice",
+        "2H_Melee_Attack_Spin",
+        "2H_Melee_Attack_Spinning",
+        "2H_Melee_Attack_Stab",
+        "2H_Melee_Idle",
+        "2H_Ranged_Aiming",
+        "2H_Ranged_Reload",
+        "2H_Ranged_Shoot",
+        "2H_Ranged_Shooting",
+        "Block",
+        "Block_Attack",
+        "Block_Hit",
+        "Blocking",
+        "Death_A",
+        "Death_A_Pose",
+        "Death_B",
+        "Death_B_Pose",
+        "Death_C_Pose",
+        "Death_C_Skeletons",
+        "Death_C_Skeletons_Resurrect",
+        "Dualwield_Melee_Attack_Chop",
+        "Dualwield_Melee_Attack_Slice",
+        "Dualwield_Melee_Attack_Stab",
+        "Hit_A",
+        "Hit_B",
+        "T-Pose",
+        "Unarmed_Melee_Attack_Kick",
+        "Unarmed_Melee_Attack_Punch_A",
+        "Unarmed_Melee_Attack_Punch_B"
+      ]
+    }
+  },
+  "kaykit/Prop/mug": {
+    "source": "kaykit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Assets/gltf/mug_full.gltf",
+        "sha256": "354aa166f25c2e2f88b309129fb5638f98f852358f638293865c7b8767516fda"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Assets/gltf/mug_full.bin",
+        "sha256": "b79442e95a5f2d02aec88fca5ea16574e5a5210daf1bc6e294a39a4c7d1aeecb"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Assets/gltf/barbarian_texture.png",
+        "sha256": "7329b2ff9709e8d54c886d5ef49c08bd42b12be3bbb2facb1488a6b48b1e8a80"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": null,
+    "triangles": 426,
+    "textureMaxPx": 1024,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/astronaut": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/T0c0z_XEPQHy3vyXz31XB22s_6JTqHdnau8exq_I8tI",
+        "sha256": "1cb8218610deafc0fd4608507fc52cf3303de84b0f641b9a452efb5e8a0e6f23"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 4350,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/david": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/H3cBhsOEoiQ8XZiwG31SyCUtiDewBZRccxIDztyHfSY",
+        "sha256": "7942ce4c0c6880bfb9596cb24f8941f158ed9e6d2ad253fb5f3b32b84c20557c"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 4156,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/dino-kid": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/T1gkB95XKXAZl_VmU1ozg5Txm--o9nY0Nge3s8zNoBs",
+        "sha256": "ec7770601b1e060e5710e5e7bfb3c597d395fffc90e3c60ef32fcd60f85afc48"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 4576,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/erika": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/GZkfa0SNnrBWluRL_pXpakg7T3K3d4l87__wR4mD3UM",
+        "sha256": "ac2030d23c791065e5cd596e251257269bc55b8c76b29a6ebf183bcfe8c7c1f7"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 4032,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/kyle": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/0E5wEEVl5VGCcuGVQylq3dpC3TClLR3JhuhEyhYh7NQ",
+        "sha256": "ada231a97a93df38f5337edc10be6ce646a93da86fecdf241ad4a85583e54ff0"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 5144,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/olivia": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/MgsNlTetzAoVEC6E-lswj65vp7StkOZXXd5OjjqzYZI",
+        "sha256": "d2597a8e0f6fbfc6c1e77886b737cea9cd9d2640474dc5cb5eafc847376a2473"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 3888,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/polybot": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/DUR8v-IugXppdMBxPdE1rDO2dZCJJ7ZgBTXSRgPJFNo",
+        "sha256": "e255bace0d7de8b5fc90756efc83e167080e6db97692f23623fec5f1c67c423d"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 2130,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/robert": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/gwG7w4bY-A5c3R6A6GOz3xBCgbPvkFQmqPIDtvnNsYI",
+        "sha256": "5e3edaf330577ee4c3f6440b8989af3722e7c800bb90eb037f1c05cdfe61fd7c"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 4732,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/rose": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/Ea1KXujzJatQgCFSMzGOzp_UtHqB1pyia--U3AtkMAY",
+        "sha256": "8e44e5638ffdf935e5d6fa990aa6cba428269f342f2db024c2961ee286a41e5f"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 5622,
+    "textureMaxPx": 2048,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "osa/Biped/teddy": {
+    "source": "open-source-avatars",
+    "fetched": [
+      {
+        "url": "https://arweave.net/KbaYR3YmtjweLgEcJAWekeh3MNAlF9ZWOYJkbNfi8MM",
+        "sha256": "68e0f644a8d6d250b741337b25dff188ed45a425b9658d6f42106931157e9bc8"
+      }
+    ],
+    "retrieved": "2026-10-25",
+    "vrm": "0",
+    "triangles": 3068,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  }
+}
