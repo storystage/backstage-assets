@@ -1,5 +1,32 @@
 {
   "source": "kaykit",
+  "exclude": {
+    "nodes": [
+      "*Sword*",
+      "*Shield*",
+      "*Crossbow*",
+      "Knife*",
+      "Throwable",
+      "*Axe*",
+      "*Wand*",
+      "*Staff*",
+      "Spellbook*",
+      "*Blade*",
+      "*Arrow*",
+      "Quiver"
+    ],
+    "animations": [
+      "*Melee*",
+      "*Ranged*",
+      "*Attack*",
+      "Hit_*",
+      "Death_*",
+      "Block*",
+      "2H_*",
+      "Dualwield_*",
+      "T-Pose"
+    ]
+  },
   "items": [
     {
       "id": "kaykit/Biped/barbarian",
