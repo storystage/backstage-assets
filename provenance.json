@@ -567,6 +567,576 @@
       "animations": []
     }
   },
+  "makehuman/Biped/p01": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p01.glb",
+        "sha256": "b2661047d0471b98064cfc7050e647d61ff7a7e36edb68c78cd900ebfa33b8c4"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 47136,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p02": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p02.glb",
+        "sha256": "9dc1197325f5415217323f757694ac8c0ab577d61484f9c336f6bee016c1d67a"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 37980,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p03": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p03.glb",
+        "sha256": "46862fdad740577a6433cf58b4cc81f5ce99b8c7b92aad80f4d44c41183fac43"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 38774,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p04": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p04.glb",
+        "sha256": "34ecfb44c7672ceed8f13aa2dd0a188982adebeeea20dc08d9cabe4ce3f14406"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 37754,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p05": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p05.glb",
+        "sha256": "731ff1f34e54862d5a8ac19e3e6b09217c78caffae846e3b6529348df762a5d4"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 35914,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p06": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p06.glb",
+        "sha256": "30c678e54d5a47c93508440ef04627154d37a5af0d8ba030fff86bfbc8bad0c9"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 41140,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p07": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p07.glb",
+        "sha256": "7651683d552b84b6095366f8131abf49b098b93c148461fe03da8638d362c392"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 34226,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p08": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p08.glb",
+        "sha256": "77b79d4e2db8af743807201395ac92d52bb421cf733ce3ce0c7f30bbd10a2ceb"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 44262,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p09": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p09.glb",
+        "sha256": "b3b540cd75f3ac68f56ffc0a5e1f2de1dea45dd22469db2e8c348b1550fb6373"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 37918,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p10": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p10.glb",
+        "sha256": "81baa34dfd1602e9f44ee945a879cfa7d0d90164a7a54ff6c209994970b604f4"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 36344,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p11": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p11.glb",
+        "sha256": "5ce521598e4fa42998973c65bd5aa90ef7c12153e670e0659b922b74bb04c1eb"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 37966,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p12": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p12.glb",
+        "sha256": "6c96f1d5bfcb37fd0be88093894a96f60fbbec6775436c40c226d4309dcb831d"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 37284,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p13": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p13.glb",
+        "sha256": "97ddefc4ba7d002573b6de5614206534fe01b422d767fe108564a16d90ac302f"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 44586,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p14": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p14.glb",
+        "sha256": "881496acbc95c0352031e74abf3fa4675195b5582856cfe3f463b5e99b54df1e"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 41140,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p15": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p15.glb",
+        "sha256": "26263cedf938759d285a7f19488f10888b31c03d792550c65079dfacbb9b1d76"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 37584,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p16": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p16.glb",
+        "sha256": "5b045972acecd32c7d81e800fde42ee0736bd95d37b72f2390a058ea5c692df1"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 33286,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p17": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p17.glb",
+        "sha256": "23f29383c49a6f53acf4b6d558b4fbed5debd477c4673ffff24d48554dab86aa"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 34966,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p18": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p18.glb",
+        "sha256": "6c57cab33f813dc25c4b9d4df7b20e72bd94b53fc6f931870c4b247131c26333"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 39526,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p19": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p19.glb",
+        "sha256": "c44457198cbb48d8130349136a3e62af701e8a22c8f4cf363da19d2392a407d1"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 45734,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p20": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p20.glb",
+        "sha256": "933a14256863e5cabe388545b56f7d66050099641b333265a8e94a1d4cdf7428"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 40454,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p21": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p21.glb",
+        "sha256": "cafa5d84a3de0510f05e1776d4cd9b606b288f0dab7e7f8bac951306a6ee13b2"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 33902,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p22": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p22.glb",
+        "sha256": "8f80f8d384de3d7e530ed908f5a9fd11a1e9c3e6e8b174207f05513c12c64ea0"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 33432,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p23": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p23.glb",
+        "sha256": "928d8c1c02ef3e6e78eea8b4c6c1e9dced34cdedb262220d25d9333d8aff0ed2"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 38292,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p24": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p24.glb",
+        "sha256": "872fffab69437ef8096679afd75130b8ca3da46902e4c8539a5e8a17349897ee"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 37094,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p25": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p25.glb",
+        "sha256": "4ee42ce404644cb0bd58642b93176d11f2bea11f14173b038b30f2aecd3aaea3"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 35022,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p26": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p26.glb",
+        "sha256": "d178a2ad460320c044f38bf269dd55eebc3a7dbdc7bd78049cd87742b51cd250"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 35022,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p27": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p27.glb",
+        "sha256": "c5b29632db560cc94180d736f5d18335f72111ea217c64086a95a4863d1fad03"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 44108,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p28": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p28.glb",
+        "sha256": "43eccdaba8f46914245e8ac317219830fbdb880c3388c61282890d7471b219f5"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 41248,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p29": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p29.glb",
+        "sha256": "da9b557491834f3cf1a04da8b5929a5f7dd754ef9921eaa86074bc74b0bb0a9c"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 35580,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p30": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p30.glb",
+        "sha256": "d8af361aaafd5a071cc68a9bdfb6b372163c10cd79b0b02bcbc043b8c808468e"
+      }
+    ],
+    "retrieved": "2026-11-01",
+    "vrm": null,
+    "triangles": 35022,
+    "textureMaxPx": 1024,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
   "osa/Biped/astronaut": {
     "source": "open-source-avatars",
     "fetched": [

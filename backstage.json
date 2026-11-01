@@ -1144,6 +1144,4686 @@
       ]
     },
     {
+      "id": "makehuman/Biped/p01",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Alfie",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p01.glb",
+        "thumbnail": "sketches/makehuman/Biped/p01/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1
+      },
+      "licence": "CC0-1.0",
+      "credit": "Alfie, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p01/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p01/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p01/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p01/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p01/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p01/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p01/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p01/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p01/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p01/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p01/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p01/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p01/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p01/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p01/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p01/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p02",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Amara",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p02.glb",
+        "thumbnail": "sketches/makehuman/Biped/p02/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.07
+      },
+      "licence": "CC0-1.0",
+      "credit": "Amara, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p02/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p02/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p02/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p02/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p02/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p02/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p02/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p02/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p02/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p02/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p02/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p02/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p02/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p02/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p02/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p02/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p03",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Kai",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p03.glb",
+        "thumbnail": "sketches/makehuman/Biped/p03/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.1
+      },
+      "licence": "CC0-1.0",
+      "credit": "Kai, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p03/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p03/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p03/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p03/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p03/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p03/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p03/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p03/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p03/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p03/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p03/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p03/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p03/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p03/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p03/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p03/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p04",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Aisha",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p04.glb",
+        "thumbnail": "sketches/makehuman/Biped/p04/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.16
+      },
+      "licence": "CC0-1.0",
+      "credit": "Aisha, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p04/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p04/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p04/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p04/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p04/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p04/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p04/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p04/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p04/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p04/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p04/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p04/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p04/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p04/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p04/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p04/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p05",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Rhys",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p05.glb",
+        "thumbnail": "sketches/makehuman/Biped/p05/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.27
+      },
+      "licence": "CC0-1.0",
+      "credit": "Rhys, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p05/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p05/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p05/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p05/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p05/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p05/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p05/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p05/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p05/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p05/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p05/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p05/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p05/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p05/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p05/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p05/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p06",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Niamh",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p06.glb",
+        "thumbnail": "sketches/makehuman/Biped/p06/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.53
+      },
+      "licence": "CC0-1.0",
+      "credit": "Niamh, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p06/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p06/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p06/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p06/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p06/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p06/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p06/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p06/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p06/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p06/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p06/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p06/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p06/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p06/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p06/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p06/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p07",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Zain",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p07.glb",
+        "thumbnail": "sketches/makehuman/Biped/p07/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.44
+      },
+      "licence": "CC0-1.0",
+      "credit": "Zain, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p07/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p07/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p07/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p07/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p07/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p07/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p07/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p07/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p07/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p07/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p07/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p07/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p07/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p07/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p07/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p07/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p08",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Mei",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p08.glb",
+        "thumbnail": "sketches/makehuman/Biped/p08/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 0.92
+      },
+      "licence": "CC0-1.0",
+      "credit": "Mei, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p08/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p08/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p08/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p08/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p08/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p08/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p08/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p08/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p08/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p08/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p08/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p08/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p08/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p08/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p08/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p08/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p09",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Kofi",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p09.glb",
+        "thumbnail": "sketches/makehuman/Biped/p09/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.44
+      },
+      "licence": "CC0-1.0",
+      "credit": "Kofi, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p09/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p09/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p09/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p09/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p09/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p09/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p09/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p09/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p09/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p09/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p09/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p09/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p09/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p09/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p09/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p09/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p10",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Isla",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p10.glb",
+        "thumbnail": "sketches/makehuman/Biped/p10/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.17
+      },
+      "licence": "CC0-1.0",
+      "credit": "Isla, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p10/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p10/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p10/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p10/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p10/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p10/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p10/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p10/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p10/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p10/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p10/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p10/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p10/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p10/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p10/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p10/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p11",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Jayden",
+      "themes": [
+        "everyday",
+        "teenagers"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p11.glb",
+        "thumbnail": "sketches/makehuman/Biped/p11/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.68
+      },
+      "licence": "CC0-1.0",
+      "credit": "Jayden, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p11/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p11/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p11/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p11/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p11/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p11/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p11/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p11/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p11/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p11/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p11/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p11/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p11/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p11/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p11/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p11/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p12",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Priya",
+      "themes": [
+        "everyday",
+        "teenagers"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p12.glb",
+        "thumbnail": "sketches/makehuman/Biped/p12/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.36
+      },
+      "licence": "CC0-1.0",
+      "credit": "Priya, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p12/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p12/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p12/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p12/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p12/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p12/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p12/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p12/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p12/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p12/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p12/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p12/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p12/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p12/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p12/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p12/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p13",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Oskar",
+      "themes": [
+        "everyday",
+        "teenagers"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p13.glb",
+        "thumbnail": "sketches/makehuman/Biped/p13/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.4
+      },
+      "licence": "CC0-1.0",
+      "credit": "Oskar, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p13/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p13/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p13/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p13/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p13/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p13/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p13/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p13/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p13/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p13/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p13/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p13/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p13/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p13/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p13/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p13/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p14",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Leah",
+      "themes": [
+        "everyday",
+        "teenagers"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p14.glb",
+        "thumbnail": "sketches/makehuman/Biped/p14/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.44
+      },
+      "licence": "CC0-1.0",
+      "credit": "Leah, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p14/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p14/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p14/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p14/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p14/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p14/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p14/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p14/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p14/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p14/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p14/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p14/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p14/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p14/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p14/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p14/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p15",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Hamza",
+      "themes": [
+        "everyday",
+        "teenagers"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p15.glb",
+        "thumbnail": "sketches/makehuman/Biped/p15/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.6
+      },
+      "licence": "CC0-1.0",
+      "credit": "Hamza, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p15/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p15/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p15/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p15/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p15/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p15/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p15/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p15/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p15/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p15/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p15/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p15/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p15/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p15/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p15/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p15/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p16",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Sam",
+      "themes": [
+        "everyday",
+        "teenagers"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p16.glb",
+        "thumbnail": "sketches/makehuman/Biped/p16/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.41
+      },
+      "licence": "CC0-1.0",
+      "credit": "Sam, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p16/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p16/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p16/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p16/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p16/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p16/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p16/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p16/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p16/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p16/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p16/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p16/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p16/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p16/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p16/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p16/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p17",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Grace",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p17.glb",
+        "thumbnail": "sketches/makehuman/Biped/p17/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.79
+      },
+      "licence": "CC0-1.0",
+      "credit": "Grace, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p17/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p17/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p17/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p17/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p17/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p17/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p17/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p17/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p17/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p17/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p17/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p17/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p17/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p17/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p17/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p17/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p18",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Tom",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p18.glb",
+        "thumbnail": "sketches/makehuman/Biped/p18/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 2.1
+      },
+      "licence": "CC0-1.0",
+      "credit": "Tom, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p18/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p18/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p18/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p18/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p18/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p18/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p18/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p18/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p18/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p18/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p18/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p18/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p18/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p18/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p18/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p18/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p19",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Yusuf",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p19.glb",
+        "thumbnail": "sketches/makehuman/Biped/p19/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.7
+      },
+      "licence": "CC0-1.0",
+      "credit": "Yusuf, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p19/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p19/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p19/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p19/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p19/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p19/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p19/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p19/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p19/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p19/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p19/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p19/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p19/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p19/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p19/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p19/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p20",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Hannah",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p20.glb",
+        "thumbnail": "sketches/makehuman/Biped/p20/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.64
+      },
+      "licence": "CC0-1.0",
+      "credit": "Hannah, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p20/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p20/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p20/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p20/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p20/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p20/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p20/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p20/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p20/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p20/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p20/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p20/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p20/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p20/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p20/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p20/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p21",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Chen",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p21.glb",
+        "thumbnail": "sketches/makehuman/Biped/p21/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.6
+      },
+      "licence": "CC0-1.0",
+      "credit": "Chen, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p21/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p21/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p21/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p21/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p21/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p21/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p21/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p21/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p21/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p21/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p21/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p21/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p21/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p21/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p21/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p21/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p22",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Tunde",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p22.glb",
+        "thumbnail": "sketches/makehuman/Biped/p22/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.89
+      },
+      "licence": "CC0-1.0",
+      "credit": "Tunde, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p22/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p22/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p22/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p22/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p22/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p22/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p22/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p22/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p22/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p22/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p22/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p22/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p22/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p22/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p22/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p22/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p23",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Fatima",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p23.glb",
+        "thumbnail": "sketches/makehuman/Biped/p23/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.58
+      },
+      "licence": "CC0-1.0",
+      "credit": "Fatima, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p23/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p23/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p23/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p23/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p23/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p23/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p23/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p23/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p23/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p23/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p23/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p23/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p23/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p23/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p23/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p23/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p24",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Morgan",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p24.glb",
+        "thumbnail": "sketches/makehuman/Biped/p24/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.76
+      },
+      "licence": "CC0-1.0",
+      "credit": "Morgan, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p24/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p24/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p24/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p24/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p24/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p24/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p24/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p24/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p24/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p24/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p24/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p24/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p24/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p24/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p24/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p24/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p25",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Siân",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p25.glb",
+        "thumbnail": "sketches/makehuman/Biped/p25/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.59
+      },
+      "licence": "CC0-1.0",
+      "credit": "Siân, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p25/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p25/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p25/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p25/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p25/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p25/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p25/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p25/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p25/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p25/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p25/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p25/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p25/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p25/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p25/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p25/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p26",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Margaret",
+      "themes": [
+        "everyday",
+        "older people"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p26.glb",
+        "thumbnail": "sketches/makehuman/Biped/p26/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.58
+      },
+      "licence": "CC0-1.0",
+      "credit": "Margaret, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p26/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p26/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p26/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p26/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p26/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p26/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p26/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p26/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p26/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p26/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p26/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p26/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p26/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p26/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p26/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p26/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p27",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Winston",
+      "themes": [
+        "everyday",
+        "older people"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p27.glb",
+        "thumbnail": "sketches/makehuman/Biped/p27/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.86
+      },
+      "licence": "CC0-1.0",
+      "credit": "Winston, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p27/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p27/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p27/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p27/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p27/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p27/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p27/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p27/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p27/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p27/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p27/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p27/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p27/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p27/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p27/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p27/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p28",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Lin",
+      "themes": [
+        "everyday",
+        "older people"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p28.glb",
+        "thumbnail": "sketches/makehuman/Biped/p28/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.44
+      },
+      "licence": "CC0-1.0",
+      "credit": "Lin, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p28/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p28/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p28/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p28/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p28/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p28/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p28/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p28/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p28/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p28/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p28/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p28/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p28/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p28/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p28/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p28/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p29",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Ravi",
+      "themes": [
+        "everyday",
+        "older people"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p29.glb",
+        "thumbnail": "sketches/makehuman/Biped/p29/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.68
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ravi, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p29/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p29/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p29/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p29/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p29/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p29/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p29/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p29/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p29/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p29/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p29/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p29/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p29/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p29/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p29/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p29/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "makehuman/Biped/p30",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Eileen",
+      "themes": [
+        "everyday",
+        "older people"
+      ],
+      "files": {
+        "model": "models/makehuman/Biped/p30.glb",
+        "thumbnail": "sketches/makehuman/Biped/p30/front.svg"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "upperChest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "leftThumbMetacarpal",
+        "leftThumbProximal",
+        "leftThumbDistal",
+        "leftIndexProximal",
+        "leftIndexIntermediate",
+        "leftIndexDistal",
+        "leftMiddleProximal",
+        "leftMiddleIntermediate",
+        "leftMiddleDistal",
+        "leftRingProximal",
+        "leftRingIntermediate",
+        "leftRingDistal",
+        "leftLittleProximal",
+        "leftLittleIntermediate",
+        "leftLittleDistal",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "rightThumbMetacarpal",
+        "rightThumbProximal",
+        "rightThumbDistal",
+        "rightIndexProximal",
+        "rightIndexIntermediate",
+        "rightIndexDistal",
+        "rightMiddleProximal",
+        "rightMiddleIntermediate",
+        "rightMiddleDistal",
+        "rightRingProximal",
+        "rightRingIntermediate",
+        "rightRingDistal",
+        "rightLittleProximal",
+        "rightLittleIntermediate",
+        "rightLittleDistal",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "leftToes",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot",
+        "rightToes"
+      ],
+      "defaultSize": {
+        "height": 1.5
+      },
+      "licence": "CC0-1.0",
+      "credit": "Eileen, made with MakeHuman (CC0)",
+      "source": {
+        "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+        "retrieved": "2026-11-01"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/makehuman/Biped/p30/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/makehuman/Biped/p30/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/makehuman/Biped/p30/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/makehuman/Biped/p30/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p30/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p30/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p30/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/makehuman/Biped/p30/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p30/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p30/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p30/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/makehuman/Biped/p30/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p30/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p30/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p30/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/makehuman/Biped/p30/back-sit.svg"
+        }
+      ]
+    },
+    {
       "id": "osa/Biped/astronaut",
       "section": "cast",
       "class": "Biped",
