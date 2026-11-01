@@ -1,0 +1,93 @@
+# Makes the everyday people (WP3.5) with MPFB2 in Blender, headless, from people.json in
+# storystage/storystage2, then adds them to Backstage with the same tools as every other source.
+# Blender and MPFB2 are GPL build tools, never shipped; MakeHuman's system assets are CC0.
+name: Build MakeHuman people
+
+on:
+  workflow_dispatch:
+    inputs:
+      tools_ref:
+        description: storystage2 branch or commit whose tools to use
+        required: true
+        default: main
+      only:
+        description: Only these people, for a trial (for example p01,p26). Empty means everyone.
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  BLENDER_SERIES: '4.5'
+  BLENDER_VERSION: 4.5.14
+  MPFB_TAG: v2.0.18
+  ASSET_PACK: https://files2.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: assets
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: storystage/storystage2
+          ref: ${{ inputs.tools_ref }}
+          path: storystage2
+          persist-credentials: false
+      - uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+        with:
+          package_json_file: storystage2/package.json
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: storystage2/.nvmrc
+      - name: Install the tools
+        working-directory: storystage2
+        run: pnpm install --frozen-lockfile
+      - name: Install Blender, MPFB2 and the CC0 assets
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -yq libxi6 libxxf86vm1 libxfixes3 libxrender1 libgl1 libsm6 libxkbcommon0 libegl1
+          mkdir -p "$RUNNER_TEMP/mh"
+          cd "$RUNNER_TEMP/mh"
+          curl -fsSL "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz" | tar -xJ
+          echo "BLENDER=$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" >> "$GITHUB_ENV"
+          curl -fsSL "https://github.com/makehumancommunity/mpfb2/archive/refs/tags/${MPFB_TAG}.tar.gz" | tar -xz
+          (cd mpfb2-*/src && zip -qr "$RUNNER_TEMP/mh/mpfb.zip" mpfb)
+          curl -fsSL -o assets.zip "$ASSET_PACK"
+          sha256sum assets.zip mpfb.zip
+          "$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" --command extension install-file -r user_default -e mpfb.zip
+      - name: Write the people for Blender
+        working-directory: storystage2
+        env:
+          ONLY: ${{ inputs.only }}
+        run: node tools/makehuman-export/src/export-cli.ts ../assets ${ONLY:+--only "$ONLY"}
+      - name: Make the people
+        run: |
+          "$BLENDER" -b --python-exit-code 1 --python storystage2/tools/makehuman-export/blender/make_people.py -- \
+            assets/generated/makehuman/people.json "$RUNNER_TEMP/mh/assets.zip" \
+            assets/generated/makehuman assets/previews/makehuman
+          cat assets/generated/makehuman/make-report.json
+      - name: Add them to Backstage
+        working-directory: storystage2
+        run: node tools/backstage-sources/src/cli.ts ../assets --only makehuman
+      - name: Push a branch for review
+        working-directory: assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TOOLS_REF: ${{ inputs.tools_ref }}
+        run: |
+          cp generated/makehuman/make-report.json previews/makehuman/make-report.json
+          rm -rf generated
+          branch="people/${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add -A
+          git commit -m "Build the MakeHuman people (tools: storystage2 ${TOOLS_REF})"
+          git push origin "$branch"
+          echo "Pushed $branch"
