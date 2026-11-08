@@ -7,10 +7,15 @@
         "sha256": "cefc311a0e10c7858b6141f5ada7e33268727564fb8ac1347aab97d000669cc6"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 5203,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 5203,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -67,10 +72,15 @@
         "sha256": "60428e3abc09ba83e595d256e3af8c5c976b46cdae599f0802fc82b4a3445168"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 4712,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4712,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -130,10 +140,15 @@
         "sha256": "cf898585da33fab50c724d31605fb931eb2912e6d2280092141e98ca81ad507d"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 4509,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4509,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -190,10 +205,15 @@
         "sha256": "e825437cd4d2ee9c1960b517a74a69101e33eb409ae7fa8cedc7134a998fbb7d"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 4347,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4347,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -251,10 +271,15 @@
         "sha256": "93e6e25213009952276d9cf34f5d96a243767334c66f280db0433ddfabb91545"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 4005,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4005,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -312,10 +337,15 @@
         "sha256": "e05b0f5cfa395271c9f75fd07c0a0613c56f401ece4ab644e080001a79971075"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 4588,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4588,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -371,10 +401,15 @@
         "sha256": "6ffc003f895bed0b074791e0e490846210a2e2f8fc7da300aba53cc185f95968"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 5288,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 5288,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -430,10 +465,15 @@
         "sha256": "4003f2b77891bb56f7e0de7d555abcb497aebbcaee35b614211f16275f9ccae3"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 5278,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 5278,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -489,10 +529,15 @@
         "sha256": "178b6fda810b814c250d8a2010c24dfd9b458b9006dd323353e620b7ff118bbe"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 5934,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 5934,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -556,10 +601,15 @@
         "sha256": "7329b2ff9709e8d54c886d5ef49c08bd42b12be3bbb2facb1488a6b48b1e8a80"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": null,
     "triangles": 426,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 426,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "none",
     "missingJoints": [],
     "excluded": {
@@ -577,8 +627,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 47136,
+    "triangles": 19993,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 47136,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -596,8 +651,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 37980,
+    "triangles": 19992,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 37980,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -615,8 +675,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 38774,
+    "triangles": 19989,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 38774,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -634,8 +699,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 37754,
+    "triangles": 19988,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 37754,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -653,8 +723,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 35914,
+    "triangles": 19990,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 35914,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -672,8 +747,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 41140,
+    "triangles": 19989,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 41140,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -691,8 +771,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 34226,
+    "triangles": 19990,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 34226,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -710,8 +795,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 44262,
+    "triangles": 19989,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 44262,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -729,8 +819,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 37918,
+    "triangles": 19989,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 37918,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -748,8 +843,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 36344,
+    "triangles": 19991,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 36344,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -767,8 +867,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 37966,
+    "triangles": 19987,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 37966,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -786,8 +891,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 37284,
+    "triangles": 19989,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 37284,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -805,8 +915,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 44586,
+    "triangles": 19991,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 44586,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -824,8 +939,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 41140,
+    "triangles": 19990,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 41140,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -843,8 +963,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 37584,
+    "triangles": 19988,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 37584,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -862,8 +987,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 33286,
+    "triangles": 19991,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 33286,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -881,8 +1011,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 34966,
+    "triangles": 19991,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 34966,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -900,8 +1035,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 39526,
+    "triangles": 19988,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 39526,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -919,8 +1059,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 45734,
+    "triangles": 19989,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 45734,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -938,8 +1083,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 40454,
+    "triangles": 19986,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 40454,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -957,8 +1107,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 33902,
+    "triangles": 19989,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 33902,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -976,8 +1131,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 33432,
+    "triangles": 19990,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 33432,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -995,8 +1155,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 38292,
+    "triangles": 19991,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 38292,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1014,8 +1179,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 37094,
+    "triangles": 19991,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 37094,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1033,8 +1203,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 35022,
+    "triangles": 19992,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 35022,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1052,8 +1227,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 35022,
+    "triangles": 19991,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 35022,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1071,8 +1251,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 44108,
+    "triangles": 19992,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 44108,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1090,8 +1275,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 41248,
+    "triangles": 19987,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 41248,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1109,8 +1299,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 35580,
+    "triangles": 19987,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 35580,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1128,8 +1323,13 @@
     ],
     "retrieved": "2026-11-01",
     "vrm": null,
-    "triangles": 35022,
+    "triangles": 19990,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 35022,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1145,10 +1345,15 @@
         "sha256": "1cb8218610deafc0fd4608507fc52cf3303de84b0f641b9a452efb5e8a0e6f23"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 4350,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4350,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1164,10 +1369,15 @@
         "sha256": "7942ce4c0c6880bfb9596cb24f8941f158ed9e6d2ad253fb5f3b32b84c20557c"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 4156,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4156,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1183,10 +1393,15 @@
         "sha256": "ec7770601b1e060e5710e5e7bfb3c597d395fffc90e3c60ef32fcd60f85afc48"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 4576,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4576,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1202,10 +1417,15 @@
         "sha256": "ac2030d23c791065e5cd596e251257269bc55b8c76b29a6ebf183bcfe8c7c1f7"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 4032,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4032,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1221,10 +1441,15 @@
         "sha256": "ada231a97a93df38f5337edc10be6ce646a93da86fecdf241ad4a85583e54ff0"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 5144,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 5144,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1240,10 +1465,15 @@
         "sha256": "d2597a8e0f6fbfc6c1e77886b737cea9cd9d2640474dc5cb5eafc847376a2473"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 3888,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 3888,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1259,10 +1489,15 @@
         "sha256": "e255bace0d7de8b5fc90756efc83e167080e6db97692f23623fec5f1c67c423d"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 2130,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2130,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1278,10 +1513,15 @@
         "sha256": "5e3edaf330577ee4c3f6440b8989af3722e7c800bb90eb037f1c05cdfe61fd7c"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 4732,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4732,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1297,10 +1537,15 @@
         "sha256": "8e44e5638ffdf935e5d6fa990aa6cba428269f342f2db024c2961ee286a41e5f"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 5622,
     "textureMaxPx": 2048,
+    "fetchedSize": {
+      "triangles": 5622,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": false,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {
@@ -1316,10 +1561,15 @@
         "sha256": "68e0f644a8d6d250b741337b25dff188ed45a425b9658d6f42106931157e9bc8"
       }
     ],
-    "retrieved": "2026-10-25",
+    "retrieved": "2026-11-07",
     "vrm": "0",
     "triangles": 3068,
     "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 3068,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
     "skeleton": "mapped",
     "missingJoints": [],
     "excluded": {

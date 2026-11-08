@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "1.0.0",
+  "manifestVersion": "2.0.0",
   "items": [
     {
       "id": "kaykit/Biped/barbarian",
@@ -37,11 +37,15 @@
       "defaultSize": {
         "height": 2.4
       },
+      "budget": {
+        "triangles": 5203,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Barbarian by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -160,11 +164,15 @@
       "defaultSize": {
         "height": 2.47
       },
+      "budget": {
+        "triangles": 4712,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Knight by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -282,11 +290,15 @@
       "defaultSize": {
         "height": 2.72
       },
+      "budget": {
+        "triangles": 4509,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Mage by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -404,11 +416,15 @@
       "defaultSize": {
         "height": 2.19
       },
+      "budget": {
+        "triangles": 4347,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Rogue by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -526,11 +542,15 @@
       "defaultSize": {
         "height": 2.25
       },
+      "budget": {
+        "triangles": 4005,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Hooded rogue by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -648,11 +668,15 @@
       "defaultSize": {
         "height": 2.63
       },
+      "budget": {
+        "triangles": 4588,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Skeleton mage by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Mage.glb",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -770,11 +794,15 @@
       "defaultSize": {
         "height": 2.17
       },
+      "budget": {
+        "triangles": 5288,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Skeleton minion by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -892,11 +920,15 @@
       "defaultSize": {
         "height": 2.31
       },
+      "budget": {
+        "triangles": 5278,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Skeleton rogue by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Rogue.glb",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -1014,11 +1046,15 @@
       "defaultSize": {
         "height": 2.59
       },
+      "budget": {
+        "triangles": 5934,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Skeleton warrior by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -1117,11 +1153,15 @@
       "defaultSize": {
         "height": 0.55
       },
+      "budget": {
+        "triangles": 426,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Mug by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Assets/gltf/mug_full.gltf",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -1212,6 +1252,10 @@
       ],
       "defaultSize": {
         "height": 1
+      },
+      "budget": {
+        "triangles": 19993,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Alfie, made with MakeHuman (CC0)",
@@ -1369,6 +1413,10 @@
       "defaultSize": {
         "height": 1.07
       },
+      "budget": {
+        "triangles": 19992,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Amara, made with MakeHuman (CC0)",
       "source": {
@@ -1524,6 +1572,10 @@
       ],
       "defaultSize": {
         "height": 1.1
+      },
+      "budget": {
+        "triangles": 19989,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Kai, made with MakeHuman (CC0)",
@@ -1681,6 +1733,10 @@
       "defaultSize": {
         "height": 1.16
       },
+      "budget": {
+        "triangles": 19988,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Aisha, made with MakeHuman (CC0)",
       "source": {
@@ -1836,6 +1892,10 @@
       ],
       "defaultSize": {
         "height": 1.27
+      },
+      "budget": {
+        "triangles": 19990,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Rhys, made with MakeHuman (CC0)",
@@ -1993,6 +2053,10 @@
       "defaultSize": {
         "height": 1.53
       },
+      "budget": {
+        "triangles": 19989,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Niamh, made with MakeHuman (CC0)",
       "source": {
@@ -2148,6 +2212,10 @@
       ],
       "defaultSize": {
         "height": 1.44
+      },
+      "budget": {
+        "triangles": 19990,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Zain, made with MakeHuman (CC0)",
@@ -2305,6 +2373,10 @@
       "defaultSize": {
         "height": 0.92
       },
+      "budget": {
+        "triangles": 19989,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Mei, made with MakeHuman (CC0)",
       "source": {
@@ -2460,6 +2532,10 @@
       ],
       "defaultSize": {
         "height": 1.44
+      },
+      "budget": {
+        "triangles": 19989,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Kofi, made with MakeHuman (CC0)",
@@ -2617,6 +2693,10 @@
       "defaultSize": {
         "height": 1.17
       },
+      "budget": {
+        "triangles": 19991,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Isla, made with MakeHuman (CC0)",
       "source": {
@@ -2772,6 +2852,10 @@
       ],
       "defaultSize": {
         "height": 1.68
+      },
+      "budget": {
+        "triangles": 19987,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Jayden, made with MakeHuman (CC0)",
@@ -2929,6 +3013,10 @@
       "defaultSize": {
         "height": 1.36
       },
+      "budget": {
+        "triangles": 19989,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Priya, made with MakeHuman (CC0)",
       "source": {
@@ -3084,6 +3172,10 @@
       ],
       "defaultSize": {
         "height": 1.4
+      },
+      "budget": {
+        "triangles": 19991,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Oskar, made with MakeHuman (CC0)",
@@ -3241,6 +3333,10 @@
       "defaultSize": {
         "height": 1.44
       },
+      "budget": {
+        "triangles": 19990,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Leah, made with MakeHuman (CC0)",
       "source": {
@@ -3396,6 +3492,10 @@
       ],
       "defaultSize": {
         "height": 1.6
+      },
+      "budget": {
+        "triangles": 19988,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Hamza, made with MakeHuman (CC0)",
@@ -3553,6 +3653,10 @@
       "defaultSize": {
         "height": 1.41
       },
+      "budget": {
+        "triangles": 19991,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Sam, made with MakeHuman (CC0)",
       "source": {
@@ -3708,6 +3812,10 @@
       ],
       "defaultSize": {
         "height": 1.79
+      },
+      "budget": {
+        "triangles": 19991,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Grace, made with MakeHuman (CC0)",
@@ -3865,6 +3973,10 @@
       "defaultSize": {
         "height": 2.1
       },
+      "budget": {
+        "triangles": 19988,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Tom, made with MakeHuman (CC0)",
       "source": {
@@ -4020,6 +4132,10 @@
       ],
       "defaultSize": {
         "height": 1.7
+      },
+      "budget": {
+        "triangles": 19989,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Yusuf, made with MakeHuman (CC0)",
@@ -4177,6 +4293,10 @@
       "defaultSize": {
         "height": 1.64
       },
+      "budget": {
+        "triangles": 19986,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Hannah, made with MakeHuman (CC0)",
       "source": {
@@ -4332,6 +4452,10 @@
       ],
       "defaultSize": {
         "height": 1.6
+      },
+      "budget": {
+        "triangles": 19989,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Chen, made with MakeHuman (CC0)",
@@ -4489,6 +4613,10 @@
       "defaultSize": {
         "height": 1.89
       },
+      "budget": {
+        "triangles": 19990,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Tunde, made with MakeHuman (CC0)",
       "source": {
@@ -4644,6 +4772,10 @@
       ],
       "defaultSize": {
         "height": 1.58
+      },
+      "budget": {
+        "triangles": 19991,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Fatima, made with MakeHuman (CC0)",
@@ -4801,6 +4933,10 @@
       "defaultSize": {
         "height": 1.76
       },
+      "budget": {
+        "triangles": 19991,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Morgan, made with MakeHuman (CC0)",
       "source": {
@@ -4956,6 +5092,10 @@
       ],
       "defaultSize": {
         "height": 1.59
+      },
+      "budget": {
+        "triangles": 19992,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Siân, made with MakeHuman (CC0)",
@@ -5113,6 +5253,10 @@
       "defaultSize": {
         "height": 1.58
       },
+      "budget": {
+        "triangles": 19991,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Margaret, made with MakeHuman (CC0)",
       "source": {
@@ -5268,6 +5412,10 @@
       ],
       "defaultSize": {
         "height": 1.86
+      },
+      "budget": {
+        "triangles": 19992,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Winston, made with MakeHuman (CC0)",
@@ -5425,6 +5573,10 @@
       "defaultSize": {
         "height": 1.44
       },
+      "budget": {
+        "triangles": 19987,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Lin, made with MakeHuman (CC0)",
       "source": {
@@ -5580,6 +5732,10 @@
       ],
       "defaultSize": {
         "height": 1.68
+      },
+      "budget": {
+        "triangles": 19987,
+        "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Ravi, made with MakeHuman (CC0)",
@@ -5737,6 +5893,10 @@
       "defaultSize": {
         "height": 1.5
       },
+      "budget": {
+        "triangles": 19990,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Eileen, made with MakeHuman (CC0)",
       "source": {
@@ -5836,6 +5996,7 @@
         "model": "models/osa/Biped/astronaut.vrm",
         "thumbnail": "sketches/osa/Biped/astronaut/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -5891,11 +6052,15 @@
       "defaultSize": {
         "height": 1.36
       },
+      "budget": {
+        "triangles": 4350,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Astronaut by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/T0c0z_XEPQHy3vyXz31XB22s_6JTqHdnau8exq_I8tI",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -5989,6 +6154,7 @@
         "model": "models/osa/Biped/david.vrm",
         "thumbnail": "sketches/osa/Biped/david/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -6044,11 +6210,15 @@
       "defaultSize": {
         "height": 1.58
       },
+      "budget": {
+        "triangles": 4156,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "David by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/H3cBhsOEoiQ8XZiwG31SyCUtiDewBZRccxIDztyHfSY",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -6143,6 +6313,7 @@
         "model": "models/osa/Biped/dino-kid.vrm",
         "thumbnail": "sketches/osa/Biped/dino-kid/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -6198,11 +6369,15 @@
       "defaultSize": {
         "height": 1.24
       },
+      "budget": {
+        "triangles": 4576,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Dino kid by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/T1gkB95XKXAZl_VmU1ozg5Txm--o9nY0Nge3s8zNoBs",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -6296,6 +6471,7 @@
         "model": "models/osa/Biped/erika.vrm",
         "thumbnail": "sketches/osa/Biped/erika/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -6351,11 +6527,15 @@
       "defaultSize": {
         "height": 1.66
       },
+      "budget": {
+        "triangles": 4032,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Erika by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/GZkfa0SNnrBWluRL_pXpakg7T3K3d4l87__wR4mD3UM",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -6449,6 +6629,7 @@
         "model": "models/osa/Biped/kyle.vrm",
         "thumbnail": "sketches/osa/Biped/kyle/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -6504,11 +6685,15 @@
       "defaultSize": {
         "height": 1.67
       },
+      "budget": {
+        "triangles": 5144,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Kyle by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/0E5wEEVl5VGCcuGVQylq3dpC3TClLR3JhuhEyhYh7NQ",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -6602,6 +6787,7 @@
         "model": "models/osa/Biped/olivia.vrm",
         "thumbnail": "sketches/osa/Biped/olivia/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -6657,11 +6843,15 @@
       "defaultSize": {
         "height": 1.67
       },
+      "budget": {
+        "triangles": 3888,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Olivia by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/MgsNlTetzAoVEC6E-lswj65vp7StkOZXXd5OjjqzYZI",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -6756,6 +6946,7 @@
         "model": "models/osa/Biped/polybot.vrm",
         "thumbnail": "sketches/osa/Biped/polybot/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -6792,11 +6983,15 @@
       "defaultSize": {
         "height": 1.06
       },
+      "budget": {
+        "triangles": 2130,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Polybot by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/DUR8v-IugXppdMBxPdE1rDO2dZCJJ7ZgBTXSRgPJFNo",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -6890,6 +7085,7 @@
         "model": "models/osa/Biped/robert.vrm",
         "thumbnail": "sketches/osa/Biped/robert/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -6945,11 +7141,15 @@
       "defaultSize": {
         "height": 1.61
       },
+      "budget": {
+        "triangles": 4732,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Robert by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/gwG7w4bY-A5c3R6A6GOz3xBCgbPvkFQmqPIDtvnNsYI",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -7043,6 +7243,7 @@
         "model": "models/osa/Biped/rose.vrm",
         "thumbnail": "sketches/osa/Biped/rose/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -7098,11 +7299,15 @@
       "defaultSize": {
         "height": 1.66
       },
+      "budget": {
+        "triangles": 5622,
+        "textureMaxPx": 2048
+      },
       "licence": "CC0-1.0",
       "credit": "Rose by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/Ea1KXujzJatQgCFSMzGOzp_UtHqB1pyia--U3AtkMAY",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
@@ -7197,6 +7402,7 @@
         "model": "models/osa/Biped/teddy.vrm",
         "thumbnail": "sketches/osa/Biped/teddy/front.svg"
       },
+      "vrm": "0",
       "joints": [
         "hips",
         "spine",
@@ -7252,11 +7458,15 @@
       "defaultSize": {
         "height": 1.65
       },
+      "budget": {
+        "triangles": 3068,
+        "textureMaxPx": 1024
+      },
       "licence": "CC0-1.0",
       "credit": "Teddy by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/KbaYR3YmtjweLgEcJAWekeh3MNAlF9ZWOYJkbNfi8MM",
-        "retrieved": "2026-10-25"
+        "retrieved": "2026-11-07"
       },
       "origin": "shipped",
       "sketches": [
