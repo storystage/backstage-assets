@@ -37,6 +37,7 @@
         "fantasy",
         "adventure"
       ],
+      "description": "a bearded barbarian in a bear hood and furs",
       "licence": "CC0-1.0",
       "credit": "Barbarian by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
@@ -56,6 +57,7 @@
         "adventure",
         "history"
       ],
+      "description": "a knight in a silver helmet and armour, with a red cape",
       "licence": "CC0-1.0",
       "credit": "Knight by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb",
@@ -74,6 +76,7 @@
         "fantasy",
         "adventure"
       ],
+      "description": "a young mage with black hair, in a tall purple pointed hat and robe",
       "licence": "CC0-1.0",
       "credit": "Mage by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
@@ -92,6 +95,7 @@
         "fantasy",
         "adventure"
       ],
+      "description": "a rogue with brown hair, in a green tunic and cloak",
       "licence": "CC0-1.0",
       "credit": "Rogue by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
@@ -110,6 +114,7 @@
         "fantasy",
         "adventure"
       ],
+      "description": "a rogue in a green hood and cloak",
       "licence": "CC0-1.0",
       "credit": "Hooded rogue by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb",
@@ -128,6 +133,7 @@
         "fantasy",
         "spooky"
       ],
+      "description": "a skeleton in a red wizard's hat and robe",
       "licence": "CC0-1.0",
       "credit": "Skeleton mage by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Mage.glb",
@@ -146,6 +152,7 @@
         "fantasy",
         "spooky"
       ],
+      "description": "a small skeleton in a brown scarf and belt",
       "licence": "CC0-1.0",
       "credit": "Skeleton minion by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb",
@@ -164,6 +171,7 @@
         "fantasy",
         "spooky"
       ],
+      "description": "a skeleton in a dark red hood and cloak",
       "licence": "CC0-1.0",
       "credit": "Skeleton rogue by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Rogue.glb",
@@ -182,6 +190,7 @@
         "fantasy",
         "spooky"
       ],
+      "description": "a skeleton in a horned helmet and armour",
       "licence": "CC0-1.0",
       "credit": "Skeleton warrior by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb",
@@ -200,6 +209,7 @@
         "fantasy",
         "food"
       ],
+      "description": "a big wooden mug with metal bands, full to the top with froth",
       "licence": "CC0-1.0",
       "credit": "Mug by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Assets/gltf/mug_full.gltf",
