@@ -10,9 +10,10 @@
         "fantasy",
         "adventure"
       ],
+      "description": "a bearded barbarian in a bear hood and furs",
       "files": {
         "model": "models/kaykit/Biped/barbarian.glb",
-        "thumbnail": "sketches/kaykit/Biped/barbarian/front.svg"
+        "thumbnail": "thumbnails/kaykit/Biped/barbarian.webp"
       },
       "joints": [
         "hips",
@@ -45,7 +46,7 @@
       "credit": "Barbarian by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -137,9 +138,10 @@
         "adventure",
         "history"
       ],
+      "description": "a knight in a silver helmet and armour, with a red cape",
       "files": {
         "model": "models/kaykit/Biped/knight.glb",
-        "thumbnail": "sketches/kaykit/Biped/knight/front.svg"
+        "thumbnail": "thumbnails/kaykit/Biped/knight.webp"
       },
       "joints": [
         "hips",
@@ -172,7 +174,7 @@
       "credit": "Knight by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -263,9 +265,10 @@
         "fantasy",
         "adventure"
       ],
+      "description": "a young mage with black hair, in a tall purple pointed hat and robe",
       "files": {
         "model": "models/kaykit/Biped/mage.glb",
-        "thumbnail": "sketches/kaykit/Biped/mage/front.svg"
+        "thumbnail": "thumbnails/kaykit/Biped/mage.webp"
       },
       "joints": [
         "hips",
@@ -298,7 +301,7 @@
       "credit": "Mage by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -389,9 +392,10 @@
         "fantasy",
         "adventure"
       ],
+      "description": "a rogue with brown hair, in a green tunic and cloak",
       "files": {
         "model": "models/kaykit/Biped/rogue.glb",
-        "thumbnail": "sketches/kaykit/Biped/rogue/front.svg"
+        "thumbnail": "thumbnails/kaykit/Biped/rogue.webp"
       },
       "joints": [
         "hips",
@@ -424,7 +428,7 @@
       "credit": "Rogue by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -515,9 +519,10 @@
         "fantasy",
         "adventure"
       ],
+      "description": "a rogue in a green hood and cloak",
       "files": {
         "model": "models/kaykit/Biped/rogue-hooded.glb",
-        "thumbnail": "sketches/kaykit/Biped/rogue-hooded/front.svg"
+        "thumbnail": "thumbnails/kaykit/Biped/rogue-hooded.webp"
       },
       "joints": [
         "hips",
@@ -550,7 +555,7 @@
       "credit": "Hooded rogue by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -641,9 +646,10 @@
         "fantasy",
         "spooky"
       ],
+      "description": "a skeleton in a red wizard's hat and robe",
       "files": {
         "model": "models/kaykit/Biped/skeleton-mage.glb",
-        "thumbnail": "sketches/kaykit/Biped/skeleton-mage/front.svg"
+        "thumbnail": "thumbnails/kaykit/Biped/skeleton-mage.webp"
       },
       "joints": [
         "hips",
@@ -676,7 +682,7 @@
       "credit": "Skeleton mage by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Mage.glb",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -767,9 +773,10 @@
         "fantasy",
         "spooky"
       ],
+      "description": "a small skeleton in a brown scarf and belt",
       "files": {
         "model": "models/kaykit/Biped/skeleton-minion.glb",
-        "thumbnail": "sketches/kaykit/Biped/skeleton-minion/front.svg"
+        "thumbnail": "thumbnails/kaykit/Biped/skeleton-minion.webp"
       },
       "joints": [
         "hips",
@@ -802,7 +809,7 @@
       "credit": "Skeleton minion by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -893,9 +900,10 @@
         "fantasy",
         "spooky"
       ],
+      "description": "a skeleton in a dark red hood and cloak",
       "files": {
         "model": "models/kaykit/Biped/skeleton-rogue.glb",
-        "thumbnail": "sketches/kaykit/Biped/skeleton-rogue/front.svg"
+        "thumbnail": "thumbnails/kaykit/Biped/skeleton-rogue.webp"
       },
       "joints": [
         "hips",
@@ -928,7 +936,7 @@
       "credit": "Skeleton rogue by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Rogue.glb",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -1019,9 +1027,10 @@
         "fantasy",
         "spooky"
       ],
+      "description": "a skeleton in a horned helmet and armour",
       "files": {
         "model": "models/kaykit/Biped/skeleton-warrior.glb",
-        "thumbnail": "sketches/kaykit/Biped/skeleton-warrior/front.svg"
+        "thumbnail": "thumbnails/kaykit/Biped/skeleton-warrior.webp"
       },
       "joints": [
         "hips",
@@ -1054,7 +1063,7 @@
       "credit": "Skeleton warrior by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/blob/15b62b9bad122f72926c10fb14d622c73819fa54/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -1145,9 +1154,10 @@
         "fantasy",
         "food"
       ],
+      "description": "a big wooden mug with metal bands, full to the top with froth",
       "files": {
         "model": "models/kaykit/Prop/mug.glb",
-        "thumbnail": "sketches/kaykit/Prop/mug/front.svg"
+        "thumbnail": "thumbnails/kaykit/Prop/mug.webp"
       },
       "joints": "prop-only",
       "defaultSize": {
@@ -1161,7 +1171,7 @@
       "credit": "Mug by Kay Lousberg, KayKit (CC0)",
       "source": {
         "url": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Assets/gltf/mug_full.gltf",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -1192,9 +1202,10 @@
         "everyday",
         "children"
       ],
+      "description": "a boy of 6 with short brown hair, in a blue shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p01.glb",
-        "thumbnail": "sketches/makehuman/Biped/p01/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p01.webp"
       },
       "joints": [
         "hips",
@@ -1352,10 +1363,10 @@
         "everyday",
         "children"
       ],
-      "description": "a girl of 7 with short curly black hair, in a yellow T-shirt and jeans",
+      "description": "a girl of 7 with short curly black hair, in a yellow jacket and jeans",
       "files": {
         "model": "models/makehuman/Biped/p02.glb",
-        "thumbnail": "sketches/makehuman/Biped/p02/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p02.webp"
       },
       "joints": [
         "hips",
@@ -1513,10 +1524,10 @@
         "everyday",
         "children"
       ],
-      "description": "a child of 8 with a brown side fringe, in a teal T-shirt and jeans",
+      "description": "a child of 8 with a brown side fringe, in a teal striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p03.glb",
-        "thumbnail": "sketches/makehuman/Biped/p03/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p03.webp"
       },
       "joints": [
         "hips",
@@ -1674,9 +1685,10 @@
         "everyday",
         "children"
       ],
+      "description": "a girl of 9 with short black hair, in a purple striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p04.glb",
-        "thumbnail": "sketches/makehuman/Biped/p04/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p04.webp"
       },
       "joints": [
         "hips",
@@ -1834,9 +1846,10 @@
         "everyday",
         "children"
       ],
+      "description": "a boy of 10 with short dark hair, in a dark red striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p05.glb",
-        "thumbnail": "sketches/makehuman/Biped/p05/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p05.webp"
       },
       "joints": [
         "hips",
@@ -1994,10 +2007,10 @@
         "everyday",
         "children"
       ],
-      "description": "a tall girl of 11 with short light brown hair, in a green T-shirt and jeans",
+      "description": "a tall girl of 11 with short light brown hair, in a green jacket and jeans",
       "files": {
         "model": "models/makehuman/Biped/p06.glb",
-        "thumbnail": "sketches/makehuman/Biped/p06/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p06.webp"
       },
       "joints": [
         "hips",
@@ -2155,9 +2168,10 @@
         "everyday",
         "children"
       ],
+      "description": "a boy of 12 with short black hair, in a teal jacket and jeans",
       "files": {
         "model": "models/makehuman/Biped/p07.glb",
-        "thumbnail": "sketches/makehuman/Biped/p07/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p07.webp"
       },
       "joints": [
         "hips",
@@ -2315,10 +2329,10 @@
         "everyday",
         "children"
       ],
-      "description": "a girl of 6 with a black bob and a long fringe, in a coral T-shirt and jeans",
+      "description": "a girl of 6 with a black bob and a long fringe, in a coral striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p08.glb",
-        "thumbnail": "sketches/makehuman/Biped/p08/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p08.webp"
       },
       "joints": [
         "hips",
@@ -2476,9 +2490,10 @@
         "everyday",
         "children"
       ],
+      "description": "a boy of 11 with short black hair, in a khaki jacket and jeans",
       "files": {
         "model": "models/makehuman/Biped/p09.glb",
-        "thumbnail": "sketches/makehuman/Biped/p09/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p09.webp"
       },
       "joints": [
         "hips",
@@ -2636,9 +2651,10 @@
         "everyday",
         "children"
       ],
+      "description": "a girl of 9 with long brown hair, in a green striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p10.glb",
-        "thumbnail": "sketches/makehuman/Biped/p10/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p10.webp"
       },
       "joints": [
         "hips",
@@ -2796,10 +2812,10 @@
         "everyday",
         "teenagers"
       ],
-      "description": "a tall boy of 14 with short brown hair, in a white T-shirt and jeans",
+      "description": "a tall boy of 14 with short brown hair, in a coral jacket and jeans",
       "files": {
         "model": "models/makehuman/Biped/p11.glb",
-        "thumbnail": "sketches/makehuman/Biped/p11/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p11.webp"
       },
       "joints": [
         "hips",
@@ -2957,9 +2973,10 @@
         "everyday",
         "teenagers"
       ],
+      "description": "a girl of 15 with long brown hair, in a purple jacket and jeans",
       "files": {
         "model": "models/makehuman/Biped/p12.glb",
-        "thumbnail": "sketches/makehuman/Biped/p12/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p12.webp"
       },
       "joints": [
         "hips",
@@ -3117,9 +3134,10 @@
         "everyday",
         "teenagers"
       ],
+      "description": "a boy of 13 with short dark hair, in a blue shirt and grey jeans",
       "files": {
         "model": "models/makehuman/Biped/p13.glb",
-        "thumbnail": "sketches/makehuman/Biped/p13/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p13.webp"
       },
       "joints": [
         "hips",
@@ -3277,10 +3295,10 @@
         "everyday",
         "teenagers"
       ],
-      "description": "a girl of 16 with short brown hair, in an orange T-shirt and jeans",
+      "description": "a girl of 16 with short brown hair, in a pink striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p14.glb",
-        "thumbnail": "sketches/makehuman/Biped/p14/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p14.webp"
       },
       "joints": [
         "hips",
@@ -3438,9 +3456,10 @@
         "everyday",
         "teenagers"
       ],
+      "description": "a boy of 17 with short brown hair, in an orange jacket and jeans",
       "files": {
         "model": "models/makehuman/Biped/p15.glb",
-        "thumbnail": "sketches/makehuman/Biped/p15/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p15.webp"
       },
       "joints": [
         "hips",
@@ -3598,9 +3617,10 @@
         "everyday",
         "teenagers"
       ],
+      "description": "a teenager of 15 with short black hair, in a yellow striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p16.glb",
-        "thumbnail": "sketches/makehuman/Biped/p16/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p16.webp"
       },
       "joints": [
         "hips",
@@ -3758,9 +3778,10 @@
         "everyday",
         "adults"
       ],
+      "description": "a woman of 28 with short curly black hair, in a striped blouse, grey skirt and white socks",
       "files": {
         "model": "models/makehuman/Biped/p17.glb",
-        "thumbnail": "sketches/makehuman/Biped/p17/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p17.webp"
       },
       "joints": [
         "hips",
@@ -3918,9 +3939,10 @@
         "everyday",
         "adults"
       ],
+      "description": "a tall man of 32 with short brown hair, in blue dungarees and a white T-shirt",
       "files": {
         "model": "models/makehuman/Biped/p18.glb",
-        "thumbnail": "sketches/makehuman/Biped/p18/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p18.webp"
       },
       "joints": [
         "hips",
@@ -4078,9 +4100,10 @@
         "everyday",
         "adults"
       ],
+      "description": "a man of 40 with short black hair, in a dark suit and striped tie",
       "files": {
         "model": "models/makehuman/Biped/p19.glb",
-        "thumbnail": "sketches/makehuman/Biped/p19/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p19.webp"
       },
       "joints": [
         "hips",
@@ -4238,9 +4261,10 @@
         "everyday",
         "adults"
       ],
+      "description": "a woman of 36 with a black bob, in a teal striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p20.glb",
-        "thumbnail": "sketches/makehuman/Biped/p20/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p20.webp"
       },
       "joints": [
         "hips",
@@ -4398,9 +4422,10 @@
         "everyday",
         "adults"
       ],
+      "description": "a man of 45 with a brown side fringe, in a green striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p21.glb",
-        "thumbnail": "sketches/makehuman/Biped/p21/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p21.webp"
       },
       "joints": [
         "hips",
@@ -4558,9 +4583,10 @@
         "everyday",
         "adults"
       ],
+      "description": "a bald man of 50, in a khaki jacket and jeans",
       "files": {
         "model": "models/makehuman/Biped/p22.glb",
-        "thumbnail": "sketches/makehuman/Biped/p22/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p22.webp"
       },
       "joints": [
         "hips",
@@ -4718,9 +4744,10 @@
         "everyday",
         "adults"
       ],
+      "description": "a woman of 30 with a short black bob, in a purple striped blouse and purple skirt",
       "files": {
         "model": "models/makehuman/Biped/p23.glb",
-        "thumbnail": "sketches/makehuman/Biped/p23/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p23.webp"
       },
       "joints": [
         "hips",
@@ -4878,10 +4905,10 @@
         "everyday",
         "adults"
       ],
-      "description": "an adult of 26 with short dark hair, in a white T-shirt and jeans",
+      "description": "an adult of 26 with short dark hair, in a purple striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p24.glb",
-        "thumbnail": "sketches/makehuman/Biped/p24/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p24.webp"
       },
       "joints": [
         "hips",
@@ -5039,9 +5066,10 @@
         "everyday",
         "adults"
       ],
+      "description": "a woman of 55 with a silver-blonde bob, in a dark red striped blouse and grey skirt",
       "files": {
         "model": "models/makehuman/Biped/p25.glb",
-        "thumbnail": "sketches/makehuman/Biped/p25/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p25.webp"
       },
       "joints": [
         "hips",
@@ -5199,9 +5227,10 @@
         "everyday",
         "older people"
       ],
+      "description": "an older woman of 72 with a grey bob, in a pink striped blouse and pink skirt",
       "files": {
         "model": "models/makehuman/Biped/p26.glb",
-        "thumbnail": "sketches/makehuman/Biped/p26/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p26.webp"
       },
       "joints": [
         "hips",
@@ -5359,9 +5388,10 @@
         "everyday",
         "older people"
       ],
+      "description": "an older man of 78 in a grey hat, dark suit and striped tie",
       "files": {
         "model": "models/makehuman/Biped/p27.glb",
-        "thumbnail": "sketches/makehuman/Biped/p27/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p27.webp"
       },
       "joints": [
         "hips",
@@ -5519,9 +5549,10 @@
         "everyday",
         "older people"
       ],
+      "description": "an older woman of 68 with a grey bob, in a teal striped blouse and teal skirt",
       "files": {
         "model": "models/makehuman/Biped/p28.glb",
-        "thumbnail": "sketches/makehuman/Biped/p28/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p28.webp"
       },
       "joints": [
         "hips",
@@ -5679,9 +5710,10 @@
         "everyday",
         "older people"
       ],
+      "description": "an older man of 70 with short grey hair, in an orange striped shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p29.glb",
-        "thumbnail": "sketches/makehuman/Biped/p29/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p29.webp"
       },
       "joints": [
         "hips",
@@ -5839,9 +5871,10 @@
         "everyday",
         "older people"
       ],
+      "description": "an older woman of 85 with a white bob, in a lilac striped blouse and lilac skirt",
       "files": {
         "model": "models/makehuman/Biped/p30.glb",
-        "thumbnail": "sketches/makehuman/Biped/p30/front.svg"
+        "thumbnail": "thumbnails/makehuman/Biped/p30.webp"
       },
       "joints": [
         "hips",
@@ -5999,9 +6032,10 @@
         "everyday",
         "space"
       ],
+      "description": "an astronaut in a yellow spacesuit and a round orange helmet with an aerial",
       "files": {
         "model": "models/osa/Biped/astronaut.vrm",
-        "thumbnail": "sketches/osa/Biped/astronaut/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/astronaut.webp"
       },
       "vrm": "0",
       "joints": [
@@ -6067,7 +6101,7 @@
       "credit": "Astronaut by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/T0c0z_XEPQHy3vyXz31XB22s_6JTqHdnau8exq_I8tI",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -6157,9 +6191,10 @@
       "themes": [
         "everyday"
       ],
+      "description": "a garden gnome with a red pointed hat and a white beard, in a blue shirt",
       "files": {
         "model": "models/osa/Biped/david.vrm",
-        "thumbnail": "sketches/osa/Biped/david/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/david.webp"
       },
       "vrm": "0",
       "joints": [
@@ -6225,7 +6260,7 @@
       "credit": "David by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/H3cBhsOEoiQ8XZiwG31SyCUtiDewBZRccxIDztyHfSY",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -6316,9 +6351,10 @@
         "everyday",
         "dinosaurs"
       ],
+      "description": "a child in a green dinosaur costume",
       "files": {
         "model": "models/osa/Biped/dino-kid.vrm",
-        "thumbnail": "sketches/osa/Biped/dino-kid/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/dino-kid.webp"
       },
       "vrm": "0",
       "joints": [
@@ -6384,7 +6420,7 @@
       "credit": "Dino kid by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/T1gkB95XKXAZl_VmU1ozg5Txm--o9nY0Nge3s8zNoBs",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -6474,9 +6510,10 @@
       "themes": [
         "everyday"
       ],
+      "description": "a woman with long lilac hair and sunglasses, in a green top and grey trousers",
       "files": {
         "model": "models/osa/Biped/erika.vrm",
-        "thumbnail": "sketches/osa/Biped/erika/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/erika.webp"
       },
       "vrm": "0",
       "joints": [
@@ -6542,7 +6579,7 @@
       "credit": "Erika by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/GZkfa0SNnrBWluRL_pXpakg7T3K3d4l87__wR4mD3UM",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -6632,9 +6669,10 @@
       "themes": [
         "everyday"
       ],
+      "description": "a man with a red quiff, in a navy T-shirt and blue trousers",
       "files": {
         "model": "models/osa/Biped/kyle.vrm",
-        "thumbnail": "sketches/osa/Biped/kyle/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/kyle.webp"
       },
       "vrm": "0",
       "joints": [
@@ -6700,7 +6738,7 @@
       "credit": "Kyle by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/0E5wEEVl5VGCcuGVQylq3dpC3TClLR3JhuhEyhYh7NQ",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -6790,9 +6828,10 @@
       "themes": [
         "everyday"
       ],
+      "description": "a woman in a gold hood and a black and gold costume",
       "files": {
         "model": "models/osa/Biped/olivia.vrm",
-        "thumbnail": "sketches/osa/Biped/olivia/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/olivia.webp"
       },
       "vrm": "0",
       "joints": [
@@ -6858,7 +6897,7 @@
       "credit": "Olivia by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/MgsNlTetzAoVEC6E-lswj65vp7StkOZXXd5OjjqzYZI",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -6949,9 +6988,10 @@
         "everyday",
         "robots"
       ],
+      "description": "a green robot with a boxy head",
       "files": {
         "model": "models/osa/Biped/polybot.vrm",
-        "thumbnail": "sketches/osa/Biped/polybot/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/polybot.webp"
       },
       "vrm": "0",
       "joints": [
@@ -6998,7 +7038,7 @@
       "credit": "Polybot by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/DUR8v-IugXppdMBxPdE1rDO2dZCJJ7ZgBTXSRgPJFNo",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -7088,9 +7128,10 @@
       "themes": [
         "everyday"
       ],
+      "description": "a man with a pink beard, in a dark green T-shirt and turquoise trousers",
       "files": {
         "model": "models/osa/Biped/robert.vrm",
-        "thumbnail": "sketches/osa/Biped/robert/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/robert.webp"
       },
       "vrm": "0",
       "joints": [
@@ -7156,7 +7197,7 @@
       "credit": "Robert by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/gwG7w4bY-A5c3R6A6GOz3xBCgbPvkFQmqPIDtvnNsYI",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -7246,9 +7287,10 @@
       "themes": [
         "everyday"
       ],
+      "description": "a pirate in a black three-cornered hat, a striped top, red shorts and tall boots",
       "files": {
         "model": "models/osa/Biped/rose.vrm",
-        "thumbnail": "sketches/osa/Biped/rose/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/rose.webp"
       },
       "vrm": "0",
       "joints": [
@@ -7314,7 +7356,7 @@
       "credit": "Rose by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/Ea1KXujzJatQgCFSMzGOzp_UtHqB1pyia--U3AtkMAY",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -7405,9 +7447,10 @@
         "everyday",
         "toys"
       ],
+      "description": "a brown teddy bear",
       "files": {
         "model": "models/osa/Biped/teddy.vrm",
-        "thumbnail": "sketches/osa/Biped/teddy/front.svg"
+        "thumbnail": "thumbnails/osa/Biped/teddy.webp"
       },
       "vrm": "0",
       "joints": [
@@ -7473,7 +7516,7 @@
       "credit": "Teddy by Polygonal Mind, 100Avatars (CC0)",
       "source": {
         "url": "https://arweave.net/KbaYR3YmtjweLgEcJAWekeh3MNAlF9ZWOYJkbNfi8MM",
-        "retrieved": "2026-11-07"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
