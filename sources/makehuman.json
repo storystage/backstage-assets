@@ -2,22 +2,6 @@
   "source": "makehuman",
   "items": [
     {
-      "id": "makehuman/Biped/p01",
-      "displayName": "Alfie",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "children"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Alfie, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p01.glb"
-      }
-    },
-    {
       "id": "makehuman/Biped/p02",
       "displayName": "Amara",
       "class": "Biped",
@@ -26,6 +10,7 @@
         "everyday",
         "children"
       ],
+      "description": "a girl of 7 with short curly black hair, in a yellow T-shirt and jeans",
       "licence": "CC0-1.0",
       "credit": "Amara, made with MakeHuman (CC0)",
       "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
@@ -42,43 +27,12 @@
         "everyday",
         "children"
       ],
+      "description": "a child of 8 with a brown side fringe, in a teal T-shirt and jeans",
       "licence": "CC0-1.0",
       "credit": "Kai, made with MakeHuman (CC0)",
       "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
       "fetch": {
         "generated": "makehuman/p03.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p04",
-      "displayName": "Aisha",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "children"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Aisha, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p04.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p05",
-      "displayName": "Rhys",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "children"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Rhys, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p05.glb"
       }
     },
     {
@@ -90,27 +44,12 @@
         "everyday",
         "children"
       ],
+      "description": "a tall girl of 11 with short light brown hair, in a green T-shirt and jeans",
       "licence": "CC0-1.0",
       "credit": "Niamh, made with MakeHuman (CC0)",
       "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
       "fetch": {
         "generated": "makehuman/p06.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p07",
-      "displayName": "Zain",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "children"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Zain, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p07.glb"
       }
     },
     {
@@ -122,43 +61,12 @@
         "everyday",
         "children"
       ],
+      "description": "a girl of 6 with a black bob and a long fringe, in a coral T-shirt and jeans",
       "licence": "CC0-1.0",
       "credit": "Mei, made with MakeHuman (CC0)",
       "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
       "fetch": {
         "generated": "makehuman/p08.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p09",
-      "displayName": "Kofi",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "children"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Kofi, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p09.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p10",
-      "displayName": "Isla",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "children"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Isla, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p10.glb"
       }
     },
     {
@@ -170,43 +78,12 @@
         "everyday",
         "teenagers"
       ],
+      "description": "a tall boy of 14 with short brown hair, in a white T-shirt and jeans",
       "licence": "CC0-1.0",
       "credit": "Jayden, made with MakeHuman (CC0)",
       "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
       "fetch": {
         "generated": "makehuman/p11.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p12",
-      "displayName": "Priya",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "teenagers"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Priya, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p12.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p13",
-      "displayName": "Oskar",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "teenagers"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Oskar, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p13.glb"
       }
     },
     {
@@ -218,155 +95,12 @@
         "everyday",
         "teenagers"
       ],
+      "description": "a girl of 16 with short brown hair, in an orange T-shirt and jeans",
       "licence": "CC0-1.0",
       "credit": "Leah, made with MakeHuman (CC0)",
       "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
       "fetch": {
         "generated": "makehuman/p14.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p15",
-      "displayName": "Hamza",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "teenagers"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Hamza, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p15.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p16",
-      "displayName": "Sam",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "teenagers"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Sam, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p16.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p17",
-      "displayName": "Grace",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "adults"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Grace, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p17.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p18",
-      "displayName": "Tom",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "adults"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Tom, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p18.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p19",
-      "displayName": "Yusuf",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "adults"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Yusuf, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p19.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p20",
-      "displayName": "Hannah",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "adults"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Hannah, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p20.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p21",
-      "displayName": "Chen",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "adults"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Chen, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p21.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p22",
-      "displayName": "Tunde",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "adults"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Tunde, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p22.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p23",
-      "displayName": "Fatima",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "adults"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Fatima, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p23.glb"
       }
     },
     {
@@ -378,107 +112,12 @@
         "everyday",
         "adults"
       ],
+      "description": "an adult of 26 with short dark hair, in a white T-shirt and jeans",
       "licence": "CC0-1.0",
       "credit": "Morgan, made with MakeHuman (CC0)",
       "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
       "fetch": {
         "generated": "makehuman/p24.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p25",
-      "displayName": "Siân",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "adults"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Siân, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p25.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p26",
-      "displayName": "Margaret",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "older people"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Margaret, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p26.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p27",
-      "displayName": "Winston",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "older people"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Winston, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p27.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p28",
-      "displayName": "Lin",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "older people"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Lin, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p28.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p29",
-      "displayName": "Ravi",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "older people"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Ravi, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p29.glb"
-      }
-    },
-    {
-      "id": "makehuman/Biped/p30",
-      "displayName": "Eileen",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "everyday",
-        "older people"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Eileen, made with MakeHuman (CC0)",
-      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-      "fetch": {
-        "generated": "makehuman/p30.glb"
       }
     }
   ]

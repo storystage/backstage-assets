@@ -646,15 +646,15 @@
     "fetched": [
       {
         "url": "generated:makehuman/p02.glb",
-        "sha256": "9dc1197325f5415217323f757694ac8c0ab577d61484f9c336f6bee016c1d67a"
+        "sha256": "a0519325504f1e97e68f4520fbb26201c6d8dcff738270d88bb9220dbfda5c53"
       }
     ],
-    "retrieved": "2026-11-01",
+    "retrieved": "2026-11-08",
     "vrm": null,
-    "triangles": 19992,
+    "triangles": 19994,
     "textureMaxPx": 1024,
     "fetchedSize": {
-      "triangles": 37980,
+      "triangles": 35368,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
@@ -670,15 +670,15 @@
     "fetched": [
       {
         "url": "generated:makehuman/p03.glb",
-        "sha256": "46862fdad740577a6433cf58b4cc81f5ce99b8c7b92aad80f4d44c41183fac43"
+        "sha256": "67f33ec2d767d0ab59160df4952a620892d0a35f2d0aaaf323226bd21d7c1faa"
       }
     ],
-    "retrieved": "2026-11-01",
+    "retrieved": "2026-11-08",
     "vrm": null,
-    "triangles": 19989,
+    "triangles": 19988,
     "textureMaxPx": 1024,
     "fetchedSize": {
-      "triangles": 38774,
+      "triangles": 46522,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
@@ -742,15 +742,15 @@
     "fetched": [
       {
         "url": "generated:makehuman/p06.glb",
-        "sha256": "30c678e54d5a47c93508440ef04627154d37a5af0d8ba030fff86bfbc8bad0c9"
+        "sha256": "bf18333d417839a82b8bcef1ff423760421b765b7a47097b0551dddcee8c0268"
       }
     ],
-    "retrieved": "2026-11-01",
+    "retrieved": "2026-11-08",
     "vrm": null,
-    "triangles": 19989,
+    "triangles": 19991,
     "textureMaxPx": 1024,
     "fetchedSize": {
-      "triangles": 41140,
+      "triangles": 48888,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
@@ -790,15 +790,15 @@
     "fetched": [
       {
         "url": "generated:makehuman/p08.glb",
-        "sha256": "77b79d4e2db8af743807201395ac92d52bb421cf733ce3ce0c7f30bbd10a2ceb"
+        "sha256": "f48503a8d40b6d3742129441971bf625cd1d10b43ce356924fe65beb5203b865"
       }
     ],
-    "retrieved": "2026-11-01",
+    "retrieved": "2026-11-08",
     "vrm": null,
-    "triangles": 19989,
+    "triangles": 19990,
     "textureMaxPx": 1024,
     "fetchedSize": {
-      "triangles": 44262,
+      "triangles": 40454,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
@@ -862,15 +862,15 @@
     "fetched": [
       {
         "url": "generated:makehuman/p11.glb",
-        "sha256": "5ce521598e4fa42998973c65bd5aa90ef7c12153e670e0659b922b74bb04c1eb"
+        "sha256": "95553328a4287a1b527e56e583c8594ebaa33958c0778bd7273605a9803b9187"
       }
     ],
-    "retrieved": "2026-11-01",
+    "retrieved": "2026-11-08",
     "vrm": null,
-    "triangles": 19987,
+    "triangles": 19995,
     "textureMaxPx": 1024,
     "fetchedSize": {
-      "triangles": 37966,
+      "triangles": 45714,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
@@ -934,15 +934,15 @@
     "fetched": [
       {
         "url": "generated:makehuman/p14.glb",
-        "sha256": "881496acbc95c0352031e74abf3fa4675195b5582856cfe3f463b5e99b54df1e"
+        "sha256": "da701880013b2bc341b6cd8c2eb0e357b19fceb7b44ca825323a613ca898eac5"
       }
     ],
-    "retrieved": "2026-11-01",
+    "retrieved": "2026-11-08",
     "vrm": null,
-    "triangles": 19990,
+    "triangles": 19993,
     "textureMaxPx": 1024,
     "fetchedSize": {
-      "triangles": 41140,
+      "triangles": 48888,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
@@ -1174,15 +1174,15 @@
     "fetched": [
       {
         "url": "generated:makehuman/p24.glb",
-        "sha256": "872fffab69437ef8096679afd75130b8ca3da46902e4c8539a5e8a17349897ee"
+        "sha256": "afda291080925425e55d2e8226e2a75c25881594c5e6cd89da908b2afabe17b0"
       }
     ],
-    "retrieved": "2026-11-01",
+    "retrieved": "2026-11-08",
     "vrm": null,
-    "triangles": 19991,
+    "triangles": 19994,
     "textureMaxPx": 1024,
     "fetchedSize": {
-      "triangles": 37094,
+      "triangles": 44842,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
