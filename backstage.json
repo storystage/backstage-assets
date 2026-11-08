@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "2.0.0",
+  "manifestVersion": "2.1.0",
   "items": [
     {
       "id": "kaykit/Biped/barbarian",
@@ -1352,6 +1352,7 @@
         "everyday",
         "children"
       ],
+      "description": "a girl of 7 with short curly black hair, in a yellow T-shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p02.glb",
         "thumbnail": "sketches/makehuman/Biped/p02/front.svg"
@@ -1414,14 +1415,14 @@
         "height": 1.07
       },
       "budget": {
-        "triangles": 19992,
+        "triangles": 19994,
         "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Amara, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-01"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -1512,6 +1513,7 @@
         "everyday",
         "children"
       ],
+      "description": "a child of 8 with a brown side fringe, in a teal T-shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p03.glb",
         "thumbnail": "sketches/makehuman/Biped/p03/front.svg"
@@ -1574,14 +1576,14 @@
         "height": 1.1
       },
       "budget": {
-        "triangles": 19989,
+        "triangles": 19988,
         "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Kai, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-01"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -1992,6 +1994,7 @@
         "everyday",
         "children"
       ],
+      "description": "a tall girl of 11 with short light brown hair, in a green T-shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p06.glb",
         "thumbnail": "sketches/makehuman/Biped/p06/front.svg"
@@ -2054,14 +2057,14 @@
         "height": 1.53
       },
       "budget": {
-        "triangles": 19989,
+        "triangles": 19988,
         "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Niamh, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-01"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -2312,6 +2315,7 @@
         "everyday",
         "children"
       ],
+      "description": "a girl of 6 with a black bob and a long fringe, in a coral T-shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p08.glb",
         "thumbnail": "sketches/makehuman/Biped/p08/front.svg"
@@ -2374,14 +2378,14 @@
         "height": 0.92
       },
       "budget": {
-        "triangles": 19989,
+        "triangles": 19990,
         "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Mei, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-01"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -2792,6 +2796,7 @@
         "everyday",
         "teenagers"
       ],
+      "description": "a tall boy of 14 with short brown hair, in a white T-shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p11.glb",
         "thumbnail": "sketches/makehuman/Biped/p11/front.svg"
@@ -2854,14 +2859,14 @@
         "height": 1.68
       },
       "budget": {
-        "triangles": 19987,
+        "triangles": 19988,
         "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Jayden, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-01"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -3272,6 +3277,7 @@
         "everyday",
         "teenagers"
       ],
+      "description": "a girl of 16 with short brown hair, in an orange T-shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p14.glb",
         "thumbnail": "sketches/makehuman/Biped/p14/front.svg"
@@ -3334,14 +3340,14 @@
         "height": 1.44
       },
       "budget": {
-        "triangles": 19990,
+        "triangles": 19989,
         "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Leah, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-01"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
@@ -4872,6 +4878,7 @@
         "everyday",
         "adults"
       ],
+      "description": "an adult of 26 with short dark hair, in a white T-shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p24.glb",
         "thumbnail": "sketches/makehuman/Biped/p24/front.svg"
@@ -4934,14 +4941,14 @@
         "height": 1.76
       },
       "budget": {
-        "triangles": 19991,
+        "triangles": 19990,
         "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Morgan, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-01"
+        "retrieved": "2026-11-08"
       },
       "origin": "shipped",
       "sketches": [
