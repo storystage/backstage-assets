@@ -15,6 +15,7 @@
       "licence": "CC0-1.0",
       "credit": "Desk chair by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/CKSz6PB1vO",
+      "height": 1,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -33,6 +34,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Table by Hunter Paramore, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/7qAyGZnerYt",
+      "height": 0.75,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -51,6 +53,7 @@
       "licence": "CC0-1.0",
       "credit": "Sofa by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/jMu2iCmGxU",
+      "height": 0.85,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -69,6 +72,7 @@
       "licence": "CC0-1.0",
       "credit": "Bed by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/sn8az3odMR",
+      "height": 0.6,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -89,6 +93,7 @@
       "licence": "CC0-1.0",
       "credit": "Desk by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/6PbVkqPzEU",
+      "height": 0.76,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -109,6 +114,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Bookshelf by sirkitree, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/8G2I4M-QVEf",
+      "height": 1.8,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -127,6 +133,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Floor lamp by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/7AqWZQIaCQf",
+      "height": 1.6,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -145,6 +152,7 @@
       "licence": "CC0-1.0",
       "credit": "Cupboard by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/6Z0Z91EvJw",
+      "height": 1.9,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -164,6 +172,7 @@
       "licence": "CC0-1.0",
       "credit": "Fridge by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/McgsrFB5x6",
+      "height": 1.8,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -183,6 +192,7 @@
       "licence": "CC0-1.0",
       "credit": "Cooker by MilkAndBanana (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/uBzXbRF6LQ",
+      "height": 0.9,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -201,6 +211,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Kettle by Jarlan Perez, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/e1ssm7Ap0Th",
+      "height": 0.25,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -220,6 +231,7 @@
       "licence": "CC0-1.0",
       "credit": "Cup of tea by CreativeTrio (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/6QBscrL7D3",
+      "height": 0.08,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -238,6 +250,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Teapot by Ashley Alicea, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/4JhDaBp6gJj",
+      "height": 0.15,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -256,6 +269,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Stack of plates by Jarlan Perez, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/9_UWf719-wI",
+      "height": 0.1,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -274,6 +288,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Apple by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/4tOmpD9-xsV",
+      "height": 0.08,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -293,6 +308,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Birthday cake by Meeka Elle, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/dhdOdRF2Nkx",
+      "height": 0.25,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -311,6 +327,7 @@
       "licence": "CC0-1.0",
       "credit": "Loaf of bread by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/4BiXgXnxTY",
+      "height": 0.12,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -329,6 +346,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Pizza by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/9IWGn64Fnqo",
+      "height": 0.03,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -348,6 +366,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Beach ball by the_ normalgamer, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/4IwPTeOmq6c",
+      "height": 0.5,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -367,6 +386,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Basketball by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/eopD_12UuB8",
+      "height": 0.24,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -385,6 +405,7 @@
       "licence": "CC0-1.0",
       "credit": "Rubber duck by CreativeTrio (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/oH3dEdlDpB",
+      "height": 0.1,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -403,6 +424,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Teddy bear by jiang liu, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/3Eb9oLfZYIc",
+      "height": 0.35,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -422,6 +444,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Kite by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/8Qq-NaPoBt6",
+      "height": 1.2,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -440,6 +463,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Toy block by GreatGavino, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/RtwMoLvuTl",
+      "height": 0.08,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -458,6 +482,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Backpack by J-Toastie, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/uRRsiIZKHG",
+      "height": 0.45,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -477,6 +502,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Pile of books by Danni Bittman, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/1WggoIFq8tx",
+      "height": 0.15,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -496,6 +522,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Globe by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/2445qv4neDQ",
+      "height": 0.4,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -514,6 +541,7 @@
       "licence": "CC0-1.0",
       "credit": "Alarm clock by CreativeTrio (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/y5f363OS9C",
+      "height": 0.15,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -533,6 +561,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Telephone by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/esa-gfuZgup",
+      "height": 0.12,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -553,6 +582,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Computer by Robert Schlyter, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/doMMnviJrGi",
+      "height": 0.45,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -572,6 +602,7 @@
       "licence": "CC0-1.0",
       "credit": "Television by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/aSmz6H8aeu",
+      "height": 0.5,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -590,6 +621,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Guitar by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/afr6GCpce_I",
+      "height": 1,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -608,6 +640,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Grand piano by Bruno Oliveira, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/5vbJ5vildOq",
+      "height": 1,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -626,6 +659,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Umbrella by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/ez4MoDQFgXz",
+      "height": 1,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -645,6 +679,7 @@
       "licence": "CC0-1.0",
       "credit": "Lantern by Kay Lousberg (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/CtHBJ1ufeW",
+      "height": 0.3,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -664,6 +699,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Pot plant by Alex Safayan, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/bVepm2yfJTh",
+      "height": 0.5,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -682,6 +718,7 @@
       "licence": "CC0-1.0",
       "credit": "Watering can by Isa Lousberg (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/V8J1TC441f",
+      "height": 0.3,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -700,6 +737,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Bicycle by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/axc03j3xKfz",
+      "height": 1,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -719,6 +757,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Car by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/75h3mi6uHuC",
+      "height": 1.5,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -738,6 +777,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Bus by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/bsvS0E1eo4R",
+      "height": 3.2,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -757,6 +797,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Rowing boat by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/adoP7kR7S17",
+      "height": 0.6,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -775,6 +816,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Rocket by Daniel Melchior, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/9dyJn4gp7U8",
+      "height": 12,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -793,6 +835,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Aeroplane by Remy Tauziac, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/bjlICuVX1Sg",
+      "height": 12,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -812,6 +855,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Steam train by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/fm-ioGYuEhx",
+      "height": 4,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -830,6 +874,7 @@
       "licence": "CC-BY-3.0",
       "credit": "School desk by Jonathan Granskog, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/eP6XIy9ox83",
+      "height": 0.8,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -849,6 +894,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Farmhouse by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/bHyQe5jzdiQ",
+      "height": 9,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -868,6 +914,7 @@
       "licence": "CC-BY-3.0",
       "credit": "House by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/75V_MLvKMqM",
+      "height": 6,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -886,6 +933,7 @@
       "licence": "CC0-1.0",
       "credit": "Town building by Kay Lousberg (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/qOhhGLftam",
+      "height": 10,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -904,6 +952,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Corner shop by Shaun Glowa, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/5qD-9AvW0eh",
+      "height": 5,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -923,6 +972,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Schoolhouse by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/5uBxCBp0os0",
+      "height": 8,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -942,6 +992,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Castle by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/0TfSw65gU2G",
+      "height": 15,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -960,6 +1011,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Barn by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/7X8q7glGKGA",
+      "height": 8,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -978,6 +1030,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Lighthouse by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/0SWQTv1whoA",
+      "height": 20,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -996,6 +1049,7 @@
       "licence": "CC0-1.0",
       "credit": "Tower by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/5lvG0WtuTU",
+      "height": 10,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1014,6 +1068,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Tree by ParfaitUwU, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/MSuchZNT2G",
+      "height": 6,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1033,6 +1088,7 @@
       "licence": "CC0-1.0",
       "credit": "Fir tree by hat_my_guy (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/BiWaLAItBx",
+      "height": 8,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1051,6 +1107,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Palm tree by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/bjGeBbKhAVN",
+      "height": 8,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1069,6 +1126,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Rock by Danni Bittman, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/4TpBWdzKDf2",
+      "height": 1.5,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1087,6 +1145,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Stones by Don Carson, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/kCmxD1l2Qu",
+      "height": 0.3,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1106,6 +1165,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Wooden fence by Frank Lynam, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/ecGdK1XryiQ",
+      "height": 1.1,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1125,6 +1185,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Picket fence by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/8r5ZAEhrppD",
+      "height": 1,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1143,6 +1204,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Footbridge by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/9oToSb_rBKY",
+      "height": 1.5,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1162,6 +1224,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Well by Jarlan Perez, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/1lK9mD0zDZw",
+      "height": 2.2,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1180,6 +1243,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Tent by Jarlan Perez, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/2tvQrMLf_tP",
+      "height": 1.6,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1198,6 +1262,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Bench by Ev Amitay, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/dOSjmdmKaxi",
+      "height": 0.85,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1216,6 +1281,7 @@
       "licence": "CC-BY-3.0",
       "credit": "Picnic table by Sammy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/3ytbP2GLb0b",
+      "height": 0.75,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1235,6 +1301,7 @@
       "licence": "CC0-1.0",
       "credit": "Fountain by Isa Lousberg (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/WHc7dwttlk",
+      "height": 1.5,
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
