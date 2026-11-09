@@ -16,6 +16,9 @@
       "credit": "Desk chair by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/CKSz6PB1vO",
       "height": 1,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -54,6 +57,9 @@
       "credit": "Sofa by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/jMu2iCmGxU",
       "height": 0.85,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -73,6 +79,9 @@
       "credit": "Bed by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/sn8az3odMR",
       "height": 0.6,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -94,6 +103,9 @@
       "credit": "Desk by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/6PbVkqPzEU",
       "height": 0.76,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -115,6 +127,9 @@
       "credit": "Bookshelf by sirkitree, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/8G2I4M-QVEf",
       "height": 1.8,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -153,6 +168,9 @@
       "credit": "Cupboard by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/6Z0Z91EvJw",
       "height": 1.9,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -173,6 +191,9 @@
       "credit": "Fridge by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/McgsrFB5x6",
       "height": 1.8,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -445,6 +466,9 @@
       "credit": "Kite by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/8Qq-NaPoBt6",
       "height": 1.2,
+      "turn": {
+        "x": -90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -483,6 +507,9 @@
       "credit": "Backpack by J-Toastie, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/uRRsiIZKHG",
       "height": 0.45,
+      "turn": {
+        "y": 90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -562,6 +589,9 @@
       "credit": "Telephone by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/esa-gfuZgup",
       "height": 0.12,
+      "turn": {
+        "y": 270
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -583,6 +613,9 @@
       "credit": "Computer by Robert Schlyter, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/doMMnviJrGi",
       "height": 0.45,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -603,6 +636,9 @@
       "credit": "Television by Kenney (CC0), via Poly Pizza",
       "page": "https://poly.pizza/m/aSmz6H8aeu",
       "height": 0.5,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -622,6 +658,9 @@
       "credit": "Guitar by jeremy, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/afr6GCpce_I",
       "height": 1,
+      "turn": {
+        "y": 270
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -641,6 +680,9 @@
       "credit": "Grand piano by Bruno Oliveira, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/5vbJ5vildOq",
       "height": 1,
+      "turn": {
+        "y": 270
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -817,6 +859,9 @@
       "credit": "Rocket by Daniel Melchior, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/9dyJn4gp7U8",
       "height": 12,
+      "turn": {
+        "x": -90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -953,6 +998,9 @@
       "credit": "Corner shop by Shaun Glowa, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/5qD-9AvW0eh",
       "height": 5,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1166,6 +1214,9 @@
       "credit": "Wooden fence by Frank Lynam, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/ecGdK1XryiQ",
       "height": 1.1,
+      "turn": {
+        "y": 90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1186,6 +1237,9 @@
       "credit": "Picket fence by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/8r5ZAEhrppD",
       "height": 1,
+      "turn": {
+        "y": 90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1205,6 +1259,9 @@
       "credit": "Footbridge by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/9oToSb_rBKY",
       "height": 1.5,
+      "turn": {
+        "y": 90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1225,6 +1282,9 @@
       "credit": "Well by Jarlan Perez, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/1lK9mD0zDZw",
       "height": 2.2,
+      "turn": {
+        "y": 90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
@@ -1263,6 +1323,9 @@
       "credit": "Bench by Ev Amitay, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/dOSjmdmKaxi",
       "height": 0.85,
+      "turn": {
+        "y": 90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
