@@ -1,0 +1,1375 @@
+{
+  "source": "polypizza",
+  "items": [
+    {
+      "id": "polypizza/Prop/desk-chair",
+      "displayName": "Desk chair",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home",
+        "school",
+        "office"
+      ],
+      "description": "a red office chair on wheels with grey armrests",
+      "licence": "CC0-1.0",
+      "credit": "Desk chair by Kenney (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/CKSz6PB1vO",
+      "height": 1,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/desk-chair.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/table",
+      "displayName": "Table",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home"
+      ],
+      "description": "a plain dark wooden table with four legs",
+      "licence": "CC-BY-3.0",
+      "credit": "Table by Hunter Paramore, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/7qAyGZnerYt",
+      "height": 0.75,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/table.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/sofa",
+      "displayName": "Sofa",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home"
+      ],
+      "description": "a red three-seat sofa with low arms",
+      "licence": "CC0-1.0",
+      "credit": "Sofa by Kenney (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/jMu2iCmGxU",
+      "height": 0.85,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/sofa.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/bed",
+      "displayName": "Bed",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home"
+      ],
+      "description": "a single bed with a wooden frame, a red cover and a white pillow",
+      "licence": "CC0-1.0",
+      "credit": "Bed by Kenney (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/sn8az3odMR",
+      "height": 0.6,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/bed.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/desk",
+      "displayName": "Desk",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home",
+        "school",
+        "office"
+      ],
+      "description": "a light wooden desk with drawers",
+      "licence": "CC0-1.0",
+      "credit": "Desk by Kenney (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/6PbVkqPzEU",
+      "height": 0.76,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/desk.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/bookshelf",
+      "displayName": "Bookshelf",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home",
+        "school",
+        "library"
+      ],
+      "description": "a tall wooden bookshelf full of coloured books",
+      "licence": "CC-BY-3.0",
+      "credit": "Bookshelf by sirkitree, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/8G2I4M-QVEf",
+      "height": 1.8,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/bookshelf.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/floor-lamp",
+      "displayName": "Floor lamp",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home"
+      ],
+      "description": "a tall lamp with a yellow shade on a thin pole",
+      "licence": "CC-BY-3.0",
+      "credit": "Floor lamp by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/7AqWZQIaCQf",
+      "height": 1.6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/floor-lamp.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/cupboard",
+      "displayName": "Cupboard",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home"
+      ],
+      "description": "a tall wooden cupboard with two closed doors",
+      "licence": "CC0-1.0",
+      "credit": "Cupboard by Kenney (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/6Z0Z91EvJw",
+      "height": 1.9,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/cupboard.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/fridge",
+      "displayName": "Fridge",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home",
+        "kitchen"
+      ],
+      "description": "a tall white fridge with two doors",
+      "licence": "CC0-1.0",
+      "credit": "Fridge by Kenney (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/McgsrFB5x6",
+      "height": 1.8,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/fridge.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/cooker",
+      "displayName": "Cooker",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home",
+        "kitchen"
+      ],
+      "description": "a white cooker with four rings on top and an oven below",
+      "licence": "CC0-1.0",
+      "credit": "Cooker by MilkAndBanana (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/uBzXbRF6LQ",
+      "height": 0.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/cooker.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/kettle",
+      "displayName": "Kettle",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "kitchen"
+      ],
+      "description": "a green kettle with a black handle",
+      "licence": "CC-BY-3.0",
+      "credit": "Kettle by Jarlan Perez, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/e1ssm7Ap0Th",
+      "height": 0.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/kettle.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/cup-of-tea",
+      "displayName": "Cup of tea",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "kitchen",
+        "food"
+      ],
+      "description": "a white teacup on a saucer",
+      "licence": "CC0-1.0",
+      "credit": "Cup of tea by CreativeTrio (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/6QBscrL7D3",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/cup-of-tea.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/teapot",
+      "displayName": "Teapot",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "kitchen"
+      ],
+      "description": "a round pale blue teapot with a lid",
+      "licence": "CC-BY-3.0",
+      "credit": "Teapot by Ashley Alicea, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/4JhDaBp6gJj",
+      "height": 0.15,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/teapot.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/plates",
+      "displayName": "Stack of plates",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "kitchen"
+      ],
+      "description": "a pile of white plates",
+      "licence": "CC-BY-3.0",
+      "credit": "Stack of plates by Jarlan Perez, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/9_UWf719-wI",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/plates.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/apple",
+      "displayName": "Apple",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food"
+      ],
+      "description": "a shiny red apple with a stalk and a leaf",
+      "licence": "CC-BY-3.0",
+      "credit": "Apple by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/4tOmpD9-xsV",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/apple.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/birthday-cake",
+      "displayName": "Birthday cake",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "party"
+      ],
+      "description": "a pink layered cake with lit candles on top",
+      "licence": "CC-BY-3.0",
+      "credit": "Birthday cake by Meeka Elle, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/dhdOdRF2Nkx",
+      "height": 0.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/birthday-cake.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/loaf",
+      "displayName": "Loaf of bread",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food"
+      ],
+      "description": "a round brown loaf with cuts across the top",
+      "licence": "CC0-1.0",
+      "credit": "Loaf of bread by Kenney (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/4BiXgXnxTY",
+      "height": 0.12,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/loaf.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/pizza",
+      "displayName": "Pizza",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food"
+      ],
+      "description": "a whole pepperoni pizza",
+      "licence": "CC-BY-3.0",
+      "credit": "Pizza by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/9IWGn64Fnqo",
+      "height": 0.03,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/pizza.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/beach-ball",
+      "displayName": "Beach ball",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "toys",
+        "beach"
+      ],
+      "description": "a ball with blue, white, red and yellow panels",
+      "licence": "CC-BY-3.0",
+      "credit": "Beach ball by the_ normalgamer, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/4IwPTeOmq6c",
+      "height": 0.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/beach-ball.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/basketball",
+      "displayName": "Basketball",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "sport",
+        "toys"
+      ],
+      "description": "an orange basketball with black lines",
+      "licence": "CC-BY-3.0",
+      "credit": "Basketball by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/eopD_12UuB8",
+      "height": 0.24,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/basketball.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/rubber-duck",
+      "displayName": "Rubber duck",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "toys"
+      ],
+      "description": "a yellow rubber duck with an orange beak",
+      "licence": "CC0-1.0",
+      "credit": "Rubber duck by CreativeTrio (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/oH3dEdlDpB",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/rubber-duck.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/teddy-bear",
+      "displayName": "Teddy bear",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "toys"
+      ],
+      "description": "a light brown teddy bear with a red ribbon, sitting down",
+      "licence": "CC-BY-3.0",
+      "credit": "Teddy bear by jiang liu, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/3Eb9oLfZYIc",
+      "height": 0.35,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/teddy-bear.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/kite",
+      "displayName": "Kite",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "toys",
+        "outdoors"
+      ],
+      "description": "a rainbow-coloured kite with a long tail",
+      "licence": "CC-BY-3.0",
+      "credit": "Kite by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/8Qq-NaPoBt6",
+      "height": 1.2,
+      "turn": {
+        "x": -90
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/kite.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/toy-block",
+      "displayName": "Toy block",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "toys"
+      ],
+      "description": "a red and white wooden toy block with the letter A",
+      "licence": "CC-BY-3.0",
+      "credit": "Toy block by GreatGavino, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/RtwMoLvuTl",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/toy-block.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/backpack",
+      "displayName": "Backpack",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "school"
+      ],
+      "description": "a brown backpack with pockets",
+      "licence": "CC-BY-3.0",
+      "credit": "Backpack by J-Toastie, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/uRRsiIZKHG",
+      "height": 0.45,
+      "turn": {
+        "y": 90
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/backpack.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/books",
+      "displayName": "Pile of books",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "school",
+        "library"
+      ],
+      "description": "a stack of coloured books lying flat",
+      "licence": "CC-BY-3.0",
+      "credit": "Pile of books by Danni Bittman, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/1WggoIFq8tx",
+      "height": 0.15,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/books.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/globe",
+      "displayName": "Globe",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "school",
+        "geography"
+      ],
+      "description": "a world globe on a wooden stand",
+      "licence": "CC-BY-3.0",
+      "credit": "Globe by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/2445qv4neDQ",
+      "height": 0.4,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/globe.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/alarm-clock",
+      "displayName": "Alarm clock",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home"
+      ],
+      "description": "a red alarm clock with two bells on top",
+      "licence": "CC0-1.0",
+      "credit": "Alarm clock by CreativeTrio (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/y5f363OS9C",
+      "height": 0.15,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/alarm-clock.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/telephone",
+      "displayName": "Telephone",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home",
+        "history"
+      ],
+      "description": "an old orange telephone with a dial",
+      "licence": "CC-BY-3.0",
+      "credit": "Telephone by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/esa-gfuZgup",
+      "height": 0.12,
+      "turn": {
+        "y": 270
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/telephone.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/computer",
+      "displayName": "Computer",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "school",
+        "office",
+        "history"
+      ],
+      "description": "an old beige computer with its screen and keyboard",
+      "licence": "CC-BY-3.0",
+      "credit": "Computer by Robert Schlyter, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/doMMnviJrGi",
+      "height": 0.45,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/computer.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/television",
+      "displayName": "Television",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home",
+        "history"
+      ],
+      "description": "an old boxy television with a grey screen",
+      "licence": "CC0-1.0",
+      "credit": "Television by Kenney (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/aSmz6H8aeu",
+      "height": 0.5,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/television.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/guitar",
+      "displayName": "Guitar",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "music"
+      ],
+      "description": "a light wooden acoustic guitar",
+      "licence": "CC-BY-3.0",
+      "credit": "Guitar by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/afr6GCpce_I",
+      "height": 1,
+      "turn": {
+        "y": 270
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/guitar.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/grand-piano",
+      "displayName": "Grand piano",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "music"
+      ],
+      "description": "a light wooden grand piano with its lid open",
+      "licence": "CC-BY-3.0",
+      "credit": "Grand piano by Bruno Oliveira, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/5vbJ5vildOq",
+      "height": 1,
+      "turn": {
+        "y": 270
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/grand-piano.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/umbrella",
+      "displayName": "Umbrella",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "weather"
+      ],
+      "description": "an open dark blue umbrella",
+      "licence": "CC-BY-3.0",
+      "credit": "Umbrella by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/ez4MoDQFgXz",
+      "height": 1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/umbrella.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/lantern",
+      "displayName": "Lantern",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "night",
+        "adventure"
+      ],
+      "description": "a dark metal lantern with a glowing light inside",
+      "licence": "CC0-1.0",
+      "credit": "Lantern by Kay Lousberg (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/CtHBJ1ufeW",
+      "height": 0.3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/lantern.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/pot-plant",
+      "displayName": "Pot plant",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "home",
+        "garden"
+      ],
+      "description": "a green leafy plant in a clay pot",
+      "licence": "CC-BY-3.0",
+      "credit": "Pot plant by Alex Safayan, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bVepm2yfJTh",
+      "height": 0.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/pot-plant.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/watering-can",
+      "displayName": "Watering can",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "garden"
+      ],
+      "description": "a yellow watering can",
+      "licence": "CC0-1.0",
+      "credit": "Watering can by Isa Lousberg (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/V8J1TC441f",
+      "height": 0.3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/watering-can.glb"
+      }
+    },
+    {
+      "id": "polypizza/Transport/bicycle",
+      "displayName": "Bicycle",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "transport"
+      ],
+      "description": "an orange bicycle",
+      "licence": "CC-BY-3.0",
+      "credit": "Bicycle by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/axc03j3xKfz",
+      "height": 1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/bicycle.glb"
+      }
+    },
+    {
+      "id": "polypizza/Transport/car",
+      "displayName": "Car",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "transport",
+        "town"
+      ],
+      "description": "a small blue car",
+      "licence": "CC-BY-3.0",
+      "credit": "Car by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/75h3mi6uHuC",
+      "height": 1.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/car.glb"
+      }
+    },
+    {
+      "id": "polypizza/Transport/bus",
+      "displayName": "Bus",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "transport",
+        "town"
+      ],
+      "description": "a white and blue coach",
+      "licence": "CC-BY-3.0",
+      "credit": "Bus by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bsvS0E1eo4R",
+      "height": 3.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/bus.glb"
+      }
+    },
+    {
+      "id": "polypizza/Transport/rowing-boat",
+      "displayName": "Rowing boat",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "transport",
+        "sea"
+      ],
+      "description": "a small white rowing boat",
+      "licence": "CC-BY-3.0",
+      "credit": "Rowing boat by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/adoP7kR7S17",
+      "height": 0.6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/rowing-boat.glb"
+      }
+    },
+    {
+      "id": "polypizza/Transport/rocket",
+      "displayName": "Rocket",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "space"
+      ],
+      "description": "a white rocket with red fins and a round window",
+      "licence": "CC-BY-3.0",
+      "credit": "Rocket by Daniel Melchior, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/9dyJn4gp7U8",
+      "height": 12,
+      "turn": {
+        "x": -90
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/rocket.glb"
+      }
+    },
+    {
+      "id": "polypizza/Transport/aeroplane",
+      "displayName": "Aeroplane",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "transport"
+      ],
+      "description": "a white passenger aeroplane",
+      "licence": "CC-BY-3.0",
+      "credit": "Aeroplane by Remy Tauziac, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bjlICuVX1Sg",
+      "height": 12,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/aeroplane.glb"
+      }
+    },
+    {
+      "id": "polypizza/Transport/steam-train",
+      "displayName": "Steam train",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "transport",
+        "history"
+      ],
+      "description": "a small steam engine with its coal wagon",
+      "licence": "CC-BY-3.0",
+      "credit": "Steam train by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/fm-ioGYuEhx",
+      "height": 4,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/steam-train.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/school-desk",
+      "displayName": "School desk",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "school"
+      ],
+      "description": "a pupil's desk and chair in light blue metal",
+      "licence": "CC-BY-3.0",
+      "credit": "School desk by Jonathan Granskog, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/eP6XIy9ox83",
+      "height": 0.8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/school-desk.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/farmhouse",
+      "displayName": "Farmhouse",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "farm",
+        "countryside"
+      ],
+      "description": "a big white wooden farmhouse with a porch",
+      "licence": "CC-BY-3.0",
+      "credit": "Farmhouse by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bHyQe5jzdiQ",
+      "height": 9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/farmhouse.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/house",
+      "displayName": "House",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "town",
+        "home"
+      ],
+      "description": "a small brown house with a chimney",
+      "licence": "CC-BY-3.0",
+      "credit": "House by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/75V_MLvKMqM",
+      "height": 6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/house.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/town-building",
+      "displayName": "Town building",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "town"
+      ],
+      "description": "a red brick building with shops below and flats above",
+      "licence": "CC0-1.0",
+      "credit": "Town building by Kay Lousberg (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/qOhhGLftam",
+      "height": 10,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/town-building.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/corner-shop",
+      "displayName": "Corner shop",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "town"
+      ],
+      "description": "a small shop with a striped awning on a street corner",
+      "licence": "CC-BY-3.0",
+      "credit": "Corner shop by Shaun Glowa, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/5qD-9AvW0eh",
+      "height": 5,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/corner-shop.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/schoolhouse",
+      "displayName": "Schoolhouse",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "school",
+        "history"
+      ],
+      "description": "a red schoolhouse with a bell tower",
+      "licence": "CC-BY-3.0",
+      "credit": "Schoolhouse by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/5uBxCBp0os0",
+      "height": 8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/schoolhouse.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/castle",
+      "displayName": "Castle",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "fairy tale",
+        "history"
+      ],
+      "description": "a grey stone castle with towers",
+      "licence": "CC-BY-3.0",
+      "credit": "Castle by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/0TfSw65gU2G",
+      "height": 15,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/castle.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/barn",
+      "displayName": "Barn",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "farm"
+      ],
+      "description": "a red barn with white doors",
+      "licence": "CC-BY-3.0",
+      "credit": "Barn by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/7X8q7glGKGA",
+      "height": 8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/barn.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/lighthouse",
+      "displayName": "Lighthouse",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "sea"
+      ],
+      "description": "a red and white striped lighthouse beside a cottage",
+      "licence": "CC-BY-3.0",
+      "credit": "Lighthouse by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/0SWQTv1whoA",
+      "height": 20,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/lighthouse.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/tower",
+      "displayName": "Tower",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "fairy tale"
+      ],
+      "description": "a round white stone tower with a wooden door",
+      "licence": "CC0-1.0",
+      "credit": "Tower by Kenney (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/5lvG0WtuTU",
+      "height": 10,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/tower.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/tree",
+      "displayName": "Tree",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature"
+      ],
+      "description": "a tree with a twisty trunk and round green leaves",
+      "licence": "CC-BY-3.0",
+      "credit": "Tree by ParfaitUwU, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/MSuchZNT2G",
+      "height": 6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/tree.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/fir-tree",
+      "displayName": "Fir tree",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "winter"
+      ],
+      "description": "a tall green fir tree",
+      "licence": "CC0-1.0",
+      "credit": "Fir tree by hat_my_guy (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/BiWaLAItBx",
+      "height": 8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/fir-tree.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/palm-tree",
+      "displayName": "Palm tree",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "beach"
+      ],
+      "description": "a palm tree with coconuts",
+      "licence": "CC-BY-3.0",
+      "credit": "Palm tree by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bjGeBbKhAVN",
+      "height": 8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/palm-tree.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/rock",
+      "displayName": "Rock",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature"
+      ],
+      "description": "a tall grey rock",
+      "licence": "CC-BY-3.0",
+      "credit": "Rock by Danni Bittman, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/4TpBWdzKDf2",
+      "height": 1.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/rock.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/stones",
+      "displayName": "Stones",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature"
+      ],
+      "description": "a few small grey stones",
+      "licence": "CC-BY-3.0",
+      "credit": "Stones by Don Carson, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/kCmxD1l2Qu",
+      "height": 0.3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/stones.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/wooden-fence",
+      "displayName": "Wooden fence",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "farm",
+        "countryside"
+      ],
+      "description": "a short wooden rail fence",
+      "licence": "CC-BY-3.0",
+      "credit": "Wooden fence by Frank Lynam, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/ecGdK1XryiQ",
+      "height": 1.1,
+      "turn": {
+        "y": 90
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/wooden-fence.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/picket-fence",
+      "displayName": "Picket fence",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "town",
+        "garden"
+      ],
+      "description": "a white picket fence",
+      "licence": "CC-BY-3.0",
+      "credit": "Picket fence by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/8r5ZAEhrppD",
+      "height": 1,
+      "turn": {
+        "y": 90
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/picket-fence.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/footbridge",
+      "displayName": "Footbridge",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature"
+      ],
+      "description": "a small dark wooden footbridge",
+      "licence": "CC-BY-3.0",
+      "credit": "Footbridge by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/9oToSb_rBKY",
+      "height": 1.5,
+      "turn": {
+        "y": 90
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/footbridge.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/well",
+      "displayName": "Well",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "fairy tale",
+        "countryside"
+      ],
+      "description": "a stone well with a red roof and a bucket",
+      "licence": "CC-BY-3.0",
+      "credit": "Well by Jarlan Perez, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/1lK9mD0zDZw",
+      "height": 2.2,
+      "turn": {
+        "y": 90
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/well.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/tent",
+      "displayName": "Tent",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "camping"
+      ],
+      "description": "a green tent",
+      "licence": "CC-BY-3.0",
+      "credit": "Tent by Jarlan Perez, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/2tvQrMLf_tP",
+      "height": 1.6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/tent.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/bench",
+      "displayName": "Bench",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "park"
+      ],
+      "description": "a wooden bench with black legs",
+      "licence": "CC-BY-3.0",
+      "credit": "Bench by Ev Amitay, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/dOSjmdmKaxi",
+      "height": 0.85,
+      "turn": {
+        "y": 90
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/bench.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/picnic-table",
+      "displayName": "Picnic table",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "park"
+      ],
+      "description": "a wooden picnic table with benches",
+      "licence": "CC-BY-3.0",
+      "credit": "Picnic table by Sammy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/3ytbP2GLb0b",
+      "height": 0.75,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/picnic-table.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/fountain",
+      "displayName": "Fountain",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "park",
+        "town"
+      ],
+      "description": "a white stone fountain with three bowls",
+      "licence": "CC0-1.0",
+      "credit": "Fountain by Isa Lousberg (CC0), via Poly Pizza",
+      "page": "https://poly.pizza/m/WHc7dwttlk",
+      "height": 1.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
+        "path": "originals/polypizza/fountain.glb"
+      }
+    }
+  ]
+}
