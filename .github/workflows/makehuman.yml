@@ -71,12 +71,19 @@ jobs:
           sudo apt-get install -yq aria2
           mkdir -p "$RUNNER_TEMP/packs"
           cd "$RUNNER_TEMP/packs"
-          # aria2 checks each file's SHA-256 itself, retries, and resumes what it has.
+          # aria2 checks each file's SHA-256 itself and resumes what it has. When the server lets a
+          # transfer stall (10 Nov: 60% in, down to one connection at 0 B/s), aria2 gives up, so
+          # it's started again, with 8 fresh connections, up to 12 times.
           fetch() {
-            aria2c --split=8 --max-connection-per-server=8 --min-split-size=4M \
-              --max-tries=10 --retry-wait=20 --connect-timeout=30 --lowest-speed-limit=1K \
-              --summary-interval=300 --console-log-level=warn \
-              --checksum="sha-256=$3" -o "$1" "$2"
+            for attempt in $(seq 1 12); do
+              aria2c --split=8 --max-connection-per-server=8 --min-split-size=4M \
+                --max-tries=10 --retry-wait=20 --connect-timeout=30 --lowest-speed-limit=1K \
+                --summary-interval=300 --console-log-level=warn \
+                --checksum="sha-256=$3" -o "$1" "$2" && return 0
+              echo "Attempt $attempt for $1 stopped; resuming."
+              sleep 20
+            done
+            return 1
           }
           fetch assets.zip "$ASSET_PACK" "$ASSET_SHA256"
           fetch glasses.zip "$GLASSES_PACK" "$GLASSES_SHA256"
