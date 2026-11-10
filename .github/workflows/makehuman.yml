@@ -23,8 +23,11 @@ env:
   BLENDER_SERIES: '4.5'
   BLENDER_VERSION: 4.5.14
   MPFB_TAG: v2.0.18
+  # MakeHuman's system assets and the community's glasses (both CC0; storystage2's licence audit),
+  # each pinned: the build refuses any other file. The system pack's hash is the file every person
+  # so far was made from (run 42780403805).
   ASSET_PACK: https://files2.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip
-  # The community's glasses (CC0; storystage2's licence audit), pinned: the build refuses any other file.
+  ASSET_SHA256: b542127a8e25547c7c29c19f2d1d2adb9a664c80396ecd694095dbc8028a0107
   GLASSES_PACK: https://files2.makehumancommunity.org/asset_packs/glasses01/glasses01_cc0.zip
   GLASSES_SHA256: f215c58e09e31b7ee568c814067cb47704cee6da1f6fc01cffb8e9fca37bafdd
 
@@ -51,20 +54,49 @@ jobs:
       - name: Install the tools
         working-directory: storystage2
         run: pnpm install --frozen-lockfile
+      # The community's file server can be slow to GitHub's runners (10 Nov: 2 h 18 min for the
+      # 281 MB system pack, then a stall). The pinned packs are kept in the Actions cache as soon
+      # as they're downloaded, so only a new pin downloads them again.
+      - name: Restore the CC0 packs
+        id: packs
+        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/packs
+          key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}
+      - name: Download the CC0 packs
+        if: steps.packs.outputs.cache-hit != 'true'
+        timeout-minutes: 150
+        run: |
+          mkdir -p "$RUNNER_TEMP/packs"
+          cd "$RUNNER_TEMP/packs"
+          # A transfer under 5 kB/s for 5 minutes is dropped, and the retry resumes it.
+          fetch() {
+            curl -fSL --retry 8 --retry-delay 20 --retry-all-errors --connect-timeout 30 \
+              --speed-limit 5000 --speed-time 300 -C - -o "$1" "$2" --no-progress-meter
+          }
+          fetch assets.zip "$ASSET_PACK"
+          fetch glasses.zip "$GLASSES_PACK"
+          printf '%s  assets.zip\n%s  glasses.zip\n' "$ASSET_SHA256" "$GLASSES_SHA256" | sha256sum -c -
+      - name: Keep the CC0 packs
+        if: steps.packs.outputs.cache-hit != 'true'
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/packs
+          key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}
       - name: Install Blender, MPFB2 and the CC0 assets
+        timeout-minutes: 20
         run: |
           sudo apt-get update -q
           sudo apt-get install -yq libxi6 libxxf86vm1 libxfixes3 libxrender1 libgl1 libsm6 libxkbcommon0 libegl1
           mkdir -p "$RUNNER_TEMP/mh"
           cd "$RUNNER_TEMP/mh"
-          curl -fsSL "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz" | tar -xJ
+          curl -fsSL --retry 5 --retry-all-errors "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz" | tar -xJ
           echo "BLENDER=$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" >> "$GITHUB_ENV"
-          curl -fsSL "https://github.com/makehumancommunity/mpfb2/archive/refs/tags/${MPFB_TAG}.tar.gz" | tar -xz
+          curl -fsSL --retry 5 --retry-all-errors "https://github.com/makehumancommunity/mpfb2/archive/refs/tags/${MPFB_TAG}.tar.gz" | tar -xz
           (cd mpfb2-*/src && zip -qr "$RUNNER_TEMP/mh/mpfb.zip" mpfb)
-          curl -fsSL -o assets.zip "$ASSET_PACK"
-          curl -fsSL -o glasses.zip "$GLASSES_PACK"
-          echo "$GLASSES_SHA256  glasses.zip" | sha256sum -c -
-          sha256sum assets.zip glasses.zip mpfb.zip
+          cp "$RUNNER_TEMP/packs/assets.zip" "$RUNNER_TEMP/packs/glasses.zip" .
+          printf '%s  assets.zip\n%s  glasses.zip\n' "$ASSET_SHA256" "$GLASSES_SHA256" | sha256sum -c -
+          sha256sum mpfb.zip
           "$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" --command extension install-file -r user_default -e mpfb.zip
       - name: Write the people for Blender
         working-directory: storystage2
