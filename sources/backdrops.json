@@ -1,0 +1,445 @@
+{
+  "source": "backdrops",
+  "items": [
+    {
+      "id": "storystage/Ground/grass",
+      "displayName": "Grass",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "nature",
+        "countryside"
+      ],
+      "description": "short green grass",
+      "licence": "CC0-1.0",
+      "credit": "Grass 004 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Grass004",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "5f9e3a"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/grass.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/darkGrass",
+      "displayName": "Dark grass",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "nature",
+        "fantasy"
+      ],
+      "description": "dark green grass",
+      "licence": "CC0-1.0",
+      "credit": "Grass 001 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Grass001",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "2f5a2c"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/darkGrass.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/dryGrass",
+      "displayName": "Dry grass",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "nature",
+        "countryside"
+      ],
+      "description": "dry yellow grass",
+      "licence": "CC0-1.0",
+      "credit": "Grass 002 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Grass002",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "a8a05a"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/dryGrass.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/oceanFloor",
+      "displayName": "Sea floor",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "sea",
+        "nature"
+      ],
+      "description": "pale sand on the sea floor",
+      "licence": "CC0-1.0",
+      "credit": "Ground 054 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground054",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "c2b280"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/oceanFloor.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/moon",
+      "displayName": "Moon",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "space"
+      ],
+      "description": "fine, dusty grey ground",
+      "licence": "CC0-1.0",
+      "credit": "Ground 091 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground091",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "8c8c8c"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/moon.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/mars",
+      "displayName": "Mars",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "space"
+      ],
+      "description": "orange-red gravel",
+      "licence": "CC0-1.0",
+      "credit": "Gravel 025 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Gravel025",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "a8552e"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/mars.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/snow",
+      "displayName": "Snow",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "winter",
+        "nature"
+      ],
+      "description": "smooth white snow",
+      "licence": "CC0-1.0",
+      "credit": "Snow 010A from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Snow010A",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "f2f6fa"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/snow.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/desert",
+      "displayName": "Desert",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "desert"
+      ],
+      "description": "pale cream sand",
+      "licence": "CC0-1.0",
+      "credit": "Ground 093A from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground093A",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "e0c98f"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/desert.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/sandyDesert",
+      "displayName": "Sandy desert",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "desert"
+      ],
+      "description": "golden sand in small ripples",
+      "licence": "CC0-1.0",
+      "credit": "Ground 097 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground097",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "c9a86a"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/sandyDesert.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/rockyBrown",
+      "displayName": "Rocky brown",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "nature",
+        "countryside"
+      ],
+      "description": "brown earth with small stones",
+      "licence": "CC0-1.0",
+      "credit": "Ground 079S from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground079S",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "6e5442"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/rockyBrown.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/forestFloor",
+      "displayName": "Forest floor",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "forest",
+        "nature"
+      ],
+      "description": "brown earth with fallen leaves",
+      "licence": "CC0-1.0",
+      "credit": "Ground 023 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground023",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "5c4630"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/forestFloor.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/jungle",
+      "displayName": "Jungle",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "jungle",
+        "forest"
+      ],
+      "description": "mossy green forest ground",
+      "licence": "CC0-1.0",
+      "credit": "Ground 037 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground037",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "2c6e36"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/jungle.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/swamp",
+      "displayName": "Swamp",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "swamp",
+        "nature"
+      ],
+      "description": "muddy green ground with twigs",
+      "licence": "CC0-1.0",
+      "credit": "Ground 071 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground071",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "47573a"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/swamp.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/ice",
+      "displayName": "Ice",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "winter"
+      ],
+      "description": "pale blue cracked ice",
+      "licence": "CC0-1.0",
+      "credit": "Ice 002 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ice002",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "a9d6e8"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/ice.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/room",
+      "displayName": "Room",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "home",
+        "school"
+      ],
+      "description": "a wooden plank floor, for a room",
+      "licence": "CC0-1.0",
+      "credit": "WoodFloor 051 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=WoodFloor051",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2,
+        "look": "8a5a3c"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/room.jpg"
+      }
+    },
+    {
+      "id": "storystage/Sky/clearDay",
+      "displayName": "Clear day",
+      "class": "Scene",
+      "section": "backdrops",
+      "themes": [
+        "day"
+      ],
+      "description": "a clear blue sky with the sun high",
+      "licence": "CC0-1.0",
+      "credit": "Qwantani Noon (Pure Sky) by Greg Zaal and Jarod Guest, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/qwantani_noon_puresky",
+      "backdrop": {
+        "kind": "sky"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/sky-clearDay.jpg"
+      }
+    },
+    {
+      "id": "storystage/Sky/cloudy",
+      "displayName": "Cloudy",
+      "class": "Scene",
+      "section": "backdrops",
+      "themes": [
+        "day"
+      ],
+      "description": "a blue sky with white clouds",
+      "licence": "CC0-1.0",
+      "credit": "Kloofendal 48d Partly Cloudy (Pure Sky) by Greg Zaal and Jarod Guest, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+      "backdrop": {
+        "kind": "sky"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/sky-cloudy.jpg"
+      }
+    },
+    {
+      "id": "storystage/Sky/sunset",
+      "displayName": "Sunset",
+      "class": "Scene",
+      "section": "backdrops",
+      "themes": [
+        "evening"
+      ],
+      "description": "a sunset with the sun low on the horizon",
+      "licence": "CC0-1.0",
+      "credit": "Qwantani Sunset (Pure Sky) by Greg Zaal and Jarod Guest, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/qwantani_sunset_puresky",
+      "backdrop": {
+        "kind": "sky"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/sky-sunset.jpg"
+      }
+    },
+    {
+      "id": "storystage/Sky/night",
+      "displayName": "Night",
+      "class": "Scene",
+      "section": "backdrops",
+      "themes": [
+        "night"
+      ],
+      "description": "a dark moonlit night sky",
+      "licence": "CC0-1.0",
+      "credit": "Kloppenheim 02 (Pure Sky) by Greg Zaal and Jarod Guest, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/kloppenheim_02_puresky",
+      "backdrop": {
+        "kind": "sky",
+        "exposure": 0.2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "345a7e6e2b10489442b64cded511dec2095f44c0",
+        "path": "originals/backdrops/sky-night.jpg"
+      }
+    }
+  ]
+}

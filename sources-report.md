@@ -123,7 +123,55 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polypizza/Transport/rocket` | Rocket | CC-BY-3.0 | props | 732 | — | yes | none | 11.95 m | glTF | — | 4 |
 | `polypizza/Transport/rowing-boat` | Rowing boat | CC-BY-3.0 | props | 1030 | 256 | yes | none | 0.6 m | glTF | — | 4 |
 | `polypizza/Transport/steam-train` | Steam train | CC-BY-3.0 | props | 4248 | — | yes | none | 4 m | glTF | — | 4 |
+| `storystage/Ground/darkGrass` | Dark grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/desert` | Desert | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/dryGrass` | Dry grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/forestFloor` | Forest floor | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/grass` | Grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/ice` | Ice | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/jungle` | Jungle | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/mars` | Mars | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/moon` | Moon | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/oceanFloor` | Sea floor | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/rockyBrown` | Rocky brown | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/room` | Room | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/sandyDesert` | Sandy desert | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/snow` | Snow | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/swamp` | Swamp | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Sky/clearDay` | Clear day | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
+| `storystage/Sky/cloudy` | Cloudy | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
+| `storystage/Sky/night` | Night | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
+| `storystage/Sky/sunset` | Sunset | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
 
 Triangles and textures show fetched → shipped where the build reduced them to the section's budget (`ITEM_BUDGETS`, provisional until the reference devices have run). VRM files are kept byte for byte, so they aren't reduced. VRM 0.x avatars face -Z and must be turned by the stage's loader.
 
-**Prompter catalogue:** about 5,624 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Grounds:** each picture matched to the stage's flat colour (spec 17 section 2: within 10% on each channel).
+
+| Ground | Stage colour | Fetched average | Shipped average |
+|---|---|---|---|
+| `storystage/Ground/darkGrass` | #2f5a2c | #445c28 | #2f5a2c |
+| `storystage/Ground/desert` | #e0c98f | #ccb995 | #e0c98f |
+| `storystage/Ground/dryGrass` | #a8a05a | #384b23 | #a8a05a |
+| `storystage/Ground/forestFloor` | #5c4630 | #675a4b | #5c4630 |
+| `storystage/Ground/grass` | #5f9e3a | #606d30 | #5f9e3a |
+| `storystage/Ground/ice` | #a9d6e8 | #627b70 | #a9d6e8 |
+| `storystage/Ground/jungle` | #2c6e36 | #989358 | #2c6e36 |
+| `storystage/Ground/mars` | #a8552e | #9e612b | #a8552e |
+| `storystage/Ground/moon` | #8c8c8c | #b2a58f | #8c8c8c |
+| `storystage/Ground/oceanFloor` | #c2b280 | #9c8b6e | #c2b280 |
+| `storystage/Ground/rockyBrown` | #6e5442 | #b39772 | #6e5442 |
+| `storystage/Ground/room` | #8a5a3c | #9b7b5d | #8a5a3c |
+| `storystage/Ground/sandyDesert` | #c9a86a | #c2a177 | #c9a86a |
+| `storystage/Ground/snow` | #f2f6fa | #dfeffc | #f2f6fa |
+| `storystage/Ground/swamp` | #47573a | #81664a | #47573a |
+
+**Picture skies:** for the stage's `SKIES` and lighting tables (S3). The lighting is a suggestion.
+
+| Sky | Horizon (atmosphere) | Light from above | Light from below |
+|---|---|---|---|
+| `storystage/Sky/clearDay` | #aebfd0 | #99bdec | #454c53 |
+| `storystage/Sky/cloudy` | #99a1b3 | #acbfe9 | #3d4048 |
+| `storystage/Sky/night` | #545b63 | #7b8ca3 | #222528 |
+| `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
+
+**Prompter catalogue:** about 6,146 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
