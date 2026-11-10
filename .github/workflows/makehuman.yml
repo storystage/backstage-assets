@@ -54,9 +54,10 @@ jobs:
       - name: Install the tools
         working-directory: storystage2
         run: pnpm install --frozen-lockfile
-      # The community's file server can be slow to GitHub's runners (10 Nov: 2 h 18 min for the
-      # 281 MB system pack, then a stall). The pinned packs are kept in the Actions cache as soon
-      # as they're downloaded, so only a new pin downloads them again.
+      # The community's file server limits each connection (10 Nov: 2 h 18 min for the 281 MB
+      # system pack, then 150 minutes that weren't enough), but takes byte ranges: four connections
+      # fetched six times as much as one. So the packs come over 8 connections, and are kept in the
+      # Actions cache as soon as they're downloaded, so only a new pin downloads them again.
       - name: Restore the CC0 packs
         id: packs
         uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
@@ -65,17 +66,20 @@ jobs:
           key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}
       - name: Download the CC0 packs
         if: steps.packs.outputs.cache-hit != 'true'
-        timeout-minutes: 150
+        timeout-minutes: 120
         run: |
+          sudo apt-get install -yq aria2
           mkdir -p "$RUNNER_TEMP/packs"
           cd "$RUNNER_TEMP/packs"
-          # A transfer under 5 kB/s for 5 minutes is dropped, and the retry resumes it.
+          # aria2 checks each file's SHA-256 itself, retries, and resumes what it has.
           fetch() {
-            curl -fSL --retry 8 --retry-delay 20 --retry-all-errors --connect-timeout 30 \
-              --speed-limit 5000 --speed-time 300 -C - -o "$1" "$2" --no-progress-meter
+            aria2c --split=8 --max-connection-per-server=8 --min-split-size=4M \
+              --max-tries=10 --retry-wait=20 --connect-timeout=30 --lowest-speed-limit=1K \
+              --summary-interval=300 --console-log-level=warn \
+              --checksum="sha-256=$3" -o "$1" "$2"
           }
-          fetch assets.zip "$ASSET_PACK"
-          fetch glasses.zip "$GLASSES_PACK"
+          fetch assets.zip "$ASSET_PACK" "$ASSET_SHA256"
+          fetch glasses.zip "$GLASSES_PACK" "$GLASSES_SHA256"
           printf '%s  assets.zip\n%s  glasses.zip\n' "$ASSET_SHA256" "$GLASSES_SHA256" | sha256sum -c -
       - name: Keep the CC0 packs
         if: steps.packs.outputs.cache-hit != 'true'
