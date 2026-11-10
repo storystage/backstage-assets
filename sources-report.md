@@ -171,7 +171,7 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 |---|---|---|---|
 | `storystage/Sky/clearDay` | #aebfd0 | #99bdec | #454c53 |
 | `storystage/Sky/cloudy` | #99a1b3 | #acbfe9 | #3d4048 |
-| `storystage/Sky/night` | #545b63 | #7b8ca3 | #222528 |
+| `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
 **Prompter catalogue:** about 6,146 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
