@@ -1405,6 +1405,9 @@
       "credit": "Crutches by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/2V9ccKGCo-r",
       "height": 1.15,
+      "turn": {
+        "x": -34
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "8232fd4f795fe809e7c840f5a5e4673cb28f3805",
