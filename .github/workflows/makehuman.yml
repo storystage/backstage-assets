@@ -23,12 +23,18 @@ env:
   BLENDER_SERIES: '4.5'
   BLENDER_VERSION: 4.5.14
   MPFB_TAG: v2.0.18
+  # MakeHuman's system assets and the community's glasses (both CC0; storystage2's licence audit),
+  # each pinned: the build refuses any other file. The system pack's hash is the file every person
+  # so far was made from (run 42780403805).
   ASSET_PACK: https://files2.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip
+  ASSET_SHA256: b542127a8e25547c7c29c19f2d1d2adb9a664c80396ecd694095dbc8028a0107
+  GLASSES_PACK: https://files2.makehumancommunity.org/asset_packs/glasses01/glasses01_cc0.zip
+  GLASSES_SHA256: f215c58e09e31b7ee568c814067cb47704cee6da1f6fc01cffb8e9fca37bafdd
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -48,18 +54,69 @@ jobs:
       - name: Install the tools
         working-directory: storystage2
         run: pnpm install --frozen-lockfile
+      # The community's file server limits each connection (10 Nov: 2 h 18 min for the 281 MB
+      # system pack, then 150 minutes that weren't enough), but takes byte ranges: four connections
+      # fetched six times as much as one. So the packs come over 8 connections, and are kept in the
+      # Actions cache as soon as they're downloaded, so only a new pin downloads them again. A
+      # download that doesn't finish is kept too (10 Nov: 95% in 2 hours), and the next run
+      # resumes it.
+      - name: Restore the CC0 packs
+        id: packs
+        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/packs
+          key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}
+          restore-keys: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}-partial-
+      - name: Download the CC0 packs
+        if: steps.packs.outputs.cache-hit != 'true'
+        timeout-minutes: 240
+        run: |
+          sudo apt-get install -yq aria2
+          mkdir -p "$RUNNER_TEMP/packs"
+          cd "$RUNNER_TEMP/packs"
+          # aria2 checks each file's SHA-256 itself and resumes what it has. When the server lets a
+          # transfer stall (10 Nov: 60% in, down to one connection at 0 B/s), aria2 gives up, so
+          # it's started again, with 8 fresh connections, up to 12 times.
+          fetch() {
+            for attempt in $(seq 1 12); do
+              aria2c --split=8 --max-connection-per-server=8 --min-split-size=4M \
+                --max-tries=10 --retry-wait=20 --connect-timeout=30 --lowest-speed-limit=1K \
+                --summary-interval=300 --console-log-level=warn \
+                --checksum="sha-256=$3" -o "$1" "$2" && return 0
+              echo "Attempt $attempt for $1 stopped; resuming."
+              sleep 20
+            done
+            return 1
+          }
+          fetch assets.zip "$ASSET_PACK" "$ASSET_SHA256"
+          fetch glasses.zip "$GLASSES_PACK" "$GLASSES_SHA256"
+          printf '%s  assets.zip\n%s  glasses.zip\n' "$ASSET_SHA256" "$GLASSES_SHA256" | sha256sum -c -
+      - name: Keep the CC0 packs
+        if: steps.packs.outputs.cache-hit != 'true'
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/packs
+          key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}
+      - name: Keep what was downloaded, for the next run to resume
+        if: failure() && steps.packs.outputs.cache-hit != 'true'
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/packs
+          key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}-partial-${{ github.run_id }}
       - name: Install Blender, MPFB2 and the CC0 assets
+        timeout-minutes: 20
         run: |
           sudo apt-get update -q
           sudo apt-get install -yq libxi6 libxxf86vm1 libxfixes3 libxrender1 libgl1 libsm6 libxkbcommon0 libegl1
           mkdir -p "$RUNNER_TEMP/mh"
           cd "$RUNNER_TEMP/mh"
-          curl -fsSL "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz" | tar -xJ
+          curl -fsSL --retry 5 --retry-all-errors "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz" | tar -xJ
           echo "BLENDER=$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" >> "$GITHUB_ENV"
-          curl -fsSL "https://github.com/makehumancommunity/mpfb2/archive/refs/tags/${MPFB_TAG}.tar.gz" | tar -xz
+          curl -fsSL --retry 5 --retry-all-errors "https://github.com/makehumancommunity/mpfb2/archive/refs/tags/${MPFB_TAG}.tar.gz" | tar -xz
           (cd mpfb2-*/src && zip -qr "$RUNNER_TEMP/mh/mpfb.zip" mpfb)
-          curl -fsSL -o assets.zip "$ASSET_PACK"
-          sha256sum assets.zip mpfb.zip
+          cp "$RUNNER_TEMP/packs/assets.zip" "$RUNNER_TEMP/packs/glasses.zip" .
+          printf '%s  assets.zip\n%s  glasses.zip\n' "$ASSET_SHA256" "$GLASSES_SHA256" | sha256sum -c -
+          sha256sum mpfb.zip
           "$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" --command extension install-file -r user_default -e mpfb.zip
       - name: Write the people for Blender
         working-directory: storystage2
@@ -69,7 +126,7 @@ jobs:
       - name: Make the people
         run: |
           "$BLENDER" -b --python-exit-code 1 --python storystage2/tools/makehuman-export/blender/make_people.py -- \
-            assets/generated/makehuman/people.json "$RUNNER_TEMP/mh/assets.zip" \
+            assets/generated/makehuman/people.json "$RUNNER_TEMP/mh/assets.zip" "$RUNNER_TEMP/mh/glasses.zip" \
             assets/generated/makehuman assets/previews/makehuman
           cat assets/generated/makehuman/make-report.json
       - name: Add them to Backstage
