@@ -34,7 +34,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -57,16 +57,19 @@ jobs:
       # The community's file server limits each connection (10 Nov: 2 h 18 min for the 281 MB
       # system pack, then 150 minutes that weren't enough), but takes byte ranges: four connections
       # fetched six times as much as one. So the packs come over 8 connections, and are kept in the
-      # Actions cache as soon as they're downloaded, so only a new pin downloads them again.
+      # Actions cache as soon as they're downloaded, so only a new pin downloads them again. A
+      # download that doesn't finish is kept too (10 Nov: 95% in 2 hours), and the next run
+      # resumes it.
       - name: Restore the CC0 packs
         id: packs
         uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
         with:
           path: ${{ runner.temp }}/packs
           key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}
+          restore-keys: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}-partial-
       - name: Download the CC0 packs
         if: steps.packs.outputs.cache-hit != 'true'
-        timeout-minutes: 120
+        timeout-minutes: 240
         run: |
           sudo apt-get install -yq aria2
           mkdir -p "$RUNNER_TEMP/packs"
@@ -94,6 +97,12 @@ jobs:
         with:
           path: ${{ runner.temp }}/packs
           key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}
+      - name: Keep what was downloaded, for the next run to resume
+        if: failure() && steps.packs.outputs.cache-hit != 'true'
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/packs
+          key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}-partial-${{ github.run_id }}
       - name: Install Blender, MPFB2 and the CC0 assets
         timeout-minutes: 20
         run: |
