@@ -411,7 +411,8 @@
       "credit": "Qwantani Sunset (Pure Sky) by Greg Zaal and Jarod Guest, Poly Haven (CC0)",
       "page": "https://polyhaven.com/a/qwantani_sunset_puresky",
       "backdrop": {
-        "kind": "sky"
+        "kind": "sky",
+        "ahead": 0.622
       },
       "fetch": {
         "github": "storystage/backstage-assets",
@@ -433,7 +434,8 @@
       "page": "https://polyhaven.com/a/kloppenheim_02_puresky",
       "backdrop": {
         "kind": "sky",
-        "exposure": 0.2
+        "exposure": 0.1,
+        "tint": "8ca5ff"
       },
       "fetch": {
         "github": "storystage/backstage-assets",
