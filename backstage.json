@@ -10876,6 +10876,681 @@
           "file": "sketches/polypizza/Transport/steam-train/back.svg"
         }
       ]
+    },
+    {
+      "id": "storystage/Ground/darkGrass",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Dark grass",
+      "themes": [
+        "nature",
+        "fantasy"
+      ],
+      "description": "dark green grass",
+      "files": {
+        "model": "models/storystage/Ground/darkGrass.glb",
+        "thumbnail": "thumbnails/storystage/Ground/darkGrass.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Grass 001 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Grass001",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/darkGrass/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/desert",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Desert",
+      "themes": [
+        "desert"
+      ],
+      "description": "pale cream sand",
+      "files": {
+        "model": "models/storystage/Ground/desert.glb",
+        "thumbnail": "thumbnails/storystage/Ground/desert.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ground 093A from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Ground093A",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/desert/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/dryGrass",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Dry grass",
+      "themes": [
+        "nature",
+        "countryside"
+      ],
+      "description": "dry yellow grass",
+      "files": {
+        "model": "models/storystage/Ground/dryGrass.glb",
+        "thumbnail": "thumbnails/storystage/Ground/dryGrass.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Grass 002 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Grass002",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/dryGrass/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/forestFloor",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Forest floor",
+      "themes": [
+        "forest",
+        "nature"
+      ],
+      "description": "brown earth with fallen leaves",
+      "files": {
+        "model": "models/storystage/Ground/forestFloor.glb",
+        "thumbnail": "thumbnails/storystage/Ground/forestFloor.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ground 023 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Ground023",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/forestFloor/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/grass",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Grass",
+      "themes": [
+        "nature",
+        "countryside"
+      ],
+      "description": "short green grass",
+      "files": {
+        "model": "models/storystage/Ground/grass.glb",
+        "thumbnail": "thumbnails/storystage/Ground/grass.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Grass 004 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Grass004",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/grass/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/ice",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Ice",
+      "themes": [
+        "winter"
+      ],
+      "description": "pale blue cracked ice",
+      "files": {
+        "model": "models/storystage/Ground/ice.glb",
+        "thumbnail": "thumbnails/storystage/Ground/ice.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ice 002 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Ice002",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/ice/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/jungle",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Jungle",
+      "themes": [
+        "jungle",
+        "forest"
+      ],
+      "description": "mossy green forest ground",
+      "files": {
+        "model": "models/storystage/Ground/jungle.glb",
+        "thumbnail": "thumbnails/storystage/Ground/jungle.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ground 037 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Ground037",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/jungle/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/mars",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Mars",
+      "themes": [
+        "space"
+      ],
+      "description": "orange-red gravel",
+      "files": {
+        "model": "models/storystage/Ground/mars.glb",
+        "thumbnail": "thumbnails/storystage/Ground/mars.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Gravel 025 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Gravel025",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/mars/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/moon",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Moon",
+      "themes": [
+        "space"
+      ],
+      "description": "fine, dusty grey ground",
+      "files": {
+        "model": "models/storystage/Ground/moon.glb",
+        "thumbnail": "thumbnails/storystage/Ground/moon.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ground 091 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Ground091",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/moon/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/oceanFloor",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Sea floor",
+      "themes": [
+        "sea",
+        "nature"
+      ],
+      "description": "pale sand on the sea floor",
+      "files": {
+        "model": "models/storystage/Ground/oceanFloor.glb",
+        "thumbnail": "thumbnails/storystage/Ground/oceanFloor.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ground 054 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Ground054",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/oceanFloor/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/rockyBrown",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Rocky brown",
+      "themes": [
+        "nature",
+        "countryside"
+      ],
+      "description": "brown earth with small stones",
+      "files": {
+        "model": "models/storystage/Ground/rockyBrown.glb",
+        "thumbnail": "thumbnails/storystage/Ground/rockyBrown.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ground 079S from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Ground079S",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/rockyBrown/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/room",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Room",
+      "themes": [
+        "home",
+        "school"
+      ],
+      "description": "a wooden plank floor, for a room",
+      "files": {
+        "model": "models/storystage/Ground/room.glb",
+        "thumbnail": "thumbnails/storystage/Ground/room.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "WoodFloor 051 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=WoodFloor051",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/room/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/sandyDesert",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Sandy desert",
+      "themes": [
+        "desert"
+      ],
+      "description": "golden sand in small ripples",
+      "files": {
+        "model": "models/storystage/Ground/sandyDesert.glb",
+        "thumbnail": "thumbnails/storystage/Ground/sandyDesert.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ground 097 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Ground097",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/sandyDesert/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/snow",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Snow",
+      "themes": [
+        "winter",
+        "nature"
+      ],
+      "description": "smooth white snow",
+      "files": {
+        "model": "models/storystage/Ground/snow.glb",
+        "thumbnail": "thumbnails/storystage/Ground/snow.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Snow 010A from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Snow010A",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/snow/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Ground/swamp",
+      "section": "backdrops",
+      "class": "Ground",
+      "displayName": "Swamp",
+      "themes": [
+        "swamp",
+        "nature"
+      ],
+      "description": "muddy green ground with twigs",
+      "files": {
+        "model": "models/storystage/Ground/swamp.glb",
+        "thumbnail": "thumbnails/storystage/Ground/swamp.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 2,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ground 071 from ambientCG.com (CC0)",
+      "source": {
+        "url": "https://ambientcg.com/view?id=Ground071",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Ground/swamp/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Sky/clearDay",
+      "section": "backdrops",
+      "class": "Scene",
+      "displayName": "Clear day",
+      "themes": [
+        "day"
+      ],
+      "description": "a clear blue sky with the sun high",
+      "files": {
+        "model": "models/storystage/Sky/clearDay.glb",
+        "thumbnail": "thumbnails/storystage/Sky/clearDay.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 400
+      },
+      "budget": {
+        "triangles": 960,
+        "textureMaxPx": 2048
+      },
+      "licence": "CC0-1.0",
+      "credit": "Qwantani Noon (Pure Sky) by Greg Zaal and Jarod Guest, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/qwantani_noon_puresky",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Sky/clearDay/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Sky/cloudy",
+      "section": "backdrops",
+      "class": "Scene",
+      "displayName": "Cloudy",
+      "themes": [
+        "day"
+      ],
+      "description": "a blue sky with white clouds",
+      "files": {
+        "model": "models/storystage/Sky/cloudy.glb",
+        "thumbnail": "thumbnails/storystage/Sky/cloudy.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 400
+      },
+      "budget": {
+        "triangles": 960,
+        "textureMaxPx": 2048
+      },
+      "licence": "CC0-1.0",
+      "credit": "Kloofendal 48d Partly Cloudy (Pure Sky) by Greg Zaal and Jarod Guest, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Sky/cloudy/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Sky/night",
+      "section": "backdrops",
+      "class": "Scene",
+      "displayName": "Night",
+      "themes": [
+        "night"
+      ],
+      "description": "a dark moonlit night sky",
+      "files": {
+        "model": "models/storystage/Sky/night.glb",
+        "thumbnail": "thumbnails/storystage/Sky/night.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 400
+      },
+      "budget": {
+        "triangles": 960,
+        "textureMaxPx": 2048
+      },
+      "licence": "CC0-1.0",
+      "credit": "Kloppenheim 02 (Pure Sky) by Greg Zaal and Jarod Guest, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/kloppenheim_02_puresky",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Sky/night/backdrop.svg"
+        }
+      ]
+    },
+    {
+      "id": "storystage/Sky/sunset",
+      "section": "backdrops",
+      "class": "Scene",
+      "displayName": "Sunset",
+      "themes": [
+        "evening"
+      ],
+      "description": "a sunset with the sun low on the horizon",
+      "files": {
+        "model": "models/storystage/Sky/sunset.glb",
+        "thumbnail": "thumbnails/storystage/Sky/sunset.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 400
+      },
+      "budget": {
+        "triangles": 960,
+        "textureMaxPx": 2048
+      },
+      "licence": "CC0-1.0",
+      "credit": "Qwantani Sunset (Pure Sky) by Greg Zaal and Jarod Guest, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/qwantani_sunset_puresky",
+        "retrieved": "2026-11-10"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/storystage/Sky/sunset/backdrop.svg"
+        }
+      ]
     }
   ]
 }

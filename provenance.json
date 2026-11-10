@@ -3232,5 +3232,564 @@
       "nodes": [],
       "animations": []
     }
+  },
+  "storystage/Ground/darkGrass": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/darkGrass.jpg",
+        "sha256": "b9b6d61bc3b6137b868a3447eef18737896acd26d58fe2f4b83ce8c0e9d3f8ad"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "2f5a2c",
+      "before": "445c28",
+      "after": "2f5a2c"
+    }
+  },
+  "storystage/Ground/desert": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/desert.jpg",
+        "sha256": "02c975ea6ffecaa4cc1201a1a5a0455470137eaa01b64677700d7ac91ca41ab0"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "e0c98f",
+      "before": "ccb995",
+      "after": "e0c98f"
+    }
+  },
+  "storystage/Ground/dryGrass": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/dryGrass.jpg",
+        "sha256": "9d6d920f27a38376747e0ac9458ee6449a94d382d2626b3d215d769231a023fd"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "a8a05a",
+      "before": "384b23",
+      "after": "a8a05a"
+    }
+  },
+  "storystage/Ground/forestFloor": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/forestFloor.jpg",
+        "sha256": "458156780810eefc52a945b55f11d02571042fcd077134b59bb330335f68571a"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "5c4630",
+      "before": "675a4b",
+      "after": "5c4630"
+    }
+  },
+  "storystage/Ground/grass": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/grass.jpg",
+        "sha256": "9e1c60da44b34a9738b1256ba827541f097dc583521b1d281e61b5f4b4217bc5"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "5f9e3a",
+      "before": "606d30",
+      "after": "5f9e3a"
+    }
+  },
+  "storystage/Ground/ice": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/ice.jpg",
+        "sha256": "9aa010f0fa4e01a982e593eb5b06f82671acc9023a67d9451bbc94cacd7ef44c"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "a9d6e8",
+      "before": "627b70",
+      "after": "a9d6e8"
+    }
+  },
+  "storystage/Ground/jungle": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/jungle.jpg",
+        "sha256": "d92bec8a35b9cb16ec79b421ca0f572a7400286eae109beafa266629ef49a6cf"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "2c6e36",
+      "before": "989358",
+      "after": "2c6e36"
+    }
+  },
+  "storystage/Ground/mars": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/mars.jpg",
+        "sha256": "5a919c91753e860e354867b04d96f3d2cedd0a6f41af38529f8c4a2924e2ce00"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "a8552e",
+      "before": "9e612b",
+      "after": "a8552e"
+    }
+  },
+  "storystage/Ground/moon": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/moon.jpg",
+        "sha256": "5853b325a05fc40c6eb7af285e44f8bfb0229b29af03fa170e61cc0d64c7b89a"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "8c8c8c",
+      "before": "b2a58f",
+      "after": "8c8c8c"
+    }
+  },
+  "storystage/Ground/oceanFloor": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/oceanFloor.jpg",
+        "sha256": "77c0b5ac13eead1420887c608b2c28209a1ae5ba70761bf29953aa23cf3dc31b"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "c2b280",
+      "before": "9c8b6e",
+      "after": "c2b280"
+    }
+  },
+  "storystage/Ground/rockyBrown": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/rockyBrown.jpg",
+        "sha256": "9943235b3605983c3890ad20c266441dcbd35f161e0da7e1b3ffb3529dd9cd3f"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "6e5442",
+      "before": "b39772",
+      "after": "6e5442"
+    }
+  },
+  "storystage/Ground/room": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/room.jpg",
+        "sha256": "ffbe4de8765619f278c5f819cd751e003808fa671eb99603abdf82b94ca85e9a"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "8a5a3c",
+      "before": "9b7b5d",
+      "after": "8a5a3c"
+    }
+  },
+  "storystage/Ground/sandyDesert": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/sandyDesert.jpg",
+        "sha256": "e9ae2d0e3b36bb15fbc665c8c06a2313eeb99ca2fdff3dcccde409c33274c562"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "c9a86a",
+      "before": "c2a177",
+      "after": "c9a86a"
+    }
+  },
+  "storystage/Ground/snow": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/snow.jpg",
+        "sha256": "ce7b984376757d3c0f7e5fdd43fa84241a9f7026c9f530813c2e493061a369b2"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "f2f6fa",
+      "before": "dfeffc",
+      "after": "f2f6fa"
+    }
+  },
+  "storystage/Ground/swamp": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/swamp.jpg",
+        "sha256": "3d46cc8b373655c29b5b523b9ea270ad6056dc8efe1a292d25a34d6783f6ca61"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 2,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "look": "47573a",
+      "before": "81664a",
+      "after": "47573a"
+    }
+  },
+  "storystage/Sky/clearDay": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/sky-clearDay.jpg",
+        "sha256": "c219d63818623ae1d1f341491e7c8086af26cb4c382901ddb2b218c367a9c6a1"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 960,
+    "textureMaxPx": 2048,
+    "fetchedSize": {
+      "triangles": 960,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "horizon": "aebfd0",
+      "lighting": {
+        "above": "99bdec",
+        "below": "454c53"
+      }
+    }
+  },
+  "storystage/Sky/cloudy": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/sky-cloudy.jpg",
+        "sha256": "b0b64b89705e971964eb3533fd640d27e0eef165b1d02dde0704bc99af956912"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 960,
+    "textureMaxPx": 2048,
+    "fetchedSize": {
+      "triangles": 960,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "horizon": "99a1b3",
+      "lighting": {
+        "above": "acbfe9",
+        "below": "3d4048"
+      }
+    }
+  },
+  "storystage/Sky/night": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/sky-night.jpg",
+        "sha256": "5b5f83161dd9dfb0d7067338e013c13d3c2e05b4853a81f92f6436d1bb223301"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 960,
+    "textureMaxPx": 2048,
+    "fetchedSize": {
+      "triangles": 960,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "horizon": "545b63",
+      "lighting": {
+        "above": "7b8ca3",
+        "below": "222528"
+      }
+    }
+  },
+  "storystage/Sky/sunset": {
+    "source": "backdrops",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/345a7e6e2b10489442b64cded511dec2095f44c0/originals/backdrops/sky-sunset.jpg",
+        "sha256": "a12a400a9216ea5be37e6cddd8bf318d8fbc956efd0ee93f861e9687528221fb"
+      }
+    ],
+    "retrieved": "2026-11-10",
+    "vrm": null,
+    "triangles": 960,
+    "textureMaxPx": 2048,
+    "fetchedSize": {
+      "triangles": 960,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    },
+    "backdrop": {
+      "horizon": "c6c1b4",
+      "lighting": {
+        "above": "a6c5ea",
+        "below": "4f4d48"
+      }
+    }
   }
 }
