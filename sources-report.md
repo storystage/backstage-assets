@@ -69,6 +69,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polypizza/Prop/computer` | Computer | CC-BY-3.0 | props | 484 | — | yes | none | 0.45 m | glTF | — | 4 |
 | `polypizza/Prop/cooker` | Cooker | CC0-1.0 | props | 2462 | 256 | yes | none | 0.9 m | glTF | — | 4 |
 | `polypizza/Prop/corner-shop` | Corner shop | CC-BY-3.0 | set | 9829 | — | yes | none | 5 m | glTF | — | 4 |
+| `polypizza/Prop/crutches` | Crutches | CC-BY-3.0 | props | 1136 | — | yes | none | 1.15 m | glTF | — | 4 |
 | `polypizza/Prop/cup-of-tea` | Cup of tea | CC0-1.0 | props | 436 | 128 | yes | none | 0.08 m | glTF | — | 4 |
 | `polypizza/Prop/cupboard` | Cupboard | CC0-1.0 | props | 536 → 296 | — | yes | none | 1.9 m | glTF | — | 4 |
 | `polypizza/Prop/desk` | Desk | CC0-1.0 | props | 352 → 198 | — | yes | none | 0.77 m | glTF | — | 4 |
@@ -113,6 +114,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polypizza/Prop/umbrella` | Umbrella | CC-BY-3.0 | props | 664 | 2048 → 1024 | yes | none | 1 m | glTF | — | 4 |
 | `polypizza/Prop/watering-can` | Watering can | CC0-1.0 | props | 710 | 1024 | yes | none | 0.3 m | glTF | — | 4 |
 | `polypizza/Prop/well` | Well | CC-BY-3.0 | set | 3466 | — | yes | none | 2.2 m | glTF | — | 4 |
+| `polypizza/Prop/wheelchair` | Wheelchair | CC-BY-3.0 | props | 16964 → 8000 | 4096 → 1024 | yes | none | 0.9 m | glTF | — | 4 |
 | `polypizza/Prop/wooden-fence` | Wooden fence | CC-BY-3.0 | set | 192 | — | yes | none | 1.11 m | glTF | — | 4 |
 | `polypizza/Transport/aeroplane` | Aeroplane | CC-BY-3.0 | props | 4428 | — | yes | none | 11.83 m | glTF | — | 4 |
 | `polypizza/Transport/bicycle` | Bicycle | CC-BY-3.0 | props | 2466 | — | yes | none | 1 m | glTF | — | 4 |
@@ -124,4 +126,4 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 
 Triangles and textures show fetched → shipped where the build reduced them to the section's budget (`ITEM_BUDGETS`, provisional until the reference devices have run). VRM files are kept byte for byte, so they aren't reduced. VRM 0.x avatars face -Z and must be turned by the stage's loader.
 
-**Prompter catalogue:** about 5,511 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 5,595 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
