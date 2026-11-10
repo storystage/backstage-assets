@@ -1370,6 +1370,49 @@
         "commit": "f00da690898cf0b2532e190eee03b197f7254f30",
         "path": "originals/polypizza/fountain.glb"
       }
+    },
+    {
+      "id": "polypizza/Prop/wheelchair",
+      "displayName": "Wheelchair",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "everyday",
+        "health"
+      ],
+      "description": "a manual wheelchair with a dark blue seat and big spoked wheels",
+      "licence": "CC-BY-3.0",
+      "credit": "Wheelchair by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/0gb5yuNcwbg",
+      "height": 0.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8232fd4f795fe809e7c840f5a5e4673cb28f3805",
+        "path": "originals/polypizza/wheelchair.glb"
+      }
+    },
+    {
+      "id": "polypizza/Prop/crutches",
+      "displayName": "Crutches",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "everyday",
+        "health"
+      ],
+      "description": "a pair of grey forearm crutches",
+      "licence": "CC-BY-3.0",
+      "credit": "Crutches by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/2V9ccKGCo-r",
+      "height": 1.15,
+      "turn": {
+        "x": -34
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8232fd4f795fe809e7c840f5a5e4673cb28f3805",
+        "path": "originals/polypizza/crutches.glb"
+      }
     }
   ]
 }
