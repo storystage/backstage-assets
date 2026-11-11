@@ -1,0 +1,326 @@
+{
+  "source": "museum",
+  "items": [
+    {
+      "licence": "CC0-1.0",
+      "id": "smithsonian/Transport/apollo-11-command-module",
+      "displayName": "Apollo 11 command module",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "the cone-shaped Apollo 11 spacecraft that brought three astronauts home from the Moon",
+      "credit": "Command Module, Apollo 11, Smithsonian National Air and Space Museum (CC0)",
+      "page": "https://3d.si.edu/object/3d/command-module-apollo-11:d8c6457e-4ebc-11ea-b77f-2e728ce88125",
+      "height": 3.2,
+      "fetch": {
+        "url": "https://3d-api.si.edu/content/document/3d_package:d8c6457e-4ebc-11ea-b77f-2e728ce88125/resources/apollo_exterior-150k-4096.glb",
+        "sha256": "9938e0bdbf986e5a1857a1edc2f48a5780027d7d887af8eda208520e3053e0c6",
+        "ext": "glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "smithsonian/Transport/space-shuttle-discovery",
+      "displayName": "Space Shuttle Discovery",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "the white Space Shuttle Discovery, with black tiles underneath",
+      "credit": "Orbiter, Space Shuttle, OV-103, Discovery, Smithsonian National Air and Space Museum (CC0)",
+      "page": "https://3d.si.edu/object/3d/orbiter-space-shuttle-ov-103-discovery:d8c636ce-4ebc-11ea-b77f-2e728ce88125",
+      "height": 15.8,
+      "fetch": {
+        "url": "https://3d-api.si.edu/content/document/3d_package:d8c636ce-4ebc-11ea-b77f-2e728ce88125/resources/Orbiter_Space_Shuttle_OV-103_Discovery-150k-4096.glb",
+        "sha256": "f980a20f076b65de7c2f193d1d84e7a7d7c642e3123a40e2dbe8e4a649685117",
+        "ext": "glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "smithsonian/Transport/wright-flyer",
+      "displayName": "1903 Wright Flyer",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "flight",
+        "history",
+        "inventions"
+      ],
+      "description": "the Wright brothers' first aeroplane, with two long fabric wings",
+      "credit": "1903 Wright Flyer, Smithsonian National Air and Space Museum (CC0)",
+      "page": "https://3d.si.edu/object/3d/1903-wright-flyer:d8c62e5e-4ebc-11ea-b77f-2e728ce88125",
+      "height": 2.8,
+      "fetch": {
+        "url": "https://3d-api.si.edu/content/document/3d_package:d8c62e5e-4ebc-11ea-b77f-2e728ce88125/resources/1903WrightFlyer-150k-4096_std.glb",
+        "sha256": "67ef55d50b5c78c11eb7262470728c50d1ce5a6d345ba158ee404c1d5f9514f4",
+        "ext": "glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "smithsonian/Transport/bell-x-1",
+      "displayName": "Bell X-1",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "flight",
+        "history"
+      ],
+      "description": "the orange rocket plane that first flew faster than sound",
+      "credit": "Bell X-1, Smithsonian National Air and Space Museum (CC0)",
+      "page": "https://3d.si.edu/object/3d/bell-x-1:6c69a6bb-55e6-4356-8725-120ff7f8d652",
+      "height": 3.2,
+      "fetch": {
+        "url": "https://3d-api.si.edu/content/document/3d_package:6c69a6bb-55e6-4356-8725-120ff7f8d652/resources/bell_x1_low_resolution.glb",
+        "sha256": "e7b58d6350ed7da6e926c29f982e4ecc22a1caacf924e818ec1fddd6e6fd7ad3",
+        "ext": "glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "smithsonian/Prop/woolly-mammoth",
+      "displayName": "Woolly mammoth skeleton",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "fossils",
+        "museum",
+        "science"
+      ],
+      "description": "a woolly mammoth's skeleton, with long curved tusks",
+      "credit": "Mammuthus primigenius (Blumbach), Smithsonian National Museum of Natural History (CC0)",
+      "page": "https://3d.si.edu/object/3d/mammuthus-primigenius-blumbach:341c96cd-f967-4540-8ed1-d3fc56d31f12",
+      "height": 3.4,
+      "fetch": {
+        "url": "https://3d-api.si.edu/content/document/3d_package:341c96cd-f967-4540-8ed1-d3fc56d31f12/resources/woolly-mammoth-100k-4096_std.glb",
+        "sha256": "9633d983babfddbe7379c8e03394e3670ab36c337242709ebbdccea2beb8e530",
+        "ext": "glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "smithsonian/Prop/triceratops",
+      "displayName": "Triceratops skeleton",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "fossils",
+        "dinosaurs",
+        "museum"
+      ],
+      "description": "a Triceratops skeleton, with three horns and a bony frill",
+      "credit": "Triceratops horridus Marsh, 1889, Smithsonian National Museum of Natural History (CC0)",
+      "page": "https://3d.si.edu/object/3d/triceratops-horridus-marsh-1889:d8c623be-4ebc-11ea-b77f-2e728ce88125",
+      "fetch": {
+        "url": "https://3d-api.si.edu/content/document/3d_package:d8c623be-4ebc-11ea-b77f-2e728ce88125/resources/Triceratops_horridus_Marsh_1889-150k-4096.glb",
+        "sha256": "cd8525c7371d14876bcdefe3f579d216bf597db892c2de6ed597da86bf1a98b3",
+        "ext": "glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "smithsonian/Prop/morse-telegraph-key",
+      "displayName": "Morse telegraph key",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "inventions",
+        "history"
+      ],
+      "description": "an early telegraph key on a wooden base, for sending Morse code",
+      "credit": "Morse-Vail Telegraph Key, Smithsonian National Museum of American History (CC0)",
+      "page": "https://3d.si.edu/object/3d/morse-vail-telegraph-key:ed99f44d-3c60-4111-b666-e2908e1b64ef",
+      "height": 0.08,
+      "fetch": {
+        "url": "https://3d-api.si.edu/content/document/3d_package:ed99f44d-3c60-4111-b666-e2908e1b64ef/resources/morse-telegraph-key-150k-4096.glb",
+        "sha256": "ece8213900cc8d4d8cd77b245f4c3390b89131a58baa99e1beddc717010e3aca",
+        "ext": "glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "smithsonian/Prop/lincoln-patent-model",
+      "displayName": "Lincoln's patent model",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "inventions",
+        "history"
+      ],
+      "description": "Abraham Lincoln's wooden model of a boat with floats to lift it over shallow water",
+      "credit": "Abraham Lincoln's Patent Model, Smithsonian National Museum of American History (CC0)",
+      "page": "https://3d.si.edu/object/3d/abraham-lincolns-patent-model:9172faae-dbbe-424a-a9e7-56f4428a06dd",
+      "fetch": {
+        "url": "https://3d-api.si.edu/content/document/3d_package:9172faae-dbbe-424a-a9e7-56f4428a06dd/resources/lincoln_patent_model-150k-4096_std.glb",
+        "sha256": "fa81b366dc6766a609899e4af561d8d796682c758cceef67d9f2bd5fba7aac65",
+        "ext": "glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "scottishmaritime/Transport/venus",
+      "displayName": "Shetland rowing boat",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "sea",
+        "boats",
+        "history"
+      ],
+      "description": "a wooden Shetland rowing boat on a wooden stand",
+      "credit": "\"Venus\", a Shetland fourareen, Scottish Maritime Museum (CC0)",
+      "page": "https://sketchfab.com/3d-models/venus-a-shetland-fourareen-with-base-4c903a14567f47fcb9d1bbf3e38ca502",
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
+        "path": "originals/museum/smm/venus.glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "scottishmaritime/Transport/rnlb-jane-anne",
+      "displayName": "Lifeboat",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "sea",
+        "boats",
+        "history"
+      ],
+      "description": "an old wooden lifeboat with oars",
+      "credit": "RNLB Jane Anne, Scottish Maritime Museum (CC0)",
+      "page": "https://sketchfab.com/3d-models/rnlb-jane-anne-63e09f1e91094dd8a2ad2f9ecf778794",
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
+        "path": "originals/museum/smm/rnlb-jane-anne.glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "scottishmaritime/Transport/mary-chalmers",
+      "displayName": "Rowing boat",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "sea",
+        "boats",
+        "history"
+      ],
+      "description": "a small wooden rowing boat",
+      "credit": "\"Mary Chalmers\", Scottish Maritime Museum (CC0)",
+      "page": "https://sketchfab.com/3d-models/mary-chalmers-7a7fd136ff5c470784b908960601b3b9",
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
+        "path": "originals/museum/smm/mary-chalmers.glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "scottishmaritime/Transport/mv-spartan",
+      "displayName": "Puffer ship",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "sea",
+        "boats",
+        "history"
+      ],
+      "description": "a small old cargo ship with a tall funnel",
+      "credit": "MV Spartan, Scottish Maritime Museum (CC0)",
+      "page": "https://sketchfab.com/3d-models/mv-spartan-e2c3ced464f14e3b864f15871bf6d87d",
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
+        "path": "originals/museum/smm/mv-spartan.glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "scottishmaritime/Prop/steam-hammer",
+      "displayName": "Steam hammer",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "engines",
+        "inventions",
+        "history"
+      ],
+      "description": "a tall iron steam hammer from a shipyard",
+      "credit": "RG Ross & Sons Steam Hammer, Scottish Maritime Museum (CC0)",
+      "page": "https://sketchfab.com/3d-models/rg-ross-sons-steam-hammer-d80b52dc800e4c76b6b27749bbd8e782",
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
+        "path": "originals/museum/smm/steam-hammer.glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "scottishmaritime/Prop/locomotive-headlamp",
+      "displayName": "Locomotive headlamp",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "trains",
+        "engines",
+        "history"
+      ],
+      "description": "a steam train's old metal headlamp",
+      "credit": "Locomotive Headlamp, Scottish Maritime Museum (CC0)",
+      "page": "https://sketchfab.com/3d-models/locomotive-headlamp-f4f2e2d5cbda44ae8f059a267b459269",
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
+        "path": "originals/museum/smm/locomotive-headlamp.glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "scottishmaritime/Prop/safety-lamp",
+      "displayName": "Miner's safety lamp",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "inventions",
+        "history",
+        "mining"
+      ],
+      "description": "a brass miner's safety lamp with a glass cylinder",
+      "credit": "Safety Flame Lamp from the Shale Oil Museum, Scottish Maritime Museum (CC0)",
+      "page": "https://sketchfab.com/3d-models/safety-flame-lamp-from-the-shale-oil-museum-643da293172e4d84b504d3d99f8e0df8",
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
+        "path": "originals/museum/smm/safety-lamp.glb"
+      }
+    },
+    {
+      "licence": "CC0-1.0",
+      "id": "scottishmaritime/Prop/snow-goggles",
+      "displayName": "Captain Scott's snow goggles",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "exploration",
+        "history",
+        "polar"
+      ],
+      "description": "wooden snow goggles with thin eye slits, from a polar expedition",
+      "credit": "Wooden snow goggles belonging to Captain Scott, Scottish Maritime Museum (CC0)",
+      "page": "https://sketchfab.com/3d-models/wooden-snow-goggles-belonging-to-captain-scott-622b4a4f37fd4483ae4307305b4f017f",
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
+        "path": "originals/museum/smm/snow-goggles.glb"
+      }
+    }
+  ]
+}
