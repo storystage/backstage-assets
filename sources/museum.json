@@ -55,6 +55,9 @@
       "credit": "Bell X-1, Smithsonian National Air and Space Museum (CC0)",
       "page": "https://3d.si.edu/object/3d/bell-x-1:6c69a6bb-55e6-4356-8725-120ff7f8d652",
       "height": 3.2,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "url": "https://3d-api.si.edu/content/document/3d_package:6c69a6bb-55e6-4356-8725-120ff7f8d652/resources/bell_x1_low_resolution.glb",
         "sha256": "e7b58d6350ed7da6e926c29f982e4ecc22a1caacf924e818ec1fddd6e6fd7ad3",
@@ -155,6 +158,9 @@
       "description": "a wooden Shetland rowing boat on a wooden stand",
       "credit": "\"Venus\", a Shetland fourareen, Scottish Maritime Museum (CC0)",
       "page": "https://sketchfab.com/3d-models/venus-a-shetland-fourareen-with-base-4c903a14567f47fcb9d1bbf3e38ca502",
+      "turn": {
+        "y": -90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
@@ -175,6 +181,9 @@
       "description": "an old wooden lifeboat with oars",
       "credit": "RNLB Jane Anne, Scottish Maritime Museum (CC0)",
       "page": "https://sketchfab.com/3d-models/rnlb-jane-anne-63e09f1e91094dd8a2ad2f9ecf778794",
+      "turn": {
+        "y": -90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
@@ -195,6 +204,9 @@
       "description": "a small wooden rowing boat",
       "credit": "\"Mary Chalmers\", Scottish Maritime Museum (CC0)",
       "page": "https://sketchfab.com/3d-models/mary-chalmers-7a7fd136ff5c470784b908960601b3b9",
+      "turn": {
+        "y": -34
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
@@ -215,6 +227,9 @@
       "description": "a small old cargo ship with a tall funnel",
       "credit": "MV Spartan, Scottish Maritime Museum (CC0)",
       "page": "https://sketchfab.com/3d-models/mv-spartan-e2c3ced464f14e3b864f15871bf6d87d",
+      "turn": {
+        "y": -90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "653227fbbf2a7df3c4b5f3b787090514faa4c818",
