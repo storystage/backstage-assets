@@ -123,6 +123,21 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polypizza/Transport/rocket` | Rocket | CC-BY-3.0 | props | 732 | — | yes | none | 11.95 m | glTF | — | 4 |
 | `polypizza/Transport/rowing-boat` | Rowing boat | CC-BY-3.0 | props | 1030 | 256 | yes | none | 0.6 m | glTF | — | 4 |
 | `polypizza/Transport/steam-train` | Steam train | CC-BY-3.0 | props | 4248 | — | yes | none | 4 m | glTF | — | 4 |
+| `scottishmaritime/Prop/locomotive-headlamp` | Locomotive headlamp | CC0-1.0 | props | 23593 → 7999 | 1024 | yes | none | 0.37 m | glTF | — | 4 |
+| `scottishmaritime/Prop/safety-lamp` | Miner's safety lamp | CC0-1.0 | props | 25514 → 7998 | 1024 | yes | none | 0.28 m | glTF | — | 4 |
+| `scottishmaritime/Prop/snow-goggles` | Captain Scott's snow goggles | CC0-1.0 | props | 19764 → 8000 | 1024 | yes | none | 0.09 m | glTF | — | 4 |
+| `scottishmaritime/Prop/steam-hammer` | Steam hammer | CC0-1.0 | set | 70069 → 20000 | 1024 | yes | none | 3.45 m | glTF | — | 4 |
+| `scottishmaritime/Transport/mary-chalmers` | Rowing boat | CC0-1.0 | props | 79985 → 8000 | 1024 | yes | none | 0.41 m | glTF | — | 4 |
+| `scottishmaritime/Transport/mv-spartan` | Puffer ship | CC0-1.0 | set | 511093 → 19543 | 1024 | yes | none | 9.14 m | glTF | — | 4 |
+| `scottishmaritime/Transport/rnlb-jane-anne` | Lifeboat | CC0-1.0 | set | 185230 → 19918 | 1024 | yes | none | 2.74 m | glTF | — | 4 |
+| `scottishmaritime/Transport/venus` | Shetland rowing boat | CC0-1.0 | props | 19888 → 7839 | 1024 | yes | none | 1.62 m | glTF | — | 4 |
+| `smithsonian/Prop/lincoln-patent-model` | Lincoln's patent model | CC0-1.0 | props | 150000 → 7998 | 4096 → 1024 | yes | none | 0.25 m | glTF | — | 4 |
+| `smithsonian/Prop/morse-telegraph-key` | Morse telegraph key | CC0-1.0 | props | 150000 → 8000 | 4096 → 1024 | yes | none | 0.08 m | glTF | — | 4 |
+| `smithsonian/Prop/triceratops` | Triceratops skeleton | CC0-1.0 | set | 149998 → 19998 | 4096 → 1024 | yes | none | 1.65 m | glTF | — | 4 |
+| `smithsonian/Prop/woolly-mammoth` | Woolly mammoth skeleton | CC0-1.0 | set | 100000 → 19996 | 4096 → 1024 | yes | none | 3.4 m | glTF | — | 4 |
+| `smithsonian/Transport/apollo-11-command-module` | Apollo 11 command module | CC0-1.0 | set | 241166 → 19996 | 4096 → 1024 | yes | none | 3.2 m | glTF | — | 4 |
+| `smithsonian/Transport/bell-x-1` | Bell X-1 | CC0-1.0 | set | 103678 → 19622 | 4096 → 1024 | yes | none | 3.2 m | glTF | — | 4 |
+| `smithsonian/Transport/space-shuttle-discovery` | Space Shuttle Discovery | CC0-1.0 | set | 150000 → 19387 | 4096 → 1024 | yes | none | 15.8 m | glTF | — | 4 |
 | `storystage/Ground/darkGrass` | Dark grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/desert` | Desert | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/dryGrass` | Dry grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
@@ -174,4 +189,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** about 6,146 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 6,937 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
