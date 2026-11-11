@@ -6,7 +6,7 @@
       "id": "smithsonian/Transport/apollo-11-command-module",
       "displayName": "Apollo 11 command module",
       "class": "Transport",
-      "section": "props",
+      "section": "set",
       "themes": [
         "space",
         "history"
@@ -26,7 +26,7 @@
       "id": "smithsonian/Transport/space-shuttle-discovery",
       "displayName": "Space Shuttle Discovery",
       "class": "Transport",
-      "section": "props",
+      "section": "set",
       "themes": [
         "space",
         "history"
@@ -43,31 +43,10 @@
     },
     {
       "licence": "CC0-1.0",
-      "id": "smithsonian/Transport/wright-flyer",
-      "displayName": "1903 Wright Flyer",
-      "class": "Transport",
-      "section": "props",
-      "themes": [
-        "flight",
-        "history",
-        "inventions"
-      ],
-      "description": "the Wright brothers' first aeroplane, with two long fabric wings",
-      "credit": "1903 Wright Flyer, Smithsonian National Air and Space Museum (CC0)",
-      "page": "https://3d.si.edu/object/3d/1903-wright-flyer:d8c62e5e-4ebc-11ea-b77f-2e728ce88125",
-      "height": 2.8,
-      "fetch": {
-        "url": "https://3d-api.si.edu/content/document/3d_package:d8c62e5e-4ebc-11ea-b77f-2e728ce88125/resources/1903WrightFlyer-150k-4096_std.glb",
-        "sha256": "67ef55d50b5c78c11eb7262470728c50d1ce5a6d345ba158ee404c1d5f9514f4",
-        "ext": "glb"
-      }
-    },
-    {
-      "licence": "CC0-1.0",
       "id": "smithsonian/Transport/bell-x-1",
       "displayName": "Bell X-1",
       "class": "Transport",
-      "section": "props",
+      "section": "set",
       "themes": [
         "flight",
         "history"
