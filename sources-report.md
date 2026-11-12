@@ -138,21 +138,33 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `smithsonian/Transport/apollo-11-command-module` | Apollo 11 command module | CC0-1.0 | set | 241166 → 19996 | 4096 → 1024 | yes | none | 3.2 m | glTF | — | 4 |
 | `smithsonian/Transport/bell-x-1` | Bell X-1 | CC0-1.0 | set | 103678 → 19622 | 4096 → 1024 | yes | none | 3.2 m | glTF | — | 4 |
 | `smithsonian/Transport/space-shuttle-discovery` | Space Shuttle Discovery | CC0-1.0 | set | 150000 → 19387 | 4096 → 1024 | yes | none | 15.8 m | glTF | — | 4 |
+| `storystage/Ground/brick` | Brick | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/brownSavannaGrass` | Brown savanna grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/darkForestFloor` | Dark forest floor | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/darkGrass` | Dark grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/desert` | Desert | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/dirt` | Dirt | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/dryGrass` | Dry grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/forestFloor` | Forest floor | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/grass` | Grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/greenSavannaGrass` | Green savanna grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/ice` | Ice | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/jungle` | Jungle | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/mars` | Mars | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/moon` | Moon | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/oceanFloor` | Sea floor | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/poisonSwamp` | Poison swamp | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/redForestFloor` | Red forest floor | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/rockyBrown` | Rocky brown | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/rockyRed` | Rocky red | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/rockySand` | Rocky sand | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/room` | Room | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/sand` | Sand | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/sandyDesert` | Sandy desert | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/snow` | Snow | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/swamp` | Swamp | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/swampWater` | Swamp water | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
+| `storystage/Ground/wood` | Wood | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Sky/clearDay` | Clear day | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
 | `storystage/Sky/cloudy` | Cloudy | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
 | `storystage/Sky/night` | Night | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
@@ -164,21 +176,33 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 
 | Ground | Stage colour | Fetched average | Shipped average |
 |---|---|---|---|
+| `storystage/Ground/brick` | #9c4a36 | #b9946b | #9c4a36 |
+| `storystage/Ground/brownSavannaGrass` | #a58a54 | #64842b | #a58a54 |
+| `storystage/Ground/darkForestFloor` | #33291f | #7d5532 | #33291f |
 | `storystage/Ground/darkGrass` | #2f5a2c | #445c28 | #2f5a2c |
 | `storystage/Ground/desert` | #e0c98f | #ccb995 | #e0c98f |
+| `storystage/Ground/dirt` | #7a5a3c | #7b6951 | #7a5a3c |
 | `storystage/Ground/dryGrass` | #a8a05a | #384b23 | #a8a05a |
 | `storystage/Ground/forestFloor` | #5c4630 | #675a4b | #5c4630 |
 | `storystage/Ground/grass` | #5f9e3a | #606d30 | #5f9e3a |
+| `storystage/Ground/greenSavannaGrass` | #8a9a4a | #41491e | #8a9a4a |
 | `storystage/Ground/ice` | #a9d6e8 | #627b70 | #a9d6e8 |
 | `storystage/Ground/jungle` | #2c6e36 | #989358 | #2c6e36 |
 | `storystage/Ground/mars` | #a8552e | #9e612b | #a8552e |
 | `storystage/Ground/moon` | #8c8c8c | #b2a58f | #8c8c8c |
 | `storystage/Ground/oceanFloor` | #c2b280 | #9c8b6e | #c2b280 |
+| `storystage/Ground/poisonSwamp` | #5a8c32 | #4a6519 | #5a8c32 |
+| `storystage/Ground/redForestFloor` | #7a3c28 | #916d3a | #7a3c28 |
 | `storystage/Ground/rockyBrown` | #6e5442 | #b39772 | #6e5442 |
+| `storystage/Ground/rockyRed` | #8a4632 | #635a4f | #8a4632 |
+| `storystage/Ground/rockySand` | #b5a282 | #978251 | #b5a282 |
 | `storystage/Ground/room` | #8a5a3c | #9b7b5d | #8a5a3c |
+| `storystage/Ground/sand` | #d9c48f | #b59e71 | #d9c48f |
 | `storystage/Ground/sandyDesert` | #c9a86a | #c2a177 | #c9a86a |
 | `storystage/Ground/snow` | #f2f6fa | #dfeffc | #f2f6fa |
 | `storystage/Ground/swamp` | #47573a | #81664a | #47573a |
+| `storystage/Ground/swampWater` | #3c5a4a | #9e8767 | #3c5a4a |
+| `storystage/Ground/wood` | #8c5a32 | #503e2e | #8c5a32 |
 
 **Picture skies:** for the stage's `SKIES` and lighting tables (S3). The lighting is a suggestion.
 
@@ -189,4 +213,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** about 6,941 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 7,289 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
