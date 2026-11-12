@@ -357,6 +357,282 @@
       }
     },
     {
+      "id": "storystage/Ground/dirt",
+      "displayName": "Dirt",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "nature",
+        "countryside"
+      ],
+      "description": "bare brown earth",
+      "licence": "CC0-1.0",
+      "credit": "Ground 103 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground103",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/dirt.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/sand",
+      "displayName": "Sand",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "beach",
+        "nature"
+      ],
+      "description": "smooth yellow sand",
+      "licence": "CC0-1.0",
+      "credit": "Ground 080 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground080",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/sand.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/swampWater",
+      "displayName": "Swamp water",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "swamp",
+        "nature"
+      ],
+      "description": "murky green water over mud",
+      "licence": "CC0-1.0",
+      "credit": "Ground 050 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground050",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/swampWater.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/poisonSwamp",
+      "displayName": "Poison swamp",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "swamp",
+        "fantasy"
+      ],
+      "description": "bright green moss",
+      "licence": "CC0-1.0",
+      "credit": "Moss 002 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Moss002",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/poisonSwamp.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/brownSavannaGrass",
+      "displayName": "Brown savanna grass",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "savanna",
+        "nature"
+      ],
+      "description": "short dry brown grass",
+      "licence": "CC0-1.0",
+      "credit": "Grass 008 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Grass008",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/brownSavannaGrass.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/greenSavannaGrass",
+      "displayName": "Green savanna grass",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "savanna",
+        "nature"
+      ],
+      "description": "short yellow-green grass",
+      "licence": "CC0-1.0",
+      "credit": "Grass 003 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Grass003",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/greenSavannaGrass.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/redForestFloor",
+      "displayName": "Red forest floor",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "forest",
+        "autumn"
+      ],
+      "description": "red fallen leaves on the ground",
+      "licence": "CC0-1.0",
+      "credit": "ScatteredLeaves 009 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=ScatteredLeaves009",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/redForestFloor.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/darkForestFloor",
+      "displayName": "Dark forest floor",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "forest",
+        "night"
+      ],
+      "description": "dark fallen leaves on the ground",
+      "licence": "CC0-1.0",
+      "credit": "ScatteredLeaves 001 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=ScatteredLeaves001",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/darkForestFloor.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/rockySand",
+      "displayName": "Rocky sand",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "nature",
+        "beach"
+      ],
+      "description": "pale sand with small stones and grass",
+      "licence": "CC0-1.0",
+      "credit": "Ground 074 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground074",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/rockySand.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/rockyRed",
+      "displayName": "Rocky red",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "desert",
+        "space"
+      ],
+      "description": "red earth with small stones",
+      "licence": "CC0-1.0",
+      "credit": "Ground 110 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Ground110",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/rockyRed.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/wood",
+      "displayName": "Wood",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "home",
+        "pirates"
+      ],
+      "description": "wooden planks",
+      "licence": "CC0-1.0",
+      "credit": "Planks 037A from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Planks037A",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/wood.jpg"
+      }
+    },
+    {
+      "id": "storystage/Ground/brick",
+      "displayName": "Brick",
+      "class": "Ground",
+      "section": "backdrops",
+      "themes": [
+        "town",
+        "home"
+      ],
+      "description": "red bricks",
+      "licence": "CC0-1.0",
+      "credit": "Bricks 105 from ambientCG.com (CC0)",
+      "page": "https://ambientcg.com/view?id=Bricks105",
+      "backdrop": {
+        "kind": "ground",
+        "tile": 2
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "e40200825192dc1753b74addc4f88f8f49db1ff9",
+        "path": "originals/backdrops/brick.jpg"
+      }
+    },
+    {
       "id": "storystage/Sky/clearDay",
       "displayName": "Clear day",
       "class": "Scene",
