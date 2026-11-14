@@ -1,0 +1,85 @@
+# Gives found characters a skeleton (WP3.6) with Blender, headless, from originals/autorig/rigs.json,
+# using storystage2's tools/backstage-sources/blender/autorig.py, then adds them to Backstage with
+# the same tools as every other source. Blender is a GPL build tool, never shipped; each model keeps
+# its own licence (originals/autorig/README.md).
+name: Rig found characters
+
+on:
+  workflow_dispatch:
+    inputs:
+      tools_ref:
+        description: storystage2 branch or commit whose tools to use
+        required: true
+        default: main
+  # A push to rig/<storystage2 ref> runs it with that ref's tools, so a change to the tools can be
+  # tried before this workflow or the tools are on main (dispatch needs the workflow on main).
+  push:
+    branches: ['rig/**']
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  TOOLS_REF: ${{ inputs.tools_ref || github.ref_name }}
+  BLENDER_SERIES: '4.5'
+  BLENDER_VERSION: 4.5.14
+
+jobs:
+  rig:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Which tools
+        run: |
+          ref="${TOOLS_REF#rig/}"
+          echo "TOOLS_REF=$ref" >> "$GITHUB_ENV"
+          echo "Tools: storystage2 $ref"
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: assets
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: storystage/storystage2
+          ref: ${{ env.TOOLS_REF }}
+          path: storystage2
+          persist-credentials: false
+      - uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+        with:
+          package_json_file: storystage2/package.json
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: storystage2/.nvmrc
+      - name: Install the tools
+        working-directory: storystage2
+        run: pnpm install --frozen-lockfile
+      - name: Install Blender
+        timeout-minutes: 20
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -yq libxi6 libxxf86vm1 libxfixes3 libxrender1 libgl1 libsm6 libxkbcommon0 libegl1
+          mkdir -p "$RUNNER_TEMP/blender"
+          cd "$RUNNER_TEMP/blender"
+          curl -fsSL --retry 5 --retry-all-errors "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz" | tar -xJ
+          echo "BLENDER=$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" >> "$GITHUB_ENV"
+      - name: Rig the characters
+        run: |
+          "$BLENDER" -b --python-exit-code 1 --python storystage2/tools/backstage-sources/blender/autorig.py -- \
+            assets/originals/autorig/rigs.json assets/generated/autorig assets/previews/autorig
+          cat assets/generated/autorig/rig-report.json
+      - name: Add them to Backstage
+        working-directory: storystage2
+        run: node tools/backstage-sources/src/cli.ts ../assets --only sketchfab
+      - name: Push a branch for review
+        working-directory: assets
+        run: |
+          cp generated/autorig/rig-report.json previews/autorig/rig-report.json
+          rm -rf generated
+          branch="rigged/${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add -A
+          git commit -m "Rig the found characters (tools: storystage2 ${TOOLS_REF})"
+          git push origin "$branch"
+          echo "Pushed $branch"
