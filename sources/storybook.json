@@ -1,0 +1,152 @@
+{
+  "source": "storybook",
+  "exclude": {
+    "nodes": [
+      "*Sword*",
+      "*Shield*",
+      "*Crossbow*",
+      "Knife*",
+      "Throwable",
+      "*Axe*",
+      "*Wand*",
+      "*Staff*",
+      "Spellbook*",
+      "*Blade*",
+      "*Arrow*",
+      "Quiver"
+    ],
+    "animations": [
+      "*Melee*",
+      "*Ranged*",
+      "*Attack*",
+      "Hit_*",
+      "Death_*",
+      "Block*",
+      "2H_*",
+      "Dualwield_*",
+      "T-Pose"
+    ]
+  },
+  "items": [
+    {
+      "id": "storybook/Biped/robin-hood",
+      "displayName": "Robin Hood",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "legend",
+        "history"
+      ],
+      "description": "Robin Hood, the outlaw of Sherwood Forest, in a green hood and cloak",
+      "licence": "CC0-1.0",
+      "credit": "Robin Hood, made from Rogue (Hooded) by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb"
+      }
+    },
+    {
+      "id": "storybook/Biped/king-arthur",
+      "displayName": "King Arthur",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "legend",
+        "myth",
+        "history"
+      ],
+      "description": "King Arthur, fair-haired and bareheaded, in armour and a red cape",
+      "exclude": {
+        "nodes": [
+          "Knight_Helmet"
+        ]
+      },
+      "licence": "CC0-1.0",
+      "credit": "King Arthur, made from Knight by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Knight.glb"
+      }
+    },
+    {
+      "id": "storybook/Biped/merlin",
+      "displayName": "Merlin",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "legend",
+        "myth",
+        "fantasy"
+      ],
+      "description": "Merlin the wizard, young, with black hair, in a tall purple pointed hat and robe",
+      "licence": "CC0-1.0",
+      "credit": "Merlin, made from Mage by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb"
+      }
+    },
+    {
+      "id": "storybook/Biped/beowulf",
+      "displayName": "Beowulf",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "legend",
+        "myth",
+        "history"
+      ],
+      "description": "Beowulf the hero, bearded, in a bear hood and furs",
+      "exclude": {
+        "nodes": [
+          "Mug"
+        ]
+      },
+      "licence": "CC0-1.0",
+      "credit": "Beowulf, made from Barbarian by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb"
+      }
+    },
+    {
+      "id": "storybook/Biped/fionn-mac-cumhaill",
+      "displayName": "Fionn mac Cumhaill",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "legend",
+        "myth"
+      ],
+      "description": "Fionn mac Cumhaill, the Irish and Scottish giant, bearded, in furs",
+      "height": 5,
+      "exclude": {
+        "nodes": [
+          "Mug",
+          "Barbarian_Hat"
+        ]
+      },
+      "licence": "CC0-1.0",
+      "credit": "Fionn mac Cumhaill, made from Barbarian by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb"
+      }
+    }
+  ]
+}
