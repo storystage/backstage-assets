@@ -59,6 +59,11 @@ Cast
     osa/Biped/robert: Robert, a man with a pink beard, in a dark green T-shirt and turquoise trousers [everyday] 1.61 m, joints J3
     osa/Biped/rose: Rose, a pirate in a black three-cornered hat, a striped top, red shorts and tall boots [everyday] 1.66 m, joints J3
     osa/Biped/teddy: Teddy, a brown teddy bear [everyday, toys] 1.65 m, joints J3
+    storybook/Biped/beowulf: Beowulf, Beowulf the hero, bearded, in a bear hood and furs [storybook, legend, myth, history] 2.4 m, joints J1
+    storybook/Biped/fionn-mac-cumhaill: Fionn mac Cumhaill, Fionn mac Cumhaill, the Irish and Scottish giant, bearded, in furs [storybook, legend, myth] 4.99 m, joints J1
+    storybook/Biped/king-arthur: King Arthur, King Arthur, fair-haired and bareheaded, in armour and a red cape [storybook, legend, myth, history] 2.31 m, joints J1
+    storybook/Biped/merlin: Merlin, Merlin the wizard, young, with black hair, in a tall purple pointed hat and robe [storybook, legend, myth, fantasy] 2.72 m, joints J1
+    storybook/Biped/robin-hood: Robin Hood, Robin Hood, the outlaw of Sherwood Forest, in a green hood and cloak [storybook, legend, history] 2.25 m, joints J1
 
 Props
   Prop
