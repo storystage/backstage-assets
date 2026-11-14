@@ -11270,6 +11270,263 @@
       ]
     },
     {
+      "id": "sketchfab/Biped/grandmother",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Grandmother",
+      "themes": [
+        "storybook",
+        "fairy tale",
+        "people"
+      ],
+      "description": "an old village grandmother with grey hair, in a long orange dress",
+      "files": {
+        "model": "models/sketchfab/Biped/grandmother.glb",
+        "thumbnail": "thumbnails/sketchfab/Biped/grandmother.webp"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot"
+      ],
+      "defaultSize": {
+        "height": 1.55
+      },
+      "budget": {
+        "triangles": 617,
+        "textureMaxPx": 256
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Old Village Granny by Imagine, CC BY 4.0, via Sketchfab; rigged and reduced for StoryStage, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/old-village-granny-0f2d99b04b1c4918a41c3834a0285891",
+        "retrieved": "2026-11-14"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Biped/grandmother/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Biped/grandmother/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Biped/grandmother/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Biped/grandmother/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/sketchfab/Biped/grandmother/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/sketchfab/Biped/grandmother/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/sketchfab/Biped/grandmother/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/sketchfab/Biped/grandmother/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/sketchfab/Biped/grandmother/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/sketchfab/Biped/grandmother/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/sketchfab/Biped/grandmother/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/sketchfab/Biped/grandmother/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/sketchfab/Biped/grandmother/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/sketchfab/Biped/grandmother/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/sketchfab/Biped/grandmother/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/sketchfab/Biped/grandmother/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Biped/red-riding-hood",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Little Red Riding Hood",
+      "themes": [
+        "storybook",
+        "fairy tale"
+      ],
+      "description": "Little Red Riding Hood, a small girl in a long red hooded cloak",
+      "files": {
+        "model": "models/sketchfab/Biped/red-riding-hood.glb",
+        "thumbnail": "thumbnails/sketchfab/Biped/red-riding-hood.webp"
+      },
+      "joints": [
+        "hips",
+        "spine",
+        "chest",
+        "neck",
+        "head",
+        "leftShoulder",
+        "leftUpperArm",
+        "leftLowerArm",
+        "leftHand",
+        "rightShoulder",
+        "rightUpperArm",
+        "rightLowerArm",
+        "rightHand",
+        "leftUpperLeg",
+        "leftLowerLeg",
+        "leftFoot",
+        "rightUpperLeg",
+        "rightLowerLeg",
+        "rightFoot"
+      ],
+      "defaultSize": {
+        "height": 1.2
+      },
+      "budget": {
+        "triangles": 11596,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Capuchinho Vermelho (Little Red Riding Hood) by Rafasilart, CC BY 4.0, via Sketchfab; rigged and reduced for StoryStage, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/capuchinho-vermelho-little-red-riding-hood-38f5e17dbd8745bc8ac865610fd859aa",
+        "retrieved": "2026-11-14"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/back.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "walk",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/front-walk.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "walk",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/threeQuarter-walk.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "walk",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/side-walk.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "walk",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/back-walk.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "point",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/front-point.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "point",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/threeQuarter-point.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "point",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/side-point.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "point",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/back-point.svg"
+        },
+        {
+          "facing": "front",
+          "pose": "sit",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/front-sit.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "pose": "sit",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/threeQuarter-sit.svg"
+        },
+        {
+          "facing": "side",
+          "pose": "sit",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/side-sit.svg"
+        },
+        {
+          "facing": "back",
+          "pose": "sit",
+          "file": "sketches/sketchfab/Biped/red-riding-hood/back-sit.svg"
+        }
+      ]
+    },
+    {
       "id": "smithsonian/Prop/lincoln-patent-model",
       "section": "props",
       "class": "Prop",
