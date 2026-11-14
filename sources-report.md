@@ -138,6 +138,11 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `smithsonian/Transport/apollo-11-command-module` | Apollo 11 command module | CC0-1.0 | set | 241166 → 19996 | 4096 → 1024 | yes | none | 3.2 m | glTF | — | 4 |
 | `smithsonian/Transport/bell-x-1` | Bell X-1 | CC0-1.0 | set | 103678 → 19622 | 4096 → 1024 | yes | none | 3.2 m | glTF | — | 4 |
 | `smithsonian/Transport/space-shuttle-discovery` | Space Shuttle Discovery | CC0-1.0 | set | 150000 → 19387 | 4096 → 1024 | yes | none | 15.8 m | glTF | — | 4 |
+| `storybook/Biped/beowulf` | Beowulf | CC0-1.0 | cast | 4777 | 1024 | yes | mapped | 2.4 m | glTF | 5 parts, 35 clips | 16 |
+| `storybook/Biped/fionn-mac-cumhaill` | Fionn mac Cumhaill | CC0-1.0 | cast | 4123 | 1024 | yes | mapped | 4.99 m | glTF | 6 parts, 35 clips | 16 |
+| `storybook/Biped/king-arthur` | King Arthur | CC0-1.0 | cast | 4232 | 1024 | yes | mapped | 2.31 m | glTF | 8 parts, 35 clips | 16 |
+| `storybook/Biped/merlin` | Merlin | CC0-1.0 | cast | 4509 | 1024 | yes | mapped | 2.72 m | glTF | 4 parts, 35 clips | 16 |
+| `storybook/Biped/robin-hood` | Robin Hood | CC0-1.0 | cast | 4005 | 1024 | yes | mapped | 2.25 m | glTF | 5 parts, 35 clips | 16 |
 | `storystage/Ground/brick` | Brick | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/brownSavannaGrass` | Brown savanna grass | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
 | `storystage/Ground/darkForestFloor` | Dark forest floor | CC0-1.0 | backdrops | 2 | 1024 | yes | none | 1 m | glTF | — | 1 |
@@ -213,4 +218,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** about 7,289 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 7,558 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
