@@ -3425,6 +3425,54 @@
       "animations": []
     }
   },
+  "sketchfab/Biped/grandmother": {
+    "source": "sketchfab",
+    "fetched": [
+      {
+        "url": "generated:autorig/grandmother.glb",
+        "sha256": "7b667ea547f1ac3f6aab302a93cd961849e87023b5cc03157a8138a4905f976a"
+      }
+    ],
+    "retrieved": "2026-11-14",
+    "vrm": null,
+    "triangles": 617,
+    "textureMaxPx": 256,
+    "fetchedSize": {
+      "triangles": 617,
+      "textureMaxPx": 256
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Biped/red-riding-hood": {
+    "source": "sketchfab",
+    "fetched": [
+      {
+        "url": "generated:autorig/red-riding-hood.glb",
+        "sha256": "80ff724fba62512d164a7f0b79432c4af902fe02790ee32b2e42002bdda8d4ac"
+      }
+    ],
+    "retrieved": "2026-11-14",
+    "vrm": null,
+    "triangles": 11596,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 11596,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
   "smithsonian/Prop/lincoln-patent-model": {
     "source": "museum",
     "fetched": [
