@@ -147,6 +147,2044 @@
         "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
         "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb"
       }
+    },
+    {
+      "id": "storybook/Biped/maid-marian",
+      "displayName": "Maid Marian",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "legend",
+        "folk tale"
+      ],
+      "description": "Maid Marian, a young woman with long brown hair, in a long crimson dress and cloak, with a gold circlet",
+      "licence": "CC0-1.0",
+      "credit": "Maid Marian, made from Rogue by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb"
+      },
+      "kitbash": {
+        "trim": [
+          {
+            "node": "Rogue_Head",
+            "cell": [
+              3,
+              0
+            ]
+          }
+        ],
+        "thin": [
+          {
+            "node": "Rogue_Head",
+            "cell": [
+              1,
+              0
+            ],
+            "within": [
+              [
+                -0.4,
+                1.6,
+                0.3
+              ],
+              [
+                0.4,
+                1.85,
+                0.6
+              ]
+            ],
+            "scale": 0.45
+          }
+        ],
+        "recolour": [
+          {
+            "cells": [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "hue": 350,
+            "saturation": 1,
+            "value": 0.95
+          }
+        ],
+        "add": [
+          {
+            "name": "Skirt",
+            "shape": "tube",
+            "joint": "hips",
+            "at": [
+              0,
+              -0.37,
+              0.02
+            ],
+            "height": 0.62,
+            "radius": 0.52,
+            "top": 0.36,
+            "cell": [
+              1,
+              1
+            ]
+          },
+          {
+            "name": "Circlet",
+            "shape": "ring",
+            "joint": "head",
+            "at": [
+              0,
+              0.6,
+              0
+            ],
+            "turn": [
+              -10,
+              0,
+              0
+            ],
+            "radius": 0.53,
+            "thickness": 0.035,
+            "cell": [
+              1,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "storybook/Biped/branwen",
+      "displayName": "Branwen",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "legend",
+        "myth",
+        "Welsh"
+      ],
+      "description": "Branwen of the Mabinogion, a young woman with long dark hair, in a long blue dress and cloak, with a gold circlet",
+      "licence": "CC0-1.0",
+      "credit": "Branwen, made from Rogue by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb"
+      },
+      "kitbash": {
+        "trim": [
+          {
+            "node": "Rogue_Head",
+            "cell": [
+              3,
+              0
+            ]
+          }
+        ],
+        "thin": [
+          {
+            "node": "Rogue_Head",
+            "cell": [
+              1,
+              0
+            ],
+            "within": [
+              [
+                -0.4,
+                1.6,
+                0.3
+              ],
+              [
+                0.4,
+                1.85,
+                0.6
+              ]
+            ],
+            "scale": 0.45
+          }
+        ],
+        "recolour": [
+          {
+            "cells": [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "hue": 222,
+            "saturation": 1,
+            "value": 1.05
+          },
+          {
+            "cells": [
+              [
+                1,
+                0
+              ]
+            ],
+            "saturation": 0.8,
+            "value": 0.45
+          }
+        ],
+        "add": [
+          {
+            "name": "Skirt",
+            "shape": "tube",
+            "joint": "hips",
+            "at": [
+              0,
+              -0.37,
+              0.02
+            ],
+            "height": 0.62,
+            "radius": 0.52,
+            "top": 0.36,
+            "cell": [
+              0,
+              1
+            ]
+          },
+          {
+            "name": "Circlet",
+            "shape": "ring",
+            "joint": "head",
+            "at": [
+              0,
+              0.6,
+              0
+            ],
+            "turn": [
+              -10,
+              0,
+              0
+            ],
+            "radius": 0.53,
+            "thickness": 0.035,
+            "cell": [
+              1,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "storybook/Biped/medusa",
+      "displayName": "Medusa",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "myth",
+        "Greek"
+      ],
+      "description": "Medusa of the Greek myths, a young woman in a long white dress, with green snakes for hair",
+      "licence": "CC0-1.0",
+      "credit": "Medusa, made from Rogue by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Rogue.glb"
+      },
+      "exclude": {
+        "nodes": [
+          "Rogue_Cape"
+        ]
+      },
+      "kitbash": {
+        "trim": [
+          {
+            "node": "Rogue_Head",
+            "cell": [
+              3,
+              0
+            ]
+          }
+        ],
+        "thin": [
+          {
+            "node": "Rogue_Head",
+            "cell": [
+              1,
+              0
+            ],
+            "within": [
+              [
+                -0.4,
+                1.6,
+                0.3
+              ],
+              [
+                0.4,
+                1.85,
+                0.6
+              ]
+            ],
+            "scale": 0.45
+          }
+        ],
+        "recolour": [
+          {
+            "cells": [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "saturation": 0.06,
+            "value": 2.2
+          },
+          {
+            "cells": [
+              [
+                1,
+                0
+              ]
+            ],
+            "hue": 125,
+            "saturation": 1.1,
+            "value": 1.15
+          }
+        ],
+        "add": [
+          {
+            "name": "Skirt",
+            "shape": "tube",
+            "joint": "hips",
+            "at": [
+              0,
+              -0.37,
+              0.02
+            ],
+            "height": 0.62,
+            "radius": 0.5,
+            "top": 0.36,
+            "cell": [
+              1,
+              1
+            ]
+          },
+          {
+            "name": "Snake1",
+            "shape": "snake",
+            "joint": "head",
+            "at": [
+              0.3,
+              0.75,
+              -0.2
+            ],
+            "turn": [
+              0,
+              120,
+              0
+            ],
+            "radius": 0.06,
+            "length": 0.42,
+            "curl": 80,
+            "cell": [
+              1,
+              0
+            ]
+          },
+          {
+            "name": "Snake2",
+            "shape": "snake",
+            "joint": "head",
+            "at": [
+              -0.3,
+              0.75,
+              -0.2
+            ],
+            "turn": [
+              0,
+              -120,
+              0
+            ],
+            "radius": 0.06,
+            "length": 0.42,
+            "curl": 80,
+            "cell": [
+              1,
+              0
+            ]
+          },
+          {
+            "name": "Snake3",
+            "shape": "snake",
+            "joint": "head",
+            "at": [
+              0,
+              0.85,
+              -0.25
+            ],
+            "turn": [
+              0,
+              180,
+              0
+            ],
+            "radius": 0.06,
+            "length": 0.4,
+            "curl": 70,
+            "cell": [
+              1,
+              0
+            ]
+          },
+          {
+            "name": "Snake4",
+            "shape": "snake",
+            "joint": "head",
+            "at": [
+              0.42,
+              0.55,
+              0
+            ],
+            "turn": [
+              0,
+              90,
+              0
+            ],
+            "radius": 0.055,
+            "length": 0.38,
+            "curl": 90,
+            "cell": [
+              1,
+              0
+            ]
+          },
+          {
+            "name": "Snake5",
+            "shape": "snake",
+            "joint": "head",
+            "at": [
+              -0.42,
+              0.55,
+              0
+            ],
+            "turn": [
+              0,
+              -90,
+              0
+            ],
+            "radius": 0.055,
+            "length": 0.38,
+            "curl": 90,
+            "cell": [
+              1,
+              0
+            ]
+          },
+          {
+            "name": "Snake6",
+            "shape": "snake",
+            "joint": "head",
+            "at": [
+              0.2,
+              0.9,
+              0.15
+            ],
+            "turn": [
+              0,
+              40,
+              0
+            ],
+            "radius": 0.05,
+            "length": 0.32,
+            "curl": 80,
+            "cell": [
+              1,
+              0
+            ]
+          },
+          {
+            "name": "Snake7",
+            "shape": "snake",
+            "joint": "head",
+            "at": [
+              -0.2,
+              0.9,
+              0.15
+            ],
+            "turn": [
+              0,
+              -40,
+              0
+            ],
+            "radius": 0.05,
+            "length": 0.32,
+            "curl": 80,
+            "cell": [
+              1,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "storybook/Biped/selkie",
+      "displayName": "Selkie",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "folk tale",
+        "myth",
+        "sea"
+      ],
+      "description": "a selkie, a seal-woman of Scottish and Irish tales, in a silver-grey hooded sealskin cloak",
+      "licence": "CC0-1.0",
+      "credit": "Selkie, made from Rogue Hooded by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Rogue_Hooded.glb"
+      },
+      "kitbash": {
+        "thin": [
+          {
+            "node": "Rogue_Head_Hooded",
+            "cell": [
+              1,
+              0
+            ],
+            "within": [
+              [
+                -0.4,
+                1.6,
+                0.3
+              ],
+              [
+                0.4,
+                1.85,
+                0.6
+              ]
+            ],
+            "scale": 0.45
+          }
+        ],
+        "recolour": [
+          {
+            "cells": [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "hue": 205,
+            "saturation": 0.18,
+            "value": 1.25
+          }
+        ]
+      }
+    },
+    {
+      "id": "storybook/Biped/sherlock-holmes",
+      "displayName": "Sherlock Holmes",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "mystery",
+        "Victorian"
+      ],
+      "description": "Sherlock Holmes the detective, with black hair, in a tweed deerstalker and a brown cape coat, holding a magnifying glass",
+      "licence": "CC0-1.0",
+      "credit": "Sherlock Holmes, made from Mage by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb"
+      },
+      "exclude": {
+        "nodes": [
+          "Mage_Hat"
+        ]
+      },
+      "kitbash": {
+        "recolour": [
+          {
+            "cells": [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "hue": 30,
+            "saturation": 0.55,
+            "value": 1.45
+          },
+          {
+            "cells": [
+              [
+                2,
+                1
+              ]
+            ],
+            "hue": 32,
+            "saturation": 0.6,
+            "value": 1
+          }
+        ],
+        "add": [
+          {
+            "name": "Deerstalker",
+            "shape": "cap",
+            "joint": "head",
+            "at": [
+              0,
+              0.48,
+              -0.05
+            ],
+            "scale": [
+              1.02,
+              0.8,
+              1.12
+            ],
+            "radius": 0.6,
+            "cell": [
+              1,
+              1
+            ]
+          },
+          {
+            "name": "PeakFront",
+            "shape": "cap",
+            "joint": "head",
+            "at": [
+              0,
+              0.56,
+              0.52
+            ],
+            "scale": [
+              0.85,
+              0.22,
+              0.85
+            ],
+            "radius": 0.35,
+            "cell": [
+              1,
+              1
+            ],
+            "turn": [
+              -12,
+              0,
+              0
+            ]
+          },
+          {
+            "name": "PeakBack",
+            "shape": "cap",
+            "joint": "head",
+            "at": [
+              0,
+              0.54,
+              -0.62
+            ],
+            "scale": [
+              0.85,
+              0.22,
+              0.85
+            ],
+            "radius": 0.35,
+            "cell": [
+              1,
+              1
+            ],
+            "turn": [
+              12,
+              0,
+              0
+            ]
+          },
+          {
+            "name": "LensRim",
+            "shape": "ring",
+            "joint": "handslot.r",
+            "at": [
+              0,
+              0.32,
+              0
+            ],
+            "turn": [
+              90,
+              0,
+              0
+            ],
+            "radius": 0.14,
+            "thickness": 0.025,
+            "cell": [
+              3,
+              0
+            ]
+          },
+          {
+            "name": "Lens",
+            "shape": "disc",
+            "joint": "handslot.r",
+            "at": [
+              0,
+              0.32,
+              0
+            ],
+            "turn": [
+              90,
+              0,
+              0
+            ],
+            "radius": 0.13,
+            "cell": [
+              2,
+              2
+            ]
+          },
+          {
+            "name": "LensHandle",
+            "shape": "tube",
+            "joint": "handslot.r",
+            "at": [
+              0,
+              -0.05,
+              0
+            ],
+            "height": 0.24,
+            "radius": 0.03,
+            "closed": true,
+            "cell": [
+              5,
+              0
+            ]
+          },
+          {
+            "name": "FlapLeft",
+            "shape": "cap",
+            "joint": "head",
+            "at": [
+              0.42,
+              0.78,
+              0
+            ],
+            "turn": [
+              0,
+              0,
+              -38
+            ],
+            "scale": [
+              0.5,
+              0.14,
+              0.7
+            ],
+            "radius": 0.3,
+            "cell": [
+              1,
+              1
+            ]
+          },
+          {
+            "name": "FlapRight",
+            "shape": "cap",
+            "joint": "head",
+            "at": [
+              -0.42,
+              0.78,
+              0
+            ],
+            "turn": [
+              0,
+              0,
+              38
+            ],
+            "scale": [
+              0.5,
+              0.14,
+              0.7
+            ],
+            "radius": 0.3,
+            "cell": [
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "storybook/Biped/doctor-watson",
+      "displayName": "Dr Watson",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "mystery",
+        "Victorian"
+      ],
+      "description": "Dr Watson, Sherlock Holmes's friend, with a grey beard and moustache, in a black bowler hat and a green coat",
+      "licence": "CC0-1.0",
+      "credit": "Dr Watson, made from Mage and Barbarian by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Mage.glb"
+      },
+      "exclude": {
+        "nodes": [
+          "Mage_Hat",
+          "Mage_Head"
+        ]
+      },
+      "kitbash": {
+        "parts": [
+          {
+            "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
+            "nodes": [
+              "Barbarian_Head"
+            ]
+          }
+        ],
+        "recolour": [
+          {
+            "cells": [
+              [
+                0,
+                1
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "hue": 100,
+            "saturation": 0.45,
+            "value": 1.1
+          },
+          {
+            "cells": [
+              [
+                2,
+                1
+              ]
+            ],
+            "hue": 25,
+            "saturation": 0.6,
+            "value": 0.7
+          }
+        ],
+        "add": [
+          {
+            "name": "Bowler",
+            "shape": "cap",
+            "joint": "head",
+            "at": [
+              0,
+              0.62,
+              0
+            ],
+            "scale": [
+              1,
+              0.75,
+              1
+            ],
+            "radius": 0.52,
+            "cell": [
+              2,
+              0
+            ]
+          },
+          {
+            "name": "BowlerBrim",
+            "shape": "ring",
+            "joint": "head",
+            "at": [
+              0,
+              0.62,
+              0
+            ],
+            "scale": [
+              1,
+              0.5,
+              1
+            ],
+            "radius": 0.56,
+            "thickness": 0.07,
+            "cell": [
+              2,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "storybook/Biped/anansi",
+      "displayName": "Anansi",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "storybook",
+        "folk tale",
+        "West African"
+      ],
+      "description": "Anansi the Akan trickster: a man in orange and purple, with a striped headwrap and eight striped spider legs",
+      "licence": "CC0-1.0",
+      "credit": "Anansi, made from Barbarian by Kay Lousberg, KayKit (CC0)",
+      "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
+      "fetch": {
+        "github": "KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+        "commit": "672074b73ba276876a19e8816ecdc5241817ab47",
+        "path": "addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb"
+      },
+      "exclude": {
+        "nodes": [
+          "Barbarian_Hat",
+          "Barbarian_Cape",
+          "Mug"
+        ]
+      },
+      "kitbash": {
+        "trim": [
+          {
+            "node": "Barbarian_Head",
+            "cell": [
+              1,
+              0
+            ],
+            "within": [
+              [
+                -1,
+                1,
+                -1
+              ],
+              [
+                1,
+                1.6,
+                1
+              ]
+            ]
+          },
+          {
+            "node": "Barbarian_Body",
+            "cell": [
+              7,
+              0
+            ]
+          }
+        ],
+        "recolour": [
+          {
+            "cells": [
+              [
+                0,
+                0
+              ]
+            ],
+            "colour": "3c2416"
+          },
+          {
+            "cells": [
+              [
+                1,
+                0
+              ]
+            ],
+            "saturation": 0.3,
+            "value": 0.25
+          },
+          {
+            "cells": [
+              [
+                0,
+                1
+              ]
+            ],
+            "colour": "e0612a"
+          },
+          {
+            "cells": [
+              [
+                1,
+                1
+              ]
+            ],
+            "colour": "2f5fd0"
+          },
+          {
+            "cells": [
+              [
+                6,
+                0
+              ]
+            ],
+            "colour": "f2c230"
+          },
+          {
+            "cells": [
+              [
+                7,
+                0
+              ]
+            ],
+            "colour": "c8302a"
+          },
+          {
+            "cells": [
+              [
+                7,
+                1
+              ],
+              [
+                7,
+                2
+              ]
+            ],
+            "colour": "8e3fd0"
+          },
+          {
+            "cells": [
+              [
+                3,
+                2
+              ]
+            ],
+            "colour": "b0306a"
+          },
+          {
+            "cells": [
+              [
+                2,
+                3
+              ]
+            ],
+            "colour": "f07a1e"
+          },
+          {
+            "cells": [
+              [
+                3,
+                3
+              ]
+            ],
+            "colour": "f5c518"
+          },
+          {
+            "cells": [
+              [
+                4,
+                3
+              ]
+            ],
+            "colour": "8e3fd0"
+          },
+          {
+            "cells": [
+              [
+                5,
+                3
+              ]
+            ],
+            "colour": "2b6fe0"
+          },
+          {
+            "cells": [
+              [
+                6,
+                3
+              ]
+            ],
+            "colour": "2aa36b"
+          },
+          {
+            "cells": [
+              [
+                7,
+                3
+              ]
+            ],
+            "colour": "d8352e"
+          },
+          {
+            "cells": [
+              [
+                1,
+                3
+              ]
+            ],
+            "colour": "3c2416"
+          }
+        ],
+        "add": [
+          {
+            "name": "Headwrap",
+            "shape": "cap",
+            "joint": "head",
+            "at": [
+              0,
+              0.48,
+              -0.02
+            ],
+            "scale": [
+              1.03,
+              0.9,
+              1.07
+            ],
+            "radius": 0.58,
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            "stripes": 6
+          },
+          {
+            "name": "Collar",
+            "shape": "ring",
+            "joint": "chest",
+            "at": [
+              0,
+              0.12,
+              0.02
+            ],
+            "scale": [
+              1,
+              1,
+              1
+            ],
+            "radius": 0.37,
+            "thickness": 0.075,
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 32,
+            "turn": [
+              22,
+              0,
+              0
+            ]
+          },
+          {
+            "name": "LegLeft1",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              -50,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegLeft2",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              -18,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                7,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegLeft3",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              18,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegLeft4",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              50,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                7,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegRight1",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              -0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              230,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegRight2",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              -0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              198,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                7,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegRight3",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              -0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              162,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegRight4",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              -0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              130,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                7,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                2,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                1,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          }
+        ]
+      }
     }
   ]
 }
