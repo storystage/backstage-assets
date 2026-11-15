@@ -45,32 +45,61 @@ jobs:
           ref: ${{ env.TOOLS_REF }}
           path: storystage2
           persist-credentials: false
-      - name: Install Blender
+      # Blender and the characters' files are kept in the Actions cache, keyed by Blender's version
+      # and the list of files, so a run downloads them only when one changes: half a gigabyte each
+      # time is unkind to both servers (15 Nov: download.blender.org refused a run's fourth fetch).
+      - name: The downloads' cache key
+        run: |
+          files=$(node -e 'console.log(require(process.argv[1]).characters.map((c) => c.sha256 || c.url).join(" "))' "$GITHUB_WORKSPACE/assets/originals/blender-studio/studio.json" | sha256sum | cut -c1-16)
+          echo "DOWNLOADS_KEY=studio-blender-${BLENDER_VERSION}-$files" >> "$GITHUB_ENV"
+      - name: Restore the downloads
+        id: downloads
+        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/downloads
+          key: ${{ env.DOWNLOADS_KEY }}
+          restore-keys: studio-blender-${{ env.BLENDER_VERSION }}-
+      - name: Download what's missing
+        run: |
+          mkdir -p "$RUNNER_TEMP/downloads" "$RUNNER_TEMP/studio"
+          cd "$RUNNER_TEMP/downloads"
+          blender="blender-${BLENDER_VERSION}-linux-x64.tar.xz"
+          [ -f "$blender" ] || curl -fsSL --retry 5 --retry-all-errors -o "$blender" "https://download.blender.org/release/Blender${BLENDER_SERIES}/$blender"
+          node -e '
+            const s = require(process.argv[1]);
+            for (const c of s.characters) console.log([c.name, c.url, c.sha256 || "-"].join(" "));
+          ' "$GITHUB_WORKSPACE/assets/originals/blender-studio/studio.json" > "$RUNNER_TEMP/studio/list.txt"
+          while read -r name url sha; do
+            if [ "$sha" = "-" ] || [ ! -f "$sha.zip" ]; then
+              curl -fsSL --retry 5 --retry-all-errors -A "storystage-assets-build" -o "$name.zip" "$url"
+              got=$(sha256sum "$name.zip" | cut -d' ' -f1)
+              echo "$name: sha256 $got, $(stat -c %s "$name.zip") bytes"
+              if [ "$sha" != "-" ] && [ "$sha" != "$got" ]; then
+                echo "::error::$name: expected sha256 $sha, got $got"; exit 1
+              fi
+              mv "$name.zip" "$got.zip"
+            fi
+          done < "$RUNNER_TEMP/studio/list.txt"
+          ls -la
+      - name: Keep the downloads
+        if: steps.downloads.outputs.cache-hit != 'true'
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/downloads
+          key: ${{ env.DOWNLOADS_KEY }}
+      - name: Install Blender and unpack the characters
         timeout-minutes: 20
         run: |
           sudo apt-get update -q
           sudo apt-get install -yq libxi6 libxxf86vm1 libxfixes3 libxrender1 libgl1 libsm6 libxkbcommon0 libegl1
           mkdir -p "$RUNNER_TEMP/blender"
-          cd "$RUNNER_TEMP/blender"
-          curl -fsSL --retry 5 --retry-all-errors "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz" | tar -xJ
-          echo "BLENDER=$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" >> "$GITHUB_ENV"
-      - name: Fetch the characters
-        run: |
-          mkdir -p "$RUNNER_TEMP/studio"
-          node -e '
-            const s = require("./assets/originals/blender-studio/studio.json");
-            for (const c of s.characters) console.log([c.name, c.url, c.sha256 || "-"].join(" "));
-          ' > "$RUNNER_TEMP/studio/list.txt"
+          tar -xJf "$RUNNER_TEMP/downloads/blender-${BLENDER_VERSION}-linux-x64.tar.xz" -C "$RUNNER_TEMP/blender"
+          echo "BLENDER=$RUNNER_TEMP/blender/blender-${BLENDER_VERSION}-linux-x64/blender" >> "$GITHUB_ENV"
           while read -r name url sha; do
-            dir="$RUNNER_TEMP/studio/$name"
-            mkdir -p "$dir"
-            curl -fsSL --retry 5 --retry-all-errors -A "storystage-assets-build" -o "$dir/download.zip" "$url"
-            got=$(sha256sum "$dir/download.zip" | cut -d' ' -f1)
-            echo "$name: sha256 $got, $(stat -c %s "$dir/download.zip") bytes"
-            if [ "$sha" != "-" ] && [ "$sha" != "$got" ]; then
-              echo "::error::$name: expected sha256 $sha, got $got"; exit 1
-            fi
-            (cd "$dir" && unzip -q download.zip -d files && rm download.zip)
+            got=$(ls "$RUNNER_TEMP/downloads" | grep -x "${sha}.zip" || true)
+            [ "$sha" = "-" ] && got=$(ls -t "$RUNNER_TEMP/downloads"/*.zip | head -1 | xargs basename)
+            mkdir -p "$RUNNER_TEMP/studio/$name"
+            unzip -q "$RUNNER_TEMP/downloads/$got" -d "$RUNNER_TEMP/studio/$name/files"
           done < "$RUNNER_TEMP/studio/list.txt"
       - name: Export them
         run: |
