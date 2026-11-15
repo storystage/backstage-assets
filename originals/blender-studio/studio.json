@@ -1,0 +1,55 @@
+{
+  "credit": "(CC) Blender Foundation | studio.blender.org",
+  "licence": "CC-BY-4.0",
+  "characters": [
+    {
+      "name": "autumn",
+      "page": "https://studio.blender.org/characters/autumn/",
+      "url": "https://studio.blender.org/download-source/files/97/97108c7a70aef830ef9b3f185442307e/97108c7a70aef830ef9b3f185442307e.zip",
+      "sha256": "e1bff7792d12f008d7bddcb20fe9fa30d88cc8c62d1786940f67c56d9fc8c80b",
+      "blend": "autumn/autumn.blend",
+      "class": "quadruped",
+      "rig": "RIG-autumn",
+      "collections": [
+        "autumn.high_res"
+      ],
+      "bakeFrom": [
+        "autumn.geo.hair_particles"
+      ],
+      "exclude": [
+        "GEO_autumn_tongue"
+      ],
+      "cage": 0.05,
+      "bones": {
+        "spineBase": "spine_1_def",
+        "spineMiddle": "spine_2_def",
+        "spineUpper": "spine_3_def",
+        "neck": "neck_1_def",
+        "head": "head_def_mstr",
+        "leftEar": "ear_1_L",
+        "rightEar": "ear_1_R",
+        "pelvis": "pelvis_def",
+        "tail": "tail_1_def",
+        "tail2": "tail_2_def",
+        "tail3": "tail_3_def",
+        "tail4": "tail_4_def",
+        "frontLeftClavicle": "clavi_def_L",
+        "frontLeftShoulder": "arm_def_L",
+        "frontLeftKnee": "forearm_def_L",
+        "frontLeftAnkle": "hand_def_L",
+        "frontRightClavicle": "clavi_def_R",
+        "frontRightShoulder": "arm_def_R",
+        "frontRightKnee": "forearm_def_R",
+        "frontRightAnkle": "hand_def_R",
+        "backLeftHip": "thigh_def_L",
+        "backLeftKnee": "shin_def_L",
+        "backLeftHock": "foot_def_L",
+        "backLeftAnkle": "toe_1_def_L",
+        "backRightHip": "thigh_def_R",
+        "backRightKnee": "shin_def_R",
+        "backRightHock": "foot_def_R",
+        "backRightAnkle": "toe_1_def_R"
+      }
+    }
+  ]
+}

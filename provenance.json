@@ -1,4 +1,28 @@
 {
+  "blender-studio/Quadruped/autumn": {
+    "source": "blender-studio",
+    "fetched": [
+      {
+        "url": "generated:blender-studio/autumn.glb",
+        "sha256": "ce231f6e428a233298846c5903682763c77de5d30d8c5c6d648ce3bc83e89f98"
+      }
+    ],
+    "retrieved": "2026-11-15",
+    "vrm": null,
+    "triangles": 19599,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19599,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
   "kaykit/Biped/barbarian": {
     "source": "kaykit",
     "fetched": [
