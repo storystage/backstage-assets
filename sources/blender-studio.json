@@ -1,0 +1,24 @@
+{
+  "source": "blender-studio",
+  "items": [
+    {
+      "id": "blender-studio/Quadruped/autumn",
+      "displayName": "Autumn",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets",
+        "storybook"
+      ],
+      "description": "a small black dog with big ears and a red scarf",
+      "height": 0.41,
+      "licence": "CC-BY-4.0",
+      "credit": "Autumn (CC) Blender Foundation | studio.blender.org; reduced for StoryStage",
+      "page": "https://studio.blender.org/characters/autumn/",
+      "fetch": {
+        "generated": "blender-studio/autumn.glb"
+      }
+    }
+  ]
+}

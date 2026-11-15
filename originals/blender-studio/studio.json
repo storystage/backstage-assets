@@ -3,64 +3,6 @@
   "licence": "CC-BY-4.0",
   "characters": [
     {
-      "name": "spring",
-      "page": "https://studio.blender.org/characters/spring/",
-      "url": "https://studio.blender.org/download-source/files/1b/1bffff08b464375d842e7da43b4f5293/1bffff08b464375d842e7da43b4f5293.zip",
-      "sha256": "4574b8161f517f0c6ca02af9f5eeded307a26d7015bd71f66bd55bea9173b2cd",
-      "blend": "spring/spring/spring.blend",
-      "class": "biped",
-      "rig": "RIG-Spring",
-      "collections": [
-        "spring.geo.head",
-        "spring.geo.clothes"
-      ],
-      "bakeFrom": [
-        "spring.geo.hair_particles"
-      ],
-      "exclude": [
-        "GEO_spring_teeth_*",
-        "GEO_spring_gums_*"
-      ],
-      "bakeOnly": [
-        "*stitches*"
-      ],
-      "cage": 0.02,
-      "bones": {
-        "hips": "pelvis_def",
-        "spine": "spine_1_def",
-        "chest": "spine_2_def",
-        "upperChest": "spine_3_def",
-        "neck": "neck_1_def",
-        "head": "head_def_mstr",
-        "leftShoulder": "clavi_def_L",
-        "leftUpperArm": "arm_def_L",
-        "leftLowerArm": "forearm_def_L",
-        "leftHand": "hand_def_L",
-        "rightShoulder": "clavi_def_R",
-        "rightUpperArm": "arm_def_R",
-        "rightLowerArm": "forearm_def_R",
-        "rightHand": "hand_def_R",
-        "leftUpperLeg": "thigh_def_L",
-        "leftLowerLeg": "shin_def_L",
-        "leftFoot": "foot_def_L",
-        "leftToes": "toe_1_def_L",
-        "rightUpperLeg": "thigh_def_R",
-        "rightLowerLeg": "shin_def_R",
-        "rightFoot": "foot_def_R",
-        "rightToes": "toe_1_def_R"
-      },
-      "hairLocks": {
-        "objects": [
-          "GEO-spring_head",
-          "GEO-ponytail_emitter",
-          "GEO_side_hair_emitter"
-        ],
-        "minLength": 0.04,
-        "most": 120,
-        "radius": 0.011
-      }
-    },
-    {
       "name": "autumn",
       "page": "https://studio.blender.org/characters/autumn/",
       "url": "https://studio.blender.org/download-source/files/97/97108c7a70aef830ef9b3f185442307e/97108c7a70aef830ef9b3f185442307e.zip",
