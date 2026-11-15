@@ -27,7 +27,7 @@ env:
   BLENDER_VERSION: 4.5.14
 
 jobs:
-  inspect:
+  export:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
@@ -72,29 +72,29 @@ jobs:
             fi
             (cd "$dir" && unzip -q download.zip -d files && rm download.zip)
           done < "$RUNNER_TEMP/studio/list.txt"
-      - name: Inspect them
+      - name: Export them
         run: |
-          out="$GITHUB_WORKSPACE/assets/previews/blender-studio/inspect"
-          mkdir -p "$out"
-          for dir in "$RUNNER_TEMP"/studio/*/; do
-            name=$(basename "$dir")
-            (cd "$dir/files" && find . -type f -printf '%s %p\n' | sort -k2) > "$out/$name-files.txt"
-            i=0
-            while IFS= read -r -d '' blend; do
-              i=$((i + 1))
-              "$BLENDER" -b "$blend" --python-exit-code 1 --python storystage2/tools/backstage-sources/blender/studio.py -- \
-                inspect "$out/$name-$i.json" "$out/$name-$i.png" || echo "::warning::$name: $blend could not be inspected"
-            done < <(find "$dir/files" -name '*.blend' -print0 | sort -z)
-          done
-          ls -la "$out"
+          models="$GITHUB_WORKSPACE/assets/generated/blender-studio"
+          previews="$GITHUB_WORKSPACE/assets/previews/blender-studio"
+          mkdir -p "$models" "$previews"
+          failed=""
+          while read -r name url sha; do
+            blend=$(node -e 'const s=require("./assets/originals/blender-studio/studio.json"); process.stdout.write(s.characters.find(c=>c.name===process.argv[1]).blend)' "$name")
+            "$BLENDER" -b "$RUNNER_TEMP/studio/$name/files/$blend" --python-exit-code 1               --python storystage2/tools/backstage-sources/blender/studio.py --               export assets/originals/blender-studio/studio.json "$name" "$models" "$previews" || failed="$failed $name"
+          done < "$RUNNER_TEMP/studio/list.txt"
+          ls -la "$models" "$previews"
+          if [ -n "$failed" ]; then echo "::error::Could not export:$failed"; fi
+          # For review: the reports and models beside the previews (the build reads generated/).
+          mkdir -p "$previews/review"
+          cp "$models"/*.json "$models"/*.glb "$previews/review/" 2>/dev/null || true
       - name: Push a branch for review
         working-directory: assets
         run: |
-          branch="inspected/${GITHUB_RUN_ID}"
+          branch="exported/${GITHUB_RUN_ID}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git switch -c "$branch"
           git add previews/blender-studio
-          git commit -m "Inspect Blender Studio's characters (tools: storystage2 ${TOOLS_REF})"
+          git commit -m "Export Blender Studio's characters (tools: storystage2 ${TOOLS_REF})"
           git push origin "$branch"
           echo "Pushed $branch"
