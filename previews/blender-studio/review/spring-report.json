@@ -1,0 +1,165 @@
+{
+  "name": "spring",
+  "parts": [
+    "GEO-spring_head",
+    "GEO-spring_jacket",
+    "GEO-spring_pullover",
+    "GEO_spring_arms",
+    "GEO_spring_boots.l",
+    "GEO_spring_boots.r",
+    "GEO_spring_eye.l",
+    "GEO_spring_eye.r",
+    "GEO_spring_hairband_endpiece",
+    "GEO_spring_hairband_main",
+    "GEO_spring_pants",
+    "GEO_spring_pants_button",
+    "GEO_spring_scarf"
+  ],
+  "bakedFrom": [
+    "GEO-ponytail_emitter",
+    "GEO-spring_head",
+    "GEO-spring_jacket",
+    "GEO-spring_pullover",
+    "GEO_eyebrow_emitter",
+    "GEO_side_hair_emitter",
+    "GEO_spring_arms",
+    "GEO_spring_boots.l",
+    "GEO_spring_boots.r",
+    "GEO_spring_boots_stitches.l",
+    "GEO_spring_boots_stitches.r",
+    "GEO_spring_eye.l",
+    "GEO_spring_eye.r",
+    "GEO_spring_eyelashes_low",
+    "GEO_spring_eyelashes_up",
+    "GEO_spring_hairband_endpiece",
+    "GEO_spring_hairband_main",
+    "GEO_spring_jacket_stitches",
+    "GEO_spring_pants",
+    "GEO_spring_pants_button",
+    "GEO_spring_pants_stitches",
+    "GEO_spring_scarf"
+  ],
+  "triangles": {
+    "before": 105092,
+    "after": 19172
+  },
+  "hairLocks": [
+    {
+      "object": "GEO-spring_head",
+      "system": "hair_base",
+      "type": "HAIR",
+      "guides": 86,
+      "children": 0,
+      "locks": 0,
+      "note": "no strand positions"
+    },
+    {
+      "object": "GEO-spring_head",
+      "system": "hair_braids_base",
+      "type": "HAIR",
+      "guides": 22,
+      "children": 0,
+      "locks": 0,
+      "note": "no strand positions"
+    },
+    {
+      "object": "GEO-spring_head",
+      "system": "hair_braids_side",
+      "type": "HAIR",
+      "guides": 24,
+      "children": 0,
+      "locks": 0,
+      "note": "no strand positions"
+    },
+    {
+      "object": "GEO-spring_head",
+      "system": "hair_braids_base_messy",
+      "type": "HAIR",
+      "guides": 22,
+      "children": 0,
+      "locks": 0,
+      "note": "no strand positions"
+    },
+    {
+      "object": "GEO-spring_head",
+      "system": "hair_braids_side_messy",
+      "type": "HAIR",
+      "guides": 26,
+      "children": 0,
+      "locks": 0,
+      "note": "no strand positions"
+    },
+    {
+      "object": "GEO-ponytail_emitter",
+      "system": "hair_ponytail",
+      "type": "HAIR",
+      "guides": 12,
+      "children": 48000,
+      "locks": 120,
+      "meanLength": 0.523,
+      "space": "world"
+    },
+    {
+      "object": "GEO_side_hair_emitter",
+      "system": "hair_braids_locks_L",
+      "type": "HAIR",
+      "guides": 1,
+      "children": 0,
+      "locks": 0,
+      "note": "no strand positions"
+    },
+    {
+      "object": "GEO_side_hair_emitter",
+      "system": "hair_braids_locks_R",
+      "type": "HAIR",
+      "guides": 1,
+      "children": 0,
+      "locks": 0,
+      "note": "no strand positions"
+    },
+    {
+      "object": "GEO_side_hair_emitter",
+      "system": "hair_braids_locks_L_messy",
+      "type": "HAIR",
+      "guides": 1,
+      "children": 0,
+      "locks": 0,
+      "note": "no strand positions"
+    },
+    {
+      "object": "GEO_side_hair_emitter",
+      "system": "hair_braids_locks_R_messy",
+      "type": "HAIR",
+      "guides": 1,
+      "children": 0,
+      "locks": 0,
+      "note": "no strand positions"
+    }
+  ],
+  "joints": [
+    "chest",
+    "head",
+    "hips",
+    "leftFoot",
+    "leftHand",
+    "leftLowerArm",
+    "leftLowerLeg",
+    "leftShoulder",
+    "leftToes",
+    "leftUpperArm",
+    "leftUpperLeg",
+    "neck",
+    "rightFoot",
+    "rightHand",
+    "rightLowerArm",
+    "rightLowerLeg",
+    "rightShoulder",
+    "rightToes",
+    "rightUpperArm",
+    "rightUpperLeg",
+    "spine",
+    "upperChest"
+  ],
+  "cornersNearestBone": 34,
+  "bytes": 3799380
+}

@@ -1,0 +1,59 @@
+{
+  "name": "autumn",
+  "parts": [
+    "GEO_autumn_body",
+    "GEO_autumn_eye.l",
+    "GEO_autumn_eye.r",
+    "GEO_autumn_scarf",
+    "GEO_autumn_scarf.endpiece",
+    "GEO_autumn_teeth.lower",
+    "GEO_autumn_teeth.upper"
+  ],
+  "bakedFrom": [
+    "GEO_autumn_body",
+    "GEO_autumn_body.hair",
+    "GEO_autumn_eye.l",
+    "GEO_autumn_eye.r",
+    "GEO_autumn_scarf",
+    "GEO_autumn_scarf.endpiece",
+    "GEO_autumn_teeth.lower",
+    "GEO_autumn_teeth.upper"
+  ],
+  "triangles": {
+    "before": 20679,
+    "after": 19599
+  },
+  "hairLocks": [],
+  "joints": [
+    "backLeftAnkle",
+    "backLeftHip",
+    "backLeftHock",
+    "backLeftKnee",
+    "backRightAnkle",
+    "backRightHip",
+    "backRightHock",
+    "backRightKnee",
+    "frontLeftAnkle",
+    "frontLeftClavicle",
+    "frontLeftKnee",
+    "frontLeftShoulder",
+    "frontRightAnkle",
+    "frontRightClavicle",
+    "frontRightKnee",
+    "frontRightShoulder",
+    "head",
+    "leftEar",
+    "neck",
+    "pelvis",
+    "rightEar",
+    "spineBase",
+    "spineMiddle",
+    "spineUpper",
+    "tail",
+    "tail2",
+    "tail3",
+    "tail4"
+  ],
+  "cornersNearestBone": 1634,
+  "bytes": 2729148
+}
