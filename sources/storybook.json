@@ -1059,7 +1059,7 @@
         "folk tale",
         "West African"
       ],
-      "description": "Anansi the spider, trickster of Akan tales from Ghana, a man with six arms, in gold and red",
+      "description": "Anansi the spider, trickster of Akan tales from Ghana: a man in orange, red and purple, with a striped headwrap, a beaded collar and eight striped spider legs",
       "licence": "CC0-1.0",
       "credit": "Anansi, made from Barbarian by Kay Lousberg, KayKit (CC0)",
       "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/blob/672074b73ba276876a19e8816ecdc5241817ab47/addons/kaykit_character_pack_adventures/Characters/gltf/Barbarian.glb",
@@ -1071,90 +1071,30 @@
       "exclude": {
         "nodes": [
           "Barbarian_Hat",
+          "Barbarian_Cape",
           "Mug"
         ]
       },
       "kitbash": {
-        "copy": [
+        "trim": [
           {
-            "node": "Barbarian_ArmLeft",
-            "name": "ArmLeft2",
-            "pivot": [
-              0.08,
-              1.12,
+            "node": "Barbarian_Head",
+            "cell": [
+              1,
               0
             ],
-            "turn": [
-              0,
-              -18,
-              -10
-            ],
-            "offset": [
-              0,
-              -0.12,
-              0
-            ],
-            "bone": "chest"
-          },
-          {
-            "node": "Barbarian_ArmLeft",
-            "name": "ArmLeft3",
-            "pivot": [
-              0.08,
-              1.12,
-              0
-            ],
-            "turn": [
-              0,
-              14,
-              -28
-            ],
-            "offset": [
-              0,
-              -0.26,
-              0
-            ],
-            "bone": "chest"
-          },
-          {
-            "node": "Barbarian_ArmRight",
-            "name": "ArmRight2",
-            "pivot": [
-              -0.08,
-              1.12,
-              0
-            ],
-            "turn": [
-              0,
-              18,
-              10
-            ],
-            "offset": [
-              0,
-              -0.12,
-              0
-            ],
-            "bone": "chest"
-          },
-          {
-            "node": "Barbarian_ArmRight",
-            "name": "ArmRight3",
-            "pivot": [
-              -0.08,
-              1.12,
-              0
-            ],
-            "turn": [
-              0,
-              -14,
-              28
-            ],
-            "offset": [
-              0,
-              -0.26,
-              0
-            ],
-            "bone": "chest"
+            "within": [
+              [
+                -1,
+                1,
+                -1
+              ],
+              [
+                1,
+                1.6,
+                1
+              ]
+            ]
           }
         ],
         "recolour": [
@@ -1184,34 +1124,826 @@
               [
                 0,
                 1
-              ],
+              ]
+            ],
+            "colour": "e0612a"
+          },
+          {
+            "cells": [
               [
                 1,
                 1
               ]
             ],
-            "hue": 42,
-            "saturation": 1.6,
-            "value": 1.25
+            "colour": "2f5fd0"
+          },
+          {
+            "cells": [
+              [
+                6,
+                0
+              ]
+            ],
+            "colour": "f2c230"
           },
           {
             "cells": [
               [
                 7,
                 0
+              ]
+            ],
+            "colour": "c8302a"
+          },
+          {
+            "cells": [
+              [
+                7,
+                1
               ],
               [
                 7,
                 2
-              ],
+              ]
+            ],
+            "colour": "8e3fd0"
+          },
+          {
+            "cells": [
               [
                 3,
                 2
               ]
             ],
-            "hue": 8,
-            "saturation": 1.2,
-            "value": 0.85
+            "colour": "b0306a"
+          },
+          {
+            "cells": [
+              [
+                2,
+                3
+              ]
+            ],
+            "colour": "f07a1e"
+          },
+          {
+            "cells": [
+              [
+                3,
+                3
+              ]
+            ],
+            "colour": "f5c518"
+          },
+          {
+            "cells": [
+              [
+                4,
+                3
+              ]
+            ],
+            "colour": "8e3fd0"
+          },
+          {
+            "cells": [
+              [
+                5,
+                3
+              ]
+            ],
+            "colour": "2b6fe0"
+          },
+          {
+            "cells": [
+              [
+                6,
+                3
+              ]
+            ],
+            "colour": "2aa36b"
+          },
+          {
+            "cells": [
+              [
+                7,
+                3
+              ]
+            ],
+            "colour": "d8352e"
+          }
+        ],
+        "add": [
+          {
+            "name": "Headwrap",
+            "shape": "cap",
+            "joint": "head",
+            "at": [
+              0,
+              0.48,
+              -0.02
+            ],
+            "scale": [
+              1.03,
+              0.9,
+              1.07
+            ],
+            "radius": 0.58,
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                3,
+                3
+              ]
+            ],
+            "stripes": 6
+          },
+          {
+            "name": "Collar",
+            "shape": "ring",
+            "joint": "chest",
+            "at": [
+              0,
+              0.27,
+              0.04
+            ],
+            "scale": [
+              1,
+              0.55,
+              1
+            ],
+            "radius": 0.3,
+            "thickness": 0.13,
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 32,
+            "turn": [
+              18,
+              0,
+              0
+            ]
+          },
+          {
+            "name": "LegLeft1",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              -50,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegLeft2",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              -18,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegLeft3",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              18,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegLeft4",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              50,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegRight1",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              -0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              230,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegRight2",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              -0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              198,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegRight3",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              -0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              162,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
+          },
+          {
+            "name": "LegRight4",
+            "shape": "path",
+            "joint": "chest",
+            "at": [
+              -0.22,
+              0.22,
+              -0.28
+            ],
+            "turn": [
+              0,
+              130,
+              0
+            ],
+            "radius": 0.07,
+            "top": 0.04,
+            "points": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0.35,
+                0.5,
+                0
+              ],
+              [
+                0.85,
+                0.62,
+                0
+              ],
+              [
+                1.25,
+                0.2,
+                0
+              ],
+              [
+                1.4,
+                -0.5,
+                0
+              ],
+              [
+                1.45,
+                -1.05,
+                0
+              ]
+            ],
+            "bands": [
+              [
+                2,
+                3
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                0,
+                3
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "stripes": 14
           }
         ]
       }
