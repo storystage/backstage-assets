@@ -1,0 +1,8 @@
+82472436 ./autumn/autumn.blend
+12593692 ./autumn/char/autumn/maps/TEX_autumn_body_bump.png
+6700046 ./autumn/char/autumn/maps/TEX_autumn_body_color.png
+1680000 ./autumn/char/autumn/maps/TEX_autumn_body_spec.png
+38224 ./autumn/char/autumn/maps/TEX_autumn_scarf_alpha.png
+6357019 ./autumn/maps/fabrics/fabric_wool_knitted_rough_disp.png
+7182435 ./autumn/maps/hdri/forest_street-2K.hdr
+824500 ./autumn/nodes/node_library.blend

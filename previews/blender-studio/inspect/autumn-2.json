@@ -1,0 +1,93 @@
+{
+  "file": "/home/runner/work/_temp/studio/autumn/files/autumn/nodes/node_library.blend",
+  "blender": "4.5.14 LTS",
+  "fileVersion": [
+    2,
+    79,
+    4
+  ],
+  "scenes": [
+    "Scene"
+  ],
+  "scene": "Scene",
+  "unit": {
+    "system": "NONE",
+    "scale": 1.0
+  },
+  "libraries": [],
+  "collections": {
+    "name": "Scene Collection",
+    "objects": 0,
+    "children": [
+      {
+        "name": "Collection 1",
+        "objects": 1,
+        "children": []
+      },
+      {
+        "name": "Collection 20",
+        "objects": 1,
+        "children": []
+      }
+    ]
+  },
+  "meshes": [
+    {
+      "name": "Cube",
+      "parent": null,
+      "collections": [
+        "Collection 1"
+      ],
+      "hidden": false,
+      "vertices": 1538,
+      "faces": 1536,
+      "triangles": 3072,
+      "modifiers": [],
+      "vertexGroups": 0,
+      "shapeKeys": 0,
+      "materials": [
+        "NodeLibrary"
+      ],
+      "hair": [],
+      "uvLayers": 0,
+      "evaluatedTriangles": 3072
+    }
+  ],
+  "armatures": [],
+  "others": [
+    "EMPTY"
+  ],
+  "curves": [],
+  "materials": [
+    {
+      "name": "NodeLibrary",
+      "nodes": {
+        "ShaderNodeGroup": 4
+      },
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "name": "Default.png",
+      "size": [
+        512,
+        512
+      ],
+      "file": "//MatCaps/Default.png",
+      "packed": true
+    }
+  ],
+  "picture": {
+    "low": [
+      -1.476,
+      -1.476,
+      -1.489
+    ],
+    "high": [
+      1.476,
+      1.476,
+      1.489
+    ]
+  }
+}
