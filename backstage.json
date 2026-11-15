@@ -2,6 +2,84 @@
   "manifestVersion": "2.1.0",
   "items": [
     {
+      "id": "blender-studio/Quadruped/autumn",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Autumn",
+      "themes": [
+        "animals",
+        "pets",
+        "storybook"
+      ],
+      "description": "a small black dog with big ears and a red scarf",
+      "files": {
+        "model": "models/blender-studio/Quadruped/autumn.glb",
+        "thumbnail": "thumbnails/blender-studio/Quadruped/autumn.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "leftEar",
+        "rightEar",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "pelvis",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftAnkle",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightAnkle"
+      ],
+      "defaultSize": {
+        "height": 0.41
+      },
+      "budget": {
+        "triangles": 19599,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Autumn (CC) Blender Foundation | studio.blender.org; reduced for StoryStage, changed for StoryStage",
+      "source": {
+        "url": "https://studio.blender.org/characters/autumn/",
+        "retrieved": "2026-11-15"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/blender-studio/Quadruped/autumn/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/blender-studio/Quadruped/autumn/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/blender-studio/Quadruped/autumn/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/blender-studio/Quadruped/autumn/back.svg"
+        }
+      ]
+    },
+    {
       "id": "kaykit/Biped/barbarian",
       "section": "cast",
       "class": "Biped",

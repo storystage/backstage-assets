@@ -1,6 +1,6 @@
 # Sketches to touch up
 
-Written by `tools/make-sketches`: 1267 sketches, 0 replaced by hand, 10 to look at.
+Written by `tools/make-sketches`: 1271 sketches, 0 replaced by hand, 10 to look at.
 
 To replace a sketch, draw it in the same style (black lines 3 units wide on a white shape, the model facing left in side and three-quarter views), save it beside this file, and name it in `touch-up.json` under `overrides`.
 
@@ -21,7 +21,9 @@ To replace a sketch, draw it in the same style (black lines 3 units wide on a wh
 
 ## Cast drawn without poses
 
-None.
+Their skeletons don't map onto the joint map (spec 17, section 2a), so they have the four facings only:
+
+- `blender-studio/Quadruped/autumn`
 
 ## Replaced by hand
 
