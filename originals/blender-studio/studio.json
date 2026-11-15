@@ -10,18 +10,54 @@
       "blend": "spring/spring/spring.blend",
       "class": "biped",
       "rig": "RIG-Spring",
-      "collections": ["spring.geo.head", "spring.geo.clothes"],
-      "bakeFrom": ["spring.geo.hair_particles"],
-      "exclude": ["GEO_spring_teeth_*", "GEO_spring_gums_*"],
-      "bakeOnly": ["*stitches*"],
+      "collections": [
+        "spring.geo.head",
+        "spring.geo.clothes"
+      ],
+      "bakeFrom": [
+        "spring.geo.hair_particles"
+      ],
+      "exclude": [
+        "GEO_spring_teeth_*",
+        "GEO_spring_gums_*"
+      ],
+      "bakeOnly": [
+        "*stitches*"
+      ],
       "cage": 0.02,
       "bones": {
-        "hips": "pelvis_def", "spine": "spine_1_def", "chest": "spine_2_def", "upperChest": "spine_3_def",
-        "neck": "neck_1_def", "head": "head_def_mstr",
-        "leftShoulder": "clavi_def_L", "leftUpperArm": "arm_def_L", "leftLowerArm": "forearm_def_L", "leftHand": "hand_def_L",
-        "rightShoulder": "clavi_def_R", "rightUpperArm": "arm_def_R", "rightLowerArm": "forearm_def_R", "rightHand": "hand_def_R",
-        "leftUpperLeg": "thigh_def_L", "leftLowerLeg": "shin_def_L", "leftFoot": "foot_def_L", "leftToes": "toe_1_def_L",
-        "rightUpperLeg": "thigh_def_R", "rightLowerLeg": "shin_def_R", "rightFoot": "foot_def_R", "rightToes": "toe_1_def_R"
+        "hips": "pelvis_def",
+        "spine": "spine_1_def",
+        "chest": "spine_2_def",
+        "upperChest": "spine_3_def",
+        "neck": "neck_1_def",
+        "head": "head_def_mstr",
+        "leftShoulder": "clavi_def_L",
+        "leftUpperArm": "arm_def_L",
+        "leftLowerArm": "forearm_def_L",
+        "leftHand": "hand_def_L",
+        "rightShoulder": "clavi_def_R",
+        "rightUpperArm": "arm_def_R",
+        "rightLowerArm": "forearm_def_R",
+        "rightHand": "hand_def_R",
+        "leftUpperLeg": "thigh_def_L",
+        "leftLowerLeg": "shin_def_L",
+        "leftFoot": "foot_def_L",
+        "leftToes": "toe_1_def_L",
+        "rightUpperLeg": "thigh_def_R",
+        "rightLowerLeg": "shin_def_R",
+        "rightFoot": "foot_def_R",
+        "rightToes": "toe_1_def_R"
+      },
+      "hairLocks": {
+        "objects": [
+          "GEO-spring_head",
+          "GEO-ponytail_emitter",
+          "GEO_side_hair_emitter"
+        ],
+        "minLength": 0.04,
+        "most": 120,
+        "radius": 0.011
       }
     },
     {
@@ -32,18 +68,45 @@
       "blend": "autumn/autumn.blend",
       "class": "quadruped",
       "rig": "RIG-autumn",
-      "collections": ["autumn.high_res"],
-      "bakeFrom": ["autumn.geo.hair_particles"],
-      "exclude": ["GEO_autumn_tongue"],
+      "collections": [
+        "autumn.high_res"
+      ],
+      "bakeFrom": [
+        "autumn.geo.hair_particles"
+      ],
+      "exclude": [
+        "GEO_autumn_tongue"
+      ],
       "cage": 0.05,
       "bones": {
-        "spineBase": "spine_1_def", "spineMiddle": "spine_2_def", "spineUpper": "spine_3_def",
-        "neck": "neck_1_def", "head": "head_def_mstr", "leftEar": "ear_1_L", "rightEar": "ear_1_R",
-        "pelvis": "pelvis_def", "tail": "tail_1_def", "tail2": "tail_2_def", "tail3": "tail_3_def", "tail4": "tail_4_def",
-        "frontLeftClavicle": "clavi_def_L", "frontLeftShoulder": "arm_def_L", "frontLeftKnee": "forearm_def_L", "frontLeftAnkle": "hand_def_L",
-        "frontRightClavicle": "clavi_def_R", "frontRightShoulder": "arm_def_R", "frontRightKnee": "forearm_def_R", "frontRightAnkle": "hand_def_R",
-        "backLeftHip": "thigh_def_L", "backLeftKnee": "shin_def_L", "backLeftHock": "foot_def_L", "backLeftAnkle": "toe_1_def_L",
-        "backRightHip": "thigh_def_R", "backRightKnee": "shin_def_R", "backRightHock": "foot_def_R", "backRightAnkle": "toe_1_def_R"
+        "spineBase": "spine_1_def",
+        "spineMiddle": "spine_2_def",
+        "spineUpper": "spine_3_def",
+        "neck": "neck_1_def",
+        "head": "head_def_mstr",
+        "leftEar": "ear_1_L",
+        "rightEar": "ear_1_R",
+        "pelvis": "pelvis_def",
+        "tail": "tail_1_def",
+        "tail2": "tail_2_def",
+        "tail3": "tail_3_def",
+        "tail4": "tail_4_def",
+        "frontLeftClavicle": "clavi_def_L",
+        "frontLeftShoulder": "arm_def_L",
+        "frontLeftKnee": "forearm_def_L",
+        "frontLeftAnkle": "hand_def_L",
+        "frontRightClavicle": "clavi_def_R",
+        "frontRightShoulder": "arm_def_R",
+        "frontRightKnee": "forearm_def_R",
+        "frontRightAnkle": "hand_def_R",
+        "backLeftHip": "thigh_def_L",
+        "backLeftKnee": "shin_def_L",
+        "backLeftHock": "foot_def_L",
+        "backLeftAnkle": "toe_1_def_L",
+        "backRightHip": "thigh_def_R",
+        "backRightKnee": "shin_def_R",
+        "backRightHock": "foot_def_R",
+        "backRightAnkle": "toe_1_def_R"
       }
     }
   ]
