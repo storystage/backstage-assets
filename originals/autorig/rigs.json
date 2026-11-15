@@ -1,0 +1,14 @@
+{
+  "models": [
+    {
+      "name": "grandmother",
+      "file": "Granny.glb"
+    },
+    {
+      "name": "red-riding-hood",
+      "file": "CAPVERM.fbx",
+      "landmarks": { "shoulders": 0.62, "hips": 0.4, "knees": 0.2 },
+      "still": ["arms"]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "source": "sketchfab",
+  "items": [
+    {
+      "id": "sketchfab/Biped/red-riding-hood",
+      "displayName": "Little Red Riding Hood",
+      "class": "Biped",
+      "section": "cast",
+      "themes": ["storybook", "fairy tale"],
+      "description": "Little Red Riding Hood, a small girl in a long red hooded cloak",
+      "height": 1.2,
+      "licence": "CC-BY-4.0",
+      "credit": "Capuchinho Vermelho (Little Red Riding Hood) by Rafasilart, CC BY 4.0, via Sketchfab; rigged and reduced for StoryStage",
+      "page": "https://sketchfab.com/3d-models/capuchinho-vermelho-little-red-riding-hood-38f5e17dbd8745bc8ac865610fd859aa",
+      "fetch": { "generated": "autorig/red-riding-hood.glb" }
+    },
+    {
+      "id": "sketchfab/Biped/grandmother",
+      "displayName": "Grandmother",
+      "class": "Biped",
+      "section": "cast",
+      "themes": ["storybook", "fairy tale", "people"],
+      "description": "an old village grandmother with grey hair, in a long orange dress",
+      "height": 1.55,
+      "licence": "CC-BY-4.0",
+      "credit": "Old Village Granny by Imagine, CC BY 4.0, via Sketchfab; rigged and reduced for StoryStage",
+      "page": "https://sketchfab.com/3d-models/old-village-granny-0f2d99b04b1c4918a41c3834a0285891",
+      "fetch": { "generated": "autorig/grandmother.glb" }
+    }
+  ]
+}

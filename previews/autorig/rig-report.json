@@ -1,0 +1,44 @@
+[
+  {
+    "name": "grandmother",
+    "file": "Granny.glb",
+    "removed": [],
+    "landmarks": {
+      "shoulders": 0.664,
+      "hips": 0.427,
+      "knees": 0.238,
+      "shoulderWidth": 0.27,
+      "legWidth": 0.122
+    },
+    "how": {
+      "shoulders": "the widest part",
+      "arms": "outstretched",
+      "hips": "in proportion: the legs are hidden (a long skirt or cloak)"
+    },
+    "still": [],
+    "cornersNearestBone": 50,
+    "bytes": 228652
+  },
+  {
+    "name": "red-riding-hood",
+    "file": "CAPVERM.fbx",
+    "removed": [],
+    "landmarks": {
+      "shoulders": 0.62,
+      "hips": 0.4,
+      "knees": 0.2,
+      "shoulderWidth": 0.416,
+      "legWidth": 0.269
+    },
+    "how": {
+      "shoulders": "given",
+      "arms": "outstretched",
+      "hips": "given"
+    },
+    "still": [
+      "arms"
+    ],
+    "cornersNearestBone": 0,
+    "bytes": 584144
+  }
+]
