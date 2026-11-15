@@ -1,0 +1,100 @@
+# Blender Studio's characters (WP3.8; CC BY 4.0, "(CC) Blender Foundation | studio.blender.org"),
+# with Blender, headless, from originals/blender-studio/studio.json, using storystage2's
+# tools/backstage-sources/blender/studio.py. Blender is a GPL build tool, never shipped.
+#
+# The files are fetched from Blender Studio's own download links (the owner's choice of 15 Nov 2026;
+# its robots.txt allows ordinary clients), once each run, and each is checked against its pinned
+# sha256 when one is given. They are never committed: Spring's is 406 MB.
+name: Blender Studio characters
+
+on:
+  workflow_dispatch:
+    inputs:
+      tools_ref:
+        description: storystage2 branch or commit whose tools to use
+        required: true
+        default: main
+  # A push to studio/<storystage2 ref> runs it with that ref's tools (dispatch needs the workflow on main).
+  push:
+    branches: ['studio/**']
+
+permissions:
+  contents: write
+
+env:
+  TOOLS_REF: ${{ inputs.tools_ref || github.ref_name }}
+  BLENDER_SERIES: '4.5'
+  BLENDER_VERSION: 4.5.14
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Which tools
+        run: |
+          ref="${TOOLS_REF#studio/}"
+          echo "TOOLS_REF=$ref" >> "$GITHUB_ENV"
+          echo "Tools: storystage2 $ref"
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: assets
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: storystage/storystage2
+          ref: ${{ env.TOOLS_REF }}
+          path: storystage2
+          persist-credentials: false
+      - name: Install Blender
+        timeout-minutes: 20
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -yq libxi6 libxxf86vm1 libxfixes3 libxrender1 libgl1 libsm6 libxkbcommon0 libegl1
+          mkdir -p "$RUNNER_TEMP/blender"
+          cd "$RUNNER_TEMP/blender"
+          curl -fsSL --retry 5 --retry-all-errors "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz" | tar -xJ
+          echo "BLENDER=$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" >> "$GITHUB_ENV"
+      - name: Fetch the characters
+        run: |
+          mkdir -p "$RUNNER_TEMP/studio"
+          node -e '
+            const s = require("./assets/originals/blender-studio/studio.json");
+            for (const c of s.characters) console.log([c.name, c.url, c.sha256 || "-"].join(" "));
+          ' > "$RUNNER_TEMP/studio/list.txt"
+          while read -r name url sha; do
+            dir="$RUNNER_TEMP/studio/$name"
+            mkdir -p "$dir"
+            curl -fsSL --retry 5 --retry-all-errors -A "storystage-assets-build" -o "$dir/download.zip" "$url"
+            got=$(sha256sum "$dir/download.zip" | cut -d' ' -f1)
+            echo "$name: sha256 $got, $(stat -c %s "$dir/download.zip") bytes"
+            if [ "$sha" != "-" ] && [ "$sha" != "$got" ]; then
+              echo "::error::$name: expected sha256 $sha, got $got"; exit 1
+            fi
+            (cd "$dir" && unzip -q download.zip -d files && rm download.zip)
+          done < "$RUNNER_TEMP/studio/list.txt"
+      - name: Inspect them
+        run: |
+          out="$GITHUB_WORKSPACE/assets/previews/blender-studio/inspect"
+          mkdir -p "$out"
+          for dir in "$RUNNER_TEMP"/studio/*/; do
+            name=$(basename "$dir")
+            (cd "$dir/files" && find . -type f -printf '%s %p\n' | sort -k2) > "$out/$name-files.txt"
+            i=0
+            while IFS= read -r -d '' blend; do
+              i=$((i + 1))
+              "$BLENDER" -b "$blend" --python-exit-code 1 --python storystage2/tools/backstage-sources/blender/studio.py -- \
+                inspect "$out/$name-$i.json" "$out/$name-$i.png" || echo "::warning::$name: $blend could not be inspected"
+            done < <(find "$dir/files" -name '*.blend' -print0 | sort -z)
+          done
+          ls -la "$out"
+      - name: Push a branch for review
+        working-directory: assets
+        run: |
+          branch="inspected/${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add previews/blender-studio
+          git commit -m "Inspect Blender Studio's characters (tools: storystage2 ${TOOLS_REF})"
+          git push origin "$branch"
+          echo "Pushed $branch"

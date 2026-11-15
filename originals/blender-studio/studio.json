@@ -1,0 +1,16 @@
+{
+  "credit": "(CC) Blender Foundation | studio.blender.org",
+  "licence": "CC-BY-4.0",
+  "characters": [
+    {
+      "name": "spring",
+      "page": "https://studio.blender.org/characters/spring/",
+      "url": "https://studio.blender.org/download-source/files/1b/1bffff08b464375d842e7da43b4f5293/1bffff08b464375d842e7da43b4f5293.zip"
+    },
+    {
+      "name": "autumn",
+      "page": "https://studio.blender.org/characters/autumn/",
+      "url": "https://studio.blender.org/download-source/files/97/97108c7a70aef830ef9b3f185442307e/97108c7a70aef830ef9b3f185442307e.zip"
+    }
+  ]
+}
