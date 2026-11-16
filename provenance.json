@@ -1361,6 +1361,174 @@
       "animations": []
     }
   },
+  "makehuman/Biped/p31": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p31.glb",
+        "sha256": "c0001caa6a34ba6eff57097fcf883af95b510118b2cc10d6a94fc6f3051d77ba"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19992,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 36872,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p32": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p32.glb",
+        "sha256": "965a012b0da4e5c1d468f1e3d9cf34b96506443f526ce5fff2d092f8d4bdb491"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19991,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 36422,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p33": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p33.glb",
+        "sha256": "b7845e2875f142fe96adb888c83d80afbe0ee2afc4838069cc31902f6b084e18"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19995,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 34332,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p34": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p34.glb",
+        "sha256": "38928f0d6ca35cdde90d742043e113b84571ba36380497b546d2dfc196149b96"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19989,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 34116,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p35": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p35.glb",
+        "sha256": "73ebd6d03bf4ef8eaa523af259f78c38b699440471ff2444a46b980304dfc216"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19994,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 36130,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p36": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p36.glb",
+        "sha256": "04b8c535d63f24f65e60f1835b7b558eae15d6e3b85cc84a95f25db8ab1d25f7"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19999,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 39104,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p37": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p37.glb",
+        "sha256": "b96107e3b17502a5fa6ef1a5daf32fb9b28b114bd9fa8f6749a2cb426649e23b"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19985,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 46784,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
   "osa/Biped/astronaut": {
     "source": "open-source-avatars",
     "fetched": [
