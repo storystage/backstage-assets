@@ -510,6 +510,125 @@
       "fetch": {
         "generated": "makehuman/p30.glb"
       }
+    },
+    {
+      "id": "makehuman/Biped/p31",
+      "displayName": "Maryam",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "description": "a girl of 10 in a navy hijab, a teal jacket and jeans",
+      "licence": "CC0-1.0",
+      "credit": "Maryam, made with MakeHuman (CC0)",
+      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "fetch": {
+        "generated": "makehuman/p31.glb"
+      }
+    },
+    {
+      "id": "makehuman/Biped/p32",
+      "displayName": "Samira",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "description": "a woman of 45 in a maroon hijab, a green striped blouse and green skirt",
+      "licence": "CC0-1.0",
+      "credit": "Samira, made with MakeHuman (CC0)",
+      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "fetch": {
+        "generated": "makehuman/p32.glb"
+      }
+    },
+    {
+      "id": "makehuman/Biped/p33",
+      "displayName": "Arjan",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "description": "a boy of 11 in a navy patka, a yellow striped shirt and jeans",
+      "licence": "CC0-1.0",
+      "credit": "Arjan, made with MakeHuman (CC0)",
+      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "fetch": {
+        "generated": "makehuman/p33.glb"
+      }
+    },
+    {
+      "id": "makehuman/Biped/p34",
+      "displayName": "Gurdeep",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "adults"
+      ],
+      "description": "a man of 38 in an orange turban, a green jacket and jeans",
+      "licence": "CC0-1.0",
+      "credit": "Gurdeep, made with MakeHuman (CC0)",
+      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "fetch": {
+        "generated": "makehuman/p34.glb"
+      }
+    },
+    {
+      "id": "makehuman/Biped/p35",
+      "displayName": "Eli",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "description": "a boy of 8 with short dark hair and a navy kippah, in an orange striped shirt and jeans",
+      "licence": "CC0-1.0",
+      "credit": "Eli, made with MakeHuman (CC0)",
+      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "fetch": {
+        "generated": "makehuman/p35.glb"
+      }
+    },
+    {
+      "id": "makehuman/Biped/p36",
+      "displayName": "Poppy",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "children"
+      ],
+      "description": "a girl of 7 with a brown ponytail and purple hearing aids, in a coral jacket and jeans",
+      "licence": "CC0-1.0",
+      "credit": "Poppy, made with MakeHuman (CC0)",
+      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "fetch": {
+        "generated": "makehuman/p36.glb"
+      }
+    },
+    {
+      "id": "makehuman/Biped/p37",
+      "displayName": "George",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "older people"
+      ],
+      "description": "an older man of 80 with short white hair and hearing aids, in a dark suit and striped tie",
+      "licence": "CC0-1.0",
+      "credit": "George, made with MakeHuman (CC0)",
+      "page": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+      "fetch": {
+        "generated": "makehuman/p37.glb"
+      }
     }
   ]
 }

@@ -103,6 +103,25 @@ jobs:
         with:
           path: ${{ runner.temp }}/packs
           key: makehuman-packs-${{ env.ASSET_SHA256 }}-${{ env.GLASSES_SHA256 }}-partial-${{ github.run_id }}
+      # Blender's download is kept too: download.blender.org sometimes fails a run (16 Nov).
+      - name: Restore Blender's download
+        id: blender
+        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/blender-download
+          key: makehuman-blender-${{ env.BLENDER_VERSION }}
+      - name: Download Blender if it isn't kept
+        if: steps.blender.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p "$RUNNER_TEMP/blender-download"
+          curl -fsSL --retry 5 --retry-all-errors -o "$RUNNER_TEMP/blender-download/blender.tar.xz" \
+            "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz"
+      - name: Keep Blender's download
+        if: steps.blender.outputs.cache-hit != 'true'
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ runner.temp }}/blender-download
+          key: makehuman-blender-${{ env.BLENDER_VERSION }}
       - name: Install Blender, MPFB2 and the CC0 assets
         timeout-minutes: 20
         run: |
@@ -110,7 +129,7 @@ jobs:
           sudo apt-get install -yq libxi6 libxxf86vm1 libxfixes3 libxrender1 libgl1 libsm6 libxkbcommon0 libegl1
           mkdir -p "$RUNNER_TEMP/mh"
           cd "$RUNNER_TEMP/mh"
-          curl -fsSL --retry 5 --retry-all-errors "https://download.blender.org/release/Blender${BLENDER_SERIES}/blender-${BLENDER_VERSION}-linux-x64.tar.xz" | tar -xJ
+          tar -xJf "$RUNNER_TEMP/blender-download/blender.tar.xz"
           echo "BLENDER=$PWD/blender-${BLENDER_VERSION}-linux-x64/blender" >> "$GITHUB_ENV"
           curl -fsSL --retry 5 --retry-all-errors "https://github.com/makehumancommunity/mpfb2/archive/refs/tags/${MPFB_TAG}.tar.gz" | tar -xz
           (cd mpfb2-*/src && zip -qr "$RUNNER_TEMP/mh/mpfb.zip" mpfb)
@@ -129,6 +148,14 @@ jobs:
             assets/generated/makehuman/people.json "$RUNNER_TEMP/mh/assets.zip" "$RUNNER_TEMP/mh/glasses.zip" \
             assets/generated/makehuman assets/previews/makehuman
           cat assets/generated/makehuman/make-report.json
+      # The previews, even when someone couldn't be made, so a trial's renders can be looked at.
+      - name: Keep the previews
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: previews
+          path: assets/previews/makehuman
+          if-no-files-found: ignore
       - name: Add them to Backstage
         working-directory: storystage2
         run: node tools/backstage-sources/src/cli.ts ../assets --only makehuman
