@@ -649,7 +649,7 @@
         "sha256": "e00f3e28f79997c77e233b04b4b92b14f86b46671b75d63fa0092a3d85ea7f0a"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19993,
     "textureMaxPx": 1024,
@@ -673,7 +673,7 @@
         "sha256": "a0519325504f1e97e68f4520fbb26201c6d8dcff738270d88bb9220dbfda5c53"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19994,
     "textureMaxPx": 1024,
@@ -697,7 +697,7 @@
         "sha256": "dc3d58117827640f5264a248f267176013a741f2591f74136aa6c7d67291f62d"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19992,
     "textureMaxPx": 1024,
@@ -721,7 +721,7 @@
         "sha256": "982eba4afbd00ecbb1176c6191b4668c4c587e083ef34db74923d33c19a64736"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19988,
     "textureMaxPx": 1024,
@@ -745,7 +745,7 @@
         "sha256": "ef38ead8adee51e21aed5175e63a815069228f14cd1d2bcce0c77e34e212a4ee"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19990,
     "textureMaxPx": 1024,
@@ -769,7 +769,7 @@
         "sha256": "cc6fe802fe60df575eefd18429ffb4585734becf8bcdf0a5be978639b723b2aa"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19988,
     "textureMaxPx": 1024,
@@ -793,7 +793,7 @@
         "sha256": "2a21f14bb6d187874de107162fb48b2562066a2850608d2261d51943b5483b49"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19990,
     "textureMaxPx": 1024,
@@ -817,7 +817,7 @@
         "sha256": "f48503a8d40b6d3742129441971bf625cd1d10b43ce356924fe65beb5203b865"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19990,
     "textureMaxPx": 1024,
@@ -841,7 +841,7 @@
         "sha256": "d1a2a98338fd04ed02d1cd5f745bf81b8f4d3febccc3201bd8646fefa84a392a"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19989,
     "textureMaxPx": 1024,
@@ -865,7 +865,7 @@
         "sha256": "509f443c5adaf6ffccea66672e7e18270de3bdb62e0732c2e3be91453c08e665"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19991,
     "textureMaxPx": 1024,
@@ -889,7 +889,7 @@
         "sha256": "54a4a99797ca6c57aada294bcd84557755a65429503bd612c25408e43c48937f"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19988,
     "textureMaxPx": 1024,
@@ -913,7 +913,7 @@
         "sha256": "0c8cda673c3951092b5c0a95af0543fee3fc58375691601b13169c2d7a9e9e27"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19989,
     "textureMaxPx": 1024,
@@ -937,7 +937,7 @@
         "sha256": "cf2ddb9a4a28aea45897520f23c1ce9107f307e466d376b1354a19302e74fd0f"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19991,
     "textureMaxPx": 1024,
@@ -961,7 +961,7 @@
         "sha256": "b0b0e87fb25ff02f2204286f7403ad0ee142e8b4eb89ed33474e9c56ddc014c3"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19989,
     "textureMaxPx": 1024,
@@ -985,7 +985,7 @@
         "sha256": "043bf7ea9b24859bcd105a865f326156d6c16b2898f5cc3b4256ba60cd6f95cb"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19988,
     "textureMaxPx": 1024,
@@ -1009,7 +1009,7 @@
         "sha256": "51a87c173d4046fa13fafe8e399ad332aca600f68c406bad1d34235387807506"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19991,
     "textureMaxPx": 1024,
@@ -1033,7 +1033,7 @@
         "sha256": "ca253cc5e1171f637e2f3e7b82bb9d421ea63bde0094623c9cd0971fc08408db"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19991,
     "textureMaxPx": 1024,
@@ -1057,7 +1057,7 @@
         "sha256": "412298a6eb5a2542fb5d207bdb69e4b796f1962bdd1f0b2f241d81c8dd3d65b3"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19988,
     "textureMaxPx": 1024,
@@ -1081,7 +1081,7 @@
         "sha256": "78a7558556785a924fd6d0152ff075cb1d9fdee0a205ef40a1c0d5720cc9fc2f"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19989,
     "textureMaxPx": 1024,
@@ -1105,7 +1105,7 @@
         "sha256": "c25e65852eaa4184ef6abd2040498a704a7ac0297a2f254a8b7bb4cb4faa04c9"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19985,
     "textureMaxPx": 1024,
@@ -1129,7 +1129,7 @@
         "sha256": "54c9a5163c9d8711fa294fa3f449ab0b0805602831dc8684ae7a5236e44e52fd"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19993,
     "textureMaxPx": 1024,
@@ -1153,7 +1153,7 @@
         "sha256": "c534f6fa6d500f485685487779d66ee75a28d1623018b58f3aa630dd4ac6b174"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19990,
     "textureMaxPx": 1024,
@@ -1177,7 +1177,7 @@
         "sha256": "adae5e53e00dfcfe9393cbd4111842db21204478195d4200a8bec84b1152a583"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19991,
     "textureMaxPx": 1024,
@@ -1201,7 +1201,7 @@
         "sha256": "d8a6eeca9cfea9ed027b39da0934b2e04316b0f9a41f91b644a7b97cd302e78c"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19990,
     "textureMaxPx": 1024,
@@ -1225,7 +1225,7 @@
         "sha256": "40627a12b7f5082aa2a29d565c198fc95b79e83bc50029297aff367787e1fca7"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19992,
     "textureMaxPx": 1024,
@@ -1249,7 +1249,7 @@
         "sha256": "4d30951e49fba69192ac53d447376b495b48751346de166666dc5bded4a0e3f6"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19991,
     "textureMaxPx": 1024,
@@ -1273,7 +1273,7 @@
         "sha256": "ea53392f8283fca0f63c830a3e7ed417916bc90b43a1fe0c7a855c1199eda39a"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19992,
     "textureMaxPx": 1024,
@@ -1297,7 +1297,7 @@
         "sha256": "32371ce351856cc54e0fc1f56719f30659f4b287b86ca3553c88504dc75cdb2a"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19987,
     "textureMaxPx": 1024,
@@ -1321,7 +1321,7 @@
         "sha256": "6af743bc06bbaee46429045a284c4775c2cbe499b0905829e59768e45ac1b847"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19987,
     "textureMaxPx": 1024,
@@ -1345,12 +1345,180 @@
         "sha256": "42b3475c8d9a28f59be6461f75147b9825fd739507312555de8be3207d9bb2c5"
       }
     ],
-    "retrieved": "2026-11-10",
+    "retrieved": "2026-11-16",
     "vrm": null,
     "triangles": 19990,
     "textureMaxPx": 1024,
     "fetchedSize": {
       "triangles": 35022,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p31": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p31.glb",
+        "sha256": "230f311e45da2a0e72f6c122dd73477539548e7dd78d98d4e1708790e20280f4"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19989,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 35592,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p32": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p32.glb",
+        "sha256": "c755241f0604cab97848ae16170add6bfd49babdced965f37cd7f39bf5eb983b"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19989,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 35198,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p33": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p33.glb",
+        "sha256": "4362180b6c916516af6af1a34067d9f9b92895f622d31b4aed10ae3faf9ce195"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19995,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 34420,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p34": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p34.glb",
+        "sha256": "5033d62e9bc58c5d6c048a0c7d9a2ca546d2c3d19fabfafeffb1024c51990366"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19989,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 34520,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p35": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p35.glb",
+        "sha256": "7a29eea2a20278426fc75cf5f1140bd91acf135e8f88f4738048c0fd61062b5c"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19986,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 36490,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p36": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p36.glb",
+        "sha256": "d22308658a9263ff835de7ded29e48bc21d55702b5c0e79eeabd26824f23a40d"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19999,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 39104,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "makehuman/Biped/p37": {
+    "source": "makehuman",
+    "fetched": [
+      {
+        "url": "generated:makehuman/p37.glb",
+        "sha256": "f8f93314bb70cccb3f3bd4fbb51eb143ff694990b30224838d60b15992ea122e"
+      }
+    ],
+    "retrieved": "2026-11-16",
+    "vrm": null,
+    "triangles": 19985,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 46784,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
