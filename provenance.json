@@ -1342,7 +1342,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p30.glb",
-        "sha256": "42b3475c8d9a28f59be6461f75147b9825fd739507312555de8be3207d9bb2c5"
+        "sha256": "7bd681699ad9df79cf188e7d6aeee6fddd597bef531e9213925bd3ec57cb79ca"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1350,7 +1350,7 @@
     "triangles": 19990,
     "textureMaxPx": 1024,
     "fetchedSize": {
-      "triangles": 35022,
+      "triangles": 38126,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
