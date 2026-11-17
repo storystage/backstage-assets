@@ -958,7 +958,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p14.glb",
-        "sha256": "b0b0e87fb25ff02f2204286f7403ad0ee142e8b4eb89ed33474e9c56ddc014c3"
+        "sha256": "845528f73af3cee7a8002d07b75e86b654f8a3ac2d1da9f0d2989bea78cbf166"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1246,12 +1246,12 @@
     "fetched": [
       {
         "url": "generated:makehuman/p26.glb",
-        "sha256": "4d30951e49fba69192ac53d447376b495b48751346de166666dc5bded4a0e3f6"
+        "sha256": "6151ab967e637c4462b72a718d12f0f6c746db3e7c92b2ea4372cb03d6713571"
       }
     ],
     "retrieved": "2026-11-17",
     "vrm": null,
-    "triangles": 19991,
+    "triangles": 19989,
     "textureMaxPx": 1024,
     "fetchedSize": {
       "triangles": 41218,
