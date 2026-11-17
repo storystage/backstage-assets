@@ -670,15 +670,15 @@
     "fetched": [
       {
         "url": "generated:makehuman/p02.glb",
-        "sha256": "a0519325504f1e97e68f4520fbb26201c6d8dcff738270d88bb9220dbfda5c53"
+        "sha256": "56ebe06ac724f3c83a8014a8d198a9160017ea9f95b15f2ee72452e81f6d583e"
       }
     ],
-    "retrieved": "2026-11-16",
+    "retrieved": "2026-11-17",
     "vrm": null,
-    "triangles": 19994,
+    "triangles": 19992,
     "textureMaxPx": 1024,
     "fetchedSize": {
-      "triangles": 35368,
+      "triangles": 34966,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
@@ -694,10 +694,10 @@
     "fetched": [
       {
         "url": "generated:makehuman/p03.glb",
-        "sha256": "dc3d58117827640f5264a248f267176013a741f2591f74136aa6c7d67291f62d"
+        "sha256": "472026d5c91062eacb408ac938e7a6aef4ba3a3370a079b2c8574073789af2b4"
       }
     ],
-    "retrieved": "2026-11-16",
+    "retrieved": "2026-11-17",
     "vrm": null,
     "triangles": 19992,
     "textureMaxPx": 1024,
@@ -1462,10 +1462,10 @@
     "fetched": [
       {
         "url": "generated:makehuman/p35.glb",
-        "sha256": "7a29eea2a20278426fc75cf5f1140bd91acf135e8f88f4738048c0fd61062b5c"
+        "sha256": "15a937bdc828775e3ebd00bc3f1721b2e03df79b613a190c77603ebde81686e3"
       }
     ],
-    "retrieved": "2026-11-16",
+    "retrieved": "2026-11-17",
     "vrm": null,
     "triangles": 19986,
     "textureMaxPx": 1024,

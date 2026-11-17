@@ -1280,7 +1280,7 @@
         "everyday",
         "children"
       ],
-      "description": "a boy of 6 with short brown hair, in a blue shirt and jeans",
+      "description": "a boy of 6 with short brown hair, in blue dungarees and a yellow T-shirt",
       "files": {
         "model": "models/makehuman/Biped/p01.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p01.webp"
@@ -1441,7 +1441,7 @@
         "everyday",
         "children"
       ],
-      "description": "a girl of 7 with short curly black hair, in a yellow jacket and jeans",
+      "description": "a girl of 7 with short curly black hair, in a yellow blouse and yellow skirt",
       "files": {
         "model": "models/makehuman/Biped/p02.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p02.webp"
@@ -1504,14 +1504,14 @@
         "height": 1.07
       },
       "budget": {
-        "triangles": 19994,
+        "triangles": 19992,
         "textureMaxPx": 1024
       },
       "licence": "CC0-1.0",
       "credit": "Amara, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-16"
+        "retrieved": "2026-11-17"
       },
       "origin": "shipped",
       "sketches": [
@@ -1602,7 +1602,7 @@
         "everyday",
         "children"
       ],
-      "description": "a child of 8 with a brown side fringe and red glasses, in a teal striped shirt and jeans",
+      "description": "a child of 8 with a brown side fringe and red glasses, in a teal shirt and grey trousers",
       "files": {
         "model": "models/makehuman/Biped/p03.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p03.webp"
@@ -1672,7 +1672,7 @@
       "credit": "Kai, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-16"
+        "retrieved": "2026-11-17"
       },
       "origin": "shipped",
       "sketches": [
@@ -1763,7 +1763,7 @@
         "everyday",
         "children"
       ],
-      "description": "a girl of 9 with short black hair, in a purple striped shirt and jeans",
+      "description": "a girl of 9 with short black hair, in a purple checked shirt and jeans",
       "files": {
         "model": "models/makehuman/Biped/p04.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p04.webp"
@@ -1924,7 +1924,7 @@
         "everyday",
         "children"
       ],
-      "description": "a boy of 10 with short dark hair, in a dark red striped shirt and jeans",
+      "description": "a boy of 10 with short dark hair, in an orange checked shirt and navy trousers",
       "files": {
         "model": "models/makehuman/Biped/p05.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p05.webp"
@@ -2246,7 +2246,7 @@
         "everyday",
         "children"
       ],
-      "description": "a boy of 12 with short black hair, in a teal jacket and jeans",
+      "description": "a boy of 12 with short black hair, in a teal jacket and black trousers",
       "files": {
         "model": "models/makehuman/Biped/p07.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p07.webp"
@@ -2407,7 +2407,7 @@
         "everyday",
         "children"
       ],
-      "description": "a girl of 6 with a black bob and a long fringe, in a coral striped shirt and jeans",
+      "description": "a girl of 6 with a black bob and a long fringe, in a coral checked blouse and skirt",
       "files": {
         "model": "models/makehuman/Biped/p08.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p08.webp"
@@ -2568,7 +2568,7 @@
         "everyday",
         "children"
       ],
-      "description": "a boy of 11 with short black hair, in a khaki jacket and jeans",
+      "description": "a boy of 11 with short black hair, in blue dungarees and a white T-shirt",
       "files": {
         "model": "models/makehuman/Biped/p09.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p09.webp"
@@ -2729,7 +2729,7 @@
         "everyday",
         "children"
       ],
-      "description": "a girl of 9 with long brown hair, in a green striped shirt and jeans",
+      "description": "a girl of 9 with long brown hair, in a green striped blouse and green skirt",
       "files": {
         "model": "models/makehuman/Biped/p10.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p10.webp"
@@ -6432,7 +6432,7 @@
         "everyday",
         "children"
       ],
-      "description": "a boy of 11 in a navy patka, a yellow striped shirt and jeans",
+      "description": "a boy of 11 in a navy patka, a yellow striped shirt and navy trousers",
       "files": {
         "model": "models/makehuman/Biped/p33.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p33.webp"
@@ -6754,7 +6754,7 @@
         "everyday",
         "children"
       ],
-      "description": "a boy of 8 with short dark hair and a navy kippah, in an orange striped shirt and jeans",
+      "description": "a boy of 8 with short dark hair and a navy kippah, in a green shirt and khaki trousers",
       "files": {
         "model": "models/makehuman/Biped/p35.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p35.webp"
@@ -6824,7 +6824,7 @@
       "credit": "Eli, made with MakeHuman (CC0)",
       "source": {
         "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
-        "retrieved": "2026-11-16"
+        "retrieved": "2026-11-17"
       },
       "origin": "shipped",
       "sketches": [
