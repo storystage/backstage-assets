@@ -111,7 +111,7 @@
     "id": "p19",
     "name": "Yusuf",
     "triangles": 45814,
-    "bytes": 8994792
+    "bytes": 8991220
   },
   {
     "id": "p20",
@@ -213,12 +213,12 @@
     "id": "p36",
     "name": "Poppy",
     "triangles": 39184,
-    "bytes": 9521248
+    "bytes": 9523108
   },
   {
     "id": "p37",
     "name": "George",
     "triangles": 46864,
-    "bytes": 7027796
+    "bytes": 7021588
   }
 ]
