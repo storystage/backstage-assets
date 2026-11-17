@@ -21,13 +21,13 @@
     "id": "p04",
     "name": "Aisha",
     "triangles": 37834,
-    "bytes": 10477796
+    "bytes": 10553908
   },
   {
     "id": "p05",
     "name": "Rhys",
     "triangles": 35994,
-    "bytes": 9446708
+    "bytes": 9525140
   },
   {
     "id": "p06",
@@ -45,7 +45,7 @@
     "id": "p08",
     "name": "Mei",
     "triangles": 41328,
-    "bytes": 8550536
+    "bytes": 8674324
   },
   {
     "id": "p09",
@@ -63,7 +63,7 @@
     "id": "p11",
     "name": "Jayden",
     "triangles": 35434,
-    "bytes": 9349620
+    "bytes": 9128100
   },
   {
     "id": "p12",
@@ -81,25 +81,25 @@
     "id": "p14",
     "name": "Leah",
     "triangles": 37412,
-    "bytes": 10310680
+    "bytes": 10445256
   },
   {
     "id": "p15",
     "name": "Hamza",
     "triangles": 37664,
-    "bytes": 7791628
+    "bytes": 7669304
   },
   {
     "id": "p16",
     "name": "Sam",
     "triangles": 33366,
-    "bytes": 9443732
+    "bytes": 9484672
   },
   {
     "id": "p17",
     "name": "Grace",
     "triangles": 35046,
-    "bytes": 9129928
+    "bytes": 8792924
   },
   {
     "id": "p18",
@@ -117,31 +117,31 @@
     "id": "p20",
     "name": "Hannah",
     "triangles": 42270,
-    "bytes": 10185024
+    "bytes": 10122544
   },
   {
     "id": "p21",
     "name": "Chen",
     "triangles": 37266,
-    "bytes": 9689772
+    "bytes": 9491440
   },
   {
     "id": "p22",
     "name": "Tunde",
     "triangles": 33512,
-    "bytes": 7749284
+    "bytes": 7607156
   },
   {
     "id": "p23",
     "name": "Fatima",
     "triangles": 38372,
-    "bytes": 8504064
+    "bytes": 8180784
   },
   {
     "id": "p24",
     "name": "Morgan",
     "triangles": 33366,
-    "bytes": 10235568
+    "bytes": 10527996
   },
   {
     "id": "p25",
@@ -153,7 +153,7 @@
     "id": "p26",
     "name": "Margaret",
     "triangles": 41298,
-    "bytes": 8461372
+    "bytes": 8438532
   },
   {
     "id": "p27",
@@ -165,19 +165,19 @@
     "id": "p28",
     "name": "Lin",
     "triangles": 41328,
-    "bytes": 8415464
+    "bytes": 8417844
   },
   {
     "id": "p29",
     "name": "Ravi",
     "triangles": 35660,
-    "bytes": 9386316
+    "bytes": 9055968
   },
   {
     "id": "p30",
     "name": "Eileen",
-    "triangles": 35102,
-    "bytes": 8129452
+    "triangles": 38206,
+    "bytes": 8426720
   },
   {
     "id": "p31",
@@ -213,7 +213,7 @@
     "id": "p36",
     "name": "Poppy",
     "triangles": 39184,
-    "bytes": 9523108
+    "bytes": 9521248
   },
   {
     "id": "p37",
