@@ -1078,7 +1078,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p19.glb",
-        "sha256": "78a7558556785a924fd6d0152ff075cb1d9fdee0a205ef40a1c0d5720cc9fc2f"
+        "sha256": "89013be0aac9a4d836b57cf3514eaf51417a0cbe4e47ba6a21acc08e05d93859"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1510,7 +1510,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p37.glb",
-        "sha256": "9769ad854ad5f49baf1cf2179622ad513f1e51b58a82f9553ae1472882af389c"
+        "sha256": "7328a44de3e1f6eccc2ea4c25ef97b58aa986b1bd1289eb42752a4921b9cdb7e"
       }
     ],
     "retrieved": "2026-11-17",
