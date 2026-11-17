@@ -1,224 +1,68 @@
 [
   {
-    "id": "p01",
-    "name": "Alfie",
-    "triangles": 38798,
-    "bytes": 10307528
-  },
-  {
-    "id": "p02",
-    "name": "Amara",
-    "triangles": 35046,
-    "bytes": 8716580
-  },
-  {
-    "id": "p03",
-    "name": "Kai",
-    "triangles": 36498,
-    "bytes": 8126444
-  },
-  {
     "id": "p04",
     "name": "Aisha",
     "triangles": 37834,
-    "bytes": 10477796
+    "bytes": 10553908
   },
   {
     "id": "p05",
     "name": "Rhys",
     "triangles": 35994,
-    "bytes": 9446708
-  },
-  {
-    "id": "p06",
-    "name": "Niamh",
-    "triangles": 38608,
-    "bytes": 9425452
-  },
-  {
-    "id": "p07",
-    "name": "Zain",
-    "triangles": 34306,
-    "bytes": 8073168
+    "bytes": 9525140
   },
   {
     "id": "p08",
     "name": "Mei",
     "triangles": 41328,
-    "bytes": 8550536
-  },
-  {
-    "id": "p09",
-    "name": "Kofi",
-    "triangles": 39940,
-    "bytes": 8228900
-  },
-  {
-    "id": "p10",
-    "name": "Isla",
-    "triangles": 37218,
-    "bytes": 9040188
-  },
-  {
-    "id": "p11",
-    "name": "Jayden",
-    "triangles": 35434,
-    "bytes": 9349620
-  },
-  {
-    "id": "p12",
-    "name": "Priya",
-    "triangles": 37364,
-    "bytes": 8906080
-  },
-  {
-    "id": "p13",
-    "name": "Oskar",
-    "triangles": 45474,
-    "bytes": 9246472
+    "bytes": 8674324
   },
   {
     "id": "p14",
     "name": "Leah",
     "triangles": 37412,
-    "bytes": 10310680
-  },
-  {
-    "id": "p15",
-    "name": "Hamza",
-    "triangles": 37664,
-    "bytes": 7791628
+    "bytes": 10445256
   },
   {
     "id": "p16",
     "name": "Sam",
     "triangles": 33366,
-    "bytes": 9443732
+    "bytes": 9484672
   },
   {
     "id": "p17",
     "name": "Grace",
     "triangles": 35046,
-    "bytes": 9129928
-  },
-  {
-    "id": "p18",
-    "name": "Tom",
-    "triangles": 39606,
-    "bytes": 8185756
-  },
-  {
-    "id": "p19",
-    "name": "Yusuf",
-    "triangles": 45814,
-    "bytes": 8994792
-  },
-  {
-    "id": "p20",
-    "name": "Hannah",
-    "triangles": 42270,
-    "bytes": 10185024
+    "bytes": 8792924
   },
   {
     "id": "p21",
     "name": "Chen",
     "triangles": 37266,
-    "bytes": 9689772
-  },
-  {
-    "id": "p22",
-    "name": "Tunde",
-    "triangles": 33512,
-    "bytes": 7749284
-  },
-  {
-    "id": "p23",
-    "name": "Fatima",
-    "triangles": 38372,
-    "bytes": 8504064
+    "bytes": 9491440
   },
   {
     "id": "p24",
     "name": "Morgan",
     "triangles": 33366,
-    "bytes": 10235568
-  },
-  {
-    "id": "p25",
-    "name": "Si\u00e2n",
-    "triangles": 35102,
-    "bytes": 8527892
+    "bytes": 10527996
   },
   {
     "id": "p26",
     "name": "Margaret",
     "triangles": 41298,
-    "bytes": 8461372
-  },
-  {
-    "id": "p27",
-    "name": "Winston",
-    "triangles": 44188,
-    "bytes": 8004488
+    "bytes": 8436608
   },
   {
     "id": "p28",
     "name": "Lin",
     "triangles": 41328,
-    "bytes": 8415464
-  },
-  {
-    "id": "p29",
-    "name": "Ravi",
-    "triangles": 35660,
-    "bytes": 9386316
+    "bytes": 8417844
   },
   {
     "id": "p30",
     "name": "Eileen",
     "triangles": 35102,
-    "bytes": 8129452
-  },
-  {
-    "id": "p31",
-    "name": "Maryam",
-    "triangles": 35672,
-    "bytes": 7794820
-  },
-  {
-    "id": "p32",
-    "name": "Samira",
-    "triangles": 35278,
-    "bytes": 7443144
-  },
-  {
-    "id": "p33",
-    "name": "Arjan",
-    "triangles": 34500,
-    "bytes": 7064084
-  },
-  {
-    "id": "p34",
-    "name": "Gurdeep",
-    "triangles": 34600,
-    "bytes": 8077316
-  },
-  {
-    "id": "p35",
-    "name": "Eli",
-    "triangles": 36570,
-    "bytes": 10167084
-  },
-  {
-    "id": "p36",
-    "name": "Poppy",
-    "triangles": 39184,
-    "bytes": 9523108
-  },
-  {
-    "id": "p37",
-    "name": "George",
-    "triangles": 46864,
-    "bytes": 7027796
+    "bytes": 7830844
   }
 ]
