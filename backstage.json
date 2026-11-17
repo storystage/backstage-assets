@@ -12331,13 +12331,13 @@
       "id": "scottishmaritime/Transport/mv-spartan",
       "section": "set",
       "class": "Transport",
-      "displayName": "Puffer ship",
+      "displayName": "Wrecked puffer ship",
       "themes": [
         "sea",
         "boats",
         "history"
       ],
-      "description": "a small old cargo ship with a tall funnel",
+      "description": "the wreck of a small old cargo ship, its hull broken and rusted",
       "files": {
         "model": "models/scottishmaritime/Transport/mv-spartan.glb",
         "thumbnail": "thumbnails/scottishmaritime/Transport/mv-spartan.webp"
@@ -12837,7 +12837,7 @@
         "dinosaurs",
         "museum"
       ],
-      "description": "a Triceratops skeleton, with three horns and a bony frill",
+      "description": "a Triceratops fossil skeleton, lying on its side, with three horns and a bony frill",
       "files": {
         "model": "models/smithsonian/Prop/triceratops.glb",
         "thumbnail": "thumbnails/smithsonian/Prop/triceratops.webp"
