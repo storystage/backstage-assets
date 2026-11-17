@@ -1078,7 +1078,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p19.glb",
-        "sha256": "78a7558556785a924fd6d0152ff075cb1d9fdee0a205ef40a1c0d5720cc9fc2f"
+        "sha256": "89013be0aac9a4d836b57cf3514eaf51417a0cbe4e47ba6a21acc08e05d93859"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1414,7 +1414,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p33.glb",
-        "sha256": "0278a432e4438bfcd3b27d9d4014f8621f29c0ee16f3f7025201727b321662b3"
+        "sha256": "eef92691fa29f1ba837e10cf7107a9026f5116c8a34793463d00d2ec34f5e5e5"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1486,7 +1486,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p36.glb",
-        "sha256": "7bc44bc16e2721affed48a73356e7208be5ddb3158b4d341debd9aad64b2dd20"
+        "sha256": "323629c70fe9ef7ff2f2f0f0797ee99285191bfe62f6d696ca90d11b21290dc5"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1510,7 +1510,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p37.glb",
-        "sha256": "9769ad854ad5f49baf1cf2179622ad513f1e51b58a82f9553ae1472882af389c"
+        "sha256": "707d9bb50f1a411dcd87edabc8c201a6b75ebe4d3f9b6da0f0665327558da89c"
       }
     ],
     "retrieved": "2026-11-17",

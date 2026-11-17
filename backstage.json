@@ -4178,7 +4178,7 @@
         "everyday",
         "adults"
       ],
-      "description": "a man of 40 with short black hair, in a dark suit and striped tie",
+      "description": "a man of 40 with short black hair, in a navy suit and striped tie",
       "files": {
         "model": "models/makehuman/Biped/p19.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p19.webp"
@@ -7076,7 +7076,7 @@
         "everyday",
         "older people"
       ],
-      "description": "an older man of 80 with short white hair and hearing aids, in a dark suit and striped tie",
+      "description": "an older man of 80 with short white hair and hearing aids, in a brown suit and striped tie",
       "files": {
         "model": "models/makehuman/Biped/p37.glb",
         "thumbnail": "thumbnails/makehuman/Biped/p37.webp"
