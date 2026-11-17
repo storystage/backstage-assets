@@ -886,7 +886,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p11.glb",
-        "sha256": "54a4a99797ca6c57aada294bcd84557755a65429503bd612c25408e43c48937f"
+        "sha256": "5258f60455a53a10f9b45099f4db16897e34461461646f7550497e3462ab4660"
       }
     ],
     "retrieved": "2026-11-17",
@@ -982,7 +982,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p15.glb",
-        "sha256": "043bf7ea9b24859bcd105a865f326156d6c16b2898f5cc3b4256ba60cd6f95cb"
+        "sha256": "43fe435b218c84e38b3b6029e55465cffc72eb75671a369f8bc2dfa85f02ede5"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1006,7 +1006,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p16.glb",
-        "sha256": "51a87c173d4046fa13fafe8e399ad332aca600f68c406bad1d34235387807506"
+        "sha256": "b2608b831dfe6bf24877c14e13a40e1491b54472948cc02b2cc9363acbb80337"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1030,7 +1030,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p17.glb",
-        "sha256": "ca253cc5e1171f637e2f3e7b82bb9d421ea63bde0094623c9cd0971fc08408db"
+        "sha256": "78e52ff526fd810d5681f7c24429db9457e294c8c10ea49cf69537d0ec43a105"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1102,7 +1102,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p20.glb",
-        "sha256": "c25e65852eaa4184ef6abd2040498a704a7ac0297a2f254a8b7bb4cb4faa04c9"
+        "sha256": "399ffdbf5ce6ca80599ccf925dd065c4d7a19ec4568e41b06d621e9006ed8efd"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1126,7 +1126,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p21.glb",
-        "sha256": "54c9a5163c9d8711fa294fa3f449ab0b0805602831dc8684ae7a5236e44e52fd"
+        "sha256": "399ea26637b370a08b3808b50c01c257de44a34906e84fee9ad07cf361086cf4"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1150,7 +1150,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p22.glb",
-        "sha256": "c534f6fa6d500f485685487779d66ee75a28d1623018b58f3aa630dd4ac6b174"
+        "sha256": "2eca5f52c0a510aad2d9618be16c7475999bf615d69c7d442582ca626e4613ec"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1174,7 +1174,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p23.glb",
-        "sha256": "adae5e53e00dfcfe9393cbd4111842db21204478195d4200a8bec84b1152a583"
+        "sha256": "6d5c4273e429b7efd0842b51c8424852898fce38fc6c006e28457a9d3b97526a"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1198,7 +1198,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p24.glb",
-        "sha256": "d8a6eeca9cfea9ed027b39da0934b2e04316b0f9a41f91b644a7b97cd302e78c"
+        "sha256": "490a4fa69c3e0127dc480a3e3719824fdf2f13f65a710e61ec4a57569443b28d"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1222,7 +1222,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p25.glb",
-        "sha256": "40627a12b7f5082aa2a29d565c198fc95b79e83bc50029297aff367787e1fca7"
+        "sha256": "f1a0f14097869d84eff9dcbd890a66ba84e4edb032ba3a269a2fc9db8e7261df"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1246,7 +1246,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p26.glb",
-        "sha256": "4d30951e49fba69192ac53d447376b495b48751346de166666dc5bded4a0e3f6"
+        "sha256": "2727475593adae81a33be771c274c93ef33f092f76bcd55055aa6e8b39acf769"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1294,7 +1294,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p28.glb",
-        "sha256": "32371ce351856cc54e0fc1f56719f30659f4b287b86ca3553c88504dc75cdb2a"
+        "sha256": "e9d827133ccf614645ffc0f7107fda219b0c2cdedc50793107b188f586b91e76"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1318,7 +1318,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p29.glb",
-        "sha256": "6af743bc06bbaee46429045a284c4775c2cbe499b0905829e59768e45ac1b847"
+        "sha256": "bc0f1d1fe53b0bd57c59a0519fa30524f1516554df1166871b46399d6ea4fdc1"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1342,7 +1342,7 @@
     "fetched": [
       {
         "url": "generated:makehuman/p30.glb",
-        "sha256": "42b3475c8d9a28f59be6461f75147b9825fd739507312555de8be3207d9bb2c5"
+        "sha256": "c28938a2365364d0bfc58c75017646faa193f89d08371e84f2a77a21bb29d444"
       }
     ],
     "retrieved": "2026-11-17",
@@ -1390,12 +1390,12 @@
     "fetched": [
       {
         "url": "generated:makehuman/p32.glb",
-        "sha256": "c755241f0604cab97848ae16170add6bfd49babdced965f37cd7f39bf5eb983b"
+        "sha256": "7c8a66bd54b727260570bbfc03493c6fef0ae5278157b6d95cd01a511901edfa"
       }
     ],
     "retrieved": "2026-11-17",
     "vrm": null,
-    "triangles": 19989,
+    "triangles": 19990,
     "textureMaxPx": 1024,
     "fetchedSize": {
       "triangles": 35198,

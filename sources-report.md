@@ -35,7 +35,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `makehuman/Biped/p29` | Ravi | CC0-1.0 | cast | 35580 → 19987 | 1024 | yes | mapped | 1.68 m | glTF | — | 16 |
 | `makehuman/Biped/p30` | Eileen | CC0-1.0 | cast | 35022 → 19990 | 1024 | yes | mapped | 1.5 m | glTF | — | 16 |
 | `makehuman/Biped/p31` | Maryam | CC0-1.0 | cast | 35592 → 19989 | 1024 | yes | mapped | 1.28 m | glTF | — | 16 |
-| `makehuman/Biped/p32` | Samira | CC0-1.0 | cast | 35198 → 19989 | 1024 | yes | mapped | 1.59 m | glTF | — | 16 |
+| `makehuman/Biped/p32` | Samira | CC0-1.0 | cast | 35198 → 19990 | 1024 | yes | mapped | 1.59 m | glTF | — | 16 |
 | `makehuman/Biped/p33` | Arjan | CC0-1.0 | cast | 34420 → 19995 | 1024 | yes | mapped | 1.37 m | glTF | — | 16 |
 | `makehuman/Biped/p34` | Gurdeep | CC0-1.0 | cast | 34520 → 19989 | 1024 | yes | mapped | 1.84 m | glTF | — | 16 |
 | `makehuman/Biped/p35` | Eli | CC0-1.0 | cast | 36490 → 19986 | 1024 | yes | mapped | 1.14 m | glTF | — | 16 |
@@ -44,4 +44,4 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 
 Triangles and textures show fetched → shipped where the build reduced them to the section's budget (`ITEM_BUDGETS`, provisional until the reference devices have run). VRM files are kept byte for byte, so they aren't reduced. VRM 0.x avatars face -Z and must be turned by the stage's loader.
 
-**Prompter catalogue:** about 8,731 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 8,733 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
