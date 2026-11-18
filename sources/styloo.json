@@ -1,0 +1,175 @@
+{
+  "source": "styloo",
+  "items": [
+    {
+      "id": "styloo/Quadruped/dog",
+      "displayName": "Dog",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a grey dog with a black and white head and floppy ears",
+      "licence": "CC0-1.0",
+      "credit": "Dog by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.65,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/dog.glb"
+      }
+    },
+    {
+      "id": "styloo/Quadruped/cat",
+      "displayName": "Cat",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a cream cat with light brown legs, ears and face, and blue eyes",
+      "licence": "CC0-1.0",
+      "credit": "Cat by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/cat.glb"
+      }
+    },
+    {
+      "id": "styloo/Quadruped/cow",
+      "displayName": "Cow",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a black and white cow with a pink nose",
+      "licence": "CC0-1.0",
+      "credit": "Cow by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 1.6,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/cow.glb"
+      }
+    },
+    {
+      "id": "styloo/Quadruped/giraffe",
+      "displayName": "Giraffe",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a tall giraffe with orange-brown patches and a long neck",
+      "licence": "CC0-1.0",
+      "credit": "Giraffe by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 5,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/giraffe.glb"
+      }
+    },
+    {
+      "id": "styloo/Flyer/chicken",
+      "displayName": "Chicken",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a brown hen with a red comb",
+      "licence": "CC0-1.0",
+      "credit": "Chicken by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.45,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/chicken.glb"
+      }
+    },
+    {
+      "id": "styloo/Flyer/butterfly",
+      "displayName": "Butterfly",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "an orange and black butterfly with white spots, its wings open",
+      "licence": "CC0-1.0",
+      "credit": "Butterfly by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.6,
+      "turn": {
+        "x": -60,
+        "y": 180
+      },
+      "bones": {
+        "body": "spineBase",
+        "Body.001": "spineMiddle",
+        "Body.002": "head",
+        "wingsupper.l": "leftWingShoulder",
+        "wingsupper.l.001": "leftWingTip",
+        "wingsupper.r": "rightWingShoulder",
+        "wingsupper.r.001": "rightWingTip"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/butterfly.glb"
+      }
+    },
+    {
+      "id": "styloo/Flyer/ladybird",
+      "displayName": "Ladybird",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a red ladybird with a black head and six legs",
+      "licence": "CC0-1.0",
+      "credit": "Ladybird by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.06,
+      "turn": {
+        "x": 90
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/ladybird.glb"
+      }
+    }
+  ]
+}
