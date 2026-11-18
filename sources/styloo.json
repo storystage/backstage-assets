@@ -121,9 +121,10 @@
       "licence": "CC0-1.0",
       "credit": "Butterfly by styloo, Animals Asset Pack (CC0)",
       "page": "https://styloo.itch.io/animals",
-      "height": 0.06,
+      "height": 0.6,
       "turn": {
-        "x": 60
+        "x": -60,
+        "y": 180
       },
       "bones": {
         "body": "spineBase",
@@ -153,7 +154,7 @@
       "licence": "CC0-1.0",
       "credit": "Ladybird by styloo, Animals Asset Pack (CC0)",
       "page": "https://styloo.itch.io/animals",
-      "height": 0.006,
+      "height": 0.06,
       "turn": {
         "x": 90
       },
