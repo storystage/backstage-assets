@@ -1,6 +1,6 @@
 # Sketches to touch up
 
-Written by `tools/make-sketches`: 1495 sketches, 0 replaced by hand, 0 to look at.
+Written by `tools/make-sketches`: 1523 sketches, 0 replaced by hand, 0 to look at.
 
 To replace a sketch, draw it in the same style (black lines 3 units wide on a white shape, the model facing left in side and three-quarter views), save it beside this file, and name it in `touch-up.json` under `overrides`. To draw one simplified (its outer edge and only its long, deep inner lines), name it under `simplified`; to keep one as it is, under `kept`.
 
@@ -13,6 +13,13 @@ Nothing: every sketch passed the checks.
 Their skeletons don't map onto the joint map (spec 17, section 2a), so they have the four facings only:
 
 - `blender-studio/Quadruped/autumn`
+- `styloo/Flyer/butterfly`
+- `styloo/Flyer/chicken`
+- `styloo/Flyer/ladybird`
+- `styloo/Quadruped/cat`
+- `styloo/Quadruped/cow`
+- `styloo/Quadruped/dog`
+- `styloo/Quadruped/giraffe`
 
 ## Replaced by hand
 
