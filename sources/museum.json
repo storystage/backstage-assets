@@ -96,7 +96,7 @@
         "dinosaurs",
         "museum"
       ],
-      "description": "a Triceratops skeleton, with three horns and a bony frill",
+      "description": "a Triceratops fossil skeleton, lying on its side, with three horns and a bony frill",
       "credit": "Triceratops horridus Marsh, 1889, Smithsonian National Museum of Natural History (CC0)",
       "page": "https://3d.si.edu/object/3d/triceratops-horridus-marsh-1889:d8c623be-4ebc-11ea-b77f-2e728ce88125",
       "fetch": {
@@ -216,7 +216,7 @@
     {
       "licence": "CC0-1.0",
       "id": "scottishmaritime/Transport/mv-spartan",
-      "displayName": "Puffer ship",
+      "displayName": "Wrecked puffer ship",
       "class": "Transport",
       "section": "set",
       "themes": [
@@ -224,7 +224,7 @@
         "boats",
         "history"
       ],
-      "description": "a small old cargo ship with a tall funnel",
+      "description": "the wreck of a small old cargo ship, its hull broken and rusted",
       "credit": "MV Spartan, Scottish Maritime Museum (CC0)",
       "page": "https://sketchfab.com/3d-models/mv-spartan-e2c3ced464f14e3b864f15871bf6d87d",
       "turn": {
