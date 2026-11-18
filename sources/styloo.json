@@ -99,6 +99,9 @@
       "credit": "Chicken by styloo, Animals Asset Pack (CC0)",
       "page": "https://styloo.itch.io/animals",
       "height": 0.45,
+      "turn": {
+        "y": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
@@ -118,7 +121,10 @@
       "licence": "CC0-1.0",
       "credit": "Butterfly by styloo, Animals Asset Pack (CC0)",
       "page": "https://styloo.itch.io/animals",
-      "height": 0.01,
+      "height": 0.06,
+      "turn": {
+        "x": 60
+      },
       "bones": {
         "body": "spineBase",
         "Body.001": "spineMiddle",
@@ -147,7 +153,10 @@
       "licence": "CC0-1.0",
       "credit": "Ladybird by styloo, Animals Asset Pack (CC0)",
       "page": "https://styloo.itch.io/animals",
-      "height": 0.01,
+      "height": 0.006,
+      "turn": {
+        "x": 90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
