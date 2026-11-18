@@ -5542,5 +5542,178 @@
         "below": "4f4d48"
       }
     }
+  },
+  "styloo/Flyer/butterfly": {
+    "source": "styloo",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/64919e321ac4cb33b0bb5faeac5450a19fbe75f2/originals/styloo/butterfly.glb",
+        "sha256": "1394c0a5c04893cf698fdd8419d50626f00dadb0be241672bfddae93da1117b8"
+      }
+    ],
+    "retrieved": "2026-11-18",
+    "vrm": null,
+    "triangles": 1248,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 1248,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "styloo/Flyer/chicken": {
+    "source": "styloo",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/64919e321ac4cb33b0bb5faeac5450a19fbe75f2/originals/styloo/chicken.glb",
+        "sha256": "0a27c3ce29e0cfbf99408ee7636abcb923afaca288a94e56d3bafd1301cf8846"
+      }
+    ],
+    "retrieved": "2026-11-18",
+    "vrm": null,
+    "triangles": 5214,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 5214,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "head",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "styloo/Flyer/ladybird": {
+    "source": "styloo",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/64919e321ac4cb33b0bb5faeac5450a19fbe75f2/originals/styloo/ladybird.glb",
+        "sha256": "dc350d103f8176b49b58ae0e56c1665fa2da2af70f2b3276600852f8c854108c"
+      }
+    ],
+    "retrieved": "2026-11-18",
+    "vrm": null,
+    "triangles": 2048,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 2048,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "styloo/Quadruped/cat": {
+    "source": "styloo",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/64919e321ac4cb33b0bb5faeac5450a19fbe75f2/originals/styloo/cat.glb",
+        "sha256": "1333c35bd2713ee6227c2c80fce52734b1c9788e9c53cb20f6d6bf938a073433"
+      }
+    ],
+    "retrieved": "2026-11-18",
+    "vrm": null,
+    "triangles": 3476,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 3476,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "styloo/Quadruped/cow": {
+    "source": "styloo",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/64919e321ac4cb33b0bb5faeac5450a19fbe75f2/originals/styloo/cow.glb",
+        "sha256": "9108439239f94ab1a57df162e61067928ce207ccb84d96034175810014d83b43"
+      }
+    ],
+    "retrieved": "2026-11-18",
+    "vrm": null,
+    "triangles": 4740,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4740,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "styloo/Quadruped/dog": {
+    "source": "styloo",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/64919e321ac4cb33b0bb5faeac5450a19fbe75f2/originals/styloo/dog.glb",
+        "sha256": "8f54c61237dbef43df022beb250be740ffeb9da931abaa4e0b9ffa2bd860ed1c"
+      }
+    ],
+    "retrieved": "2026-11-18",
+    "vrm": null,
+    "triangles": 5712,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 5712,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "styloo/Quadruped/giraffe": {
+    "source": "styloo",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/64919e321ac4cb33b0bb5faeac5450a19fbe75f2/originals/styloo/giraffe.glb",
+        "sha256": "e6158804e0820cb5ec17ebd1b06dea8216c541133f16c6bd5962ba50d5aef00d"
+      }
+    ],
+    "retrieved": "2026-11-18",
+    "vrm": null,
+    "triangles": 3024,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 3024,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
   }
 }

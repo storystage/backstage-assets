@@ -191,6 +191,13 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `storystage/Sky/cloudy` | Cloudy | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
 | `storystage/Sky/night` | Night | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
 | `storystage/Sky/sunset` | Sunset | CC0-1.0 | backdrops | 960 | 2048 | yes | none | 400 m | glTF | — | 1 |
+| `styloo/Flyer/butterfly` | Butterfly | CC0-1.0 | cast | 1248 | 512 | yes | mapped | 0.6 m | glTF | — | 4 |
+| `styloo/Flyer/chicken` | Chicken | CC0-1.0 | cast | 5214 | 1024 | yes | prop-only (missing spineBase, head, leftWingShoulder, rightWingShoulder) | 0.45 m | glTF | — | 4 |
+| `styloo/Flyer/ladybird` | Ladybird | CC0-1.0 | cast | 2048 | 512 | yes | none | 0.06 m | glTF | — | 4 |
+| `styloo/Quadruped/cat` | Cat | CC0-1.0 | cast | 3476 | 512 | yes | mapped | 0.3 m | glTF | — | 4 |
+| `styloo/Quadruped/cow` | Cow | CC0-1.0 | cast | 4740 | 1024 | yes | mapped | 1.6 m | glTF | — | 4 |
+| `styloo/Quadruped/dog` | Dog | CC0-1.0 | cast | 5712 | 1024 | yes | mapped | 0.65 m | glTF | — | 4 |
+| `styloo/Quadruped/giraffe` | Giraffe | CC0-1.0 | cast | 3024 | 512 | yes | mapped | 4.99 m | glTF | — | 4 |
 
 Triangles and textures show fetched → shipped where the build reduced them to the section's budget (`ITEM_BUDGETS`, provisional until the reference devices have run). VRM files are kept byte for byte, so they aren't reduced. VRM 0.x avatars face -Z and must be turned by the stage's loader.
 
@@ -235,4 +242,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** about 8,763 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 9,089 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
