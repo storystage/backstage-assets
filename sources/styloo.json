@@ -1,0 +1,158 @@
+{
+  "source": "styloo",
+  "items": [
+    {
+      "id": "styloo/Quadruped/dog",
+      "displayName": "Dog",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Dog by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.65,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/dog.glb"
+      }
+    },
+    {
+      "id": "styloo/Quadruped/cat",
+      "displayName": "Cat",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cat by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/cat.glb"
+      }
+    },
+    {
+      "id": "styloo/Quadruped/cow",
+      "displayName": "Cow",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cow by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 1.6,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/cow.glb"
+      }
+    },
+    {
+      "id": "styloo/Quadruped/giraffe",
+      "displayName": "Giraffe",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Giraffe by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 5,
+      "turn": {
+        "y": 180
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/giraffe.glb"
+      }
+    },
+    {
+      "id": "styloo/Flyer/chicken",
+      "displayName": "Chicken",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Chicken by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.45,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/chicken.glb"
+      }
+    },
+    {
+      "id": "styloo/Flyer/butterfly",
+      "displayName": "Butterfly",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Butterfly by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.01,
+      "bones": {
+        "body": "spineBase",
+        "Body.001": "spineMiddle",
+        "Body.002": "head",
+        "wingsupper.l": "leftWingShoulder",
+        "wingsupper.l.001": "leftWingTip",
+        "wingsupper.r": "rightWingShoulder",
+        "wingsupper.r.001": "rightWingTip"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/butterfly.glb"
+      }
+    },
+    {
+      "id": "styloo/Flyer/ladybird",
+      "displayName": "Ladybird",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Ladybird by styloo, Animals Asset Pack (CC0)",
+      "page": "https://styloo.itch.io/animals",
+      "height": 0.01,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
+        "path": "originals/styloo/ladybird.glb"
+      }
+    }
+  ]
+}
