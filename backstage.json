@@ -15716,6 +15716,468 @@
           "file": "sketches/storystage/Sky/sunset/backdrop.svg"
         }
       ]
+    },
+    {
+      "id": "styloo/Flyer/butterfly",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Butterfly",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "an orange and black butterfly with white spots, its wings open",
+      "files": {
+        "model": "models/styloo/Flyer/butterfly.glb",
+        "thumbnail": "thumbnails/styloo/Flyer/butterfly.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "head",
+        "leftWingShoulder",
+        "leftWingTip",
+        "rightWingShoulder",
+        "rightWingTip"
+      ],
+      "defaultSize": {
+        "height": 0.6
+      },
+      "budget": {
+        "triangles": 1248,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Butterfly by styloo, Animals Asset Pack (CC0)",
+      "source": {
+        "url": "https://styloo.itch.io/animals",
+        "retrieved": "2026-11-18"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/styloo/Flyer/butterfly/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/styloo/Flyer/butterfly/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/styloo/Flyer/butterfly/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/styloo/Flyer/butterfly/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "styloo/Flyer/chicken",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Chicken",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a brown hen with a red comb",
+      "files": {
+        "model": "models/styloo/Flyer/chicken.glb",
+        "thumbnail": "thumbnails/styloo/Flyer/chicken.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.45
+      },
+      "budget": {
+        "triangles": 5214,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Chicken by styloo, Animals Asset Pack (CC0)",
+      "source": {
+        "url": "https://styloo.itch.io/animals",
+        "retrieved": "2026-11-18"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/styloo/Flyer/chicken/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/styloo/Flyer/chicken/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/styloo/Flyer/chicken/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/styloo/Flyer/chicken/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "styloo/Flyer/ladybird",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Ladybird",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a red ladybird with a black head and six legs",
+      "files": {
+        "model": "models/styloo/Flyer/ladybird.glb",
+        "thumbnail": "thumbnails/styloo/Flyer/ladybird.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.06
+      },
+      "budget": {
+        "triangles": 2048,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Ladybird by styloo, Animals Asset Pack (CC0)",
+      "source": {
+        "url": "https://styloo.itch.io/animals",
+        "retrieved": "2026-11-18"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/styloo/Flyer/ladybird/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/styloo/Flyer/ladybird/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/styloo/Flyer/ladybird/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/styloo/Flyer/ladybird/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "styloo/Quadruped/cat",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Cat",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a cream cat with light brown legs, ears and face, and blue eyes",
+      "files": {
+        "model": "models/styloo/Quadruped/cat.glb",
+        "thumbnail": "thumbnails/styloo/Quadruped/cat.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontLeftToe",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "frontRightToe",
+        "pelvis",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftToe",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightToe"
+      ],
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 3476,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Cat by styloo, Animals Asset Pack (CC0)",
+      "source": {
+        "url": "https://styloo.itch.io/animals",
+        "retrieved": "2026-11-18"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/styloo/Quadruped/cat/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/styloo/Quadruped/cat/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/styloo/Quadruped/cat/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/styloo/Quadruped/cat/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "styloo/Quadruped/cow",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Cow",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a black and white cow with a pink nose",
+      "files": {
+        "model": "models/styloo/Quadruped/cow.glb",
+        "thumbnail": "thumbnails/styloo/Quadruped/cow.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontLeftToe",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "frontRightToe",
+        "pelvis",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftToe",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightToe"
+      ],
+      "defaultSize": {
+        "height": 1.6
+      },
+      "budget": {
+        "triangles": 4740,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Cow by styloo, Animals Asset Pack (CC0)",
+      "source": {
+        "url": "https://styloo.itch.io/animals",
+        "retrieved": "2026-11-18"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/styloo/Quadruped/cow/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/styloo/Quadruped/cow/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/styloo/Quadruped/cow/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/styloo/Quadruped/cow/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "styloo/Quadruped/dog",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Dog",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a grey dog with a black and white head and floppy ears",
+      "files": {
+        "model": "models/styloo/Quadruped/dog.glb",
+        "thumbnail": "thumbnails/styloo/Quadruped/dog.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontLeftToe",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "frontRightToe",
+        "pelvis",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftToe",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightToe"
+      ],
+      "defaultSize": {
+        "height": 0.65
+      },
+      "budget": {
+        "triangles": 5712,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Dog by styloo, Animals Asset Pack (CC0)",
+      "source": {
+        "url": "https://styloo.itch.io/animals",
+        "retrieved": "2026-11-18"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/styloo/Quadruped/dog/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/styloo/Quadruped/dog/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/styloo/Quadruped/dog/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/styloo/Quadruped/dog/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "styloo/Quadruped/giraffe",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Giraffe",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a tall giraffe with orange-brown patches and a long neck",
+      "files": {
+        "model": "models/styloo/Quadruped/giraffe.glb",
+        "thumbnail": "thumbnails/styloo/Quadruped/giraffe.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontLeftToe",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "frontRightToe",
+        "pelvis",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftToe",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightToe"
+      ],
+      "defaultSize": {
+        "height": 4.99
+      },
+      "budget": {
+        "triangles": 3024,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Giraffe by styloo, Animals Asset Pack (CC0)",
+      "source": {
+        "url": "https://styloo.itch.io/animals",
+        "retrieved": "2026-11-18"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/styloo/Quadruped/giraffe/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/styloo/Quadruped/giraffe/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/styloo/Quadruped/giraffe/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/styloo/Quadruped/giraffe/back.svg"
+        }
+      ]
     }
   ]
 }
