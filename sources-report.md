@@ -226,6 +226,30 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `scottishmaritime/Transport/venus` | Shetland rowing boat | CC0-1.0 | props | 19888 → 7839 | 1024 | yes | none | 1.62 m | glTF | — | 4 |
 | `sketchfab/Biped/grandmother` | Grandmother | CC-BY-4.0 | cast | 617 | 256 | yes | mapped | 1.55 m | glTF | — | 16 |
 | `sketchfab/Biped/red-riding-hood` | Little Red Riding Hood | CC-BY-4.0 | cast | 11596 | — | yes | mapped | 1.2 m | glTF | — | 16 |
+| `sketchfab/Flyer/african-penguin` | African penguin | CC-BY-4.0 | cast | 4124 | 1024 | yes | mapped | 0.6 m | glTF | — | 4 |
+| `sketchfab/Flyer/bee` | Bee | CC-BY-4.0 | cast | 118 | 128 | yes | prop-only (missing head) | 0.08 m | glTF | — | 4 |
+| `sketchfab/Flyer/chick` | Chick | CC-BY-4.0 | cast | 1778 | 256 | yes | mapped | 0.15 m | glTF | — | 4 |
+| `sketchfab/Flyer/penguin` | Penguin | CC-BY-4.0 | cast | 3408 | 1024 | yes | mapped | 0.7 m | glTF | — | 4 |
+| `sketchfab/Quadruped/buffalo` | Buffalo | CC-BY-4.0 | cast | 462 | 4096 → 1024 | yes | mapped | 1.5 m | glTF | 3 parts | 4 |
+| `sketchfab/Quadruped/deer` | Deer | CC-BY-4.0 | cast | 1276 | 64 | yes | mapped | 1.3 m | glTF | — | 4 |
+| `sketchfab/Quadruped/elephant` | Elephant | CC-BY-4.0 | cast | 627 | 4096 → 1024 | yes | mapped | 3 m | glTF | 3 parts | 4 |
+| `sketchfab/Quadruped/frog` | Frog | CC-BY-4.0 | cast | 2134 | 2048 → 1024 | yes | prop-only (missing spineBase, head, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.12 m | glTF | — | 4 |
+| `sketchfab/Quadruped/german-shepherd` | German shepherd | CC-BY-4.0 | cast | 852 | — | yes | mapped | 0.6 m | glTF | 1 parts | 4 |
+| `sketchfab/Quadruped/giraffe` | Giraffe | CC-BY-4.0 | cast | 639 | 4096 → 512 | yes | mapped | 4.5 m | glTF | 3 parts | 4 |
+| `sketchfab/Quadruped/horse` | Horse | CC-BY-4.0 | cast | 4052 | 4096 → 1024 | yes | mapped | 1.9 m | glTF | — | 4 |
+| `sketchfab/Quadruped/rabbit` | Rabbit | CC-BY-4.0 | cast | 502 | 64 | yes | mapped | 0.4 m | glTF | — | 4 |
+| `sketchfab/Quadruped/sheep` | Sheep | CC-BY-4.0 | cast | 2290 | 1024 | yes | mapped | 0.9 m | glTF | — | 4 |
+| `sketchfab/Quadruped/snake-wolf` | Snake-wolf | CC-BY-4.0 | cast | 864 | 2048 → 1024 | yes | mapped | 1 m | glTF | — | 4 |
+| `sketchfab/Quadruped/stripe-the-cat` | Stripe the cat | CC-BY-4.0 | cast | 1960 | — | yes | mapped | 0.3 m | glTF | 2 parts | 4 |
+| `sketchfab/Quadruped/tuxedo-cat` | Tuxedo cat | CC-BY-4.0 | cast | 6376 | — | yes | mapped | 0.3 m | glTF | 1 parts | 4 |
+| `sketchfab/Quadruped/wolf` | Wolf | CC-BY-4.0 | cast | 3880 | 1024 | yes | mapped | 0.85 m | glTF | — | 4 |
+| `sketchfab/Quadruped/zebra` | Zebra | CC-BY-4.0 | cast | 390 | 4096 → 512 | yes | mapped | 1.6 m | glTF | 3 parts | 4 |
+| `sketchfab/Swimmer/dolphin` | Dolphin | CC-BY-4.0 | cast | 736 | 256 | yes | mapped | 0.35 m | glTF | 2 parts | 4 |
+| `sketchfab/Swimmer/fish` | Fish | CC-BY-4.0 | cast | 534 | 512 | yes | mapped | 0.1 m | glTF | — | 4 |
+| `sketchfab/Swimmer/humpback-whale` | Humpback whale | CC-BY-4.0 | cast | 616 | 256 | yes | mapped | 1.2 m | glTF | 1 parts | 4 |
+| `sketchfab/Swimmer/koi` | Koi carp | CC-BY-4.0 | cast | 4330 | — | yes | mapped | 0.2 m | glTF | — | 4 |
+| `sketchfab/Swimmer/narwhal` | Narwhal | CC-BY-4.0 | cast | 588 | 1024 | yes | mapped | 0.7 m | glTF | — | 4 |
+| `sketchfab/Swimmer/shark` | Shark | CC-BY-4.0 | cast | 3182 | 2048 → 1024 | yes | mapped | 0.8 m | glTF | — | 4 |
 | `smithsonian/Prop/lincoln-patent-model` | Lincoln's patent model | CC0-1.0 | props | 150000 → 7998 | 4096 → 1024 | yes | none | 0.25 m | glTF | — | 4 |
 | `smithsonian/Prop/morse-telegraph-key` | Morse telegraph key | CC0-1.0 | props | 150000 → 8000 | 4096 → 1024 | yes | none | 0.08 m | glTF | — | 4 |
 | `smithsonian/Prop/triceratops` | Triceratops skeleton | CC0-1.0 | set | 149998 → 19998 | 4096 → 1024 | yes | none | 1.65 m | glTF | — | 4 |
@@ -284,6 +308,9 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `styloo/Quadruped/dog` | Dog | CC0-1.0 | cast | 5712 | 1024 | yes | mapped | 0.65 m | glTF | — | 4 |
 | `styloo/Quadruped/giraffe` | Giraffe | CC0-1.0 | cast | 3024 | 512 | yes | mapped | 4.99 m | glTF | — | 4 |
 | `vrmc/Biped/seed-san` | Seed-san | VRM-PL-1.0 | cast | 45058 | 1024 | **no** | mapped | 1.58 m | VRM 1 | — | 16 |
+| `vuena/Flyer/owl` | Owl | CC0-1.0 | cast | 7884 | 2048 → 1024 | yes | mapped | 0.4 m | glTF | 1 parts | 4 |
+| `vuena/Quadruped/cat` | Cat | CC0-1.0 | cast | 7188 | 2048 → 1024 | yes | mapped | 0.35 m | glTF | 1 parts | 4 |
+| `vuena/Quadruped/fox` | Fox | CC0-1.0 | cast | 7300 | 2048 → 1024 | yes | mapped | 0.45 m | glTF | 1 parts | 4 |
 
 Triangles and textures show fetched → shipped where the build reduced them to the section's budget (`ITEM_BUDGETS`, provisional until the reference devices have run). VRM files are kept byte for byte, so they aren't reduced. VRM 0.x avatars face -Z and must be turned by the stage's loader.
 
@@ -328,4 +355,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** about 17,446 of 24,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 20,387 of 24,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
