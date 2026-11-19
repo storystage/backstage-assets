@@ -52,16 +52,101 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `makehuman/Biped/p35` | Eli | CC0-1.0 | cast | 36490 → 19986 | 1024 | yes | mapped | 1.14 m | glTF | — | 16 |
 | `makehuman/Biped/p36` | Poppy | CC0-1.0 | cast | 39104 → 19999 | 1024 | yes | mapped | 1.03 m | glTF | — | 16 |
 | `makehuman/Biped/p37` | George | CC0-1.0 | cast | 46784 → 19985 | 1024 | yes | mapped | 1.74 m | glTF | — | 16 |
+| `osa/Biped/agnes` | Agnes | CC0-1.0 | cast | 11210 | 2048 → 1024 | yes | mapped | 1.73 m | VRM 0 | — | 16 |
+| `osa/Biped/ajo-majo` | Ajo Majo | CC0-1.0 | cast | 7666 | 2048 → 1024 | yes | mapped | 0.88 m | VRM 0 | — | 16 |
+| `osa/Biped/alien-teen` | Alien Teen | CC0-1.0 | cast | 10340 | 2048 → 1024 | yes | mapped | 1.34 m | VRM 0 | — | 16 |
+| `osa/Biped/anna` | Anna | CC0-1.0 | cast | 11698 | 2048 → 1024 | yes | mapped | 1.59 m | VRM 0 | — | 16 |
+| `osa/Biped/astro-nacho` | Astro Nacho | CC0-1.0 | cast | 4476 | 2048 → 1024 | yes | mapped | 1.77 m | VRM 0 | — | 16 |
 | `osa/Biped/astronaut` | Astronaut | CC0-1.0 | cast | 4350 | 1024 | yes | mapped | 1.36 m | VRM 0 | — | 16 |
+| `osa/Biped/bad-bot` | Bad Bot | CC0-1.0 | cast | 8166 | 2048 → 1024 | yes | mapped | 2.09 m | VRM 0 | — | 16 |
+| `osa/Biped/bao-samurai` | Bao Samurai | CC0-1.0 | cast | 14288 | 2048 → 1024 | yes | mapped | 1.63 m | VRM 0 | — | 16 |
+| `osa/Biped/bat-pot` | Bat Pot | CC0-1.0 | cast | 14814 | 2048 → 1024 | yes | mapped | 1.13 m | VRM 0 | — | 16 |
+| `osa/Biped/beach-king` | Beach King | CC0-1.0 | cast | 13916 | 2048 → 1024 | yes | mapped | 1.78 m | VRM 0 | — | 16 |
+| `osa/Biped/bean-king` | Bean King | CC0-1.0 | cast | 6724 | 2048 → 1024 | yes | mapped | 1.28 m | VRM 0 | — | 16 |
+| `osa/Biped/blob` | Blob | CC0-1.0 | cast | 6046 | 2048 → 1024 | yes | mapped | 1.69 m | VRM 0 | — | 16 |
+| `osa/Biped/blue-pixie` | Blue Pixie | CC0-1.0 | cast | 10564 | 2048 → 1024 | yes | mapped | 1.79 m | VRM 0 | — | 16 |
+| `osa/Biped/bot-bunny` | Bot Bunny | CC0-1.0 | cast | 14506 | 2048 → 1024 | yes | mapped | 1.7 m | VRM 0 | — | 16 |
+| `osa/Biped/buffedwolf` | Buffedwolf | CC0-1.0 | cast | 14996 | 2048 → 1024 | yes | mapped | 2.26 m | VRM 0 | — | 16 |
+| `osa/Biped/cat-eye` | Cat Eye | CC0-1.0 | cast | 8134 | 2048 → 1024 | yes | mapped | 1.21 m | VRM 0 | — | 16 |
+| `osa/Biped/cat-moth` | Cat Moth | CC0-1.0 | cast | 8030 | 2048 → 1024 | yes | mapped | 1.48 m | VRM 0 | — | 16 |
+| `osa/Biped/cherry-bros` | Cherry Bros | CC0-1.0 | cast | 6984 | 2048 → 1024 | yes | mapped | 2.06 m | VRM 0 | — | 16 |
+| `osa/Biped/chester` | Chester | CC0-1.0 | cast | 7810 | 2048 → 1024 | yes | mapped | 1.02 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-bee` | Cool Bee | CC0-1.0 | cast | 2740 | 2048 → 1024 | yes | mapped | 0.5 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-bomb` | Cool Bomb | CC0-1.0 | cast | 7724 | 2048 → 1024 | yes | mapped | 1.47 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-croissant` | Cool Croissant | CC0-1.0 | cast | 12974 | 2048 → 1024 | yes | mapped | 1.05 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-cyclops` | Cool Cyclops | CC0-1.0 | cast | 14442 | 2048 → 1024 | yes | mapped | 2.05 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-heart` | Cool Heart | CC0-1.0 | cast | 14916 | 2048 → 1024 | yes | mapped | 1.01 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-pawn` | Cool Pawn | CC0-1.0 | cast | 4544 | 1024 | yes | mapped | 1.44 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-pineapple` | Cool Pineapple | CC0-1.0 | cast | 7676 | 2048 → 1024 | yes | mapped | 1.52 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-pyramid` | Cool Pyramid | CC0-1.0 | cast | 4120 | 2048 → 1024 | yes | mapped | 1.2 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-radish` | Cool Radish | CC0-1.0 | cast | 6606 | 2048 → 1024 | yes | mapped | 2.08 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-snake` | Cool Snake | CC0-1.0 | cast | 11613 | 2048 → 1024 | yes | mapped | 1.81 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-spaguetti` | Cool Spaguetti | CC0-1.0 | cast | 7679 | 2048 → 1024 | yes | mapped | 1.81 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-sushi` | Cool Sushi | CC0-1.0 | cast | 12679 | 2048 → 1024 | yes | mapped | 1.33 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-tiger` | Cool Tiger | CC0-1.0 | cast | 14338 | 2048 → 1024 | yes | mapped | 1.78 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-tiki` | Cool Tiki | CC0-1.0 | cast | 11984 | 2048 → 1024 | yes | mapped | 1.34 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-toaster` | Cool Toaster | CC0-1.0 | cast | 10508 | 2048 → 1024 | yes | mapped | 1.7 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-udon` | Cool Udon | CC0-1.0 | cast | 14032 | 1024 | yes | mapped | 1.57 m | VRM 0 | — | 16 |
+| `osa/Biped/cool-waffle` | Cool Waffle | CC0-1.0 | cast | 5016 | 2048 → 1024 | yes | mapped | 1.31 m | VRM 0 | — | 16 |
+| `osa/Biped/cosmic-bot` | Cosmic Bot | CC0-1.0 | cast | 7172 | 2048 → 1024 | yes | mapped | 1.98 m | VRM 0 | — | 16 |
+| `osa/Biped/crowley` | Crowley | CC0-1.0 | cast | 14948 | 2048 → 1024 | yes | mapped | 1.84 m | VRM 0 | — | 16 |
+| `osa/Biped/cute-moth` | Cute Moth | CC0-1.0 | cast | 5316 | 2048 → 1024 | yes | mapped | 0.89 m | VRM 0 | — | 16 |
+| `osa/Biped/cute-saurus` | Cute Saurus | CC0-1.0 | cast | 6188 | 2048 → 1024 | yes | mapped | 1.5 m | VRM 0 | — | 16 |
+| `osa/Biped/cyberpal` | Cyberpal | CC0-1.0 | cast | 14547 | 2048 → 1024 | yes | mapped | 1.74 m | VRM 0 | — | 16 |
 | `osa/Biped/david` | David | CC0-1.0 | cast | 4156 | 1024 | yes | mapped | 1.58 m | VRM 0 | — | 16 |
 | `osa/Biped/dino-kid` | Dino kid | CC0-1.0 | cast | 4576 | 1024 | yes | mapped | 1.24 m | VRM 0 | — | 16 |
+| `osa/Biped/dogo-burger` | Dogo Burger | CC0-1.0 | cast | 13007 | 2048 → 1024 | yes | mapped | 1.18 m | VRM 0 | — | 16 |
+| `osa/Biped/dream-fighter` | Dream Fighter | CC0-1.0 | cast | 14992 | 2048 → 1024 | yes | mapped | 1.74 m | VRM 0 | — | 16 |
 | `osa/Biped/erika` | Erika | CC0-1.0 | cast | 4032 | 1024 | yes | mapped | 1.66 m | VRM 0 | — | 16 |
+| `osa/Biped/eugenia` | Eugenia | CC0-1.0 | cast | 10200 | 2048 → 1024 | yes | mapped | 1.42 m | VRM 0 | — | 16 |
+| `osa/Biped/evil-book` | Evil Book | CC0-1.0 | cast | 10658 | 2048 → 1024 | yes | mapped | 1.36 m | VRM 0 | — | 16 |
+| `osa/Biped/fire-eye` | Fire Eye | CC0-1.0 | cast | 15770 | 2048 → 1024 | yes | mapped | 3.34 m | VRM 0 | — | 16 |
+| `osa/Biped/frog-enjoyer` | Frog Enjoyer | CC0-1.0 | cast | 12064 | 2048 → 1024 | yes | mapped | 1.63 m | VRM 0 | — | 16 |
+| `osa/Biped/ghost-pumpking` | Ghost Pumpking | CC0-1.0 | cast | 14190 | 2048 → 1024 | yes | mapped | 1.74 m | VRM 0 | — | 16 |
+| `osa/Biped/goat-ghost` | Goat Ghost | CC0-1.0 | cast | 5778 | 2048 → 1024 | yes | mapped | 1.3 m | VRM 0 | — | 16 |
+| `osa/Biped/good-knight` | Good Knight | CC0-1.0 | cast | 11182 | 2048 → 1024 | yes | mapped | 1.89 m | VRM 0 | — | 16 |
+| `osa/Biped/jenny` | Jenny | CC0-1.0 | cast | 13663 | 2048 → 1024 | yes | mapped | 1.66 m | VRM 0 | — | 16 |
+| `osa/Biped/joker-dude` | Joker Dude | CC0-1.0 | cast | 11110 | 2048 → 1024 | yes | mapped | 1.56 m | VRM 0 | — | 16 |
+| `osa/Biped/juanita` | Juanita | CC0-1.0 | cast | 13504 | 2048 → 1024 | yes | mapped | 0.96 m | VRM 0 | — | 16 |
+| `osa/Biped/kiba` | Kiba | CC0-1.0 | cast | 7014 | 2048 → 1024 | yes | mapped | 1.82 m | VRM 0 | — | 16 |
 | `osa/Biped/kyle` | Kyle | CC0-1.0 | cast | 5144 | 1024 | yes | mapped | 1.67 m | VRM 0 | — | 16 |
+| `osa/Biped/lady-fawn` | Lady Fawn | CC0-1.0 | cast | 10350 | 2048 → 1024 | yes | mapped | 1.81 m | VRM 0 | — | 16 |
+| `osa/Biped/lady-koi` | Lady Koi | CC0-1.0 | cast | 11078 | 2048 → 1024 | yes | mapped | 1.64 m | VRM 0 | — | 16 |
+| `osa/Biped/leaf-boy` | Leaf Boy | CC0-1.0 | cast | 7992 | 2048 → 1024 | yes | mapped | 1.12 m | VRM 0 | — | 16 |
+| `osa/Biped/lil-ram` | Lil Ram | CC0-1.0 | cast | 10310 | 2048 → 1024 | yes | mapped | 1.14 m | VRM 0 | — | 16 |
+| `osa/Biped/lil-shark` | Lil Shark | CC0-1.0 | cast | 8920 | 2048 → 1024 | yes | mapped | 0.78 m | VRM 0 | — | 16 |
+| `osa/Biped/lil-teddy` | Lil Teddy | CC0-1.0 | cast | 11380 | 2048 → 1024 | yes | mapped | 1.08 m | VRM 0 | — | 16 |
+| `osa/Biped/lord-piggington` | Lord Piggington | CC0-1.0 | cast | 8858 | 2048 → 1024 | yes | mapped | 1.88 m | VRM 0 | — | 16 |
+| `osa/Biped/math-book` | Math Book | CC0-1.0 | cast | 14466 | 2048 → 1024 | yes | mapped | 0.96 m | VRM 0 | — | 16 |
+| `osa/Biped/mega-angel` | Mega Angel | CC0-1.0 | cast | 11223 | 2048 → 1024 | yes | mapped | 1.34 m | VRM 0 | — | 16 |
+| `osa/Biped/megan-the-fox` | Megan The Fox | CC0-1.0 | cast | 10426 | 2048 → 1024 | yes | mapped | 1.59 m | VRM 0 | — | 16 |
+| `osa/Biped/mr` | Mr | CC0-1.0 | cast | 4956 | 2048 → 1024 | yes | mapped | 1.64 m | VRM 0 | — | 16 |
+| `osa/Biped/mr-bush` | Mr Bush | CC0-1.0 | cast | 14216 | 2048 → 1024 | yes | mapped | 1.81 m | VRM 0 | — | 16 |
+| `osa/Biped/mr-squirrel` | Mr Squirrel | CC0-1.0 | cast | 8830 | 2048 → 1024 | yes | mapped | 0.68 m | VRM 0 | — | 16 |
+| `osa/Biped/mushroom-fairy` | Mushroom Fairy | CC0-1.0 | cast | 10576 | 2048 → 1024 | yes | mapped | 2.04 m | VRM 0 | — | 16 |
+| `osa/Biped/nut-bot` | Nut Bot | CC0-1.0 | cast | 15227 | 2048 → 1024 | yes | mapped | 1.58 m | VRM 0 | — | 16 |
 | `osa/Biped/olivia` | Olivia | CC0-1.0 | cast | 3888 | 1024 | yes | mapped | 1.67 m | VRM 0 | — | 16 |
+| `osa/Biped/petal-dude` | Petal Dude | CC0-1.0 | cast | 14240 | 2048 → 1024 | yes | mapped | 2.04 m | VRM 0 | — | 16 |
+| `osa/Biped/pirate-bot` | Pirate Bot | CC0-1.0 | cast | 15858 | 2048 → 1024 | yes | mapped | 1.79 m | VRM 0 | — | 16 |
+| `osa/Biped/pitcher-dude` | Pitcher Dude | CC0-1.0 | cast | 8706 | 2048 → 1024 | yes | mapped | 3 m | VRM 0 | — | 16 |
 | `osa/Biped/polybot` | Polybot | CC0-1.0 | cast | 2130 | 1024 | yes | mapped | 1.06 m | VRM 0 | — | 16 |
+| `osa/Biped/psichonaut` | Psichonaut | CC0-1.0 | cast | 12324 | 2048 → 1024 | yes | mapped | 1.89 m | VRM 0 | — | 16 |
+| `osa/Biped/ranchu` | Ranchu | CC0-1.0 | cast | 12299 | 2048 → 1024 | yes | mapped | 2.05 m | VRM 0 | — | 16 |
 | `osa/Biped/robert` | Robert | CC0-1.0 | cast | 4732 | 1024 | yes | mapped | 1.61 m | VRM 0 | — | 16 |
-| `osa/Biped/rose` | Rose | CC0-1.0 | cast | 5622 | 2048 | **no** | mapped | 1.66 m | VRM 0 | — | 16 |
+| `osa/Biped/rose` | Rose | CC0-1.0 | cast | 5622 | 2048 → 1024 | yes | mapped | 1.66 m | VRM 0 | — | 16 |
+| `osa/Biped/snail-kid` | Snail Kid | CC0-1.0 | cast | 9530 | 2048 → 1024 | yes | mapped | 1.55 m | VRM 0 | — | 16 |
+| `osa/Biped/snake-bot` | Snake Bot | CC0-1.0 | cast | 9644 | 2048 → 1024 | yes | mapped | 1.44 m | VRM 0 | — | 16 |
+| `osa/Biped/sport-mecha` | Sport Mecha | CC0-1.0 | cast | 9964 | 2048 → 1024 | yes | mapped | 1.78 m | VRM 0 | — | 16 |
+| `osa/Biped/sport-tv` | Sport TV | CC0-1.0 | cast | 6906 | 2048 → 1024 | yes | mapped | 2.02 m | VRM 0 | — | 16 |
+| `osa/Biped/stingcake` | Stingcake | CC0-1.0 | cast | 9066 | 2048 → 1024 | yes | mapped | 1.28 m | VRM 0 | — | 16 |
+| `osa/Biped/strawberry-princess` | Strawberry Princess | CC0-1.0 | cast | 7156 | 2048 → 1024 | yes | mapped | 1.37 m | VRM 0 | — | 16 |
 | `osa/Biped/teddy` | Teddy | CC0-1.0 | cast | 3068 | 1024 | yes | mapped | 1.65 m | VRM 0 | — | 16 |
+| `osa/Biped/toxic-guy` | Toxic Guy | CC0-1.0 | cast | 12889 | 2048 → 1024 | yes | mapped | 2.04 m | VRM 0 | — | 16 |
+| `osa/Biped/two-tails` | Two-Tails | CC0-1.0 | cast | 9488 | 2048 → 1024 | yes | mapped | 1.31 m | VRM 0 | — | 16 |
+| `osa/Biped/urban-tv` | Urban TV | CC0-1.0 | cast | 14566 | 2048 → 1024 | yes | mapped | 1.85 m | VRM 0 | — | 16 |
+| `osa/Biped/vladi` | Vladi | CC0-1.0 | cast | 8697 | 2048 → 1024 | yes | mapped | 1.06 m | VRM 0 | — | 16 |
+| `osa/Biped/weird-cat` | Weird Cat | CC0-1.0 | cast | 6640 | 2048 → 1024 | yes | mapped | 1.22 m | VRM 0 | — | 16 |
+| `osa/Biped/yeti-dude` | Yeti Dude | CC0-1.0 | cast | 8240 | 2048 → 1024 | yes | mapped | 1.63 m | VRM 0 | — | 16 |
 | `polypizza/Prop/alarm-clock` | Alarm clock | CC0-1.0 | props | 458 | 128 | yes | none | 0.15 m | glTF | — | 4 |
 | `polypizza/Prop/apple` | Apple | CC-BY-3.0 | props | 330 | — | yes | none | 0.08 m | glTF | — | 4 |
 | `polypizza/Prop/backpack` | Backpack | CC-BY-3.0 | props | 746 | — | yes | none | 0.45 m | glTF | — | 4 |
@@ -198,6 +283,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `styloo/Quadruped/cow` | Cow | CC0-1.0 | cast | 4740 | 1024 | yes | mapped | 1.6 m | glTF | — | 4 |
 | `styloo/Quadruped/dog` | Dog | CC0-1.0 | cast | 5712 | 1024 | yes | mapped | 0.65 m | glTF | — | 4 |
 | `styloo/Quadruped/giraffe` | Giraffe | CC0-1.0 | cast | 3024 | 512 | yes | mapped | 4.99 m | glTF | — | 4 |
+| `vrmc/Biped/seed-san` | Seed-san | VRM-PL-1.0 | cast | 45058 | 1024 | **no** | mapped | 1.58 m | VRM 1 | — | 16 |
 
 Triangles and textures show fetched → shipped where the build reduced them to the section's budget (`ITEM_BUDGETS`, provisional until the reference devices have run). VRM files are kept byte for byte, so they aren't reduced. VRM 0.x avatars face -Z and must be turned by the stage's loader.
 
@@ -242,4 +328,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** about 9,209 of 12,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 17,446 of 24,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
