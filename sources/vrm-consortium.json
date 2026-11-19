@@ -1,0 +1,24 @@
+{
+  "source": "vrm-consortium",
+  "items": [
+    {
+      "id": "vrmc/Biped/seed-san",
+      "displayName": "Seed-san",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "everyday",
+        "space"
+      ],
+      "description": "a young woman with short dark hair, in a white and blue jumpsuit, with a robot arm on her back",
+      "licence": "VRM-PL-1.0",
+      "credit": "Seed-san by VirtualCast, Inc. (VRM Public License 1.0)",
+      "page": "https://github.com/vrm-c/vrm-specification/tree/94e82dd346fa6cf0337c4421728640e5252dd38e/samples/Seed-san",
+      "fetch": {
+        "github": "vrm-c/vrm-specification",
+        "commit": "94e82dd346fa6cf0337c4421728640e5252dd38e",
+        "path": "samples/Seed-san/vrm/Seed-san.vrm"
+      }
+    }
+  ]
+}
