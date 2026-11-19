@@ -113,11 +113,6 @@
         "Ankle.R_CatArmature": "backRightHock"
       },
       "clips": {
-        "idle": {
-          "clip": "All Animations",
-          "start": 6.333,
-          "end": 8.917
-        },
         "walk": {
           "clip": "All Animations",
           "start": 2.917,
