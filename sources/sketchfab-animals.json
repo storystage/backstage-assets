@@ -10,7 +10,7 @@
         "animals",
         "pets"
       ],
-      "description": "a brown and black German shepherd dog with tall ears",
+      "description": "a tan German shepherd dog with a black face and back, and tall ears",
       "licence": "CC-BY-4.0",
       "credit": "Stylized Low Poly German Shepherd by DreamNoms, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/stylized-low-poly-german-shepherd-18d8fbe184c5448283762893b6ea9752",
@@ -76,7 +76,7 @@
         "animals",
         "pets"
       ],
-      "description": "a grey cat with darker stripes, green eyes and a red collar",
+      "description": "a grey cat with big green eyes and a red collar",
       "licence": "CC-BY-4.0",
       "credit": "Stripe the Cat Rigged and Animated by DreamNoms, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/stripe-the-cat-rigged-and-animated-2e3030b71a6d4b219fdc7304f8e58013",
@@ -111,6 +111,23 @@
         "Thigh.R_CatArmature": "backRightHip",
         "Knee.R_CatArmature": "backRightKnee",
         "Ankle.R_CatArmature": "backRightHock"
+      },
+      "clips": {
+        "idle": {
+          "clip": "All Animations",
+          "start": 6.333,
+          "end": 8.917
+        },
+        "walk": {
+          "clip": "All Animations",
+          "start": 2.917,
+          "end": 4.083
+        },
+        "run": {
+          "clip": "All Animations",
+          "start": 11.683,
+          "end": 12.8
+        }
       },
       "fetch": {
         "github": "storystage/backstage-assets",
@@ -193,7 +210,7 @@
         "pets",
         "woodland"
       ],
-      "description": "a brown rabbit with long ears",
+      "description": "a brown rabbit with a white chest and long ears",
       "licence": "CC-BY-4.0",
       "credit": "Low poly rabbit by Tin3D, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/low-poly-rabbit-284412021a4c42879b894271c0bcc634",
@@ -295,7 +312,7 @@
         "animals",
         "farm"
       ],
-      "description": "a woolly white sheep with a dark face and legs",
+      "description": "a woolly cream sheep with a pale face",
       "licence": "CC-BY-4.0",
       "credit": "Sheep by kenchoo, animating Nz Inbred Sheep by MightyGangsta13, both CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/sheep-08b05ae799d947f1a68c49b2d661eb53",
@@ -321,6 +338,9 @@
         "FrontUpperLeg.R_14": "frontRightShoulder",
         "FrontLowerLeg.R_13": "frontRightKnee"
       },
+      "clips": {
+        "idle": "Animation"
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
@@ -336,7 +356,7 @@
         "animals",
         "farm"
       ],
-      "description": "a fluffy yellow chick with an orange beak and feet",
+      "description": "a fluffy golden-brown chick with orange feet",
       "licence": "CC-BY-4.0",
       "credit": "Animated Chick by FourthGreen, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/animated-chick-8fffaef7902c4823834dd783a99c4316",
@@ -363,6 +383,9 @@
         "Ankle_R_04": "rightAnkle",
         "Toes_R_05": "rightFoot"
       },
+      "clips": {
+        "idle": "Take 001"
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
@@ -378,7 +401,7 @@
         "animals",
         "savanna"
       ],
-      "description": "a cute grey elephant with big ears and a long trunk",
+      "description": "a blocky grey elephant with big square ears, tusks and a trunk",
       "licence": "CC-BY-4.0",
       "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
@@ -432,7 +455,7 @@
         "animals",
         "savanna"
       ],
-      "description": "a cute giraffe with brown patches and a long neck",
+      "description": "a blocky giraffe with orange-brown patches and a long neck",
       "licence": "CC-BY-4.0",
       "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
@@ -481,7 +504,7 @@
         "animals",
         "savanna"
       ],
-      "description": "a cute black and white striped zebra",
+      "description": "a blocky black and white striped zebra",
       "licence": "CC-BY-4.0",
       "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
@@ -529,7 +552,7 @@
         "animals",
         "savanna"
       ],
-      "description": "a cute brown buffalo with curved horns",
+      "description": "a blocky dark grey buffalo with big white curved horns",
       "licence": "CC-BY-4.0",
       "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
@@ -575,7 +598,7 @@
         "animals",
         "woodland"
       ],
-      "description": "a light brown deer with white spots",
+      "description": "a brown deer grazing, with a white tail",
       "licence": "CC-BY-4.0",
       "credit": "Low poly deer by Tin3D, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/low-poly-deer-b1282c04dffd4a44a8d755171337e143",
@@ -627,7 +650,7 @@
         "woodland",
         "fairy tale"
       ],
-      "description": "a grey wolf with a pale belly and a bushy tail",
+      "description": "a grey wolf with a pale face and a bushy tail",
       "licence": "CC-BY-4.0",
       "credit": "Low Poly wolf by manoeldarochadeoliveira, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/low-poly-wolf-c6baa6970e724c6a97d5e1ecb8823179",
@@ -679,7 +702,7 @@
         "fantasy",
         "monsters"
       ],
-      "description": "a made-up beast, half snake and half wolf, with clawed front feet",
+      "description": "a made-up beast with a green scaly back, shaggy blue-green legs, claws and yellow eyes",
       "licence": "CC-BY-4.0",
       "credit": "Low poly Snake - Wolf Animated by imitate, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/low-poly-snake-wolf-animated-c0baad2baee5467894087856cac1872b",
@@ -732,7 +755,7 @@
         "pond",
         "garden"
       ],
-      "description": "a fat green frog sitting down",
+      "description": "a fat green frog with a pale belly, sitting down",
       "licence": "CC-BY-4.0",
       "credit": "Fat Low-Poly Frog with Animation by Norah, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/fat-low-poly-frog-with-animation-e162d0ecfe6e42f5a3afc4e0893bc560",
@@ -808,7 +831,7 @@
         "polar",
         "sea"
       ],
-      "description": "a round cartoon penguin, black and white with an orange beak and feet",
+      "description": "a round cartoon penguin, black and white with orange flippers, beak and feet",
       "licence": "CC-BY-4.0",
       "credit": "Penguin by Mateus Schwaab, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/penguin-2c079bc491fb4bb4942c0f87927f8d87",
@@ -852,11 +875,11 @@
         "animals",
         "sea"
       ],
-      "description": "a grey and blue dolphin with a pale belly",
+      "description": "a dark grey dolphin with an orange stripe and a white belly",
       "licence": "CC-BY-4.0",
       "credit": "Dolphin - animated - marine mammals series by nolanfa, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/dolphin-animated-marine-mammals-series-f4abb460956240f98b7a6f19cc3037a1",
-      "height": 0.6,
+      "height": 0.35,
       "exclude": {
         "nodes": [
           "Plane_0",
@@ -899,11 +922,11 @@
         "animals",
         "sea"
       ],
-      "description": "a dark blue humpback whale with long flippers and a pale throat",
+      "description": "a dark humpback whale with very long flippers and a striped pale throat",
       "licence": "CC-BY-4.0",
       "credit": "Humpback Whale - animated - marine mammals by nolanfa, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/humpback-whale-animated-marine-mammals-219ed629c9394d869bbf19d443188423",
-      "height": 3,
+      "height": 1.2,
       "exclude": {
         "nodes": [
           "HumpbackWhale.004_1"
@@ -945,13 +968,13 @@
       "themes": [
         "animals",
         "sea",
-        "polar"
+        "fantasy"
       ],
-      "description": "a speckled grey narwhal with a long spiral tusk",
+      "description": "a deep blue narwhal speckled with stars, with a long tusk",
       "licence": "CC-BY-4.0",
       "credit": "Narwhal - animated by nolanfa, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/narwhal-animated-509282b5e29d40c9aee278676e5fd3af",
-      "height": 0.9,
+      "height": 0.7,
       "bones": {
         "body_Armature-narwhal.005": "spineBase",
         "head_Armature-narwhal.005": "head",
@@ -988,7 +1011,7 @@
         "animals",
         "sea"
       ],
-      "description": "a grey cartoon shark with a white belly and sharp teeth",
+      "description": "a grey cartoon shark with a big toothy grin",
       "licence": "CC-BY-4.0",
       "credit": "Stylized Shark by kasperromer, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/stylized-shark-50b7659bcd4a4ca7b123a50618840332",
@@ -1023,7 +1046,7 @@
         "pond",
         "garden"
       ],
-      "description": "an orange and white koi carp with long whiskers",
+      "description": "a cartoon koi, grey and black with yellow fins, long whiskers and big yellow eyes",
       "licence": "CC-BY-4.0",
       "credit": "Free Low Poly Cartoon Koi Fish by GameAssetsFin, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/free-low-poly-cartoon-koi-fish-62ea29193ca14f7fb65c5876bfc2ea66",
@@ -1064,11 +1087,11 @@
         "sea",
         "pond"
       ],
-      "description": "a small striped fish",
+      "description": "a small silver fish",
       "licence": "CC-BY-4.0",
       "credit": "Animated Low poly Fish by Atlas, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/animated-low-poly-fish-64adc2e5a4be471e8279532b9610c878",
-      "height": 0.2,
+      "height": 0.1,
       "bones": {
         "Bone_2": "head",
         "Bone.001_5": "spineBase",
@@ -1095,11 +1118,14 @@
         "garden",
         "fantasy"
       ],
-      "description": "a butterfly with long tails on its wings",
+      "description": "a blue butterfly with long tails on its wings",
       "licence": "CC-BY-4.0",
       "credit": "Fantasy Butterfly Animation by lalune, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/fantasy-butterfly-animation-0f24b085e8654e4db09c2fe681a79e3f",
       "height": 0.3,
+      "turn": {
+        "x": -60
+      },
       "clips": {
         "fly": "Take 001"
       },
@@ -1152,11 +1178,23 @@
         "minibeasts",
         "spooky"
       ],
-      "description": "a dark eight-legged spider",
+      "description": "a red-brown spider with spiky legs",
       "licence": "CC-BY-4.0",
       "credit": "Spider. Low Poly by cattleya, CC BY 4.0, via Sketchfab",
       "page": "https://sketchfab.com/3d-models/spider-low-poly-1029c25a78c543259167cdc72a9ae7a7",
       "height": 0.08,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 1.233,
+          "end": 2.567
+        },
+        "walk": {
+          "clip": "Take 001",
+          "start": 8.267,
+          "end": 8.967
+        }
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
