@@ -816,22 +816,6 @@
       }
     },
     {
-      "id": "osa/Biped/ripped-jimbo",
-      "displayName": "Ripped Jimbo",
-      "class": "Biped",
-      "section": "cast",
-      "themes": [
-        "fantasy"
-      ],
-      "licence": "CC0-1.0",
-      "credit": "Ripped Jimbo by Polygonal Mind, 100Avatars (CC0)",
-      "page": "https://arweave.net/vdRezR_hCUxtqmSAGhpHtWWs_YXGhvgK3aQVmwIYaj8",
-      "fetch": {
-        "url": "https://arweave.net/vdRezR_hCUxtqmSAGhpHtWWs_YXGhvgK3aQVmwIYaj8",
-        "ext": "vrm"
-      }
-    },
-    {
       "id": "osa/Biped/leaf-boy",
       "displayName": "Leaf Boy",
       "class": "Biped",
