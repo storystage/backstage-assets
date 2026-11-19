@@ -174,6 +174,1382 @@
         "url": "https://arweave.net/T1gkB95XKXAZl_VmU1ozg5Txm--o9nY0Nge3s8zNoBs",
         "ext": "vrm"
       }
+    },
+    {
+      "id": "osa/Biped/cool-pineapple",
+      "displayName": "Cool Pineapple",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Pineapple by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/H_vUdDIVXOdnq_YOFxX7zgDnVOYUkHfzJSzSVULsupM",
+      "fetch": {
+        "url": "https://arweave.net/H_vUdDIVXOdnq_YOFxX7zgDnVOYUkHfzJSzSVULsupM",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/good-knight",
+      "displayName": "Good Knight",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Good Knight by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/GssJhnk0HJsS6u3ZNN6fTk4TEL7g4AbVGoCztUgjAu0",
+      "fetch": {
+        "url": "https://arweave.net/GssJhnk0HJsS6u3ZNN6fTk4TEL7g4AbVGoCztUgjAu0",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/bad-bot",
+      "displayName": "Bad Bot",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Bad Bot by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/ssQPFGxKhSLVlXndDSfdwYo-lcgMT8rLXd-2hJgK5RI",
+      "fetch": {
+        "url": "https://arweave.net/ssQPFGxKhSLVlXndDSfdwYo-lcgMT8rLXd-2hJgK5RI",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/lord-piggington",
+      "displayName": "Lord Piggington",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Lord Piggington by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/1TdUiEB97Rsvvx47BiesyOAc1YvzZpeRqIZUZpxqkPU",
+      "fetch": {
+        "url": "https://arweave.net/1TdUiEB97Rsvvx47BiesyOAc1YvzZpeRqIZUZpxqkPU",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/mr",
+      "displayName": "Mr",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Mr by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/jJaRNO38jEjBzn0SPpl3d7Yo91NTXxNtPVMb0JdsNyA",
+      "fetch": {
+        "url": "https://arweave.net/jJaRNO38jEjBzn0SPpl3d7Yo91NTXxNtPVMb0JdsNyA",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-toaster",
+      "displayName": "Cool Toaster",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Toaster by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/y0T6yKovy5Udzs4LlzRioFv8_yZlTc7orRDbxCHjOfk",
+      "fetch": {
+        "url": "https://arweave.net/y0T6yKovy5Udzs4LlzRioFv8_yZlTc7orRDbxCHjOfk",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/pirate-bot",
+      "displayName": "Pirate Bot",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Pirate Bot by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/f6VUW6sCyJcjErrBWSu_MVlYMkmAx5CRpyNGedUNxHM",
+      "fetch": {
+        "url": "https://arweave.net/f6VUW6sCyJcjErrBWSu_MVlYMkmAx5CRpyNGedUNxHM",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cyberpal",
+      "displayName": "Cyberpal",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cyberpal by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/zNTLqtifNdl38MpdNXACcvSMFVu6-s7d6pJQDm7E7Us",
+      "fetch": {
+        "url": "https://arweave.net/zNTLqtifNdl38MpdNXACcvSMFVu6-s7d6pJQDm7E7Us",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/bao-samurai",
+      "displayName": "Bao Samurai",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Bao Samurai by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/wmTy-SEXxmlp847i1U1m2GziSGp-4T8qrZ77A32LlY8",
+      "fetch": {
+        "url": "https://arweave.net/wmTy-SEXxmlp847i1U1m2GziSGp-4T8qrZ77A32LlY8",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/psichonaut",
+      "displayName": "Psichonaut",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Psichonaut by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/k5VyFaeU0FicUnP0NE0FFeVClZfICdEiz1C9-CCNYkk",
+      "fetch": {
+        "url": "https://arweave.net/k5VyFaeU0FicUnP0NE0FFeVClZfICdEiz1C9-CCNYkk",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/snake-bot",
+      "displayName": "Snake Bot",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Snake Bot by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/fzLqHKoPkSWHAg5cPUjqDGrg50jzh7b3UVzs83hd6DU",
+      "fetch": {
+        "url": "https://arweave.net/fzLqHKoPkSWHAg5cPUjqDGrg50jzh7b3UVzs83hd6DU",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/kiba",
+      "displayName": "Kiba",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Kiba by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/Nf6SIdJuYGYzUMJKNgKq44Zr-lCZS4No_FYtR6BFBYM",
+      "fetch": {
+        "url": "https://arweave.net/Nf6SIdJuYGYzUMJKNgKq44Zr-lCZS4No_FYtR6BFBYM",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-spaguetti",
+      "displayName": "Cool Spaguetti",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Spaguetti by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/NPQRwcWNbD74ZhKX1FEJG8jwpbbGKyQFjYQO7617V-8",
+      "fetch": {
+        "url": "https://arweave.net/NPQRwcWNbD74ZhKX1FEJG8jwpbbGKyQFjYQO7617V-8",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/chester",
+      "displayName": "Chester",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Chester by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/2Lsw0H5j06VFi-AKtzMgX1HFsgdkFy3tlMQbZADvqyk",
+      "fetch": {
+        "url": "https://arweave.net/2Lsw0H5j06VFi-AKtzMgX1HFsgdkFy3tlMQbZADvqyk",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/buffedwolf",
+      "displayName": "Buffedwolf",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Buffedwolf by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/dtI-JA5uSmbJVa7w7294T_9AJ_jvfZVQx4QWFzYdvdQ",
+      "fetch": {
+        "url": "https://arweave.net/dtI-JA5uSmbJVa7w7294T_9AJ_jvfZVQx4QWFzYdvdQ",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/mega-angel",
+      "displayName": "Mega Angel",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Mega Angel by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/hFjw4u33v1cjEFl80leP2M8dfRjaJ5UNNmIZp8sIA8Y",
+      "fetch": {
+        "url": "https://arweave.net/hFjw4u33v1cjEFl80leP2M8dfRjaJ5UNNmIZp8sIA8Y",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/mushroom-fairy",
+      "displayName": "Mushroom Fairy",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Mushroom Fairy by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/ULlu6wg-zCwLokTXxbXzFlJzugVW_yp2pssEKJbvwx8",
+      "fetch": {
+        "url": "https://arweave.net/ULlu6wg-zCwLokTXxbXzFlJzugVW_yp2pssEKJbvwx8",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/goat-ghost",
+      "displayName": "Goat Ghost",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Goat Ghost by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/cedA3Is8tZhL86D0Bq5JGVMXtFQXdmqY-xLcd_CuhNY",
+      "fetch": {
+        "url": "https://arweave.net/cedA3Is8tZhL86D0Bq5JGVMXtFQXdmqY-xLcd_CuhNY",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-pawn",
+      "displayName": "Cool Pawn",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Pawn by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/YHOo7iOMpmA44TYyPQNswS-lKaU0yrY_BG0WCVdqkbw",
+      "fetch": {
+        "url": "https://arweave.net/YHOo7iOMpmA44TYyPQNswS-lKaU0yrY_BG0WCVdqkbw",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-waffle",
+      "displayName": "Cool Waffle",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Waffle by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/ZnGFTLeAlRG1RuSMpt9s7sSQ6I3lzd40PDqUxYYvwCE",
+      "fetch": {
+        "url": "https://arweave.net/ZnGFTLeAlRG1RuSMpt9s7sSQ6I3lzd40PDqUxYYvwCE",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/fire-eye",
+      "displayName": "Fire Eye",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Fire Eye by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/RZJRCIir0engUa_94Naiy95fpg-RRZYiU1v-xKzXAco",
+      "fetch": {
+        "url": "https://arweave.net/RZJRCIir0engUa_94Naiy95fpg-RRZYiU1v-xKzXAco",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/eugenia",
+      "displayName": "Eugenia",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Eugenia by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/saOexMViu7mqSeaXfQzNIPrKWQ0nqkSf-FpOQjZfBcU",
+      "fetch": {
+        "url": "https://arweave.net/saOexMViu7mqSeaXfQzNIPrKWQ0nqkSf-FpOQjZfBcU",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/weird-cat",
+      "displayName": "Weird Cat",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Weird Cat by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/pPaWwgWt8Gu7hJyHo_wG45lxPVV8ka8zBJJKSQD8Ngs",
+      "fetch": {
+        "url": "https://arweave.net/pPaWwgWt8Gu7hJyHo_wG45lxPVV8ka8zBJJKSQD8Ngs",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-radish",
+      "displayName": "Cool Radish",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Radish by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/gIzIG2YW2cBAR8QgLZ4qAMLzfUib0chQQbHhqFLZck8",
+      "fetch": {
+        "url": "https://arweave.net/gIzIG2YW2cBAR8QgLZ4qAMLzfUib0chQQbHhqFLZck8",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cute-saurus",
+      "displayName": "Cute Saurus",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cute Saurus by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/1-EJ5GXIlQ1ohw6GMsMnEzyK7IHhI8YDPYsjMvo_xhQ",
+      "fetch": {
+        "url": "https://arweave.net/1-EJ5GXIlQ1ohw6GMsMnEzyK7IHhI8YDPYsjMvo_xhQ",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/crowley",
+      "displayName": "Crowley",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Crowley by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/U5J00CQ4NHUkXH7rrM4DTt4Oi3JqkTXKzC2z4oX67qs",
+      "fetch": {
+        "url": "https://arweave.net/U5J00CQ4NHUkXH7rrM4DTt4Oi3JqkTXKzC2z4oX67qs",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/frog-enjoyer",
+      "displayName": "Frog Enjoyer",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Frog Enjoyer by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/ggExXCBweG0Gh7YKRUQJ8XP9iSp7vAnHiXGgZGJ6oyk",
+      "fetch": {
+        "url": "https://arweave.net/ggExXCBweG0Gh7YKRUQJ8XP9iSp7vAnHiXGgZGJ6oyk",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/vladi",
+      "displayName": "Vladi",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Vladi by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/RFKE0Snx7V32gjvV82GcXT9-R7rDySQaKWlf1a2oYUc",
+      "fetch": {
+        "url": "https://arweave.net/RFKE0Snx7V32gjvV82GcXT9-R7rDySQaKWlf1a2oYUc",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/beach-king",
+      "displayName": "Beach King",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Beach King by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/uKhDMselhdUyeJKjelpuVsL8s-a9v_Wqq75TQfCfnos",
+      "fetch": {
+        "url": "https://arweave.net/uKhDMselhdUyeJKjelpuVsL8s-a9v_Wqq75TQfCfnos",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/toxic-guy",
+      "displayName": "Toxic Guy",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Toxic Guy by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/8a-3jL8BU_Nxy3qQyNQoc0xKqpXcf2V0KtxQsgyFcLg",
+      "fetch": {
+        "url": "https://arweave.net/8a-3jL8BU_Nxy3qQyNQoc0xKqpXcf2V0KtxQsgyFcLg",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-bomb",
+      "displayName": "Cool Bomb",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Bomb by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/UCr970KVI0DoEqG8BvCkWPthB-jTk8wXaObPUI-H-EI",
+      "fetch": {
+        "url": "https://arweave.net/UCr970KVI0DoEqG8BvCkWPthB-jTk8wXaObPUI-H-EI",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cosmic-bot",
+      "displayName": "Cosmic Bot",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cosmic Bot by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/F5RSSZzaf0eOfZYNSbnBT91MT9n6ojTMq5uWSIMkcTU",
+      "fetch": {
+        "url": "https://arweave.net/F5RSSZzaf0eOfZYNSbnBT91MT9n6ojTMq5uWSIMkcTU",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/blob",
+      "displayName": "Blob",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Blob by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/rEZ1Guj30FACK2jqZ3hPsd6tDBrka2Ws2qmT8xZ1skk",
+      "fetch": {
+        "url": "https://arweave.net/rEZ1Guj30FACK2jqZ3hPsd6tDBrka2Ws2qmT8xZ1skk",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/sport-mecha",
+      "displayName": "Sport Mecha",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Sport Mecha by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/xpx3cF_x4G4FUW-oIx7c2LiSUPigXK74fLHXgJ2w6lA",
+      "fetch": {
+        "url": "https://arweave.net/xpx3cF_x4G4FUW-oIx7c2LiSUPigXK74fLHXgJ2w6lA",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cherry-bros",
+      "displayName": "Cherry Bros",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cherry Bros by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/0o1sL5UKrtgVpAGeRhbNRR55n3WlTgd0t9sGRXwJnw8",
+      "fetch": {
+        "url": "https://arweave.net/0o1sL5UKrtgVpAGeRhbNRR55n3WlTgd0t9sGRXwJnw8",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/stingcake",
+      "displayName": "Stingcake",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Stingcake by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/mak2Zck_ii-x3dJYkl5cl33hm5_R_NDo4MnnVBlsZos",
+      "fetch": {
+        "url": "https://arweave.net/mak2Zck_ii-x3dJYkl5cl33hm5_R_NDo4MnnVBlsZos",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/bean-king",
+      "displayName": "Bean King",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Bean King by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/4DY39QWIGPtuovTNVcQhgl5bSiNvr3J_ZJiHjU3P-u8",
+      "fetch": {
+        "url": "https://arweave.net/4DY39QWIGPtuovTNVcQhgl5bSiNvr3J_ZJiHjU3P-u8",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/agnes",
+      "displayName": "Agnes",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Agnes by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/c8mrbRq29sfQdovW1l_D2JYGOaCNF3JxTaUsmHTSNAg",
+      "fetch": {
+        "url": "https://arweave.net/c8mrbRq29sfQdovW1l_D2JYGOaCNF3JxTaUsmHTSNAg",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/petal-dude",
+      "displayName": "Petal Dude",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Petal Dude by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/IUrUx8QMcaZDWLSOPWz8UiM5bq-sR3dXAQwwmIeiOBE",
+      "fetch": {
+        "url": "https://arweave.net/IUrUx8QMcaZDWLSOPWz8UiM5bq-sR3dXAQwwmIeiOBE",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-udon",
+      "displayName": "Cool Udon",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Udon by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/-ZmZDpcrrc8o5mc1sTclqfznHxpdUolfnwe6_TTRHT0",
+      "fetch": {
+        "url": "https://arweave.net/-ZmZDpcrrc8o5mc1sTclqfznHxpdUolfnwe6_TTRHT0",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/ripped-jimbo",
+      "displayName": "Ripped Jimbo",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Ripped Jimbo by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/vdRezR_hCUxtqmSAGhpHtWWs_YXGhvgK3aQVmwIYaj8",
+      "fetch": {
+        "url": "https://arweave.net/vdRezR_hCUxtqmSAGhpHtWWs_YXGhvgK3aQVmwIYaj8",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/leaf-boy",
+      "displayName": "Leaf Boy",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Leaf Boy by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/U-506llBsdnnXn3uslKggDw5Qt-sdDlQAY4KLKvZsuU",
+      "fetch": {
+        "url": "https://arweave.net/U-506llBsdnnXn3uslKggDw5Qt-sdDlQAY4KLKvZsuU",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/joker-dude",
+      "displayName": "Joker Dude",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Joker Dude by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/EpWWN8a-kpLPWdBvLsPj5CNFpMVvSp9Q83y-BSdaK4E",
+      "fetch": {
+        "url": "https://arweave.net/EpWWN8a-kpLPWdBvLsPj5CNFpMVvSp9Q83y-BSdaK4E",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-sushi",
+      "displayName": "Cool Sushi",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Sushi by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/_i5T4s4PMphVjCLyc3GQjfi_Hmd6HXHoXkwnwjfXr4E",
+      "fetch": {
+        "url": "https://arweave.net/_i5T4s4PMphVjCLyc3GQjfi_Hmd6HXHoXkwnwjfXr4E",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/juanita",
+      "displayName": "Juanita",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Juanita by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/nyMyZZx5lN2DXsmBgbGQSnt3PuXYN7AAjz9QJrjitLo",
+      "fetch": {
+        "url": "https://arweave.net/nyMyZZx5lN2DXsmBgbGQSnt3PuXYN7AAjz9QJrjitLo",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cat-moth",
+      "displayName": "Cat Moth",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cat Moth by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/CZWecYxSdxUQKu8qI_gs0n3YL13wJxEWXzgHCij29m0",
+      "fetch": {
+        "url": "https://arweave.net/CZWecYxSdxUQKu8qI_gs0n3YL13wJxEWXzgHCij29m0",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/lady-koi",
+      "displayName": "Lady Koi",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Lady Koi by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/t3aTp6AhxfdLcq5I3HZx29wK8MFQGmDC9wPwXrHQoW0",
+      "fetch": {
+        "url": "https://arweave.net/t3aTp6AhxfdLcq5I3HZx29wK8MFQGmDC9wPwXrHQoW0",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-croissant",
+      "displayName": "Cool Croissant",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Croissant by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/_LU7wiRSosMIxex6HPj5HP2pc0zYgg1MxgPpOOiHrLg",
+      "fetch": {
+        "url": "https://arweave.net/_LU7wiRSosMIxex6HPj5HP2pc0zYgg1MxgPpOOiHrLg",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/alien-teen",
+      "displayName": "Alien Teen",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Alien Teen by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/j4VaJTdrBw6gXFWJEeq52mrKwnjsfPY1MZNdTiCXgRs",
+      "fetch": {
+        "url": "https://arweave.net/j4VaJTdrBw6gXFWJEeq52mrKwnjsfPY1MZNdTiCXgRs",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-cyclops",
+      "displayName": "Cool Cyclops",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Cyclops by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/dVZVjP1on9_PCNJW5BT5c2-zorD9G2vlZ3HeEdDutmU",
+      "fetch": {
+        "url": "https://arweave.net/dVZVjP1on9_PCNJW5BT5c2-zorD9G2vlZ3HeEdDutmU",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/yeti-dude",
+      "displayName": "Yeti Dude",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Yeti Dude by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/l53NM8fpF0gpcRaeBnouPw0I8mQnHU3Dr8ArX4SmKck",
+      "fetch": {
+        "url": "https://arweave.net/l53NM8fpF0gpcRaeBnouPw0I8mQnHU3Dr8ArX4SmKck",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-bee",
+      "displayName": "Cool Bee",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Bee by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/-M047TNjC36mcEWMprML2g7rawORlVGIgD7CKvjqcfw",
+      "fetch": {
+        "url": "https://arweave.net/-M047TNjC36mcEWMprML2g7rawORlVGIgD7CKvjqcfw",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/evil-book",
+      "displayName": "Evil Book",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Evil Book by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/AeQDTTPAAd35wAtZ1Mgjets8Cc1GHJkHjKiR53NcVAM",
+      "fetch": {
+        "url": "https://arweave.net/AeQDTTPAAd35wAtZ1Mgjets8Cc1GHJkHjKiR53NcVAM",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/bat-pot",
+      "displayName": "Bat Pot",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Bat Pot by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/rA5UE8xQw-5qcYUGz1GhtwK2Duh-2TRVKAReNPOBWjU",
+      "fetch": {
+        "url": "https://arweave.net/rA5UE8xQw-5qcYUGz1GhtwK2Duh-2TRVKAReNPOBWjU",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/urban-tv",
+      "displayName": "Urban TV",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Urban TV by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/h7MGIGl6Mpzof0lIV9s_2KYiOBxwDOUUqos5bKjBwhQ",
+      "fetch": {
+        "url": "https://arweave.net/h7MGIGl6Mpzof0lIV9s_2KYiOBxwDOUUqos5bKjBwhQ",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/dogo-burger",
+      "displayName": "Dogo Burger",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Dogo Burger by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/qKrAwFf60cT1348kvQc7S5Nzn3fO0aNvJ8ybMx5Lu04",
+      "fetch": {
+        "url": "https://arweave.net/qKrAwFf60cT1348kvQc7S5Nzn3fO0aNvJ8ybMx5Lu04",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cute-moth",
+      "displayName": "Cute Moth",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cute Moth by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/LWj4C9ClGs0ChP7oHDEEWPbGTo0HAWNMjhIRlyMkRHg",
+      "fetch": {
+        "url": "https://arweave.net/LWj4C9ClGs0ChP7oHDEEWPbGTo0HAWNMjhIRlyMkRHg",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-snake",
+      "displayName": "Cool Snake",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Snake by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/GAAQYRWWqjn1dYYC8EU47yhT1CKGIjydeJgzVjq4oJo",
+      "fetch": {
+        "url": "https://arweave.net/GAAQYRWWqjn1dYYC8EU47yhT1CKGIjydeJgzVjq4oJo",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/astro-nacho",
+      "displayName": "Astro Nacho",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Astro Nacho by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/yN-bc2espBKNBlbd1J5CfKJkv4ukOcwwyHdJiXoidHg",
+      "fetch": {
+        "url": "https://arweave.net/yN-bc2espBKNBlbd1J5CfKJkv4ukOcwwyHdJiXoidHg",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/anna",
+      "displayName": "Anna",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Anna by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/RqDioyluCcxDNHFPoXLUlbEQjhP1Fy9HtaGzLFVh0mE",
+      "fetch": {
+        "url": "https://arweave.net/RqDioyluCcxDNHFPoXLUlbEQjhP1Fy9HtaGzLFVh0mE",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/mr-bush",
+      "displayName": "Mr Bush",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Mr Bush by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/4i8X5XaXMIRYVajBnXKQdM_Sa_OQ7PkWi1yG7XdWG44",
+      "fetch": {
+        "url": "https://arweave.net/4i8X5XaXMIRYVajBnXKQdM_Sa_OQ7PkWi1yG7XdWG44",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cat-eye",
+      "displayName": "Cat Eye",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cat Eye by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/bpAiAA8wgroS9YgRAk49LShqINtLwsx50IBcHek18J0",
+      "fetch": {
+        "url": "https://arweave.net/bpAiAA8wgroS9YgRAk49LShqINtLwsx50IBcHek18J0",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/pitcher-dude",
+      "displayName": "Pitcher Dude",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Pitcher Dude by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/x5nj6rhSvNnEIFGo7UDuL_HyNpPDD3xPhRJtzrRG6Po",
+      "fetch": {
+        "url": "https://arweave.net/x5nj6rhSvNnEIFGo7UDuL_HyNpPDD3xPhRJtzrRG6Po",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/math-book",
+      "displayName": "Math Book",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Math Book by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/_mnuVHD1HqIIBPST7PlJGn4RN5ic-0jSTTzjq0LbINo",
+      "fetch": {
+        "url": "https://arweave.net/_mnuVHD1HqIIBPST7PlJGn4RN5ic-0jSTTzjq0LbINo",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-heart",
+      "displayName": "Cool Heart",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Heart by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/Eqer9d8Xz3iQskaBBuw_WPvD0dx8wfoOInYb2T9shQA",
+      "fetch": {
+        "url": "https://arweave.net/Eqer9d8Xz3iQskaBBuw_WPvD0dx8wfoOInYb2T9shQA",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/lil-teddy",
+      "displayName": "Lil Teddy",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Lil Teddy by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/-3bfp6YgXDn6Qb5u463PFouqbsBzcceFKY57WU6Z-xM",
+      "fetch": {
+        "url": "https://arweave.net/-3bfp6YgXDn6Qb5u463PFouqbsBzcceFKY57WU6Z-xM",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/megan-the-fox",
+      "displayName": "Megan The Fox",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Megan The Fox by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/up4WzT0YJfXv9woGseCIQnBSq3eH8KWASJJbNtuvEWY",
+      "fetch": {
+        "url": "https://arweave.net/up4WzT0YJfXv9woGseCIQnBSq3eH8KWASJJbNtuvEWY",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-tiki",
+      "displayName": "Cool Tiki",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Tiki by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/jfy-JpgRVHM5XrtS0ubeXUPp266LazQ86Y5SlwzD1s8",
+      "fetch": {
+        "url": "https://arweave.net/jfy-JpgRVHM5XrtS0ubeXUPp266LazQ86Y5SlwzD1s8",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/jenny",
+      "displayName": "Jenny",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Jenny by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/kgTirc4OvUWbJhIKC2CB3_pYsYuB62KTj90IdE8s3sk",
+      "fetch": {
+        "url": "https://arweave.net/kgTirc4OvUWbJhIKC2CB3_pYsYuB62KTj90IdE8s3sk",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/ajo-majo",
+      "displayName": "Ajo Majo",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Ajo Majo by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/N0uIP-7n2AjxH-tNFJV8foY7mQQ_DPKgGeCIqXUqfNQ",
+      "fetch": {
+        "url": "https://arweave.net/N0uIP-7n2AjxH-tNFJV8foY7mQQ_DPKgGeCIqXUqfNQ",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-tiger",
+      "displayName": "Cool Tiger",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Tiger by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/2EQ5wsstsJaFOG9LXq_gVFKKgM8bnfPa3axYJ-VS1ug",
+      "fetch": {
+        "url": "https://arweave.net/2EQ5wsstsJaFOG9LXq_gVFKKgM8bnfPa3axYJ-VS1ug",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/two-tails",
+      "displayName": "Two-Tails",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Two-Tails by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/JE2Ix9bF-9x6r4ovLKsgMoNf6QJQf_NbmTLSq9Hp_OM",
+      "fetch": {
+        "url": "https://arweave.net/JE2Ix9bF-9x6r4ovLKsgMoNf6QJQf_NbmTLSq9Hp_OM",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/lil-ram",
+      "displayName": "Lil Ram",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Lil Ram by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/_eI-DUur3aGVxAulG0nYICJ1TflufnEiwN9keLmEIXE",
+      "fetch": {
+        "url": "https://arweave.net/_eI-DUur3aGVxAulG0nYICJ1TflufnEiwN9keLmEIXE",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/mr-squirrel",
+      "displayName": "Mr Squirrel",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Mr Squirrel by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/cuWoLBLWF0OdWUZ2jsjWNkHPRlPMdmqP9_lUbrHBO-o",
+      "fetch": {
+        "url": "https://arweave.net/cuWoLBLWF0OdWUZ2jsjWNkHPRlPMdmqP9_lUbrHBO-o",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/dream-fighter",
+      "displayName": "Dream Fighter",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Dream Fighter by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/DF1j9AaUmMferCUrB4BLPtA3AoXE7O3qpE9yP-SSYcQ",
+      "fetch": {
+        "url": "https://arweave.net/DF1j9AaUmMferCUrB4BLPtA3AoXE7O3qpE9yP-SSYcQ",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/ranchu",
+      "displayName": "Ranchu",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Ranchu by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/8X5rbty2z91hlPByVkLIRTS9pxMyZc6KXOsHdQARUiU",
+      "fetch": {
+        "url": "https://arweave.net/8X5rbty2z91hlPByVkLIRTS9pxMyZc6KXOsHdQARUiU",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/lady-fawn",
+      "displayName": "Lady Fawn",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Lady Fawn by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/irXzuViKMyT1wGa5tqWQZCCqZPb_uVzU23Wgl1pHC_0",
+      "fetch": {
+        "url": "https://arweave.net/irXzuViKMyT1wGa5tqWQZCCqZPb_uVzU23Wgl1pHC_0",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/lil-shark",
+      "displayName": "Lil Shark",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Lil Shark by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/nVqBB0cwDybmATcohrZKkgx6hVDqPKTIF2-MwNVVMdw",
+      "fetch": {
+        "url": "https://arweave.net/nVqBB0cwDybmATcohrZKkgx6hVDqPKTIF2-MwNVVMdw",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/strawberry-princess",
+      "displayName": "Strawberry Princess",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Strawberry Princess by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/0Wwhn0-G8wESHYX2lD9FRPWw6smAHN_wsH6hNPrz9eE",
+      "fetch": {
+        "url": "https://arweave.net/0Wwhn0-G8wESHYX2lD9FRPWw6smAHN_wsH6hNPrz9eE",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/snail-kid",
+      "displayName": "Snail Kid",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Snail Kid by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/K6205Pm4AlC-S_QCOD4V4AaCqf6zqZfG5YQdt1ejNRs",
+      "fetch": {
+        "url": "https://arweave.net/K6205Pm4AlC-S_QCOD4V4AaCqf6zqZfG5YQdt1ejNRs",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/nut-bot",
+      "displayName": "Nut Bot",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Nut Bot by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/GJq_zlNx26A0LRAh6YvP1z9QBYm2uEol0tTXgBmApzQ",
+      "fetch": {
+        "url": "https://arweave.net/GJq_zlNx26A0LRAh6YvP1z9QBYm2uEol0tTXgBmApzQ",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/blue-pixie",
+      "displayName": "Blue Pixie",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Blue Pixie by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/9_oVPJdbbWifb1GfWa_TpGuGJ0dXQ2ryY6fqM_qt2vk",
+      "fetch": {
+        "url": "https://arweave.net/9_oVPJdbbWifb1GfWa_TpGuGJ0dXQ2ryY6fqM_qt2vk",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/ghost-pumpking",
+      "displayName": "Ghost Pumpking",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Ghost Pumpking by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/w7BA_cYyPX8wtbr2YcUNQtGjQkTPAGuA-l4WOA2Pr0k",
+      "fetch": {
+        "url": "https://arweave.net/w7BA_cYyPX8wtbr2YcUNQtGjQkTPAGuA-l4WOA2Pr0k",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/bot-bunny",
+      "displayName": "Bot Bunny",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Bot Bunny by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/4aox7v4AJVWR5oVxIMcqHbreKDDDHFnePhhPpVwkqnc",
+      "fetch": {
+        "url": "https://arweave.net/4aox7v4AJVWR5oVxIMcqHbreKDDDHFnePhhPpVwkqnc",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/sport-tv",
+      "displayName": "Sport TV",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Sport TV by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/ISYr7xBXT_s4tLddbhFB3PpUhWg-H_BYs2UZhVLF1hA",
+      "fetch": {
+        "url": "https://arweave.net/ISYr7xBXT_s4tLddbhFB3PpUhWg-H_BYs2UZhVLF1hA",
+        "ext": "vrm"
+      }
+    },
+    {
+      "id": "osa/Biped/cool-pyramid",
+      "displayName": "Cool Pyramid",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "fantasy"
+      ],
+      "licence": "CC0-1.0",
+      "credit": "Cool Pyramid by Polygonal Mind, 100Avatars (CC0)",
+      "page": "https://arweave.net/SdnGu0ajq-TNVxLbenkQBgG4gPdIraWJoPHN0HY41p8",
+      "fetch": {
+        "url": "https://arweave.net/SdnGu0ajq-TNVxLbenkQBgG4gPdIraWJoPHN0HY41p8",
+        "ext": "vrm"
+      }
     }
   ]
 }
