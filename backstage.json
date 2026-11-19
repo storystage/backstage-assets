@@ -25700,6 +25700,1621 @@
       ]
     },
     {
+      "id": "sketchfab/Flyer/african-penguin",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "African penguin",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a black and white penguin with a black stripe across its chest",
+      "files": {
+        "model": "models/sketchfab/Flyer/african-penguin.glb",
+        "thumbnail": "thumbnails/sketchfab/Flyer/african-penguin.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "leftEye",
+        "leftEyelid",
+        "rightEye",
+        "rightEyelid",
+        "leftWingShoulder",
+        "leftWingElbow",
+        "leftWingWrist",
+        "rightWingShoulder",
+        "rightWingElbow",
+        "rightWingWrist",
+        "pelvis",
+        "tail",
+        "leftHip",
+        "leftKnee",
+        "leftAnkle",
+        "leftFoot",
+        "rightHip",
+        "rightKnee",
+        "rightAnkle",
+        "rightFoot"
+      ],
+      "defaultSize": {
+        "height": 0.6
+      },
+      "budget": {
+        "triangles": 4124,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "African penguin (Spheniscus demersus) Low poly by Major, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/african-penguin-spheniscus-demersus-low-poly-9e59070815fe451d93398e2ebdb9bb92",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Flyer/african-penguin/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Flyer/african-penguin/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Flyer/african-penguin/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Flyer/african-penguin/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Flyer/bee",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Bee",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a smiling round bee with yellow and black stripes",
+      "files": {
+        "model": "models/sketchfab/Flyer/bee.glb",
+        "thumbnail": "thumbnails/sketchfab/Flyer/bee.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.08
+      },
+      "budget": {
+        "triangles": 118,
+        "textureMaxPx": 128
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Smiley Bee by uosew, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/smiley-bee-76801d3aea024063bc5d91e4ee355508",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Flyer/bee/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Flyer/bee/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Flyer/bee/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Flyer/bee/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Flyer/chick",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Chick",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a fluffy golden-brown chick with orange feet",
+      "files": {
+        "model": "models/sketchfab/Flyer/chick.glb",
+        "thumbnail": "thumbnails/sketchfab/Flyer/chick.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "neck",
+        "head",
+        "jaw",
+        "leftWingShoulder",
+        "leftWingElbow",
+        "leftWingWrist",
+        "rightWingShoulder",
+        "rightWingElbow",
+        "rightWingWrist",
+        "pelvis",
+        "leftHip",
+        "leftKnee",
+        "leftAnkle",
+        "leftFoot",
+        "rightHip",
+        "rightKnee",
+        "rightAnkle",
+        "rightFoot"
+      ],
+      "defaultSize": {
+        "height": 0.15
+      },
+      "budget": {
+        "triangles": 1778,
+        "textureMaxPx": 256
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Animated Chick by FourthGreen, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/animated-chick-8fffaef7902c4823834dd783a99c4316",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Flyer/chick/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Flyer/chick/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Flyer/chick/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Flyer/chick/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Flyer/penguin",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Penguin",
+      "themes": [
+        "animals",
+        "polar",
+        "sea"
+      ],
+      "description": "a round cartoon penguin, black and white with orange flippers, beak and feet",
+      "files": {
+        "model": "models/sketchfab/Flyer/penguin.glb",
+        "thumbnail": "thumbnails/sketchfab/Flyer/penguin.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "neck",
+        "head",
+        "jaw",
+        "leftEye",
+        "rightEye",
+        "leftWingShoulder",
+        "leftWingElbow",
+        "rightWingShoulder",
+        "rightWingElbow",
+        "pelvis",
+        "tail",
+        "tail2",
+        "leftHip",
+        "leftFoot",
+        "rightHip",
+        "rightFoot"
+      ],
+      "defaultSize": {
+        "height": 0.7
+      },
+      "budget": {
+        "triangles": 3408,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Penguin by Mateus Schwaab, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/penguin-2c079bc491fb4bb4942c0f87927f8d87",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Flyer/penguin/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Flyer/penguin/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Flyer/penguin/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Flyer/penguin/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/buffalo",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Buffalo",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a blocky dark grey buffalo with big white curved horns",
+      "files": {
+        "model": "models/sketchfab/Quadruped/buffalo.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/buffalo.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineUpper",
+        "head",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "tail",
+        "tail2",
+        "backLeftHip",
+        "backLeftKnee",
+        "backRightHip",
+        "backRightKnee"
+      ],
+      "defaultSize": {
+        "height": 1.5
+      },
+      "budget": {
+        "triangles": 462,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/buffalo/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/buffalo/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/buffalo/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/buffalo/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/deer",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Deer",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a brown deer grazing, with a white tail",
+      "files": {
+        "model": "models/sketchfab/Quadruped/deer.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/deer.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineUpper",
+        "neck",
+        "head",
+        "leftEar",
+        "rightEar",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontLeftFoot",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "frontRightFoot",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftAnkle",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightAnkle",
+        "leftEarTip",
+        "rightEarTip"
+      ],
+      "defaultSize": {
+        "height": 1.3
+      },
+      "budget": {
+        "triangles": 1276,
+        "textureMaxPx": 64
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Low poly deer by Tin3D, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/low-poly-deer-b1282c04dffd4a44a8d755171337e143",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/deer/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/deer/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/deer/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/deer/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/elephant",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Elephant",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a blocky grey elephant with big square ears, tusks and a trunk",
+      "files": {
+        "model": "models/sketchfab/Quadruped/elephant.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/elephant.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineUpper",
+        "neck",
+        "head",
+        "leftEar",
+        "rightEar",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "backLeftHip",
+        "backLeftKnee",
+        "backRightHip",
+        "backRightKnee",
+        "trunk",
+        "trunk2",
+        "trunk3"
+      ],
+      "defaultSize": {
+        "height": 3
+      },
+      "budget": {
+        "triangles": 627,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/elephant/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/elephant/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/elephant/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/elephant/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/frog",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Frog",
+      "themes": [
+        "animals",
+        "pond",
+        "garden"
+      ],
+      "description": "a fat green frog with a pale belly, sitting down",
+      "files": {
+        "model": "models/sketchfab/Quadruped/frog.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/frog.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.12
+      },
+      "budget": {
+        "triangles": 2134,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Fat Low-Poly Frog with Animation by Norah, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/fat-low-poly-frog-with-animation-e162d0ecfe6e42f5a3afc4e0893bc560",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/frog/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/frog/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/frog/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/frog/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/german-shepherd",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "German shepherd",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a tan German shepherd dog with a black face and back, and tall ears",
+      "files": {
+        "model": "models/sketchfab/Quadruped/german-shepherd.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/german-shepherd.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "jaw",
+        "leftEar",
+        "rightEar",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontLeftToe",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "frontRightToe",
+        "pelvis",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftToe",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightToe",
+        "leftEarTip",
+        "rightEarTip"
+      ],
+      "defaultSize": {
+        "height": 0.6
+      },
+      "budget": {
+        "triangles": 852,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Stylized Low Poly German Shepherd by DreamNoms, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/stylized-low-poly-german-shepherd-18d8fbe184c5448283762893b6ea9752",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/german-shepherd/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/german-shepherd/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/german-shepherd/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/german-shepherd/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/giraffe",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Giraffe",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a blocky giraffe with orange-brown patches and a long neck",
+      "files": {
+        "model": "models/sketchfab/Quadruped/giraffe.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/giraffe.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "tail",
+        "tail2",
+        "tail3",
+        "backLeftHip",
+        "backLeftKnee",
+        "backRightHip",
+        "backRightKnee"
+      ],
+      "defaultSize": {
+        "height": 4.5
+      },
+      "budget": {
+        "triangles": 639,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/giraffe/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/giraffe/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/giraffe/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/giraffe/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/horse",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Horse",
+      "themes": [
+        "animals",
+        "farm",
+        "wild west"
+      ],
+      "description": "a brown horse with a saddle, stirrups and reins",
+      "files": {
+        "model": "models/sketchfab/Quadruped/horse.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/horse.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontLeftToe",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "frontRightToe",
+        "pelvis",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftToe",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightToe"
+      ],
+      "defaultSize": {
+        "height": 1.9
+      },
+      "budget": {
+        "triangles": 4052,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Toon Horse with Saddle (Rigged, Animated) by flairetic, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/toon-horse-with-saddle-rigged-animated-db8fe38f93cb48e7a5c9df446a105f7a",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/horse/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/horse/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/horse/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/horse/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/rabbit",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Rabbit",
+      "themes": [
+        "animals",
+        "pets",
+        "woodland"
+      ],
+      "description": "a brown rabbit with a white chest and long ears",
+      "files": {
+        "model": "models/sketchfab/Quadruped/rabbit.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/rabbit.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineUpper",
+        "head",
+        "leftEar",
+        "rightEar",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftFoot",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightFoot",
+        "pelvis",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftFoot",
+        "backRightHip",
+        "backRightKnee",
+        "backRightFoot",
+        "leftEarTip",
+        "rightEarTip"
+      ],
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 502,
+        "textureMaxPx": 64
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Low poly rabbit by Tin3D, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/low-poly-rabbit-284412021a4c42879b894271c0bcc634",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/rabbit/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/rabbit/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/rabbit/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/rabbit/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/sheep",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Sheep",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a woolly cream sheep with a pale face",
+      "files": {
+        "model": "models/sketchfab/Quadruped/sheep.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/sheep.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "tail",
+        "tail2",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock"
+      ],
+      "defaultSize": {
+        "height": 0.9
+      },
+      "budget": {
+        "triangles": 2290,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Sheep by kenchoo, animating Nz Inbred Sheep by MightyGangsta13, both CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/sheep-08b05ae799d947f1a68c49b2d661eb53",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/sheep/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/sheep/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/sheep/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/sheep/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/snake-wolf",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Snake-wolf",
+      "themes": [
+        "animals",
+        "fantasy",
+        "monsters"
+      ],
+      "description": "a made-up beast with a green scaly back, shaggy blue-green legs, claws and yellow eyes",
+      "files": {
+        "model": "models/sketchfab/Quadruped/snake-wolf.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/snake-wolf.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineUpper",
+        "head",
+        "jaw",
+        "leftEar",
+        "rightEar",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftFoot",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightFoot",
+        "pelvis",
+        "tail",
+        "tail2",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftFoot",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightFoot"
+      ],
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 864,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Low poly Snake - Wolf Animated by imitate, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/low-poly-snake-wolf-animated-c0baad2baee5467894087856cac1872b",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/snake-wolf/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/snake-wolf/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/snake-wolf/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/snake-wolf/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/stripe-the-cat",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Stripe the cat",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a grey cat with big green eyes and a red collar",
+      "files": {
+        "model": "models/sketchfab/Quadruped/stripe-the-cat.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/stripe-the-cat.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock"
+      ],
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 1960,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Stripe the Cat Rigged and Animated by DreamNoms, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/stripe-the-cat-rigged-and-animated-2e3030b71a6d4b219fdc7304f8e58013",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/stripe-the-cat/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/stripe-the-cat/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/stripe-the-cat/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/stripe-the-cat/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/tuxedo-cat",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Tuxedo cat",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a black and white cat with green eyes and a blue collar",
+      "files": {
+        "model": "models/sketchfab/Quadruped/tuxedo-cat.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/tuxedo-cat.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "neck",
+        "head",
+        "leftEye",
+        "rightEye",
+        "leftEar",
+        "rightEar",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftAnkle",
+        "frontLeftToe",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightAnkle",
+        "frontRightToe",
+        "pelvis",
+        "tail",
+        "tail2",
+        "tail3",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftToe",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightToe",
+        "leftEarTip",
+        "rightEarTip",
+        "tailTip"
+      ],
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 6376,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Tuxedo Cat Animated 2.0 by DreamNoms, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/tuxedo-cat-animated-20-783fcb78b55b4394a212c2b6392e1113",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/tuxedo-cat/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/tuxedo-cat/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/tuxedo-cat/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/tuxedo-cat/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/wolf",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Wolf",
+      "themes": [
+        "animals",
+        "woodland",
+        "fairy tale"
+      ],
+      "description": "a grey wolf with a pale face and a bushy tail",
+      "files": {
+        "model": "models/sketchfab/Quadruped/wolf.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/wolf.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "spineUpper",
+        "head",
+        "leftEar",
+        "rightEar",
+        "frontLeftClavicle",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontLeftFoot",
+        "frontRightClavicle",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "frontRightFoot",
+        "tail",
+        "tail2",
+        "tail3",
+        "backLeftHip",
+        "backLeftKnee",
+        "backLeftHock",
+        "backLeftFoot",
+        "backRightHip",
+        "backRightKnee",
+        "backRightHock",
+        "backRightFoot"
+      ],
+      "defaultSize": {
+        "height": 0.85
+      },
+      "budget": {
+        "triangles": 3880,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Low Poly wolf by manoeldarochadeoliveira, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/low-poly-wolf-c6baa6970e724c6a97d5e1ecb8823179",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/wolf/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/wolf/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/wolf/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/wolf/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Quadruped/zebra",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Zebra",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a blocky black and white striped zebra",
+      "files": {
+        "model": "models/sketchfab/Quadruped/zebra.glb",
+        "thumbnail": "thumbnails/sketchfab/Quadruped/zebra.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineUpper",
+        "neck",
+        "head",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "tail",
+        "tail2",
+        "tail3",
+        "backLeftHip",
+        "backLeftKnee",
+        "backRightHip",
+        "backRightKnee"
+      ],
+      "defaultSize": {
+        "height": 1.6
+      },
+      "budget": {
+        "triangles": 390,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Quadruped/zebra/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Quadruped/zebra/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Quadruped/zebra/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Quadruped/zebra/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Swimmer/dolphin",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Dolphin",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a dark grey dolphin with an orange stripe and a white belly",
+      "files": {
+        "model": "models/sketchfab/Swimmer/dolphin.glb",
+        "thumbnail": "thumbnails/sketchfab/Swimmer/dolphin.webp"
+      },
+      "joints": [
+        "head",
+        "jaw",
+        "frontLeftFin",
+        "frontRightFin",
+        "spineBase",
+        "spineMiddle",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "frontLeftFinTip",
+        "backLeftFin",
+        "frontRightFinTip",
+        "backRightFin"
+      ],
+      "defaultSize": {
+        "height": 0.35
+      },
+      "budget": {
+        "triangles": 736,
+        "textureMaxPx": 256
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Dolphin - animated - marine mammals series by nolanfa, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/dolphin-animated-marine-mammals-series-f4abb460956240f98b7a6f19cc3037a1",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Swimmer/dolphin/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Swimmer/dolphin/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Swimmer/dolphin/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Swimmer/dolphin/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Swimmer/fish",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Fish",
+      "themes": [
+        "animals",
+        "sea",
+        "pond"
+      ],
+      "description": "a small silver fish",
+      "files": {
+        "model": "models/sketchfab/Swimmer/fish.glb",
+        "thumbnail": "thumbnails/sketchfab/Swimmer/fish.webp"
+      },
+      "joints": [
+        "head",
+        "spineBase",
+        "spineMiddle",
+        "tail"
+      ],
+      "defaultSize": {
+        "height": 0.1
+      },
+      "budget": {
+        "triangles": 534,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Animated Low poly Fish by Atlas, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/animated-low-poly-fish-64adc2e5a4be471e8279532b9610c878",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Swimmer/fish/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Swimmer/fish/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Swimmer/fish/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Swimmer/fish/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Swimmer/humpback-whale",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Humpback whale",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a dark humpback whale with very long flippers and a striped pale throat",
+      "files": {
+        "model": "models/sketchfab/Swimmer/humpback-whale.glb",
+        "thumbnail": "thumbnails/sketchfab/Swimmer/humpback-whale.webp"
+      },
+      "joints": [
+        "head",
+        "jaw",
+        "frontLeftFin",
+        "frontRightFin",
+        "spineBase",
+        "spineMiddle",
+        "tail",
+        "jawTip",
+        "tail2",
+        "tail3",
+        "tail4",
+        "frontLeftFinTip",
+        "backLeftFin",
+        "frontRightFinTip",
+        "backRightFin"
+      ],
+      "defaultSize": {
+        "height": 1.2
+      },
+      "budget": {
+        "triangles": 616,
+        "textureMaxPx": 256
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Humpback Whale - animated - marine mammals by nolanfa, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/humpback-whale-animated-marine-mammals-219ed629c9394d869bbf19d443188423",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Swimmer/humpback-whale/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Swimmer/humpback-whale/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Swimmer/humpback-whale/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Swimmer/humpback-whale/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Swimmer/koi",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Koi carp",
+      "themes": [
+        "animals",
+        "pond",
+        "garden"
+      ],
+      "description": "a cartoon koi, grey and black with yellow fins, long whiskers and big yellow eyes",
+      "files": {
+        "model": "models/sketchfab/Swimmer/koi.glb",
+        "thumbnail": "thumbnails/sketchfab/Swimmer/koi.webp"
+      },
+      "joints": [
+        "head",
+        "frontLeftFin",
+        "frontRightFin",
+        "spineBase",
+        "spineMiddle",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "tail5",
+        "tail6",
+        "frontLeftFinTip",
+        "backLeftFin",
+        "frontRightFinTip",
+        "backRightFin"
+      ],
+      "defaultSize": {
+        "height": 0.2
+      },
+      "budget": {
+        "triangles": 4330,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Free Low Poly Cartoon Koi Fish by GameAssetsFin, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/free-low-poly-cartoon-koi-fish-62ea29193ca14f7fb65c5876bfc2ea66",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Swimmer/koi/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Swimmer/koi/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Swimmer/koi/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Swimmer/koi/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Swimmer/narwhal",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Narwhal",
+      "themes": [
+        "animals",
+        "sea",
+        "fantasy"
+      ],
+      "description": "a deep blue narwhal speckled with stars, with a long tusk",
+      "files": {
+        "model": "models/sketchfab/Swimmer/narwhal.glb",
+        "thumbnail": "thumbnails/sketchfab/Swimmer/narwhal.webp"
+      },
+      "joints": [
+        "head",
+        "jaw",
+        "frontLeftFin",
+        "frontRightFin",
+        "spineBase",
+        "spineMiddle",
+        "tail",
+        "tail2",
+        "tail3",
+        "tail4",
+        "frontLeftFinTip",
+        "backLeftFin",
+        "frontRightFinTip",
+        "backRightFin"
+      ],
+      "defaultSize": {
+        "height": 0.7
+      },
+      "budget": {
+        "triangles": 588,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Narwhal - animated by nolanfa, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/narwhal-animated-509282b5e29d40c9aee278676e5fd3af",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Swimmer/narwhal/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Swimmer/narwhal/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Swimmer/narwhal/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Swimmer/narwhal/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "sketchfab/Swimmer/shark",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Shark",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a grey cartoon shark with a big toothy grin",
+      "files": {
+        "model": "models/sketchfab/Swimmer/shark.glb",
+        "thumbnail": "thumbnails/sketchfab/Swimmer/shark.webp"
+      },
+      "joints": [
+        "neck",
+        "head",
+        "jaw",
+        "spineBase",
+        "spineMiddle",
+        "tail",
+        "tail2",
+        "tail3"
+      ],
+      "defaultSize": {
+        "height": 0.8
+      },
+      "budget": {
+        "triangles": 3182,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Stylized Shark by kasperromer, CC BY 4.0, via Sketchfab, changed for StoryStage",
+      "source": {
+        "url": "https://sketchfab.com/3d-models/stylized-shark-50b7659bcd4a4ca7b123a50618840332",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/sketchfab/Swimmer/shark/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/sketchfab/Swimmer/shark/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/sketchfab/Swimmer/shark/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/sketchfab/Swimmer/shark/back.svg"
+        }
+      ]
+    },
+    {
       "id": "smithsonian/Prop/lincoln-patent-model",
       "section": "props",
       "class": "Prop",
@@ -29305,6 +30920,198 @@
           "facing": "back",
           "pose": "sit",
           "file": "sketches/vrmc/Biped/seed-san/back-sit.svg"
+        }
+      ]
+    },
+    {
+      "id": "vuena/Flyer/owl",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Owl",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a chunky toy-style brown owl with big round eyes",
+      "files": {
+        "model": "models/vuena/Flyer/owl.glb",
+        "thumbnail": "thumbnails/vuena/Flyer/owl.webp"
+      },
+      "joints": [
+        "spineBase",
+        "neck",
+        "head",
+        "jaw",
+        "leftWingShoulder",
+        "rightWingShoulder",
+        "tail",
+        "leftHip",
+        "leftFoot",
+        "rightHip",
+        "rightFoot"
+      ],
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 7884,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Owl by Popyca (Vuena), Free Low-Poly Animals (CC0)",
+      "source": {
+        "url": "https://github.com/Vuena/free-low-poly-animals-cc0",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/vuena/Flyer/owl/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/vuena/Flyer/owl/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/vuena/Flyer/owl/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/vuena/Flyer/owl/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "vuena/Quadruped/cat",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Cat",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a chunky toy-style ginger cat with a white chest and big green eyes",
+      "files": {
+        "model": "models/vuena/Quadruped/cat.glb",
+        "thumbnail": "thumbnails/vuena/Quadruped/cat.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineUpper",
+        "neck",
+        "head",
+        "jaw",
+        "leftEar",
+        "rightEar",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "tail",
+        "tail2",
+        "backLeftHip",
+        "backLeftKnee",
+        "backRightHip",
+        "backRightKnee"
+      ],
+      "defaultSize": {
+        "height": 0.35
+      },
+      "budget": {
+        "triangles": 7188,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Cat by Popyca (Vuena), Free Low-Poly Animals (CC0)",
+      "source": {
+        "url": "https://github.com/Vuena/free-low-poly-animals-cc0",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/vuena/Quadruped/cat/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/vuena/Quadruped/cat/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/vuena/Quadruped/cat/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/vuena/Quadruped/cat/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "vuena/Quadruped/fox",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Fox",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a chunky toy-style orange fox with a white face and dark paws",
+      "files": {
+        "model": "models/vuena/Quadruped/fox.glb",
+        "thumbnail": "thumbnails/vuena/Quadruped/fox.webp"
+      },
+      "joints": [
+        "spineBase",
+        "spineUpper",
+        "neck",
+        "head",
+        "jaw",
+        "leftEar",
+        "rightEar",
+        "frontLeftShoulder",
+        "frontLeftKnee",
+        "frontRightShoulder",
+        "frontRightKnee",
+        "tail",
+        "tail2",
+        "backLeftHip",
+        "backLeftKnee",
+        "backRightHip",
+        "backRightKnee"
+      ],
+      "defaultSize": {
+        "height": 0.45
+      },
+      "budget": {
+        "triangles": 7300,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Fox by Popyca (Vuena), Free Low-Poly Animals (CC0)",
+      "source": {
+        "url": "https://github.com/Vuena/free-low-poly-animals-cc0",
+        "retrieved": "2026-11-19"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/vuena/Quadruped/fox/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/vuena/Quadruped/fox/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/vuena/Quadruped/fox/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/vuena/Quadruped/fox/back.svg"
         }
       ]
     }

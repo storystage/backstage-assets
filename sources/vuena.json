@@ -1,0 +1,149 @@
+{
+  "source": "vuena",
+  "items": [
+    {
+      "id": "vuena/Quadruped/cat",
+      "displayName": "Cat",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a chunky toy-style ginger cat with a white chest and big green eyes",
+      "licence": "CC0-1.0",
+      "credit": "Cat by Popyca (Vuena), Free Low-Poly Animals (CC0)",
+      "page": "https://github.com/Vuena/free-low-poly-animals-cc0",
+      "height": 0.35,
+      "exclude": {
+        "nodes": [
+          "cat_LOD1"
+        ]
+      },
+      "bones": {
+        "Hips": "spineBase",
+        "Spine": "spineUpper",
+        "Neck": "neck",
+        "Head": "head",
+        "Jaw": "jaw",
+        "Ear_L": "leftEar",
+        "Ear_R": "rightEar",
+        "Tail_1": "tail",
+        "Tail_2": "tail2",
+        "FrontUpperLeg_L": "frontLeftShoulder",
+        "FrontLowerLeg_L": "frontLeftKnee",
+        "FrontUpperLeg_R": "frontRightShoulder",
+        "FrontLowerLeg_R": "frontRightKnee",
+        "BackUpperLeg_L": "backLeftHip",
+        "BackLowerLeg_L": "backLeftKnee",
+        "BackUpperLeg_R": "backRightHip",
+        "BackLowerLeg_R": "backRightKnee"
+      },
+      "clips": {
+        "idle": "idle",
+        "walk": "walk",
+        "run": "run",
+        "jump": "jump"
+      },
+      "fetch": {
+        "github": "Vuena/free-low-poly-animals-cc0",
+        "commit": "a3944e5e54eb7e1ab2c24744b88a1ae6617e4534",
+        "path": "GLB/animal_cat.glb"
+      }
+    },
+    {
+      "id": "vuena/Quadruped/fox",
+      "displayName": "Fox",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a chunky toy-style orange fox with a white face and dark paws",
+      "licence": "CC0-1.0",
+      "credit": "Fox by Popyca (Vuena), Free Low-Poly Animals (CC0)",
+      "page": "https://github.com/Vuena/free-low-poly-animals-cc0",
+      "height": 0.45,
+      "exclude": {
+        "nodes": [
+          "fox_LOD1"
+        ]
+      },
+      "bones": {
+        "Hips": "spineBase",
+        "Spine": "spineUpper",
+        "Neck": "neck",
+        "Head": "head",
+        "Jaw": "jaw",
+        "Ear_L": "leftEar",
+        "Ear_R": "rightEar",
+        "Tail_1": "tail",
+        "Tail_2": "tail2",
+        "FrontUpperLeg_L": "frontLeftShoulder",
+        "FrontLowerLeg_L": "frontLeftKnee",
+        "FrontUpperLeg_R": "frontRightShoulder",
+        "FrontLowerLeg_R": "frontRightKnee",
+        "BackUpperLeg_L": "backLeftHip",
+        "BackLowerLeg_L": "backLeftKnee",
+        "BackUpperLeg_R": "backRightHip",
+        "BackLowerLeg_R": "backRightKnee"
+      },
+      "clips": {
+        "idle": "idle",
+        "walk": "walk",
+        "run": "run",
+        "jump": "jump"
+      },
+      "fetch": {
+        "github": "Vuena/free-low-poly-animals-cc0",
+        "commit": "a3944e5e54eb7e1ab2c24744b88a1ae6617e4534",
+        "path": "GLB/animal_fox.glb"
+      }
+    },
+    {
+      "id": "vuena/Flyer/owl",
+      "displayName": "Owl",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a chunky toy-style brown owl with big round eyes",
+      "licence": "CC0-1.0",
+      "credit": "Owl by Popyca (Vuena), Free Low-Poly Animals (CC0)",
+      "page": "https://github.com/Vuena/free-low-poly-animals-cc0",
+      "height": 0.4,
+      "exclude": {
+        "nodes": [
+          "owl_LOD1"
+        ]
+      },
+      "bones": {
+        "Hips": "spineBase",
+        "Neck": "neck",
+        "Head": "head",
+        "Jaw": "jaw",
+        "Tail_1": "tail",
+        "Wing_L": "leftWingShoulder",
+        "Wing_R": "rightWingShoulder",
+        "Leg_L": "leftHip",
+        "Foot_L": "leftFoot",
+        "Leg_R": "rightHip",
+        "Foot_R": "rightFoot"
+      },
+      "clips": {
+        "idle": "idle",
+        "walk": "walk",
+        "fly": "fly",
+        "jump": "jump"
+      },
+      "fetch": {
+        "github": "Vuena/free-low-poly-animals-cc0",
+        "commit": "a3944e5e54eb7e1ab2c24744b88a1ae6617e4534",
+        "path": "GLB/animal_owl.glb"
+      }
+    }
+  ]
+}

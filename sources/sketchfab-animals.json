@@ -1,0 +1,1139 @@
+{
+  "source": "sketchfab-animals",
+  "items": [
+    {
+      "id": "sketchfab/Quadruped/german-shepherd",
+      "displayName": "German shepherd",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a tan German shepherd dog with a black face and back, and tall ears",
+      "licence": "CC-BY-4.0",
+      "credit": "Stylized Low Poly German Shepherd by DreamNoms, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/stylized-low-poly-german-shepherd-18d8fbe184c5448283762893b6ea9752",
+      "height": 0.6,
+      "exclude": {
+        "nodes": [
+          "Lamp"
+        ]
+      },
+      "bones": {
+        "spine.004_metarig": "pelvis",
+        "spine.005_metarig": "spineBase",
+        "spine.006_metarig": "spineMiddle",
+        "spine.008_metarig": "spineUpper",
+        "spine.010_metarig": "neck",
+        "spine.011_metarig": "head",
+        "SnoutLower_metarig": "jaw",
+        "spine.003_metarig": "tail",
+        "spine.002_metarig": "tail2",
+        "spine.001_metarig": "tail3",
+        "spine_metarig": "tail4",
+        "Ear.L_metarig": "leftEar",
+        "Ear1.L_metarig": "leftEarTip",
+        "Ear.R_metarig": "rightEar",
+        "Ear1.R_metarig": "rightEarTip",
+        "thigh.L_metarig": "backLeftHip",
+        "shin.L_metarig": "backLeftKnee",
+        "foot.L_metarig": "backLeftHock",
+        "toe.L_metarig": "backLeftToe",
+        "shoulder.L_metarig": "frontLeftClavicle",
+        "front_thigh.L_metarig": "frontLeftShoulder",
+        "front_shin.L_metarig": "frontLeftKnee",
+        "front_foot.L_metarig": "frontLeftAnkle",
+        "front_toe.L_metarig": "frontLeftToe",
+        "thigh.R_metarig": "backRightHip",
+        "shin.R_metarig": "backRightKnee",
+        "foot.R_metarig": "backRightHock",
+        "toe.R_metarig": "backRightToe",
+        "shoulder.R_metarig": "frontRightClavicle",
+        "front_thigh.R_metarig": "frontRightShoulder",
+        "front_shin.R_metarig": "frontRightKnee",
+        "front_foot.R_metarig": "frontRightAnkle",
+        "front_toe.R_metarig": "frontRightToe"
+      },
+      "clips": {
+        "idle": "Idle1",
+        "walk": "WalkCycle",
+        "run": "RunCycle",
+        "jump": "Jump"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/german-shepherd.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/stripe-the-cat",
+      "displayName": "Stripe the cat",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a grey cat with big green eyes and a red collar",
+      "licence": "CC-BY-4.0",
+      "credit": "Stripe the Cat Rigged and Animated by DreamNoms, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/stripe-the-cat-rigged-and-animated-2e3030b71a6d4b219fdc7304f8e58013",
+      "height": 0.3,
+      "exclude": {
+        "nodes": [
+          "Camera",
+          "Lamp"
+        ]
+      },
+      "bones": {
+        "Bone_CatArmature": "spineBase",
+        "Bone.003_CatArmature": "spineMiddle",
+        "Bone.002_CatArmature": "spineUpper",
+        "Neck_CatArmature": "neck",
+        "Head_CatArmature": "head",
+        "Tail1_CatArmature": "tail",
+        "Tail1.001_CatArmature": "tail2",
+        "Tail1.002_CatArmature": "tail3",
+        "Tail1.003_CatArmature": "tail4",
+        "Shoulder.L_CatArmature": "frontLeftClavicle",
+        "Shoulder2.L_CatArmature": "frontLeftShoulder",
+        "UpperArm.L_CatArmature": "frontLeftKnee",
+        "Arm.L_CatArmature": "frontLeftAnkle",
+        "Thigh.L_CatArmature": "backLeftHip",
+        "Knee.L_CatArmature": "backLeftKnee",
+        "Ankle.L_CatArmature": "backLeftHock",
+        "Shoulder.R_CatArmature": "frontRightClavicle",
+        "Shoulder2.R_CatArmature": "frontRightShoulder",
+        "UpperArm.R_CatArmature": "frontRightKnee",
+        "Arm.R_CatArmature": "frontRightAnkle",
+        "Thigh.R_CatArmature": "backRightHip",
+        "Knee.R_CatArmature": "backRightKnee",
+        "Ankle.R_CatArmature": "backRightHock"
+      },
+      "clips": {
+        "walk": {
+          "clip": "All Animations",
+          "start": 2.917,
+          "end": 4.083
+        },
+        "run": {
+          "clip": "All Animations",
+          "start": 11.683,
+          "end": 12.8
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/stripe-the-cat.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/tuxedo-cat",
+      "displayName": "Tuxedo cat",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a black and white cat with green eyes and a blue collar",
+      "licence": "CC-BY-4.0",
+      "credit": "Tuxedo Cat Animated 2.0 by DreamNoms, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/tuxedo-cat-animated-20-783fcb78b55b4394a212c2b6392e1113",
+      "height": 0.3,
+      "exclude": {
+        "nodes": [
+          "Lamp"
+        ]
+      },
+      "bones": {
+        "spine.004_metarig.004": "pelvis",
+        "spine.005_metarig.004": "spineBase",
+        "spine.006_metarig.004": "spineMiddle",
+        "spine.009_metarig.004": "spineUpper",
+        "spine.010_metarig.004": "neck",
+        "Head_metarig.004": "head",
+        "TailBase_metarig.004": "tail",
+        "Tail2_metarig.004": "tail2",
+        "Tail3_metarig.004": "tail3",
+        "TailTip_metarig.004": "tailTip",
+        "Ear.L_metarig.004": "leftEar",
+        "Ear1.L_metarig.004": "leftEarTip",
+        "Eye.L_metarig.004": "leftEye",
+        "Ear.R_metarig.004": "rightEar",
+        "Ear1.R_metarig.004": "rightEarTip",
+        "Eye.R_metarig.004": "rightEye",
+        "thigh.L_metarig.004": "backLeftHip",
+        "shin.L_metarig.004": "backLeftKnee",
+        "foot.L_metarig.004": "backLeftHock",
+        "toe.L_metarig.004": "backLeftToe",
+        "shoulder.L_metarig.004": "frontLeftClavicle",
+        "front_thigh.L_metarig.004": "frontLeftShoulder",
+        "front_shin.L_metarig.004": "frontLeftKnee",
+        "front_foot.L_metarig.004": "frontLeftAnkle",
+        "front_toe.L_metarig.004": "frontLeftToe",
+        "thigh.R_metarig.004": "backRightHip",
+        "shin.R_metarig.004": "backRightKnee",
+        "foot.R_metarig.004": "backRightHock",
+        "toe.R_metarig.004": "backRightToe",
+        "shoulder.R_metarig.004": "frontRightClavicle",
+        "front_thigh.R_metarig.004": "frontRightShoulder",
+        "front_shin.R_metarig.004": "frontRightKnee",
+        "front_foot.R_metarig.004": "frontRightAnkle",
+        "front_toe.R_metarig.004": "frontRightToe"
+      },
+      "clips": {
+        "idle": "IdleNorm",
+        "walk": "WalkCycle"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/tuxedo-cat.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/rabbit",
+      "displayName": "Rabbit",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets",
+        "woodland"
+      ],
+      "description": "a brown rabbit with a white chest and long ears",
+      "licence": "CC-BY-4.0",
+      "credit": "Low poly rabbit by Tin3D, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/low-poly-rabbit-284412021a4c42879b894271c0bcc634",
+      "height": 0.4,
+      "bones": {
+        "Bone_00": "pelvis",
+        "Bone.001_01": "spineBase",
+        "Bone.002_02": "spineUpper",
+        "Bone.003_03": "head",
+        "ear01.L_04": "leftEar",
+        "ear02.L_05": "leftEarTip",
+        "ear01.R_06": "rightEar",
+        "ear02.R_07": "rightEarTip",
+        "fleg01.L_08": "frontLeftShoulder",
+        "fleg02.L_09": "frontLeftKnee",
+        "fleg03.L_010": "frontLeftFoot",
+        "fleg01.R_011": "frontRightShoulder",
+        "fleg02.R_012": "frontRightKnee",
+        "fleg03.R_013": "frontRightFoot",
+        "bleg01.L_014": "backLeftHip",
+        "bleg02.L_015": "backLeftKnee",
+        "bleg03.L_016": "backLeftFoot",
+        "bleg01.R_017": "backRightHip",
+        "bleg02.R_018": "backRightKnee",
+        "bleg03.R_019": "backRightFoot"
+      },
+      "clips": {
+        "idle": "Armature.001|Idle",
+        "run": "Armature.001|Run"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/rabbit.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/horse",
+      "displayName": "Horse",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm",
+        "wild west"
+      ],
+      "description": "a brown horse with a saddle, stirrups and reins",
+      "licence": "CC-BY-4.0",
+      "credit": "Toon Horse with Saddle (Rigged, Animated) by flairetic, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/toon-horse-with-saddle-rigged-animated-db8fe38f93cb48e7a5c9df446a105f7a",
+      "height": 1.9,
+      "bones": {
+        "E_spine.004": "pelvis",
+        "E_spine.005": "spineBase",
+        "E_spine.006": "spineMiddle",
+        "E_spine.008": "spineUpper",
+        "E_spine.009": "neck",
+        "E_spine.011": "head",
+        "E_spine.003": "tail",
+        "E_spine.002": "tail2",
+        "E_spine.001": "tail3",
+        "E_spine": "tail4",
+        "E_thigh.L": "backLeftHip",
+        "E_shin.L": "backLeftKnee",
+        "E_foot.L": "backLeftHock",
+        "E_toe.L": "backLeftToe",
+        "E_shoulder.L": "frontLeftClavicle",
+        "E_front_thigh.L": "frontLeftShoulder",
+        "E_front_shin.L": "frontLeftKnee",
+        "E_front_foot.L": "frontLeftAnkle",
+        "E_front_toe.L": "frontLeftToe",
+        "E_thigh.R": "backRightHip",
+        "E_shin.R": "backRightKnee",
+        "E_foot.R": "backRightHock",
+        "E_toe.R": "backRightToe",
+        "E_shoulder.R": "frontRightClavicle",
+        "E_front_thigh.R": "frontRightShoulder",
+        "E_front_shin.R": "frontRightKnee",
+        "E_front_foot.R": "frontRightAnkle",
+        "E_front_toe.R": "frontRightToe"
+      },
+      "clips": {
+        "idle": "Rest",
+        "walk": "Walk",
+        "run": "Gallop"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/horse.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/sheep",
+      "displayName": "Sheep",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a woolly cream sheep with a pale face",
+      "licence": "CC-BY-4.0",
+      "credit": "Sheep by kenchoo, animating Nz Inbred Sheep by MightyGangsta13, both CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/sheep-08b05ae799d947f1a68c49b2d661eb53",
+      "height": 0.9,
+      "bones": {
+        "Back_23": "spineBase",
+        "Torso_22": "spineMiddle",
+        "Torso2_21": "spineUpper",
+        "Neck1_19": "neck",
+        "Head_16": "head",
+        "Tail1_9": "tail",
+        "Tail2_8": "tail2",
+        "BackLeg.L_2": "backLeftHip",
+        "BackUpperLeg.L_1": "backLeftKnee",
+        "BackLowerLeg.L_0": "backLeftHock",
+        "BackLeg.R_6": "backRightHip",
+        "BackUpperLeg.R_5": "backRightKnee",
+        "BackLowerLeg.R_4": "backRightHock",
+        "FrontShoulder.L_12": "frontLeftClavicle",
+        "FrontUpperLeg.L_11": "frontLeftShoulder",
+        "FrontLowerLeg.L_10": "frontLeftKnee",
+        "FrontShoulder.R_15": "frontRightClavicle",
+        "FrontUpperLeg.R_14": "frontRightShoulder",
+        "FrontLowerLeg.R_13": "frontRightKnee"
+      },
+      "clips": {
+        "idle": "Animation"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/sheep.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Flyer/chick",
+      "displayName": "Chick",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a fluffy golden-brown chick with orange feet",
+      "licence": "CC-BY-4.0",
+      "credit": "Animated Chick by FourthGreen, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/animated-chick-8fffaef7902c4823834dd783a99c4316",
+      "height": 0.15,
+      "bones": {
+        "Root_M_01": "pelvis",
+        "Spine1_M_07": "spineBase",
+        "Chest_M_08": "spineMiddle",
+        "Neck_M_09": "neck",
+        "Head_M_010": "head",
+        "Jaw_M_012": "jaw",
+        "Shoulder_L_019": "leftWingShoulder",
+        "Elbow_L_020": "leftWingElbow",
+        "Wristw_L_021": "leftWingWrist",
+        "Shoulder_R_015": "rightWingShoulder",
+        "Elbow_R_016": "rightWingElbow",
+        "Wristw_R_017": "rightWingWrist",
+        "Hip_L_022": "leftHip",
+        "Knee_L_023": "leftKnee",
+        "Ankle_L_024": "leftAnkle",
+        "Toes_L_025": "leftFoot",
+        "Hip_R_02": "rightHip",
+        "Knee_R_03": "rightKnee",
+        "Ankle_R_04": "rightAnkle",
+        "Toes_R_05": "rightFoot"
+      },
+      "clips": {
+        "idle": "Take 001"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/chick.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/elephant",
+      "displayName": "Elephant",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a blocky grey elephant with big square ears, tusks and a trunk",
+      "licence": "CC-BY-4.0",
+      "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
+      "height": 3,
+      "exclude": {
+        "nodes": [
+          "Armature",
+          "Armature.002",
+          "Armature.003"
+        ]
+      },
+      "bones": {
+        "Bone": "spineBase",
+        "Back": "spineUpper",
+        "Bone.006": "neck",
+        "Bone.007": "head",
+        "Bone.008": "trunk",
+        "Bone.009": "trunk2",
+        "Bone.010": "trunk3",
+        "Tail": "tail",
+        "Bone.002": "tail2",
+        "Bone.003": "tail3",
+        "Bone.004": "tail4",
+        "EarLeft": "leftEar",
+        "EarRight": "rightEar",
+        "Bone.011": "frontLeftShoulder",
+        "Bone.012": "frontLeftKnee",
+        "Bone.013": "backLeftHip",
+        "Bone.014": "backLeftKnee",
+        "Bone.017": "backRightHip",
+        "Bone.018": "backRightKnee",
+        "Bone.015": "frontRightShoulder",
+        "Bone.016": "frontRightKnee"
+      },
+      "clips": {
+        "idle": "04Idle",
+        "run": "01Run"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/savanna-four.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/giraffe",
+      "displayName": "Giraffe",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a blocky giraffe with orange-brown patches and a long neck",
+      "licence": "CC-BY-4.0",
+      "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
+      "height": 4.5,
+      "exclude": {
+        "nodes": [
+          "Armature.001",
+          "Armature.002",
+          "Armature.003"
+        ]
+      },
+      "bones": {
+        "Bone": "spineBase",
+        "Bone.001": "spineMiddle",
+        "Bone.002": "spineUpper",
+        "Bone.003": "neck",
+        "Bone.005": "head",
+        "Bone.006": "tail",
+        "Bone.007": "tail2",
+        "Bone.008": "tail3",
+        "Bone.009": "frontLeftShoulder",
+        "Bone.010": "frontLeftKnee",
+        "Bone.011": "backLeftHip",
+        "Bone.012": "backLeftKnee",
+        "Bone.013": "backRightHip",
+        "Bone.014": "backRightKnee",
+        "Bone.015": "frontRightShoulder",
+        "Bone.016": "frontRightKnee"
+      },
+      "clips": {
+        "idle": "04Idle",
+        "run": "01Run"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/savanna-four.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/zebra",
+      "displayName": "Zebra",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a blocky black and white striped zebra",
+      "licence": "CC-BY-4.0",
+      "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
+      "height": 1.6,
+      "exclude": {
+        "nodes": [
+          "Armature.001",
+          "Armature",
+          "Armature.003"
+        ]
+      },
+      "bones": {
+        "Bone": "spineBase",
+        "Bone.001": "spineUpper",
+        "Bone.002": "neck",
+        "Bone.003": "head",
+        "Bone.004": "tail",
+        "Bone.005": "tail2",
+        "Bone.006": "tail3",
+        "Bone.007": "frontLeftShoulder",
+        "Bone.009": "frontLeftKnee",
+        "Bone.010": "backLeftHip",
+        "Bone.011": "backLeftKnee",
+        "Bone.008": "backRightHip",
+        "Bone.012": "backRightKnee",
+        "Bone.013": "frontRightShoulder",
+        "Bone.014": "frontRightKnee"
+      },
+      "clips": {
+        "idle": "04Idle",
+        "run": "01Run"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/savanna-four.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/buffalo",
+      "displayName": "Buffalo",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a blocky dark grey buffalo with big white curved horns",
+      "licence": "CC-BY-4.0",
+      "credit": "Buffalo Elephant Zebra Giraffe by Mamzi, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/buffalo-elephant-zebra-giraffe-a084525ff4d84affba3a06fe5ae82337",
+      "height": 1.5,
+      "exclude": {
+        "nodes": [
+          "Armature.001",
+          "Armature",
+          "Armature.002"
+        ]
+      },
+      "bones": {
+        "Bone": "spineBase",
+        "Bone.001": "spineUpper",
+        "Bone.004": "head",
+        "Bone.002": "tail",
+        "Bone.003": "tail2",
+        "Bone.010": "frontLeftShoulder",
+        "Bone.011": "frontLeftKnee",
+        "Bone.012": "backLeftHip",
+        "Bone.013": "backLeftKnee",
+        "Bone.005": "backRightHip",
+        "Bone.007": "backRightKnee",
+        "Bone.008": "frontRightShoulder",
+        "Bone.009": "frontRightKnee"
+      },
+      "clips": {
+        "idle": "04Idle",
+        "run": "01Run"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/savanna-four.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/deer",
+      "displayName": "Deer",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a brown deer grazing, with a white tail",
+      "licence": "CC-BY-4.0",
+      "credit": "Low poly deer by Tin3D, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/low-poly-deer-b1282c04dffd4a44a8d755171337e143",
+      "height": 1.3,
+      "bones": {
+        "Bone_01": "spineBase",
+        "Bone.001_02": "spineUpper",
+        "Bone.002_03": "neck",
+        "Bone.003_04": "head",
+        "Ear01.L_05": "leftEar",
+        "Ear02.L_06": "leftEarTip",
+        "Ear01.R_07": "rightEar",
+        "Ear02.R_08": "rightEarTip",
+        "FLeg01.L_09": "frontLeftClavicle",
+        "FLeg02.L_010": "frontLeftShoulder",
+        "FLeg03.L_011": "frontLeftKnee",
+        "FLeg04.L_012": "frontLeftAnkle",
+        "FLeg05.L_013": "frontLeftFoot",
+        "FLeg01.R_014": "frontRightClavicle",
+        "FLeg02.R_015": "frontRightShoulder",
+        "FLeg03.R_016": "frontRightKnee",
+        "FLeg04.R_017": "frontRightAnkle",
+        "FLeg05.R_018": "frontRightFoot",
+        "BLeg01.L_019": "backLeftHip",
+        "BLeg02.L_020": "backLeftKnee",
+        "BLeg03.L_021": "backLeftHock",
+        "BLeg04.L_022": "backLeftAnkle",
+        "BLeg01.R_023": "backRightHip",
+        "BLeg02.R_024": "backRightKnee",
+        "BLeg03.R_025": "backRightHock",
+        "BLeg04.R_026": "backRightAnkle"
+      },
+      "clips": {
+        "walk": "Armature|Walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/deer.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/wolf",
+      "displayName": "Wolf",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland",
+        "fairy tale"
+      ],
+      "description": "a grey wolf with a pale face and a bushy tail",
+      "licence": "CC-BY-4.0",
+      "credit": "Low Poly wolf by manoeldarochadeoliveira, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/low-poly-wolf-c6baa6970e724c6a97d5e1ecb8823179",
+      "height": 0.85,
+      "bones": {
+        "Bone.001_01": "spineBase",
+        "Bone.002_02": "spineMiddle",
+        "Bone.003_03": "spineUpper",
+        "Bone.004_04": "head",
+        "Bone.004_L_05": "leftEar",
+        "Bone.004_R_06": "rightEar",
+        "Bone.005_026": "tail",
+        "Bone.006_027": "tail2",
+        "Bone.007_028": "tail3",
+        "Bone.002_L_07": "frontLeftClavicle",
+        "Bone.002_L.001_08": "frontLeftShoulder",
+        "Bone.002_L.002_09": "frontLeftKnee",
+        "Bone.002_L.003_010": "frontLeftFoot",
+        "Bone.002_R_011": "frontRightClavicle",
+        "Bone.002_R.001_012": "frontRightShoulder",
+        "Bone.002_R.002_013": "frontRightKnee",
+        "Bone.002_R.003_014": "frontRightFoot",
+        "Bone.001_L.001_017": "backLeftHip",
+        "Bone.001_L.002_018": "backLeftKnee",
+        "Bone.001_L.003_019": "backLeftHock",
+        "Bone.001_L.004_020": "backLeftFoot",
+        "Bone.001_R.001_022": "backRightHip",
+        "Bone.001_R.002_023": "backRightKnee",
+        "Bone.001_R.003_024": "backRightHock",
+        "Bone.001_R.004_025": "backRightFoot"
+      },
+      "clips": {
+        "idle": "wolf_rig|idle",
+        "run": "wolf_rig|running"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/wolf.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/snake-wolf",
+      "displayName": "Snake-wolf",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "fantasy",
+        "monsters"
+      ],
+      "description": "a made-up beast with a green scaly back, shaggy blue-green legs, claws and yellow eyes",
+      "licence": "CC-BY-4.0",
+      "credit": "Low poly Snake - Wolf Animated by imitate, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/low-poly-snake-wolf-animated-c0baad2baee5467894087856cac1872b",
+      "height": 1,
+      "bones": {
+        "Pelvis": "pelvis",
+        "Spine1": "spineBase",
+        "Spine2": "spineUpper",
+        "Head": "head",
+        "Jaw": "jaw",
+        "Tail1": "tail",
+        "Tail2": "tail2",
+        "Ear.L": "leftEar",
+        "Ear.R": "rightEar",
+        "shoulder.L": "frontLeftClavicle",
+        "Arm2.L": "frontLeftShoulder",
+        "Arm1.L": "frontLeftKnee",
+        "Palm.L": "frontLeftFoot",
+        "Leg1.L": "backLeftHip",
+        "Leg2.L": "backLeftKnee",
+        "Leg3.L": "backLeftHock",
+        "Foot.L": "backLeftFoot",
+        "shoulder.R": "frontRightClavicle",
+        "Arm2.R": "frontRightShoulder",
+        "Arm1.R": "frontRightKnee",
+        "Palm.R": "frontRightFoot",
+        "Leg1.R": "backRightHip",
+        "Leg2.R": "backRightKnee",
+        "Leg3.R": "backRightHock",
+        "Foot.R": "backRightFoot"
+      },
+      "clips": {
+        "idle": "idle",
+        "walk": "Walk",
+        "run": "Run"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/snake-wolf.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Quadruped/frog",
+      "displayName": "Frog",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pond",
+        "garden"
+      ],
+      "description": "a fat green frog with a pale belly, sitting down",
+      "licence": "CC-BY-4.0",
+      "credit": "Fat Low-Poly Frog with Animation by Norah, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/fat-low-poly-frog-with-animation-e162d0ecfe6e42f5a3afc4e0893bc560",
+      "height": 0.12,
+      "clips": {
+        "jump": "Take 001"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/frog.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Flyer/african-penguin",
+      "displayName": "African penguin",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a black and white penguin with a black stripe across its chest",
+      "licence": "CC-BY-4.0",
+      "credit": "African penguin (Spheniscus demersus) Low poly by Major, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/african-penguin-spheniscus-demersus-low-poly-9e59070815fe451d93398e2ebdb9bb92",
+      "height": 0.6,
+      "bones": {
+        "Penguin_02": "pelvis",
+        "Penguin.001_023": "spineBase",
+        "Penguin.005_024": "spineMiddle",
+        "Penguin.003_025": "spineUpper",
+        "Penguin.004_026": "neck",
+        "AnimalHead_027": "head",
+        "Penguin.006_04": "tail",
+        "Eye_L_031": "leftEye",
+        "Eye_R_032": "rightEye",
+        "Eyelid_l_033": "leftEyelid",
+        "Eyelid_r_035": "rightEyelid",
+        "Pectoral_L_042": "leftWingShoulder",
+        "Pectoral_L.001_043": "leftWingElbow",
+        "Pectoral_L.002_044": "leftWingWrist",
+        "Pectoral_R_039": "rightWingShoulder",
+        "Pectoral_R.001_040": "rightWingElbow",
+        "Pectoral_R.002_041": "rightWingWrist",
+        "Leg_L_014": "leftHip",
+        "Leg_L.001_015": "leftKnee",
+        "Leg_L.002_016": "leftAnkle",
+        "Toe_L_017": "leftFoot",
+        "Leg_R_05": "rightHip",
+        "Leg_R.001_06": "rightKnee",
+        "Leg_R.002_07": "rightAnkle",
+        "Toe_R_08": "rightFoot"
+      },
+      "clips": {
+        "idle": "Idle",
+        "walk": "Walk",
+        "swim": "Penguin swim"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/african-penguin.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Flyer/penguin",
+      "displayName": "Penguin",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "polar",
+        "sea"
+      ],
+      "description": "a round cartoon penguin, black and white with orange flippers, beak and feet",
+      "licence": "CC-BY-4.0",
+      "credit": "Penguin by Mateus Schwaab, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/penguin-2c079bc491fb4bb4942c0f87927f8d87",
+      "height": 0.7,
+      "bones": {
+        "Hips_01": "pelvis",
+        "Belly_02": "spineBase",
+        "Torso_03": "spineMiddle",
+        "Neck_04": "neck",
+        "Head_05": "head",
+        "Jaw_07": "jaw",
+        "Eye_l_08": "leftEye",
+        "Eye_r_09": "rightEye",
+        "Flipper1_l_010": "leftWingShoulder",
+        "Flipper2_l_011": "leftWingElbow",
+        "Flipper1_r_012": "rightWingShoulder",
+        "Flipper2_r_013": "rightWingElbow",
+        "Tail1_014": "tail",
+        "Tail2_015": "tail2",
+        "Leg_l_016": "leftHip",
+        "Foot_l_017": "leftFoot",
+        "Leg_r_018": "rightHip",
+        "Foot_r_019": "rightFoot"
+      },
+      "clips": {
+        "idle": "Iddle",
+        "walk": "Walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/penguin.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Swimmer/dolphin",
+      "displayName": "Dolphin",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a dark grey dolphin with an orange stripe and a white belly",
+      "licence": "CC-BY-4.0",
+      "credit": "Dolphin - animated - marine mammals series by nolanfa, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/dolphin-animated-marine-mammals-series-f4abb460956240f98b7a6f19cc3037a1",
+      "height": 0.35,
+      "exclude": {
+        "nodes": [
+          "Plane_0",
+          "Plane"
+        ]
+      },
+      "bones": {
+        "body_Armature-dolphin": "spineBase",
+        "head_Armature-dolphin": "head",
+        "jaw_Armature-dolphin": "jaw",
+        "fin.L_Armature-dolphin": "frontLeftFin",
+        "finTip.L_Armature-dolphin": "frontLeftFinTip",
+        "fin.R_Armature-dolphin": "frontRightFin",
+        "finTip.R_Armature-dolphin": "frontRightFinTip",
+        "tail01_Armature-dolphin": "spineMiddle",
+        "tail02_Armature-dolphin": "tail",
+        "tail03_Armature-dolphin": "tail2",
+        "tail04_Armature-dolphin": "tail3",
+        "tail05_Armature-dolphin": "tail4",
+        "tail05.L_Armature-dolphin": "backLeftFin",
+        "tail05.R_Armature-dolphin": "backRightFin"
+      },
+      "clips": {
+        "idle": "IDLE-delphinidae",
+        "swim": "SWIM-delphinidae",
+        "jump": "JUMP-delphinidae"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/dolphin.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Swimmer/humpback-whale",
+      "displayName": "Humpback whale",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a dark humpback whale with very long flippers and a striped pale throat",
+      "licence": "CC-BY-4.0",
+      "credit": "Humpback Whale - animated - marine mammals by nolanfa, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/humpback-whale-animated-marine-mammals-219ed629c9394d869bbf19d443188423",
+      "height": 1.2,
+      "exclude": {
+        "nodes": [
+          "HumpbackWhale.004_1"
+        ]
+      },
+      "bones": {
+        "body_Armature-whale.004": "spineBase",
+        "head_Armature-whale.004": "head",
+        "jaw_Armature-whale.004": "jaw",
+        "fin.L_Armature-whale.004": "frontLeftFin",
+        "finTip.L_Armature-whale.004": "frontLeftFinTip",
+        "fin.R_Armature-whale.004": "frontRightFin",
+        "finTip.R_Armature-whale.004": "frontRightFinTip",
+        "tail01_Armature-whale.004": "spineMiddle",
+        "tail02_Armature-whale.004": "tail",
+        "tail03_Armature-whale.004": "tail2",
+        "tail04_Armature-whale.004": "tail3",
+        "tail05_Armature-whale.004": "tail4",
+        "tail05.L_Armature-whale.004": "backLeftFin",
+        "tail05.R_Armature-whale.004": "backRightFin",
+        "jaw.001_Armature-whale.004": "jawTip"
+      },
+      "clips": {
+        "idle": "IDLE-delphinidae",
+        "swim": "SWIM-delphinidae",
+        "jump": "JUMP-delphinidae"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/humpback-whale.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Swimmer/narwhal",
+      "displayName": "Narwhal",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea",
+        "fantasy"
+      ],
+      "description": "a deep blue narwhal speckled with stars, with a long tusk",
+      "licence": "CC-BY-4.0",
+      "credit": "Narwhal - animated by nolanfa, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/narwhal-animated-509282b5e29d40c9aee278676e5fd3af",
+      "height": 0.7,
+      "bones": {
+        "body_Armature-narwhal.005": "spineBase",
+        "head_Armature-narwhal.005": "head",
+        "jaw_Armature-narwhal.005": "jaw",
+        "fin.L_Armature-narwhal.005": "frontLeftFin",
+        "finTip.L_Armature-narwhal.005": "frontLeftFinTip",
+        "fin.R_Armature-narwhal.005": "frontRightFin",
+        "finTip.R_Armature-narwhal.005": "frontRightFinTip",
+        "tail01_Armature-narwhal.005": "spineMiddle",
+        "tail02_Armature-narwhal.005": "tail",
+        "tail03_Armature-narwhal.005": "tail2",
+        "tail04_Armature-narwhal.005": "tail3",
+        "tail05_Armature-narwhal.005": "tail4",
+        "tail05.L_Armature-narwhal.005": "backLeftFin",
+        "tail05.R_Armature-narwhal.005": "backRightFin"
+      },
+      "clips": {
+        "idle": "idle",
+        "swim": "swim",
+        "jump": "jump"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/narwhal.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Swimmer/shark",
+      "displayName": "Shark",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a grey cartoon shark with a big toothy grin",
+      "licence": "CC-BY-4.0",
+      "credit": "Stylized Shark by kasperromer, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/stylized-shark-50b7659bcd4a4ca7b123a50618840332",
+      "height": 0.8,
+      "bones": {
+        "Spine 2_01": "neck",
+        "Head_02": "head",
+        "Lower Jaw_03": "jaw",
+        "Spine 1_05": "spineBase",
+        "Tail_06": "spineMiddle",
+        "Tail.002_07": "tail",
+        "Tail.001_08": "tail2",
+        "Tail.003_09": "tail3"
+      },
+      "clips": {
+        "idle": "Idle",
+        "swim": "Swim"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/shark.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Swimmer/koi",
+      "displayName": "Koi carp",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pond",
+        "garden"
+      ],
+      "description": "a cartoon koi, grey and black with yellow fins, long whiskers and big yellow eyes",
+      "licence": "CC-BY-4.0",
+      "credit": "Free Low Poly Cartoon Koi Fish by GameAssetsFin, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/free-low-poly-cartoon-koi-fish-62ea29193ca14f7fb65c5876bfc2ea66",
+      "height": 0.2,
+      "bones": {
+        "Head_21": "head",
+        "Spine1_44": "spineBase",
+        "Spine2_37": "spineMiddle",
+        "Spine3_28": "tail",
+        "Spine4_26": "tail2",
+        "Spine5_25": "tail3",
+        "Spine6_24": "tail4",
+        "Spine7_23": "tail5",
+        "Spine8_22": "tail6",
+        "Fin_F1.L_36": "frontLeftFin",
+        "Fin_F2.L_35": "frontLeftFinTip",
+        "Fin_F1.R_32": "frontRightFin",
+        "Fin_F2.R_31": "frontRightFinTip",
+        "Fin_B1.L_27": "backLeftFin",
+        "Fin_B1.R_41": "backRightFin"
+      },
+      "clips": {
+        "swim": "Fish_Swim_Armature"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/koi.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Swimmer/fish",
+      "displayName": "Fish",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea",
+        "pond"
+      ],
+      "description": "a small silver fish",
+      "licence": "CC-BY-4.0",
+      "credit": "Animated Low poly Fish by Atlas, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/animated-low-poly-fish-64adc2e5a4be471e8279532b9610c878",
+      "height": 0.1,
+      "bones": {
+        "Bone_2": "head",
+        "Bone.001_5": "spineBase",
+        "Bone.002_4": "spineMiddle",
+        "Bone.003_3": "tail"
+      },
+      "clips": {
+        "swim": "ArmatureAction"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/fish.glb"
+      }
+    },
+    {
+      "id": "sketchfab/Flyer/bee",
+      "displayName": "Bee",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a smiling round bee with yellow and black stripes",
+      "licence": "CC-BY-4.0",
+      "credit": "Smiley Bee by uosew, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/smiley-bee-76801d3aea024063bc5d91e4ee355508",
+      "height": 0.08,
+      "turn": {
+        "y": 180
+      },
+      "bones": {
+        "Ctrl_00": "spineBase",
+        "Wing.L_02": "leftWingShoulder",
+        "Wing.R_01": "rightWingShoulder",
+        "Stinger_05": "tail"
+      },
+      "clips": {
+        "fly": "Scene"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
+        "path": "originals/sketchfab-animals/bee.glb"
+      }
+    }
+  ]
+}
