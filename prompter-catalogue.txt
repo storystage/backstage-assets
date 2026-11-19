@@ -31,9 +31,31 @@ Joint sets
   J26: hips, spine, chest, upperChest, neck, head, leftEye, rightEye, leftShoulder, leftUpperArm, leftLowerArm, leftHand, leftThumbProximal, leftThumbDistal, leftIndexProximal, leftIndexIntermediate, leftIndexDistal, leftMiddleProximal, leftMiddleIntermediate, leftMiddleDistal, leftRingProximal, leftRingIntermediate, leftRingDistal, rightShoulder, rightUpperArm, rightLowerArm, rightHand, rightThumbProximal, rightThumbDistal, rightIndexProximal, rightIndexIntermediate, rightIndexDistal, rightMiddleProximal, rightMiddleIntermediate, rightMiddleDistal, rightRingProximal, rightRingIntermediate, rightRingDistal, leftUpperLeg, leftLowerLeg, leftFoot, leftToes, rightUpperLeg, rightLowerLeg, rightFoot, rightToes
   J27: hips, spine, chest, neck, head, leftShoulder, leftUpperArm, leftLowerArm, leftHand, rightShoulder, rightUpperArm, rightLowerArm, rightHand, leftUpperLeg, leftLowerLeg, leftFoot, rightUpperLeg, rightLowerLeg, rightFoot
   J28: hips, spine, chest, neck, head, leftShoulder, leftUpperArm, leftLowerArm, leftHand, leftThumbMetacarpal, leftThumbProximal, leftThumbDistal, leftIndexProximal, leftIndexIntermediate, leftIndexDistal, leftMiddleProximal, leftMiddleIntermediate, leftMiddleDistal, leftRingProximal, leftRingIntermediate, leftRingDistal, leftLittleProximal, leftLittleIntermediate, leftLittleDistal, rightShoulder, rightUpperArm, rightLowerArm, rightHand, rightThumbMetacarpal, rightThumbProximal, rightThumbDistal, rightIndexProximal, rightIndexIntermediate, rightIndexDistal, rightMiddleProximal, rightMiddleIntermediate, rightMiddleDistal, rightRingProximal, rightRingIntermediate, rightRingDistal, rightLittleProximal, rightLittleIntermediate, rightLittleDistal, leftUpperLeg, leftLowerLeg, leftFoot, leftToes, rightUpperLeg, rightLowerLeg, rightFoot, rightToes
-  J29: spineBase, spineMiddle, head, leftWingShoulder, leftWingTip, rightWingShoulder, rightWingTip
-  J30: spineBase, spineMiddle, spineUpper, neck, head, leftEar, rightEar, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftAnkle, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightAnkle, pelvis, tail, tail2, tail3, tail4, backLeftHip, backLeftKnee, backLeftHock, backLeftAnkle, backRightHip, backRightKnee, backRightHock, backRightAnkle
-  J31: spineBase, spineMiddle, spineUpper, neck, head, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftAnkle, frontLeftToe, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightAnkle, frontRightToe, pelvis, tail, tail2, tail3, tail4, backLeftHip, backLeftKnee, backLeftHock, backLeftToe, backRightHip, backRightKnee, backRightHock, backRightToe
+  J29: spineBase, spineMiddle, spineUpper, neck, head, leftEye, leftEyelid, rightEye, rightEyelid, leftWingShoulder, leftWingElbow, leftWingWrist, rightWingShoulder, rightWingElbow, rightWingWrist, pelvis, tail, leftHip, leftKnee, leftAnkle, leftFoot, rightHip, rightKnee, rightAnkle, rightFoot
+  J30: spineBase, spineMiddle, neck, head, jaw, leftWingShoulder, leftWingElbow, leftWingWrist, rightWingShoulder, rightWingElbow, rightWingWrist, pelvis, leftHip, leftKnee, leftAnkle, leftFoot, rightHip, rightKnee, rightAnkle, rightFoot
+  J31: spineBase, spineMiddle, neck, head, jaw, leftEye, rightEye, leftWingShoulder, leftWingElbow, rightWingShoulder, rightWingElbow, pelvis, tail, tail2, leftHip, leftFoot, rightHip, rightFoot
+  J32: spineBase, spineMiddle, head, leftWingShoulder, leftWingTip, rightWingShoulder, rightWingTip
+  J33: spineBase, neck, head, jaw, leftWingShoulder, rightWingShoulder, tail, leftHip, leftFoot, rightHip, rightFoot
+  J34: spineBase, spineMiddle, spineUpper, neck, head, leftEar, rightEar, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftAnkle, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightAnkle, pelvis, tail, tail2, tail3, tail4, backLeftHip, backLeftKnee, backLeftHock, backLeftAnkle, backRightHip, backRightKnee, backRightHock, backRightAnkle
+  J35: spineBase, spineUpper, head, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, tail, tail2, backLeftHip, backLeftKnee, backRightHip, backRightKnee
+  J36: spineBase, spineUpper, neck, head, leftEar, rightEar, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftAnkle, frontLeftFoot, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightAnkle, frontRightFoot, backLeftHip, backLeftKnee, backLeftHock, backLeftAnkle, backRightHip, backRightKnee, backRightHock, backRightAnkle, leftEarTip, rightEarTip
+  J37: spineBase, spineUpper, neck, head, leftEar, rightEar, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, tail, tail2, tail3, tail4, backLeftHip, backLeftKnee, backRightHip, backRightKnee, trunk, trunk2, trunk3
+  J38: spineBase, spineMiddle, spineUpper, neck, head, jaw, leftEar, rightEar, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftAnkle, frontLeftToe, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightAnkle, frontRightToe, pelvis, tail, tail2, tail3, tail4, backLeftHip, backLeftKnee, backLeftHock, backLeftToe, backRightHip, backRightKnee, backRightHock, backRightToe, leftEarTip, rightEarTip
+  J39: spineBase, spineMiddle, spineUpper, neck, head, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, tail, tail2, tail3, backLeftHip, backLeftKnee, backRightHip, backRightKnee
+  J40: spineBase, spineMiddle, spineUpper, neck, head, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftAnkle, frontLeftToe, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightAnkle, frontRightToe, pelvis, tail, tail2, tail3, tail4, backLeftHip, backLeftKnee, backLeftHock, backLeftToe, backRightHip, backRightKnee, backRightHock, backRightToe
+  J41: spineBase, spineUpper, head, leftEar, rightEar, frontLeftShoulder, frontLeftKnee, frontLeftFoot, frontRightShoulder, frontRightKnee, frontRightFoot, pelvis, backLeftHip, backLeftKnee, backLeftFoot, backRightHip, backRightKnee, backRightFoot, leftEarTip, rightEarTip
+  J42: spineBase, spineMiddle, spineUpper, neck, head, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontRightClavicle, frontRightShoulder, frontRightKnee, tail, tail2, backLeftHip, backLeftKnee, backLeftHock, backRightHip, backRightKnee, backRightHock
+  J43: spineBase, spineUpper, head, jaw, leftEar, rightEar, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftFoot, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightFoot, pelvis, tail, tail2, backLeftHip, backLeftKnee, backLeftHock, backLeftFoot, backRightHip, backRightKnee, backRightHock, backRightFoot
+  J44: spineBase, spineMiddle, spineUpper, neck, head, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftAnkle, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightAnkle, tail, tail2, tail3, tail4, backLeftHip, backLeftKnee, backLeftHock, backRightHip, backRightKnee, backRightHock
+  J45: spineBase, spineMiddle, spineUpper, neck, head, leftEye, rightEye, leftEar, rightEar, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftAnkle, frontLeftToe, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightAnkle, frontRightToe, pelvis, tail, tail2, tail3, backLeftHip, backLeftKnee, backLeftHock, backLeftToe, backRightHip, backRightKnee, backRightHock, backRightToe, leftEarTip, rightEarTip, tailTip
+  J46: spineBase, spineMiddle, spineUpper, head, leftEar, rightEar, frontLeftClavicle, frontLeftShoulder, frontLeftKnee, frontLeftFoot, frontRightClavicle, frontRightShoulder, frontRightKnee, frontRightFoot, tail, tail2, tail3, backLeftHip, backLeftKnee, backLeftHock, backLeftFoot, backRightHip, backRightKnee, backRightHock, backRightFoot
+  J47: spineBase, spineUpper, neck, head, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, tail, tail2, tail3, backLeftHip, backLeftKnee, backRightHip, backRightKnee
+  J48: spineBase, spineUpper, neck, head, jaw, leftEar, rightEar, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, tail, tail2, backLeftHip, backLeftKnee, backRightHip, backRightKnee
+  J49: head, jaw, frontLeftFin, frontRightFin, spineBase, spineMiddle, tail, tail2, tail3, tail4, frontLeftFinTip, backLeftFin, frontRightFinTip, backRightFin
+  J50: head, spineBase, spineMiddle, tail
+  J51: head, jaw, frontLeftFin, frontRightFin, spineBase, spineMiddle, tail, jawTip, tail2, tail3, tail4, frontLeftFinTip, backLeftFin, frontRightFinTip, backRightFin
+  J52: head, frontLeftFin, frontRightFin, spineBase, spineMiddle, tail, tail2, tail3, tail4, tail5, tail6, frontLeftFinTip, backLeftFin, frontRightFinTip, backRightFin
+  J53: neck, head, jaw, spineBase, spineMiddle, tail, tail2, tail3
 
 Cast
   Biped
@@ -194,15 +216,45 @@ Cast
     storybook/Biped/sherlock-holmes: Sherlock Holmes, Sherlock Holmes the detective, with black hair, in a tweed deerstalker and a brown cape coat, holding a magnifying glass [storybook, mystery, Victorian] 2.2 m, joints J1
     vrmc/Biped/seed-san: Seed-san, a young woman with short dark hair, in a white and blue jumpsuit, with a robot arm on her back [everyday, space] 1.58 m, joints J28
   Flyer
-    styloo/Flyer/butterfly: Butterfly, an orange and black butterfly with white spots, its wings open [animals, minibeasts, garden] 0.6 m, joints J29
+    sketchfab/Flyer/african-penguin: African penguin, a black and white penguin with a black stripe across its chest [animals, sea] 0.6 m, joints J29
+    sketchfab/Flyer/bee: Bee, a smiling round bee with yellow and black stripes [animals, minibeasts, garden] 0.08 m, no joints
+    sketchfab/Flyer/chick: Chick, a fluffy yellow chick with an orange beak and feet [animals, farm] 0.15 m, joints J30
+    sketchfab/Flyer/fantasy-butterfly: Fantasy butterfly, a butterfly with long tails on its wings [animals, minibeasts, garden, fantasy] 0.3 m, no joints
+    sketchfab/Flyer/penguin: Penguin, a round cartoon penguin, black and white with an orange beak and feet [animals, polar, sea] 0.7 m, joints J31
+    styloo/Flyer/butterfly: Butterfly, an orange and black butterfly with white spots, its wings open [animals, minibeasts, garden] 0.6 m, joints J32
     styloo/Flyer/chicken: Chicken, a brown hen with a red comb [animals, farm] 0.45 m, no joints
     styloo/Flyer/ladybird: Ladybird, a red ladybird with a black head and six legs [animals, minibeasts, garden] 0.06 m, no joints
+    vuena/Flyer/owl: Owl, a chunky toy-style brown owl with big glossy eyes [animals, woodland] 0.4 m, joints J33
   Quadruped
-    blender-studio/Quadruped/autumn: Autumn, a small black dog with big ears and a red scarf [animals, pets, storybook] 0.41 m, joints J30
-    styloo/Quadruped/cat: Cat, a cream cat with light brown legs, ears and face, and blue eyes [animals, pets] 0.3 m, joints J31
-    styloo/Quadruped/cow: Cow, a black and white cow with a pink nose [animals, farm] 1.6 m, joints J31
-    styloo/Quadruped/dog: Dog, a grey dog with a black and white head and floppy ears [animals, pets] 0.65 m, joints J31
-    styloo/Quadruped/giraffe: Giraffe, a tall giraffe with orange-brown patches and a long neck [animals, savanna] 4.99 m, joints J31
+    blender-studio/Quadruped/autumn: Autumn, a small black dog with big ears and a red scarf [animals, pets, storybook] 0.41 m, joints J34
+    sketchfab/Quadruped/buffalo: Buffalo, a cute brown buffalo with curved horns [animals, savanna] 1.5 m, joints J35
+    sketchfab/Quadruped/deer: Deer, a light brown deer with white spots [animals, woodland] 1.3 m, joints J36
+    sketchfab/Quadruped/elephant: Elephant, a cute grey elephant with big ears and a long trunk [animals, savanna] 3 m, joints J37
+    sketchfab/Quadruped/frog: Frog, a fat green frog sitting down [animals, pond, garden] 0.12 m, no joints
+    sketchfab/Quadruped/german-shepherd: German shepherd, a brown and black German shepherd dog with tall ears [animals, pets] 0.6 m, joints J38
+    sketchfab/Quadruped/giraffe: Giraffe, a cute giraffe with brown patches and a long neck [animals, savanna] 4.5 m, joints J39
+    sketchfab/Quadruped/horse: Horse, a brown horse with a saddle, stirrups and reins [animals, farm, wild west] 1.9 m, joints J40
+    sketchfab/Quadruped/rabbit: Rabbit, a brown rabbit with long ears [animals, pets, woodland] 0.4 m, joints J41
+    sketchfab/Quadruped/sheep: Sheep, a woolly white sheep with a dark face and legs [animals, farm] 0.9 m, joints J42
+    sketchfab/Quadruped/snake-wolf: Snake-wolf, a made-up beast, half snake and half wolf, with clawed front feet [animals, fantasy, monsters] 1 m, joints J43
+    sketchfab/Quadruped/spider: Spider, a dark eight-legged spider [animals, minibeasts, spooky] 0.08 m, no joints
+    sketchfab/Quadruped/stripe-the-cat: Stripe the cat, a grey cat with darker stripes, green eyes and a red collar [animals, pets] 0.3 m, joints J44
+    sketchfab/Quadruped/tuxedo-cat: Tuxedo cat, a black and white cat with green eyes and a blue collar [animals, pets] 0.3 m, joints J45
+    sketchfab/Quadruped/wolf: Wolf, a grey wolf with a pale belly and a bushy tail [animals, woodland, fairy tale] 0.85 m, joints J46
+    sketchfab/Quadruped/zebra: Zebra, a cute black and white striped zebra [animals, savanna] 1.6 m, joints J47
+    styloo/Quadruped/cat: Cat, a cream cat with light brown legs, ears and face, and blue eyes [animals, pets] 0.3 m, joints J40
+    styloo/Quadruped/cow: Cow, a black and white cow with a pink nose [animals, farm] 1.6 m, joints J40
+    styloo/Quadruped/dog: Dog, a grey dog with a black and white head and floppy ears [animals, pets] 0.65 m, joints J40
+    styloo/Quadruped/giraffe: Giraffe, a tall giraffe with orange-brown patches and a long neck [animals, savanna] 4.99 m, joints J40
+    vuena/Quadruped/cat: Cat, a chunky toy-style ginger cat with big glossy eyes [animals, pets] 0.35 m, joints J48
+    vuena/Quadruped/fox: Fox, a chunky toy-style orange fox with a white-tipped tail [animals, woodland] 0.45 m, joints J48
+  Swimmer
+    sketchfab/Swimmer/dolphin: Dolphin, a grey and blue dolphin with a pale belly [animals, sea] 0.6 m, joints J49
+    sketchfab/Swimmer/fish: Fish, a small striped fish [animals, sea, pond] 0.2 m, joints J50
+    sketchfab/Swimmer/humpback-whale: Humpback whale, a dark blue humpback whale with long flippers and a pale throat [animals, sea] 3 m, joints J51
+    sketchfab/Swimmer/koi: Koi carp, an orange and white koi carp with long whiskers [animals, pond, garden] 0.2 m, joints J52
+    sketchfab/Swimmer/narwhal: Narwhal, a speckled grey narwhal with a long spiral tusk [animals, sea, polar] 0.9 m, joints J49
+    sketchfab/Swimmer/shark: Shark, a grey cartoon shark with a white belly and sharp teeth [animals, sea] 0.8 m, joints J53
 
 Props
   Prop

@@ -5705,6 +5705,687 @@
       "animations": []
     }
   },
+  "sketchfab/Flyer/african-penguin": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/african-penguin.glb",
+        "sha256": "ecee6a9f7293e058061898e6726b7f83ba42c6e4b4c50e7becaf0ddc447437b7"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 4124,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4124,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Flyer/bee": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/bee.glb",
+        "sha256": "9af96dd1bb56dc39bc6aeb0e9a6f0696df8f2864654e54d25a46d6921969e830"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 118,
+    "textureMaxPx": 128,
+    "fetchedSize": {
+      "triangles": 118,
+      "textureMaxPx": 128
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "head"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Flyer/chick": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/chick.glb",
+        "sha256": "1e14e6bb82a25c5fdf9e5845c9239bd6656ee8713da159d48971137aaead964b"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 1778,
+    "textureMaxPx": 256,
+    "fetchedSize": {
+      "triangles": 1778,
+      "textureMaxPx": 256
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Flyer/fantasy-butterfly": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/fantasy-butterfly.glb",
+        "sha256": "7c8bd9e210937704ab195f673130a526be7a3644a5c090582e6cea6eb205edf3"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 128,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 128,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "head",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Flyer/penguin": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/penguin.glb",
+        "sha256": "b422f717a0e0bf96cc6b250eafbcccc3582086053135cc82c33f3e876a6e8191"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 3408,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 3408,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/buffalo": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/savanna-four.glb",
+        "sha256": "592cd362db7a039cba8ad0b626d7eab69504a92e61cd0e5510fa8875379f39f7"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 462,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 462,
+      "textureMaxPx": 4096
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Armature.001",
+        "Armature",
+        "Armature.002"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/deer": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/deer.glb",
+        "sha256": "0eddb955f829b7f768e4ac2b307cdce8531e3ff0a7a244a99821cd1a5b51bb05"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 1276,
+    "textureMaxPx": 64,
+    "fetchedSize": {
+      "triangles": 1276,
+      "textureMaxPx": 64
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/elephant": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/savanna-four.glb",
+        "sha256": "592cd362db7a039cba8ad0b626d7eab69504a92e61cd0e5510fa8875379f39f7"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 627,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 627,
+      "textureMaxPx": 4096
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Armature",
+        "Armature.002",
+        "Armature.003"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/frog": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/frog.glb",
+        "sha256": "85429144941ae4cd4f817bb094c1eb7c47e722eb5ce9ccfa5896abb8e0738c4a"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 2134,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2134,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "head",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/german-shepherd": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/german-shepherd.glb",
+        "sha256": "42fd42f59ed6e331c7b2cb01bc952b2efbcd0eaf66f571efd011df6cf78a0462"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 852,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 852,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Lamp"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/giraffe": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/savanna-four.glb",
+        "sha256": "592cd362db7a039cba8ad0b626d7eab69504a92e61cd0e5510fa8875379f39f7"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 639,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 639,
+      "textureMaxPx": 4096
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Armature.001",
+        "Armature.002",
+        "Armature.003"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/horse": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/horse.glb",
+        "sha256": "08bad4bfac24a19415533c166a5af51c10e61d09f0c97830d7d61b47c2978dbf"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 4052,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4052,
+      "textureMaxPx": 4096
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/rabbit": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/rabbit.glb",
+        "sha256": "eca234176e03aeb255f85453ae96d4dbccec15f639a55c8716c77ead2a200f27"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 502,
+    "textureMaxPx": 64,
+    "fetchedSize": {
+      "triangles": 502,
+      "textureMaxPx": 64
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/sheep": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/sheep.glb",
+        "sha256": "6e5ae8e3fd808010d5b8e56749e8a731f60d61a34b40aaf1ab44827c9a57696c"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 2290,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 2290,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/snake-wolf": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/snake-wolf.glb",
+        "sha256": "450bc76687eed173e5df75b8a5ced3b5472c20430b958f22bbcbcb3818f349ea"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 864,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 864,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/spider": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/spider.glb",
+        "sha256": "7585fd92dc475de618bd6428f13c110279931418fbba83d90ef8d40559a80b27"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 755,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 755,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "head",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/stripe-the-cat": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/stripe-the-cat.glb",
+        "sha256": "424048674afb86d67186029b1ec4f450178cb1510c35bd415490e8152f8708fe"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 1960,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 1960,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Camera",
+        "Lamp"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/tuxedo-cat": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/tuxedo-cat.glb",
+        "sha256": "6552df4d41178715850d87060dbff5b281279fa9f102ff4abf9d6c9cc6669c8c"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 6376,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 6376,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Lamp"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/wolf": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/wolf.glb",
+        "sha256": "8ce64ef549464f609a9d2ebe73ac77a02f3a8abee7fd0c28079ac5619647ddf7"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 3880,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 3880,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Quadruped/zebra": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/savanna-four.glb",
+        "sha256": "592cd362db7a039cba8ad0b626d7eab69504a92e61cd0e5510fa8875379f39f7"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 390,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 390,
+      "textureMaxPx": 4096
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Armature.001",
+        "Armature",
+        "Armature.003"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab/Swimmer/dolphin": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/dolphin.glb",
+        "sha256": "1645b32cebb198926ffd907c0e9202443cd14426a0273bc533f191102ef7193c"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 736,
+    "textureMaxPx": 256,
+    "fetchedSize": {
+      "triangles": 736,
+      "textureMaxPx": 256
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Plane",
+        "Plane_0"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab/Swimmer/fish": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/fish.glb",
+        "sha256": "5c74dedda5054db20d7f219d63e53018d6298a231decc221edf71d6feb35dcb2"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 534,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 534,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Swimmer/humpback-whale": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/humpback-whale.glb",
+        "sha256": "754b184a8c63c727cca3d6b5a5489fa20af2989b425a3c783dbd139f1f3543a6"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 616,
+    "textureMaxPx": 256,
+    "fetchedSize": {
+      "triangles": 616,
+      "textureMaxPx": 256
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "HumpbackWhale.004_1"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab/Swimmer/koi": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/koi.glb",
+        "sha256": "c890c63568757b8a117e75592cbdce70e70362cb771fb380a4eb497ef05b3386"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 4330,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 4330,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Swimmer/narwhal": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/narwhal.glb",
+        "sha256": "b6c60e0605e8f955b07c4a13f6abe31de9ec1f8e19ee0e214106de275640c88b"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 588,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 588,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab/Swimmer/shark": {
+    "source": "sketchfab-animals",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/830f3cb0c2f8245b4b762e5a510a1ec5ea59847f/originals/sketchfab-animals/shark.glb",
+        "sha256": "797b27c3bf3bb2657375812c67daf453d82d2c290d6e32badbbe4ff08235aee4"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 3182,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 3182,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
   "smithsonian/Prop/lincoln-patent-model": {
     "source": "museum",
     "fetched": [
@@ -7777,6 +8458,84 @@
     "missingJoints": [],
     "excluded": {
       "nodes": [],
+      "animations": []
+    }
+  },
+  "vuena/Flyer/owl": {
+    "source": "vuena",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/Vuena/free-low-poly-animals-cc0/a3944e5e54eb7e1ab2c24744b88a1ae6617e4534/GLB/animal_owl.glb",
+        "sha256": "a22017221687458f37b76991719cb80243b5f04554ae57f07503139f988add3f"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 7884,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7884,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "owl_LOD1"
+      ],
+      "animations": []
+    }
+  },
+  "vuena/Quadruped/cat": {
+    "source": "vuena",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/Vuena/free-low-poly-animals-cc0/a3944e5e54eb7e1ab2c24744b88a1ae6617e4534/GLB/animal_cat.glb",
+        "sha256": "35cfa9a000045a659938d5b882a7e818c24087131239ce0527eae91c239a82d9"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 7188,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7188,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "cat_LOD1"
+      ],
+      "animations": []
+    }
+  },
+  "vuena/Quadruped/fox": {
+    "source": "vuena",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/Vuena/free-low-poly-animals-cc0/a3944e5e54eb7e1ab2c24744b88a1ae6617e4534/GLB/animal_fox.glb",
+        "sha256": "78aed50756a15654bf544859d676556fd0cf884ef69bfdb4eb4945741cd64432"
+      }
+    ],
+    "retrieved": "2026-11-19",
+    "vrm": null,
+    "triangles": 7300,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7300,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "mapped",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "fox_LOD1"
+      ],
       "animations": []
     }
   }
