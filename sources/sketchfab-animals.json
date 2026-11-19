@@ -1108,34 +1108,6 @@
       }
     },
     {
-      "id": "sketchfab/Flyer/fantasy-butterfly",
-      "displayName": "Fantasy butterfly",
-      "class": "Flyer",
-      "section": "cast",
-      "themes": [
-        "animals",
-        "minibeasts",
-        "garden",
-        "fantasy"
-      ],
-      "description": "a blue butterfly with long tails on its wings",
-      "licence": "CC-BY-4.0",
-      "credit": "Fantasy Butterfly Animation by lalune, CC BY 4.0, via Sketchfab",
-      "page": "https://sketchfab.com/3d-models/fantasy-butterfly-animation-0f24b085e8654e4db09c2fe681a79e3f",
-      "height": 0.3,
-      "turn": {
-        "x": -60
-      },
-      "clips": {
-        "fly": "Take 001"
-      },
-      "fetch": {
-        "github": "storystage/backstage-assets",
-        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
-        "path": "originals/sketchfab-animals/fantasy-butterfly.glb"
-      }
-    },
-    {
       "id": "sketchfab/Flyer/bee",
       "displayName": "Bee",
       "class": "Flyer",
@@ -1166,39 +1138,6 @@
         "github": "storystage/backstage-assets",
         "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
         "path": "originals/sketchfab-animals/bee.glb"
-      }
-    },
-    {
-      "id": "sketchfab/Quadruped/spider",
-      "displayName": "Spider",
-      "class": "Quadruped",
-      "section": "cast",
-      "themes": [
-        "animals",
-        "minibeasts",
-        "spooky"
-      ],
-      "description": "a red-brown spider with spiky legs",
-      "licence": "CC-BY-4.0",
-      "credit": "Spider. Low Poly by cattleya, CC BY 4.0, via Sketchfab",
-      "page": "https://sketchfab.com/3d-models/spider-low-poly-1029c25a78c543259167cdc72a9ae7a7",
-      "height": 0.08,
-      "clips": {
-        "idle": {
-          "clip": "Take 001",
-          "start": 1.233,
-          "end": 2.567
-        },
-        "walk": {
-          "clip": "Take 001",
-          "start": 8.267,
-          "end": 8.967
-        }
-      },
-      "fetch": {
-        "github": "storystage/backstage-assets",
-        "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
-        "path": "originals/sketchfab-animals/spider.glb"
       }
     }
   ]
