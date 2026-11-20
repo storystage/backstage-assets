@@ -80,6 +80,1456 @@
       ]
     },
     {
+      "id": "gobkit/Flyer/bat",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Bat",
+      "themes": [
+        "animals",
+        "night",
+        "spooky"
+      ],
+      "description": "a round yellow bat with big pointed ears and purple wings",
+      "files": {
+        "model": "models/gobkit/Flyer/bat.glb",
+        "thumbnail": "thumbnails/gobkit/Flyer/bat.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.15
+      },
+      "budget": {
+        "triangles": 376,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Bat by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Flyer/bat/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Flyer/bat/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Flyer/bat/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Flyer/bat/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Flyer/bee",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Bee",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a round orange bee with black stripes and see-through wings",
+      "files": {
+        "model": "models/gobkit/Flyer/bee.glb",
+        "thumbnail": "thumbnails/gobkit/Flyer/bee.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.08
+      },
+      "budget": {
+        "triangles": 328,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Bee by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Flyer/bee/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Flyer/bee/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Flyer/bee/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Flyer/bee/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Flyer/blue-bird",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Blue bird",
+      "themes": [
+        "animals",
+        "garden",
+        "woodland"
+      ],
+      "description": "a round pale blue bird with a dark mask",
+      "files": {
+        "model": "models/gobkit/Flyer/blue-bird.glb",
+        "thumbnail": "thumbnails/gobkit/Flyer/blue-bird.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.25
+      },
+      "budget": {
+        "triangles": 384,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Blue bird by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Flyer/blue-bird/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Flyer/blue-bird/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Flyer/blue-bird/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Flyer/blue-bird/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Flyer/chick",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Chick",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a round yellow chick with an orange beak and feet",
+      "files": {
+        "model": "models/gobkit/Flyer/chick.glb",
+        "thumbnail": "thumbnails/gobkit/Flyer/chick.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.12
+      },
+      "budget": {
+        "triangles": 316,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Chick by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Flyer/chick/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Flyer/chick/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Flyer/chick/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Flyer/chick/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Flyer/duck",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Duck",
+      "themes": [
+        "animals",
+        "farm",
+        "pond"
+      ],
+      "description": "a round green duck with an orange beak and feet",
+      "files": {
+        "model": "models/gobkit/Flyer/duck.glb",
+        "thumbnail": "thumbnails/gobkit/Flyer/duck.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.35
+      },
+      "budget": {
+        "triangles": 508,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Duck by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Flyer/duck/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Flyer/duck/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Flyer/duck/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Flyer/duck/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Flyer/owl",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Owl",
+      "themes": [
+        "animals",
+        "woodland",
+        "night"
+      ],
+      "description": "a round orange-brown owl with ear tufts",
+      "files": {
+        "model": "models/gobkit/Flyer/owl.glb",
+        "thumbnail": "thumbnails/gobkit/Flyer/owl.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 310,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Owl by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Flyer/owl/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Flyer/owl/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Flyer/owl/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Flyer/owl/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Flyer/quail",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Quail",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a round blue-grey quail with a black face and a head plume",
+      "files": {
+        "model": "models/gobkit/Flyer/quail.glb",
+        "thumbnail": "thumbnails/gobkit/Flyer/quail.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.2
+      },
+      "budget": {
+        "triangles": 508,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Quail by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Flyer/quail/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Flyer/quail/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Flyer/quail/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Flyer/quail/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Flyer/seagull",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Seagull",
+      "themes": [
+        "animals",
+        "seaside"
+      ],
+      "description": "a round white seagull with grey wings and a yellow beak",
+      "files": {
+        "model": "models/gobkit/Flyer/seagull.glb",
+        "thumbnail": "thumbnails/gobkit/Flyer/seagull.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.35
+      },
+      "budget": {
+        "triangles": 330,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Seagull by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Flyer/seagull/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Flyer/seagull/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Flyer/seagull/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Flyer/seagull/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/boar",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Boar",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a chunky brown boar with white tusks",
+      "files": {
+        "model": "models/gobkit/Quadruped/boar.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/boar.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.9
+      },
+      "budget": {
+        "triangles": 380,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Boar by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/boar/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/boar/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/boar/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/boar/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/corgi",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Corgi",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a chunky orange and cream corgi with big ears",
+      "files": {
+        "model": "models/gobkit/Quadruped/corgi.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/corgi.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.35
+      },
+      "budget": {
+        "triangles": 508,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Corgi by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/corgi/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/corgi/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/corgi/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/corgi/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/dingo",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Dingo",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a chunky ginger dingo with a white chest",
+      "files": {
+        "model": "models/gobkit/Quadruped/dingo.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/dingo.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.6
+      },
+      "budget": {
+        "triangles": 414,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Dingo by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/dingo/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/dingo/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/dingo/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/dingo/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/goat",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Goat",
+      "themes": [
+        "animals",
+        "farm",
+        "mountains"
+      ],
+      "description": "a chunky cream goat with orange horns",
+      "files": {
+        "model": "models/gobkit/Quadruped/goat.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/goat.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.8
+      },
+      "budget": {
+        "triangles": 396,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Goat by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/goat/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/goat/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/goat/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/goat/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/hippo",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Hippo",
+      "themes": [
+        "animals",
+        "savanna",
+        "river"
+      ],
+      "description": "a chunky brown hippo with little tusks",
+      "files": {
+        "model": "models/gobkit/Quadruped/hippo.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/hippo.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.5
+      },
+      "budget": {
+        "triangles": 382,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Hippo by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/hippo/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/hippo/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/hippo/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/hippo/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/koala",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Koala",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a chunky grey koala with round ears and a black nose",
+      "files": {
+        "model": "models/gobkit/Quadruped/koala.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/koala.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.5
+      },
+      "budget": {
+        "triangles": 732,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Koala by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/koala/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/koala/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/koala/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/koala/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/marmot",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Marmot",
+      "themes": [
+        "animals",
+        "mountains"
+      ],
+      "description": "a chunky brown marmot with a dark back",
+      "files": {
+        "model": "models/gobkit/Quadruped/marmot.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/marmot.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.35
+      },
+      "budget": {
+        "triangles": 370,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Marmot by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/marmot/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/marmot/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/marmot/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/marmot/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/mole",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Mole",
+      "themes": [
+        "animals",
+        "garden"
+      ],
+      "description": "a round dark grey mole with a pink nose and big claws",
+      "files": {
+        "model": "models/gobkit/Quadruped/mole.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/mole.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.15
+      },
+      "budget": {
+        "triangles": 576,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Mole by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/mole/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/mole/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/mole/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/mole/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/platypus",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Platypus",
+      "themes": [
+        "animals",
+        "river"
+      ],
+      "description": "a round brown platypus with a flat bill",
+      "files": {
+        "model": "models/gobkit/Quadruped/platypus.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/platypus.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.2
+      },
+      "budget": {
+        "triangles": 504,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Platypus by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/platypus/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/platypus/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/platypus/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/platypus/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/rat",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Rat",
+      "themes": [
+        "animals",
+        "town"
+      ],
+      "description": "a round blue-grey rat with pink ears and whiskers",
+      "files": {
+        "model": "models/gobkit/Quadruped/rat.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/rat.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.15
+      },
+      "budget": {
+        "triangles": 308,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Rat by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/rat/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/rat/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/rat/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/rat/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/red-panda",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Red panda",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a chunky red panda with a white face and dark legs",
+      "files": {
+        "model": "models/gobkit/Quadruped/red-panda.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/red-panda.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 470,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Red panda by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/red-panda/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/red-panda/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/red-panda/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/red-panda/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/rhino",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Rhino",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a chunky blue-grey rhino with a white horn",
+      "files": {
+        "model": "models/gobkit/Quadruped/rhino.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/rhino.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.7
+      },
+      "budget": {
+        "triangles": 464,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Rhino by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/rhino/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/rhino/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/rhino/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/rhino/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/scorpion",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Scorpion",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "desert"
+      ],
+      "description": "a round orange-brown scorpion with a curled tail",
+      "files": {
+        "model": "models/gobkit/Quadruped/scorpion.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/scorpion.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.08
+      },
+      "budget": {
+        "triangles": 720,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Scorpion by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/scorpion/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/scorpion/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/scorpion/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/scorpion/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/sea-otter",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Sea otter",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a chunky brown sea otter with a pale face",
+      "files": {
+        "model": "models/gobkit/Quadruped/sea-otter.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/sea-otter.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 696,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Sea otter by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/sea-otter/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/sea-otter/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/sea-otter/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/sea-otter/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Quadruped/tasmanian-devil",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Tasmanian devil",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a chunky black Tasmanian devil with pink ears and sharp teeth",
+      "files": {
+        "model": "models/gobkit/Quadruped/tasmanian-devil.glb",
+        "thumbnail": "thumbnails/gobkit/Quadruped/tasmanian-devil.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 606,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Tasmanian devil by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Quadruped/tasmanian-devil/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Quadruped/tasmanian-devil/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Quadruped/tasmanian-devil/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Quadruped/tasmanian-devil/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Swimmer/anglerfish",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Anglerfish",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round pink anglerfish with a glowing lure on its head",
+      "files": {
+        "model": "models/gobkit/Swimmer/anglerfish.glb",
+        "thumbnail": "thumbnails/gobkit/Swimmer/anglerfish.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 266,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Anglerfish by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Swimmer/anglerfish/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Swimmer/anglerfish/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Swimmer/anglerfish/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Swimmer/anglerfish/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Swimmer/jellyfish",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Jellyfish",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round blue jellyfish with short tentacles",
+      "files": {
+        "model": "models/gobkit/Swimmer/jellyfish.glb",
+        "thumbnail": "thumbnails/gobkit/Swimmer/jellyfish.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 428,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Jellyfish by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Swimmer/jellyfish/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Swimmer/jellyfish/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Swimmer/jellyfish/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Swimmer/jellyfish/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Swimmer/narwhal",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Narwhal",
+      "themes": [
+        "animals",
+        "sea",
+        "polar"
+      ],
+      "description": "a round grey narwhal with a long tusk",
+      "files": {
+        "model": "models/gobkit/Swimmer/narwhal.glb",
+        "thumbnail": "thumbnails/gobkit/Swimmer/narwhal.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.7
+      },
+      "budget": {
+        "triangles": 572,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Narwhal by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Swimmer/narwhal/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Swimmer/narwhal/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Swimmer/narwhal/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Swimmer/narwhal/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Swimmer/pufferfish",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Pufferfish",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round dark grey and pink pufferfish with little spikes",
+      "files": {
+        "model": "models/gobkit/Swimmer/pufferfish.glb",
+        "thumbnail": "thumbnails/gobkit/Swimmer/pufferfish.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 256,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Pufferfish by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Swimmer/pufferfish/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Swimmer/pufferfish/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Swimmer/pufferfish/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Swimmer/pufferfish/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Swimmer/seal",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Seal",
+      "themes": [
+        "animals",
+        "sea",
+        "polar"
+      ],
+      "description": "a round lilac-grey seal with whiskers",
+      "files": {
+        "model": "models/gobkit/Swimmer/seal.glb",
+        "thumbnail": "thumbnails/gobkit/Swimmer/seal.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.6
+      },
+      "budget": {
+        "triangles": 398,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Seal by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Swimmer/seal/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Swimmer/seal/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Swimmer/seal/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Swimmer/seal/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Swimmer/shark",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Shark",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round blue shark with a big fin",
+      "files": {
+        "model": "models/gobkit/Swimmer/shark.glb",
+        "thumbnail": "thumbnails/gobkit/Swimmer/shark.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.8
+      },
+      "budget": {
+        "triangles": 286,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Shark by Gobkit, Free Animal Pack (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Swimmer/shark/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Swimmer/shark/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Swimmer/shark/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Swimmer/shark/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "gobkit/Swimmer/whale",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Whale",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round blue whale with a pale belly",
+      "files": {
+        "model": "models/gobkit/Swimmer/whale.glb",
+        "thumbnail": "thumbnails/gobkit/Swimmer/whale.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.2
+      },
+      "budget": {
+        "triangles": 272,
+        "textureMaxPx": 512
+      },
+      "licence": "CC0-1.0",
+      "credit": "Whale by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "source": {
+        "url": "https://gobkit.com/freebies",
+        "retrieved": "2026-11-20"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/gobkit/Swimmer/whale/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/gobkit/Swimmer/whale/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/gobkit/Swimmer/whale/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/gobkit/Swimmer/whale/back.svg"
+        }
+      ]
+    },
+    {
       "id": "kaykit/Biped/barbarian",
       "section": "cast",
       "class": "Biped",

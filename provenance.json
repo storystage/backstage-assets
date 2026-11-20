@@ -23,6 +23,922 @@
       "animations": []
     }
   },
+  "gobkit/Flyer/bat": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/bat.glb",
+        "sha256": "1a4317609094c64d3f751adb9150df628aaf7902f7440174afcb642c30e0e072"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 376,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 376,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/bee": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/bee.glb",
+        "sha256": "e1ad6d56297c4f9c04c6e2978df3d1fd232de19acce9c0a4eb4d5b150bb821aa"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 328,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 328,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/blue-bird": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/blue-bird.glb",
+        "sha256": "79769b2ef413ca7532a94c8332cbc22664a12a4be07e940fd58bd2194c2f35c8"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 384,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 384,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/chick": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/chick.glb",
+        "sha256": "c74b1e07f052eb4a75b959abe5691cdf937971c18bfc58fab36536a4abf7c090"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 316,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 316,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/duck": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/duck.glb",
+        "sha256": "6550a5807bc83edbadec0759155b3d9242b6ce6b980213a3872b49db80dfd579"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 508,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 508,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/owl": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/owl.glb",
+        "sha256": "b0d06b3319dee88393f339a03c060178e453f91bd422a997c1ac3cd63e5661b3"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 310,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 310,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/quail": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/quail.glb",
+        "sha256": "462d5980c6ae0ee922e5ddd20eacccda4ff08bdd1d5baf0d767085179b6feeb1"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 508,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 508,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/seagull": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/seagull.glb",
+        "sha256": "2909080ed283b9c4eb4cde5d46743bd623cd26e37a868ba62a0db5ca1d591eab"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 330,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 330,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/boar": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/boar.glb",
+        "sha256": "b1ffefd7e63870c50e79ef9c5ce892e403d66189147a9bbfc00bb5f442841377"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 380,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 380,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/corgi": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/corgi.glb",
+        "sha256": "95cd2c4d53d70ee9dd2e1329dcb6de7d4a725301d504a4f2f00ecb34dc1a0851"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 508,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 508,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/dingo": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/dingo.glb",
+        "sha256": "75e8bfe22ecffe2a96dc032b6fa15b57a07c777826b5c6e939f649643e9046ce"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 414,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 414,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/goat": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/goat.glb",
+        "sha256": "6e5e7524bec0373445136b6c814d93f57992d094a1b72fce27a0040bc4f9830b"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 396,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 396,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/hippo": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/hippo.glb",
+        "sha256": "6a911f141482994f890911429e0863353a10fb567822e553b91a273e0fb1d5bd"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 382,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 382,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/koala": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/koala.glb",
+        "sha256": "41e008751c798c662560fc0da4711c1beb8a69d9ac515a72cb812020448f7f6c"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 732,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 732,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/marmot": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/marmot.glb",
+        "sha256": "6771dc7717702492845b1cd3c40702a8edadf6df038f2efef2eaee9c43287be6"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 370,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 370,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/mole": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/mole.glb",
+        "sha256": "d2abd76c175dc910a1b836cabe1cb18836ef3c41f7c331d0412cd0795668b0d8"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 576,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 576,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/platypus": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/platypus.glb",
+        "sha256": "9d5e67a5147dabe04c5e3f677b10aa8042ed4efe337378bccc3b7dd6338d99b6"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 504,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 504,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/rat": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/rat.glb",
+        "sha256": "0a5b9d57a5a7b3362850dc0ebe84ce113ce48e10e553eba79f86294586793985"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 308,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 308,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/red-panda": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/red-panda.glb",
+        "sha256": "412df0483b64f3339dfa8405c75c194effb90b72bb279bd233bfb4653d70c7a8"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 470,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 470,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/rhino": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/rhino.glb",
+        "sha256": "65cea4e6533e50d00efdde03de3e792f7337736d97b8f8c8f8b12c4bc0ee5017"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 464,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 464,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/scorpion": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/scorpion.glb",
+        "sha256": "6e50166b3efe1e95e714009125e332af89af575d5cadebfce40db08dac6eab0a"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 720,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 720,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/sea-otter": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/sea-otter.glb",
+        "sha256": "27f54f879846af5ca48419da73a9e92e3b8c107b0cb0f0eabf8c89c99e99569f"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 696,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 696,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/tasmanian-devil": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/tasmanian-devil.glb",
+        "sha256": "e02ec4e264812692c86528cb36e1d6c2fbb3447aefea184b279f834f40f1b67a"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 606,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 606,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/anglerfish": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/anglerfish.glb",
+        "sha256": "8d07bd212527ec2e0ba2d42367dcf65ae91eb35538fb3b57a2bfd8e1d8ac60fa"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 266,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 266,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/jellyfish": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/jellyfish.glb",
+        "sha256": "b0625fa8a726c594afc47a317b997d98da97b163fe551b15e32262854c99ea46"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 428,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 428,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/narwhal": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/narwhal.glb",
+        "sha256": "f3497a82d21198bc19be7dee07718d95bc9db29d6191d61cb51c8720cc7d9769"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 572,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 572,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/pufferfish": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/pufferfish.glb",
+        "sha256": "d9cafd1a354abc92f0e20e3f7fa78efa90402d4e8193ec21c14bea6b3eb921c7"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 256,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 256,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/seal": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/seal.glb",
+        "sha256": "4ffe3fe0536e1c380ae2995b8012e90417094c96114bf2be61bc27780a1645ef"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 398,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 398,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/shark": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/shark.glb",
+        "sha256": "0fc450c99f0fd9f2e5d774ef58cd42b8d8d927bed138444254204b366595dc42"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 286,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 286,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/whale": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/whale.glb",
+        "sha256": "2d46053e4c4a4287dc20019e68b1072ea880ef1ea28f5ec85f9f9eac212153c7"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 272,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 272,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
   "kaykit/Biped/barbarian": {
     "source": "kaykit",
     "fetched": [
