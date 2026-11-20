@@ -23,6 +23,922 @@
       "animations": []
     }
   },
+  "gobkit/Flyer/bat": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/bat.glb",
+        "sha256": "1a4317609094c64d3f751adb9150df628aaf7902f7440174afcb642c30e0e072"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 376,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 376,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/bee": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/bee.glb",
+        "sha256": "e1ad6d56297c4f9c04c6e2978df3d1fd232de19acce9c0a4eb4d5b150bb821aa"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 328,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 328,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/blue-bird": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/blue-bird.glb",
+        "sha256": "79769b2ef413ca7532a94c8332cbc22664a12a4be07e940fd58bd2194c2f35c8"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 384,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 384,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/chick": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/chick.glb",
+        "sha256": "c74b1e07f052eb4a75b959abe5691cdf937971c18bfc58fab36536a4abf7c090"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 316,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 316,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/duck": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/duck.glb",
+        "sha256": "6550a5807bc83edbadec0759155b3d9242b6ce6b980213a3872b49db80dfd579"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 508,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 508,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/owl": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/owl.glb",
+        "sha256": "b0d06b3319dee88393f339a03c060178e453f91bd422a997c1ac3cd63e5661b3"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 310,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 310,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/quail": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/quail.glb",
+        "sha256": "462d5980c6ae0ee922e5ddd20eacccda4ff08bdd1d5baf0d767085179b6feeb1"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 508,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 508,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Flyer/seagull": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/seagull.glb",
+        "sha256": "2909080ed283b9c4eb4cde5d46743bd623cd26e37a868ba62a0db5ca1d591eab"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 330,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 330,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "leftWingShoulder",
+      "rightWingShoulder"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/boar": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/boar.glb",
+        "sha256": "b1ffefd7e63870c50e79ef9c5ce892e403d66189147a9bbfc00bb5f442841377"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 380,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 380,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/corgi": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/corgi.glb",
+        "sha256": "95cd2c4d53d70ee9dd2e1329dcb6de7d4a725301d504a4f2f00ecb34dc1a0851"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 508,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 508,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/dingo": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/dingo.glb",
+        "sha256": "75e8bfe22ecffe2a96dc032b6fa15b57a07c777826b5c6e939f649643e9046ce"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 414,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 414,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/goat": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/goat.glb",
+        "sha256": "6e5e7524bec0373445136b6c814d93f57992d094a1b72fce27a0040bc4f9830b"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 396,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 396,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/hippo": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/hippo.glb",
+        "sha256": "6a911f141482994f890911429e0863353a10fb567822e553b91a273e0fb1d5bd"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 382,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 382,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/koala": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/koala.glb",
+        "sha256": "41e008751c798c662560fc0da4711c1beb8a69d9ac515a72cb812020448f7f6c"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 732,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 732,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/marmot": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/marmot.glb",
+        "sha256": "6771dc7717702492845b1cd3c40702a8edadf6df038f2efef2eaee9c43287be6"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 370,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 370,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/mole": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/mole.glb",
+        "sha256": "d2abd76c175dc910a1b836cabe1cb18836ef3c41f7c331d0412cd0795668b0d8"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 576,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 576,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/platypus": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/platypus.glb",
+        "sha256": "9d5e67a5147dabe04c5e3f677b10aa8042ed4efe337378bccc3b7dd6338d99b6"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 504,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 504,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/rat": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/rat.glb",
+        "sha256": "0a5b9d57a5a7b3362850dc0ebe84ce113ce48e10e553eba79f86294586793985"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 308,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 308,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/red-panda": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/red-panda.glb",
+        "sha256": "412df0483b64f3339dfa8405c75c194effb90b72bb279bd233bfb4653d70c7a8"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 470,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 470,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/rhino": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/rhino.glb",
+        "sha256": "65cea4e6533e50d00efdde03de3e792f7337736d97b8f8c8f8b12c4bc0ee5017"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 464,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 464,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/scorpion": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/scorpion.glb",
+        "sha256": "6e50166b3efe1e95e714009125e332af89af575d5cadebfce40db08dac6eab0a"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 720,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 720,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/sea-otter": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/sea-otter.glb",
+        "sha256": "27f54f879846af5ca48419da73a9e92e3b8c107b0cb0f0eabf8c89c99e99569f"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 696,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 696,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Quadruped/tasmanian-devil": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/tasmanian-devil.glb",
+        "sha256": "e02ec4e264812692c86528cb36e1d6c2fbb3447aefea184b279f834f40f1b67a"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 606,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 606,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase",
+      "frontLeftShoulder",
+      "frontLeftKnee",
+      "frontRightShoulder",
+      "frontRightKnee",
+      "backLeftHip",
+      "backLeftKnee",
+      "backRightHip",
+      "backRightKnee"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/anglerfish": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/anglerfish.glb",
+        "sha256": "8d07bd212527ec2e0ba2d42367dcf65ae91eb35538fb3b57a2bfd8e1d8ac60fa"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 266,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 266,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/jellyfish": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/jellyfish.glb",
+        "sha256": "b0625fa8a726c594afc47a317b997d98da97b163fe551b15e32262854c99ea46"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 428,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 428,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/narwhal": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/narwhal.glb",
+        "sha256": "f3497a82d21198bc19be7dee07718d95bc9db29d6191d61cb51c8720cc7d9769"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 572,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 572,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/pufferfish": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/pufferfish.glb",
+        "sha256": "d9cafd1a354abc92f0e20e3f7fa78efa90402d4e8193ec21c14bea6b3eb921c7"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 256,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 256,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/seal": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/seal.glb",
+        "sha256": "4ffe3fe0536e1c380ae2995b8012e90417094c96114bf2be61bc27780a1645ef"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 398,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 398,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/shark": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/shark.glb",
+        "sha256": "0fc450c99f0fd9f2e5d774ef58cd42b8d8d927bed138444254204b366595dc42"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 286,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 286,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "gobkit/Swimmer/whale": {
+    "source": "gobkit",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/8d82f5c443810934abd5baf23883cdf387bd4027/originals/gobkit/whale.glb",
+        "sha256": "2d46053e4c4a4287dc20019e68b1072ea880ef1ea28f5ec85f9f9eac212153c7"
+      }
+    ],
+    "retrieved": "2026-11-20",
+    "vrm": null,
+    "triangles": 272,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 272,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "prop-only",
+    "missingJoints": [
+      "spineBase"
+    ],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
   "kaykit/Biped/barbarian": {
     "source": "kaykit",
     "fetched": [
@@ -31,7 +947,7 @@
         "sha256": "cefc311a0e10c7858b6141f5ada7e33268727564fb8ac1347aab97d000669cc6"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5203,
     "textureMaxPx": 1024,
@@ -96,7 +1012,7 @@
         "sha256": "60428e3abc09ba83e595d256e3af8c5c976b46cdae599f0802fc82b4a3445168"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4712,
     "textureMaxPx": 1024,
@@ -164,7 +1080,7 @@
         "sha256": "cf898585da33fab50c724d31605fb931eb2912e6d2280092141e98ca81ad507d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4509,
     "textureMaxPx": 1024,
@@ -229,7 +1145,7 @@
         "sha256": "e825437cd4d2ee9c1960b517a74a69101e33eb409ae7fa8cedc7134a998fbb7d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4347,
     "textureMaxPx": 1024,
@@ -295,7 +1211,7 @@
         "sha256": "93e6e25213009952276d9cf34f5d96a243767334c66f280db0433ddfabb91545"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4005,
     "textureMaxPx": 1024,
@@ -361,7 +1277,7 @@
         "sha256": "e05b0f5cfa395271c9f75fd07c0a0613c56f401ece4ab644e080001a79971075"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4588,
     "textureMaxPx": 1024,
@@ -425,7 +1341,7 @@
         "sha256": "6ffc003f895bed0b074791e0e490846210a2e2f8fc7da300aba53cc185f95968"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5288,
     "textureMaxPx": 1024,
@@ -489,7 +1405,7 @@
         "sha256": "4003f2b77891bb56f7e0de7d555abcb497aebbcaee35b614211f16275f9ccae3"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5278,
     "textureMaxPx": 1024,
@@ -553,7 +1469,7 @@
         "sha256": "178b6fda810b814c250d8a2010c24dfd9b458b9006dd323353e620b7ff118bbe"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5934,
     "textureMaxPx": 1024,
@@ -625,7 +1541,7 @@
         "sha256": "7329b2ff9709e8d54c886d5ef49c08bd42b12be3bbb2facb1488a6b48b1e8a80"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 426,
     "textureMaxPx": 1024,
@@ -1537,7 +2453,7 @@
         "sha256": "6e77db4fc90b54f0e2c7bfbce5c8f547b3c79b8830a8e645400b2422ace6c10d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 11210,
     "textureMaxPx": 1024,
@@ -1561,7 +2477,7 @@
         "sha256": "bbe5229cf29f8459ffc3532ae18a0960e89a994e019e541c450fd4cbb5926aad"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 7666,
     "textureMaxPx": 1024,
@@ -1585,7 +2501,7 @@
         "sha256": "51d8b4914fae85524ed8d9600ead48e6f71eaec8f8d211dd0d3fc95abdee5e45"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 10340,
     "textureMaxPx": 1024,
@@ -1609,7 +2525,7 @@
         "sha256": "8694d2a0c09014524d5bc7fdf870f55b6efb8dbd5b399d91bde353b779502779"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 11698,
     "textureMaxPx": 1024,
@@ -1633,7 +2549,7 @@
         "sha256": "816f3e995740291a008125796e6aa013d0deeb967ed258debc0b84233b19fa31"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 4476,
     "textureMaxPx": 1024,
@@ -1657,7 +2573,7 @@
         "sha256": "1cb8218610deafc0fd4608507fc52cf3303de84b0f641b9a452efb5e8a0e6f23"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 4350,
     "textureMaxPx": 1024,
@@ -1681,7 +2597,7 @@
         "sha256": "f3af4ebdcf83c2980c4397ee7511edb7e646d0ea5abaac32c12a63fa8d5adb80"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 8166,
     "textureMaxPx": 1024,
@@ -1705,7 +2621,7 @@
         "sha256": "9c46e1266f044395dc82b6fe64e241b93c91b91c0bf0fbc878fba384b7dcb67f"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14288,
     "textureMaxPx": 1024,
@@ -1729,7 +2645,7 @@
         "sha256": "c73eb68e06024e3234b574b38ccfb05bcd2fbaeaebb41043700232e4d6eead80"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14814,
     "textureMaxPx": 1024,
@@ -1753,7 +2669,7 @@
         "sha256": "f84b31d5c9820a26319661fd4f4883a0bca82a58539e3304f5acfdf84ab3a6f9"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 13916,
     "textureMaxPx": 1024,
@@ -1777,7 +2693,7 @@
         "sha256": "ccca7bd482daf36a365bd29a39df55027cc1dcf5268bffb74224fc834430ef71"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 6724,
     "textureMaxPx": 1024,
@@ -1801,7 +2717,7 @@
         "sha256": "48b079675d9569d9d31e9b320e59df00113f3481c55c04021c7fe4af1b571b9d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 6046,
     "textureMaxPx": 1024,
@@ -1825,7 +2741,7 @@
         "sha256": "6560fcb630f19ceca6a7647728a9b6fd693fa5a29e7c6095a4ef20f746bef677"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 10564,
     "textureMaxPx": 1024,
@@ -1849,7 +2765,7 @@
         "sha256": "511fc242cbf5b202a97961deedebb3caeb28de81c1cd23eb5ae307be9f3cd77f"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14506,
     "textureMaxPx": 1024,
@@ -1873,7 +2789,7 @@
         "sha256": "5705ff7206a2e982d51d84b0e0c24a5a87383aba5f1df272b310092c15a34cc7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14996,
     "textureMaxPx": 1024,
@@ -1897,7 +2813,7 @@
         "sha256": "01aa04cf4c6bc699c4086654084654acd5a163a8d8a2fa563f31988dd735a9f2"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 8134,
     "textureMaxPx": 1024,
@@ -1921,7 +2837,7 @@
         "sha256": "840ee3a67c20a4f22c4bf6e7722370574999933a50352aba6ad001671aeb4f89"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 8030,
     "textureMaxPx": 1024,
@@ -1945,7 +2861,7 @@
         "sha256": "23c1365ac269b8c860ddda466456b74bf65492a4f7fbca91c2273900f5363dab"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 6984,
     "textureMaxPx": 1024,
@@ -1969,7 +2885,7 @@
         "sha256": "58639709be9dbc9be9accf6c344fd0cbe7463f7308534458ab9d2c18e1dbef5a"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 7810,
     "textureMaxPx": 1024,
@@ -1993,7 +2909,7 @@
         "sha256": "b79729ca9aabb9f1846cb7189b11f585602f0d307c748ea19e047c4ce82780a7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 2740,
     "textureMaxPx": 1024,
@@ -2017,7 +2933,7 @@
         "sha256": "439a83ab84a7968d91e5339ff5a92772a55be25309e10d80cc7dd15b20027b6b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 7724,
     "textureMaxPx": 1024,
@@ -2041,7 +2957,7 @@
         "sha256": "e100faa525711214fbfe5d395a77b9e0659e087d74a4a572e7fc3b7bbad3750f"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 12974,
     "textureMaxPx": 1024,
@@ -2065,7 +2981,7 @@
         "sha256": "8a74b41a2d34e62ef0d1a66444ede7b5b64f8443d69f50409ede29cb3940d6fb"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14442,
     "textureMaxPx": 1024,
@@ -2089,7 +3005,7 @@
         "sha256": "279a750ef85613a858685db80bb151ea6d9f13b5f14fbaf6eecc52c66cbff0cd"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14916,
     "textureMaxPx": 1024,
@@ -2113,7 +3029,7 @@
         "sha256": "173df6d2fc4d9d4249dc3001966a35d97fa857c2942e63eef3a81ef157fd6a62"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 4544,
     "textureMaxPx": 1024,
@@ -2137,7 +3053,7 @@
         "sha256": "3e7cc83d013c2fbf4f3ee8e52196743df5c37e55ce7c8f04b4109010fff808a7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 7676,
     "textureMaxPx": 1024,
@@ -2161,7 +3077,7 @@
         "sha256": "c8173ab81832deb5be13af1dee6d5ed9dc206f3f70a52ab52df179414a072104"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 4120,
     "textureMaxPx": 1024,
@@ -2185,7 +3101,7 @@
         "sha256": "471367347cbea9740cdc769ad35d38ce2f4144510b6c825d845dc83dd6890b0d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 6606,
     "textureMaxPx": 1024,
@@ -2209,7 +3125,7 @@
         "sha256": "770645ccd879b9d0d5f5297270bd6395553ea9b072a5256e02883da7b07765aa"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 11613,
     "textureMaxPx": 1024,
@@ -2233,7 +3149,7 @@
         "sha256": "f196556919b3ae9d6d26262362b61904424e83749d2fa37b28bde57e7caccc7e"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 7679,
     "textureMaxPx": 1024,
@@ -2257,7 +3173,7 @@
         "sha256": "a872250ffcc5331eea5dfe73674ff2a7998b15d57642636bfa5120ddf08af2b5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 12679,
     "textureMaxPx": 1024,
@@ -2281,7 +3197,7 @@
         "sha256": "4b471b59517733b2f3804acc80e8ea485260efb956a5c950221e4e1ff30860e2"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14338,
     "textureMaxPx": 1024,
@@ -2305,7 +3221,7 @@
         "sha256": "0eb3a2b133dd952684c79f8fdd166609f824f924416b9ee08eeb4a40a6c8148b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 11984,
     "textureMaxPx": 1024,
@@ -2329,7 +3245,7 @@
         "sha256": "728c9bdcd5b89bc3022434c8f7875d3bd5738cae9c9540156607ade839fdb854"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 10508,
     "textureMaxPx": 1024,
@@ -2353,7 +3269,7 @@
         "sha256": "1640fa831469ac10742e6564bbb80ec3d6f52dedc401d3ee9e792a41c6c71d88"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14032,
     "textureMaxPx": 1024,
@@ -2377,7 +3293,7 @@
         "sha256": "d8075d82ead901be80aa2d7147b59c12a4e0ac8866fbc3ec79e281a82e5d404e"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 5016,
     "textureMaxPx": 1024,
@@ -2401,7 +3317,7 @@
         "sha256": "1ad61e3cda6b58b2d0780e42c6310083fbba7ae40585231cbdd855c9f039179e"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 7172,
     "textureMaxPx": 1024,
@@ -2425,7 +3341,7 @@
         "sha256": "371f0d06d1a06df1294da498e00db654693d78cb6b40b6ddd40f839f4d242fae"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14948,
     "textureMaxPx": 1024,
@@ -2449,7 +3365,7 @@
         "sha256": "81cfbb98d4214b930db7b4916c854c5d31f952b18ce2887118c3ddcdc5fe930d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 5316,
     "textureMaxPx": 1024,
@@ -2473,7 +3389,7 @@
         "sha256": "a5a48a0660ac7d879a4589a88ab6a50a623c712db648fa0d5fe66dfe5bbd5dbb"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 6188,
     "textureMaxPx": 1024,
@@ -2497,7 +3413,7 @@
         "sha256": "2c6b9f8f417e2cfe9770cdd279bfadaca34fd54f68de39192aca86bbfd886c30"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14547,
     "textureMaxPx": 1024,
@@ -2521,7 +3437,7 @@
         "sha256": "7942ce4c0c6880bfb9596cb24f8941f158ed9e6d2ad253fb5f3b32b84c20557c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 4156,
     "textureMaxPx": 1024,
@@ -2545,7 +3461,7 @@
         "sha256": "ec7770601b1e060e5710e5e7bfb3c597d395fffc90e3c60ef32fcd60f85afc48"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 4576,
     "textureMaxPx": 1024,
@@ -2569,7 +3485,7 @@
         "sha256": "8b352a932c990f3a9d7b57df3d801fd0744fda0fe2798c68e5bfaec027b71673"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 13007,
     "textureMaxPx": 1024,
@@ -2593,7 +3509,7 @@
         "sha256": "b47145aa3354f5c00000047735377ea602d345ea498e05a28584f786e628b8ed"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14992,
     "textureMaxPx": 1024,
@@ -2617,7 +3533,7 @@
         "sha256": "ac2030d23c791065e5cd596e251257269bc55b8c76b29a6ebf183bcfe8c7c1f7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 4032,
     "textureMaxPx": 1024,
@@ -2641,7 +3557,7 @@
         "sha256": "48fbb80dfd25e488371f85175ac5ea1821785f710355a7cc82f4ae273cd4c150"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 10200,
     "textureMaxPx": 1024,
@@ -2665,7 +3581,7 @@
         "sha256": "e6af084379083f37d2f2294a31f0825616369d8dff978454a6fe59a65ad4e6d1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 10658,
     "textureMaxPx": 1024,
@@ -2689,7 +3605,7 @@
         "sha256": "b23fb13fbd1e79cc51b71745c332a45b4555d9190207ea2123d367a40f7d0bf1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 15770,
     "textureMaxPx": 1024,
@@ -2713,7 +3629,7 @@
         "sha256": "8e2f691e831b0cf12c0465f46e37c1919e53adb80f6be2e5876dced9d7064b31"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 12064,
     "textureMaxPx": 1024,
@@ -2737,7 +3653,7 @@
         "sha256": "a654eda4fa660b39e6c53f93e066a4e5d998c4cbeb709214ef1a6a3a8d825f64"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14190,
     "textureMaxPx": 1024,
@@ -2761,7 +3677,7 @@
         "sha256": "9fae020c4392512211a5cc44ac947bcf1a31f0b818dea051d7b82e4d67a37896"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 5778,
     "textureMaxPx": 1024,
@@ -2785,7 +3701,7 @@
         "sha256": "a64f91db1754e02bc419e7adee494f14174d9e99f54f6afc6d6b5beca388c12c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 11182,
     "textureMaxPx": 1024,
@@ -2809,7 +3725,7 @@
         "sha256": "9f287e57a973b245365d7252bc6852c6c29904f8bb09e291f58cbee9a3f1298c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 13663,
     "textureMaxPx": 1024,
@@ -2833,7 +3749,7 @@
         "sha256": "3af7fdd5af566f74056b535e15dafd89b3762421e758501255d283f7f4e32f52"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 11110,
     "textureMaxPx": 1024,
@@ -2857,7 +3773,7 @@
         "sha256": "95d9f7cbf72ee5d46d15f932c8ee5d1986d70242589ad2efadfe81a2089da98f"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 13504,
     "textureMaxPx": 1024,
@@ -2881,7 +3797,7 @@
         "sha256": "0d1169442836b3a348f8d9c17672bec1d7501d92b83e040ca1d0c5eb3cee225c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 7014,
     "textureMaxPx": 1024,
@@ -2905,7 +3821,7 @@
         "sha256": "ada231a97a93df38f5337edc10be6ce646a93da86fecdf241ad4a85583e54ff0"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 5144,
     "textureMaxPx": 1024,
@@ -2929,7 +3845,7 @@
         "sha256": "404e6549cfff0734ac0279af55ce9b262747c1a78430516a23f8a01ba7879283"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 10350,
     "textureMaxPx": 1024,
@@ -2953,7 +3869,7 @@
         "sha256": "a20e3db072640b96f7d9089c1f7efd9962ce603d4a6f42d1cebe74c0e84fc9e7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 11078,
     "textureMaxPx": 1024,
@@ -2977,7 +3893,7 @@
         "sha256": "2fd3ae5a324c50f9ae34f2b9a1171cd94957f0ee37b525c26b3baceb9ec0cc22"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 7992,
     "textureMaxPx": 1024,
@@ -3001,7 +3917,7 @@
         "sha256": "e863f0b89e3ce6d5be835da960101b6c1065146aa4f3bf83dcb6d2d8368e84cd"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 10310,
     "textureMaxPx": 1024,
@@ -3025,7 +3941,7 @@
         "sha256": "f8c287c06c8403204fbf5832f598de242052bafb685447f1b81afd7f225f2def"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 8920,
     "textureMaxPx": 1024,
@@ -3049,7 +3965,7 @@
         "sha256": "840af4a968e69864de98a1c6c128b2664b4105691ea26a04202a0caad3a290c5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 11380,
     "textureMaxPx": 1024,
@@ -3073,7 +3989,7 @@
         "sha256": "929ca4f382941cf80ecef0340a5a2af661bb08f90ad3b04a547dd1b4f0324104"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 8858,
     "textureMaxPx": 1024,
@@ -3097,7 +4013,7 @@
         "sha256": "183a11306c9598a1b06b7b72a5ae1204a083a2d2eabccfbd14fdd6431121f5a3"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14466,
     "textureMaxPx": 1024,
@@ -3121,7 +4037,7 @@
         "sha256": "f72f70c013c14589125527490f97fcff8caaa74c462ea5e0ddfceb7254110ef1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 11223,
     "textureMaxPx": 1024,
@@ -3145,7 +4061,7 @@
         "sha256": "7167d50eb9fae3d3e0453ab6ab2e26b777452b5e0dc41108dfa162a3a061efd2"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 10426,
     "textureMaxPx": 1024,
@@ -3169,7 +4085,7 @@
         "sha256": "29da9b84b751602c5adbae8e0d5acd7cef1687b4cd1f7ac2a3748003cf575d32"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 4956,
     "textureMaxPx": 1024,
@@ -3193,7 +4109,7 @@
         "sha256": "24b15dc1760749d2f048f2cf557216ed2666f4b02c2b8d959a7d385583bd8ba8"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14216,
     "textureMaxPx": 1024,
@@ -3217,7 +4133,7 @@
         "sha256": "61b8302efc47ecf44b10d3d07c1c42b916ab45c1285ab5661ea768ecce84561c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 8830,
     "textureMaxPx": 1024,
@@ -3241,7 +4157,7 @@
         "sha256": "e54a2a760f1c6f1d4c8b3d2ecd98728117fdb003fc9949994bb1f6af16a57702"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 10576,
     "textureMaxPx": 1024,
@@ -3265,7 +4181,7 @@
         "sha256": "cea7306e79bef4183b1da92107e6b37b253138bd03724b385c71a080e0adac82"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 15227,
     "textureMaxPx": 1024,
@@ -3289,7 +4205,7 @@
         "sha256": "d2597a8e0f6fbfc6c1e77886b737cea9cd9d2640474dc5cb5eafc847376a2473"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 3888,
     "textureMaxPx": 1024,
@@ -3313,7 +4229,7 @@
         "sha256": "c81006db669a2631c39bcec9f59cbb08e5eb2a2087ada5ea32b9fe5f13f5e18d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14240,
     "textureMaxPx": 1024,
@@ -3337,7 +4253,7 @@
         "sha256": "5e58d13c0ceaa3421c95fb5858e2d43a3748e7a695051168bfed965e1f72c2c3"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 15858,
     "textureMaxPx": 1024,
@@ -3361,7 +4277,7 @@
         "sha256": "6f240fabc4cf08630e74861823c9807a3fa2dd0e0f37e1a147a5881cf2e50ca9"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 8706,
     "textureMaxPx": 1024,
@@ -3385,7 +4301,7 @@
         "sha256": "e255bace0d7de8b5fc90756efc83e167080e6db97692f23623fec5f1c67c423d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 2130,
     "textureMaxPx": 1024,
@@ -3409,7 +4325,7 @@
         "sha256": "12f901d99129324664e7b1af315655a6d80082b1f227f3c36020110b7f626aaf"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 12324,
     "textureMaxPx": 1024,
@@ -3433,7 +4349,7 @@
         "sha256": "4e60df946226f3e2b9b0baca9d16a2998e92200444d1afe8428897fcf23f0e6e"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 12299,
     "textureMaxPx": 1024,
@@ -3457,7 +4373,7 @@
         "sha256": "5e3edaf330577ee4c3f6440b8989af3722e7c800bb90eb037f1c05cdfe61fd7c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 4732,
     "textureMaxPx": 1024,
@@ -3481,7 +4397,7 @@
         "sha256": "8e44e5638ffdf935e5d6fa990aa6cba428269f342f2db024c2961ee286a41e5f"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 5622,
     "textureMaxPx": 1024,
@@ -3505,7 +4421,7 @@
         "sha256": "bc3adcd969be881faf965649d4ebdbaef6d5aea49813979944e51211a0df795b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 9530,
     "textureMaxPx": 1024,
@@ -3529,7 +4445,7 @@
         "sha256": "116c5214a1ebcc025ca5722390614eaccaaa4dcdfd7ce1bcb052a21ce27a2dbc"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 9644,
     "textureMaxPx": 1024,
@@ -3553,7 +4469,7 @@
         "sha256": "c53c38a6ccb305281e1b3e820d8b5c69baa69a2c7dd0b726d87c4c6992a9fe39"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 9964,
     "textureMaxPx": 1024,
@@ -3577,7 +4493,7 @@
         "sha256": "4621426772853e3019b47adcf0ae696f69e046d68e0a67e75b120b941fa8997d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 6906,
     "textureMaxPx": 1024,
@@ -3601,7 +4517,7 @@
         "sha256": "2ac65f8aa41ba765bbf4a76d06a121130705f726f629b9115d2693338824f42d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 9066,
     "textureMaxPx": 1024,
@@ -3625,7 +4541,7 @@
         "sha256": "5d68db0ff969a158fa9c76f0cef523010051fa3be9565bf6e101989aa0fc5a83"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 7156,
     "textureMaxPx": 1024,
@@ -3649,7 +4565,7 @@
         "sha256": "68e0f644a8d6d250b741337b25dff188ed45a425b9658d6f42106931157e9bc8"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 3068,
     "textureMaxPx": 1024,
@@ -3673,7 +4589,7 @@
         "sha256": "f3530b7f54dd3c3cce15bdddb38c6c008a7b4cfd859f63a74c8d3dcc24106275"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 12889,
     "textureMaxPx": 1024,
@@ -3697,7 +4613,7 @@
         "sha256": "3cc9b73c1bf166ebcdaaa9e7922d92af147b0c90ab8fc1419c9b56c07ee4e87a"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 9488,
     "textureMaxPx": 1024,
@@ -3721,7 +4637,7 @@
         "sha256": "f7fe7d5a4d8ed70c8f58eb191856f51cf4da0b03ff9573070d59a84f65f7b3f5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 14566,
     "textureMaxPx": 1024,
@@ -3745,7 +4661,7 @@
         "sha256": "f9a67a8168c146909e86287c2345393c070230dc6b28477bfe3d1bd2ac80e6a3"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 8697,
     "textureMaxPx": 1024,
@@ -3769,7 +4685,7 @@
         "sha256": "8ab0d32531ca53e6dfe6be58e16f5d7aff1173a65adf447c8b4aa92f8d250495"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 6640,
     "textureMaxPx": 1024,
@@ -3793,7 +4709,7 @@
         "sha256": "a040e30edbee0df971d5da24136dde6b72873515d7333dcab6c522e0d06871c5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "0",
     "triangles": 8240,
     "textureMaxPx": 1024,
@@ -3817,7 +4733,7 @@
         "sha256": "b490a9368022da646019382fcf8ab125799dc8798261d052351ee166f6fb52eb"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 458,
     "textureMaxPx": 128,
@@ -3841,7 +4757,7 @@
         "sha256": "a89e346eb2a77de581ba3a58c4ba27f6e62842bdac34b44f1f5028ed3acd0010"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 330,
     "textureMaxPx": 0,
@@ -3865,7 +4781,7 @@
         "sha256": "99cb012fb69c54cd88d9c967d1cc994462201c21fd40dec80ae0ccc9c0384c51"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 746,
     "textureMaxPx": 0,
@@ -3889,7 +4805,7 @@
         "sha256": "f35af8719c657d2d91675ef632a6dbcc04b6eb6d88bd9f2babb27dee00a175d1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 766,
     "textureMaxPx": 0,
@@ -3913,7 +4829,7 @@
         "sha256": "35197dc8ee43e3c65a7108d1c33e56dd20825f4bacb45b56ed33b3950547e755"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 508,
     "textureMaxPx": 32,
@@ -3937,7 +4853,7 @@
         "sha256": "0ef7945b29ac0f59a7b26d58fc87e9bbf13a05b65275a5f7824b2dbff73710c6"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 192,
     "textureMaxPx": 0,
@@ -3961,7 +4877,7 @@
         "sha256": "23c5c32096840f3dd347b1c68029d2f50e2af468ccd38daa33b494f1943b3dc8"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 214,
     "textureMaxPx": 0,
@@ -3985,7 +4901,7 @@
         "sha256": "9cc0bcba3ee55e4103c013412e15cd4c93673c456cf8cd92a3ac0755f1773878"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 288,
     "textureMaxPx": 0,
@@ -4009,7 +4925,7 @@
         "sha256": "8039a37f6fde9a8fed661ca62d44fa7614d45f0b48f523f2eabcdd68e88e19e1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 7468,
     "textureMaxPx": 0,
@@ -4033,7 +4949,7 @@
         "sha256": "8ab619c2453c876699bc3d776a3328cd24e6abfa8bc0cc3cb8b0cfc253916d06"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 640,
     "textureMaxPx": 0,
@@ -4057,7 +4973,7 @@
         "sha256": "0f4302eeeb1d485bf9b1006b1c4f7dcc68d6e3a69e8c41061b5551322e002f58"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 3615,
     "textureMaxPx": 0,
@@ -4081,7 +4997,7 @@
         "sha256": "461abb4eaf5a41da81b0133495d62e724c25b42ad418993929de8a1e473a690f"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2586,
     "textureMaxPx": 0,
@@ -4105,7 +5021,7 @@
         "sha256": "70cdb8ab3d664fd53900577279048c2bb80ee69257fa1b289dedf893dfd44694"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 484,
     "textureMaxPx": 0,
@@ -4129,7 +5045,7 @@
         "sha256": "3251668fcd54c41b3349a3f899c1f7d687ddd857d5a70a8e272da33b60b0cbae"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2462,
     "textureMaxPx": 256,
@@ -4153,7 +5069,7 @@
         "sha256": "9b365d6081eca2bb1aa8d98c9ce6b91dbec66157e5d856cd159bc7ae34cbaae5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 9829,
     "textureMaxPx": 0,
@@ -4177,7 +5093,7 @@
         "sha256": "23144c3eb028823b751aeb922d9ec1dab4c4d452f7d3f76a18624fd690de8fac"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1136,
     "textureMaxPx": 0,
@@ -4201,7 +5117,7 @@
         "sha256": "2216de23860c95929c1627a150389b7118d48e02a8c2119059819a5406f07270"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 436,
     "textureMaxPx": 128,
@@ -4225,7 +5141,7 @@
         "sha256": "d7e37256c39a63f0c8bae359a779c30aac87f3d0258f7d21fa7ee52d3f320dd5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 296,
     "textureMaxPx": 0,
@@ -4249,7 +5165,7 @@
         "sha256": "ec34cdca21215d1cb90a3c63eec1d1d1a3b8592043783c67184158490c34b4f1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 198,
     "textureMaxPx": 0,
@@ -4273,7 +5189,7 @@
         "sha256": "5973bad42af36b2c312521066c3269e21cc5c100839c7fdd98838770d319fb53"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 588,
     "textureMaxPx": 0,
@@ -4297,7 +5213,7 @@
         "sha256": "a8bb55a1908680c10fe8d73c8227f655549f92a6f28ae31682ca577504a3a275"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2047,
     "textureMaxPx": 1024,
@@ -4321,7 +5237,7 @@
         "sha256": "8bc66d07a4ca4f0f460ef72161d7228f80127c1d9e52e9017e236d7094982db4"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 210,
     "textureMaxPx": 0,
@@ -4345,7 +5261,7 @@
         "sha256": "6e1d7d8d7744b610e7b417d2edc573d280585acd974895fb83f262d9216b3fd5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 360,
     "textureMaxPx": 0,
@@ -4369,7 +5285,7 @@
         "sha256": "4fbbbc9aa3fe2178179420e89623bd962789189f287cb3e565931236c14575c9"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 420,
     "textureMaxPx": 0,
@@ -4393,7 +5309,7 @@
         "sha256": "0a8f2884303228dc19764684dfaba94e7de4c305916466d5f33688647122526c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1646,
     "textureMaxPx": 1024,
@@ -4417,7 +5333,7 @@
         "sha256": "a91407b9906f09a7588377f368316deb0b3e9616fc3e24d924214f1345cd5bd3"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 436,
     "textureMaxPx": 0,
@@ -4441,7 +5357,7 @@
         "sha256": "4824a5b852a9dbece0e81c90bb754e219470b3e7255da1c8c3c6507b98205c6c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 532,
     "textureMaxPx": 0,
@@ -4465,7 +5381,7 @@
         "sha256": "28935109778a1f1829119f8892cc2105a4b75487511360c7aa4ca4afbc657fa2"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1576,
     "textureMaxPx": 0,
@@ -4489,7 +5405,7 @@
         "sha256": "8901ec9e522eee881d09bfcea05d669f64f467c81527d68d408602112af4601b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 520,
     "textureMaxPx": 0,
@@ -4513,7 +5429,7 @@
         "sha256": "90a70e4b4d6c82b384e5bdd3e6ada01b874c5e1adfbc1a1b8e938b7b6fbf4ae9"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 439,
     "textureMaxPx": 512,
@@ -4537,7 +5453,7 @@
         "sha256": "ce14b970e5b72f2eefdc4b440fddebbbaae2329ab1694740432677fa9397d959"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 796,
     "textureMaxPx": 0,
@@ -4561,7 +5477,7 @@
         "sha256": "6845283e6d25c0d5467782424975350c4690291f46731a807c973b9a147e28a8"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 774,
     "textureMaxPx": 0,
@@ -4585,7 +5501,7 @@
         "sha256": "24ee9e4b9e280023cbbaf9ff6284e7ba51a07753f8d5ec8690ecc61dd156981d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 264,
     "textureMaxPx": 1024,
@@ -4609,7 +5525,7 @@
         "sha256": "6005e006762269a417ff5ace9d616e6941282dba0e44563b9b6fc5c8efef5a1e"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1472,
     "textureMaxPx": 0,
@@ -4633,7 +5549,7 @@
         "sha256": "ac6e733a0308a0ca59556985a847b7c16c48683515cbac45678ada4c0786caf1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 116,
     "textureMaxPx": 0,
@@ -4657,7 +5573,7 @@
         "sha256": "85281655fedcd4f96765e9dd8bd02dc9fd8d601b0ce07bd3fdd7fd9a19dedaae"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1000,
     "textureMaxPx": 0,
@@ -4681,7 +5597,7 @@
         "sha256": "be992f179099a0d8d4a813113de7974dbccdecf0d570063dc6a2d5703db2b1d6"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 204,
     "textureMaxPx": 1024,
@@ -4705,7 +5621,7 @@
         "sha256": "938eec80f90795bb8ed4bdcf916f62eba1132cdda5bed86ad238de4434f91a50"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 204,
     "textureMaxPx": 0,
@@ -4729,7 +5645,7 @@
         "sha256": "2158f67c426a0af82940f421385c1429a96712553e30a6d037dfd3f260651a45"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2192,
     "textureMaxPx": 1024,
@@ -4753,7 +5669,7 @@
         "sha256": "ab01d0271775268d95d4746d559cb9453061c9890b555f4d858cc662d0d1377b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 580,
     "textureMaxPx": 0,
@@ -4777,7 +5693,7 @@
         "sha256": "e1d39ac5944a74e2206d63889ba74f0dd3cf822dd9cc43cfd472ae25bc84c3d9"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2143,
     "textureMaxPx": 0,
@@ -4801,7 +5717,7 @@
         "sha256": "69de800a8bf7799ee79ccc0bfda054e11f22a0ae1c8df4fe7cbdd4e9d90dd95d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 108,
     "textureMaxPx": 0,
@@ -4825,7 +5741,7 @@
         "sha256": "edc81066f6ecfdbad45f32311228a2e3e00780360ff406bf12c49ca778126440"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 710,
     "textureMaxPx": 128,
@@ -4849,7 +5765,7 @@
         "sha256": "3dc9816e4975e9858e6cffd9bd2e7e61beb54135b9641bff932fef0bc3679938"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1004,
     "textureMaxPx": 0,
@@ -4873,7 +5789,7 @@
         "sha256": "904e3c9596c8a96c48e2dd1813123a5743a1117129f00651a2e82cdc49dcc085"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2136,
     "textureMaxPx": 0,
@@ -4897,7 +5813,7 @@
         "sha256": "606b37242383d7b56e53847a444dfd47abf7522d10671f62813473ee9b2ba3a1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 128,
     "textureMaxPx": 0,
@@ -4921,7 +5837,7 @@
         "sha256": "3e3f58dbeb0a3ad13e84dfead6af05f8c9a54dd6e47390ebfe581d94fd5de5c3"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 154,
     "textureMaxPx": 0,
@@ -4945,7 +5861,7 @@
         "sha256": "c2c626948581e2bff027488e020815e57a4380837a1a1a3731e71fce49e6c203"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 788,
     "textureMaxPx": 0,
@@ -4969,7 +5885,7 @@
         "sha256": "af42e401275c70d92a3b27ee1a48553bbc80a4883fa4f5dfaa6d65fa056f1814"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2354,
     "textureMaxPx": 0,
@@ -4993,7 +5909,7 @@
         "sha256": "3478805b8609d14950d7a234fd9e7a7cde1412e94c5652ac8bce4c58ef8b55bd"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5110,
     "textureMaxPx": 0,
@@ -5017,7 +5933,7 @@
         "sha256": "ad1dd1dd1818aaaddbe64de379b2c188dfd8eae9da610ab7a375cb0cebaa528c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2370,
     "textureMaxPx": 256,
@@ -5041,7 +5957,7 @@
         "sha256": "9328f7156abb65be1d576e1dee5bdc46b45700b5eedd01207bd647cbc44f6dee"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 280,
     "textureMaxPx": 0,
@@ -5065,7 +5981,7 @@
         "sha256": "9d83b61a42d6532f9f28a0963606cf8e930325f72c2a1970ed772ff360fd6429"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 690,
     "textureMaxPx": 0,
@@ -5089,7 +6005,7 @@
         "sha256": "f2d5cb8ac926746fa4965156efd7f3183795b8e057a22d27e92d3b8cd4e48d1a"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1004,
     "textureMaxPx": 0,
@@ -5113,7 +6029,7 @@
         "sha256": "a98d4fa6bf1e261da717fbdeef7937ef7578af86db3ba31a14296d814cf44e65"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1356,
     "textureMaxPx": 1024,
@@ -5137,7 +6053,7 @@
         "sha256": "f548d045b0cdf4629b178735a39afbe41df0f5bf81d4dd12547ed3e9a98739c1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2328,
     "textureMaxPx": 0,
@@ -5161,7 +6077,7 @@
         "sha256": "38374eabf17b0662e0817ade17537b35e2b155be091634f20d7c52242995f5d5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 420,
     "textureMaxPx": 0,
@@ -5185,7 +6101,7 @@
         "sha256": "6a67b136d4bebcf982599085b8ba7ace6dff6bd43a1fdab2fe6e184c7848a672"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 664,
     "textureMaxPx": 1024,
@@ -5209,7 +6125,7 @@
         "sha256": "c93717d989dc64ba680e0aace9de3966be32789d5b66761e27ad6a18bf9f4706"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 710,
     "textureMaxPx": 1024,
@@ -5233,7 +6149,7 @@
         "sha256": "cd2f4c18de0743905bcec94c95b54238aaf8dc0effee561b09f490f48f67a3b0"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 3466,
     "textureMaxPx": 0,
@@ -5257,7 +6173,7 @@
         "sha256": "5007d6d4652b8566d83c6b9ce07116358b9c1221fdc98c21c8ed993ee8265a95"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 8000,
     "textureMaxPx": 1024,
@@ -5281,7 +6197,7 @@
         "sha256": "8ff20d9fda935c3445caaf429bdcca823c1d95d3b80853a7375b91069496579b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 192,
     "textureMaxPx": 0,
@@ -5305,7 +6221,7 @@
         "sha256": "3f56b11a7fd0873d33b3121fb0c5a846f0c5460f1eb1656a9a60154c8f236411"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4428,
     "textureMaxPx": 0,
@@ -5329,7 +6245,7 @@
         "sha256": "46d8cce8cdbf1639c3e479cd48af68bb57d99264efa7d7fc41587994406d62fb"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2466,
     "textureMaxPx": 0,
@@ -5353,7 +6269,7 @@
         "sha256": "77d6b810fbe9cbe8208bf5cf1d24146144dfc12726c03e257da9693ca32f9bb4"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2142,
     "textureMaxPx": 0,
@@ -5377,7 +6293,7 @@
         "sha256": "adb3cd808e6c31f3dd895a081864abdcadd3689d769f276cc13f35388f07c380"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2050,
     "textureMaxPx": 256,
@@ -5401,7 +6317,7 @@
         "sha256": "cb56b7cba8ac5cde62b12b4c0192ce06c8a89b53b8f460008852b5512f51c3a3"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 732,
     "textureMaxPx": 0,
@@ -5425,7 +6341,7 @@
         "sha256": "44ac6836a1d0d560dc82e127f51b16d0665ba083a9d1a96a9035955e2e4eed58"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1030,
     "textureMaxPx": 256,
@@ -5449,7 +6365,7 @@
         "sha256": "58d5a3a73b516d32374989a9107252203ef64ec643ecff2f0ced489eead44718"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4248,
     "textureMaxPx": 0,
@@ -5473,7 +6389,7 @@
         "sha256": "8a86f095e87524b8110350511b7590960c5428b760fb057a2d7045f470df053f"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 7999,
     "textureMaxPx": 1024,
@@ -5497,7 +6413,7 @@
         "sha256": "153d5555bab4c9f1a975e9cdccf99a925d8da845290b870681031a859e27c585"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 7998,
     "textureMaxPx": 1024,
@@ -5521,7 +6437,7 @@
         "sha256": "c53a9e51a12f62a64efae6e07f8bc22f5fed1964a5bf3a06ec8253561bd5fac9"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 8000,
     "textureMaxPx": 1024,
@@ -5545,7 +6461,7 @@
         "sha256": "11642f3c404ef393232823c1216da8f241d0f0a40de01707b4b2f924b27c18b5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 20000,
     "textureMaxPx": 1024,
@@ -5569,7 +6485,7 @@
         "sha256": "3f452636665df88b9b0d9d6c9c42ec3cfe523c5607ac6d0869e59c12cc69352e"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 8000,
     "textureMaxPx": 1024,
@@ -5593,7 +6509,7 @@
         "sha256": "deba8f36e3a861be2a97189d74e3feea4fe5ee3db4d83eb0a9b7624af1843bde"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 19543,
     "textureMaxPx": 1024,
@@ -5617,7 +6533,7 @@
         "sha256": "e149a60b13ca5a52ec63c813b1e56d18ed394d935db0272c65c0e2000ac6b729"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 19918,
     "textureMaxPx": 1024,
@@ -5641,7 +6557,7 @@
         "sha256": "5e44dc5efe45d22caf184acd8d226c0600f4a727f6a532784d02d8e40d3c4a06"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 7839,
     "textureMaxPx": 1024,
@@ -5713,7 +6629,7 @@
         "sha256": "ecee6a9f7293e058061898e6726b7f83ba42c6e4b4c50e7becaf0ddc447437b7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4124,
     "textureMaxPx": 1024,
@@ -5737,7 +6653,7 @@
         "sha256": "9af96dd1bb56dc39bc6aeb0e9a6f0696df8f2864654e54d25a46d6921969e830"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 118,
     "textureMaxPx": 128,
@@ -5763,7 +6679,7 @@
         "sha256": "1e14e6bb82a25c5fdf9e5845c9239bd6656ee8713da159d48971137aaead964b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1778,
     "textureMaxPx": 256,
@@ -5787,7 +6703,7 @@
         "sha256": "b422f717a0e0bf96cc6b250eafbcccc3582086053135cc82c33f3e876a6e8191"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 3408,
     "textureMaxPx": 1024,
@@ -5811,7 +6727,7 @@
         "sha256": "592cd362db7a039cba8ad0b626d7eab69504a92e61cd0e5510fa8875379f39f7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 462,
     "textureMaxPx": 1024,
@@ -5839,7 +6755,7 @@
         "sha256": "0eddb955f829b7f768e4ac2b307cdce8531e3ff0a7a244a99821cd1a5b51bb05"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1276,
     "textureMaxPx": 64,
@@ -5863,7 +6779,7 @@
         "sha256": "592cd362db7a039cba8ad0b626d7eab69504a92e61cd0e5510fa8875379f39f7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 627,
     "textureMaxPx": 1024,
@@ -5891,7 +6807,7 @@
         "sha256": "85429144941ae4cd4f817bb094c1eb7c47e722eb5ce9ccfa5896abb8e0738c4a"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2134,
     "textureMaxPx": 1024,
@@ -5926,7 +6842,7 @@
         "sha256": "42fd42f59ed6e331c7b2cb01bc952b2efbcd0eaf66f571efd011df6cf78a0462"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 852,
     "textureMaxPx": 0,
@@ -5952,7 +6868,7 @@
         "sha256": "592cd362db7a039cba8ad0b626d7eab69504a92e61cd0e5510fa8875379f39f7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 639,
     "textureMaxPx": 512,
@@ -5980,7 +6896,7 @@
         "sha256": "08bad4bfac24a19415533c166a5af51c10e61d09f0c97830d7d61b47c2978dbf"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4052,
     "textureMaxPx": 1024,
@@ -6004,7 +6920,7 @@
         "sha256": "eca234176e03aeb255f85453ae96d4dbccec15f639a55c8716c77ead2a200f27"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 502,
     "textureMaxPx": 64,
@@ -6028,7 +6944,7 @@
         "sha256": "6e5ae8e3fd808010d5b8e56749e8a731f60d61a34b40aaf1ab44827c9a57696c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2290,
     "textureMaxPx": 1024,
@@ -6052,7 +6968,7 @@
         "sha256": "450bc76687eed173e5df75b8a5ced3b5472c20430b958f22bbcbcb3818f349ea"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 864,
     "textureMaxPx": 1024,
@@ -6076,7 +6992,7 @@
         "sha256": "424048674afb86d67186029b1ec4f450178cb1510c35bd415490e8152f8708fe"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1960,
     "textureMaxPx": 0,
@@ -6103,7 +7019,7 @@
         "sha256": "6552df4d41178715850d87060dbff5b281279fa9f102ff4abf9d6c9cc6669c8c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 6376,
     "textureMaxPx": 0,
@@ -6129,7 +7045,7 @@
         "sha256": "8ce64ef549464f609a9d2ebe73ac77a02f3a8abee7fd0c28079ac5619647ddf7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 3880,
     "textureMaxPx": 1024,
@@ -6153,7 +7069,7 @@
         "sha256": "592cd362db7a039cba8ad0b626d7eab69504a92e61cd0e5510fa8875379f39f7"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 390,
     "textureMaxPx": 512,
@@ -6181,7 +7097,7 @@
         "sha256": "1645b32cebb198926ffd907c0e9202443cd14426a0273bc533f191102ef7193c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 736,
     "textureMaxPx": 256,
@@ -6208,7 +7124,7 @@
         "sha256": "5c74dedda5054db20d7f219d63e53018d6298a231decc221edf71d6feb35dcb2"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 534,
     "textureMaxPx": 512,
@@ -6232,7 +7148,7 @@
         "sha256": "754b184a8c63c727cca3d6b5a5489fa20af2989b425a3c783dbd139f1f3543a6"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 616,
     "textureMaxPx": 256,
@@ -6258,7 +7174,7 @@
         "sha256": "c890c63568757b8a117e75592cbdce70e70362cb771fb380a4eb497ef05b3386"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4330,
     "textureMaxPx": 0,
@@ -6282,7 +7198,7 @@
         "sha256": "b6c60e0605e8f955b07c4a13f6abe31de9ec1f8e19ee0e214106de275640c88b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 588,
     "textureMaxPx": 1024,
@@ -6306,7 +7222,7 @@
         "sha256": "797b27c3bf3bb2657375812c67daf453d82d2c290d6e32badbbe4ff08235aee4"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 3182,
     "textureMaxPx": 1024,
@@ -6330,7 +7246,7 @@
         "sha256": "fa81b366dc6766a609899e4af561d8d796682c758cceef67d9f2bd5fba7aac65"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 7998,
     "textureMaxPx": 1024,
@@ -6354,7 +7270,7 @@
         "sha256": "ece8213900cc8d4d8cd77b245f4c3390b89131a58baa99e1beddc717010e3aca"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 8000,
     "textureMaxPx": 1024,
@@ -6378,7 +7294,7 @@
         "sha256": "cd8525c7371d14876bcdefe3f579d216bf597db892c2de6ed597da86bf1a98b3"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 19998,
     "textureMaxPx": 1024,
@@ -6402,7 +7318,7 @@
         "sha256": "9633d983babfddbe7379c8e03394e3670ab36c337242709ebbdccea2beb8e530"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 19996,
     "textureMaxPx": 1024,
@@ -6426,7 +7342,7 @@
         "sha256": "9938e0bdbf986e5a1857a1edc2f48a5780027d7d887af8eda208520e3053e0c6"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 19996,
     "textureMaxPx": 1024,
@@ -6450,7 +7366,7 @@
         "sha256": "e7b58d6350ed7da6e926c29f982e4ecc22a1caacf924e818ec1fddd6e6fd7ad3"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 19622,
     "textureMaxPx": 1024,
@@ -6474,7 +7390,7 @@
         "sha256": "f980a20f076b65de7c2f193d1d84e7a7d7c642e3123a40e2dbe8e4a649685117"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 19387,
     "textureMaxPx": 1024,
@@ -6498,7 +7414,7 @@
         "sha256": "cefc311a0e10c7858b6141f5ada7e33268727564fb8ac1347aab97d000669cc6"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 7705,
     "textureMaxPx": 1024,
@@ -6566,7 +7482,7 @@
         "sha256": "cefc311a0e10c7858b6141f5ada7e33268727564fb8ac1347aab97d000669cc6"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4777,
     "textureMaxPx": 1024,
@@ -6632,7 +7548,7 @@
         "sha256": "e825437cd4d2ee9c1960b517a74a69101e33eb409ae7fa8cedc7134a998fbb7d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5067,
     "textureMaxPx": 1024,
@@ -6702,7 +7618,7 @@
         "sha256": "cefc311a0e10c7858b6141f5ada7e33268727564fb8ac1347aab97d000669cc6"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5015,
     "textureMaxPx": 1024,
@@ -6769,7 +7685,7 @@
         "sha256": "cefc311a0e10c7858b6141f5ada7e33268727564fb8ac1347aab97d000669cc6"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4123,
     "textureMaxPx": 1024,
@@ -6836,7 +7752,7 @@
         "sha256": "60428e3abc09ba83e595d256e3af8c5c976b46cdae599f0802fc82b4a3445168"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4232,
     "textureMaxPx": 1024,
@@ -6905,7 +7821,7 @@
         "sha256": "e825437cd4d2ee9c1960b517a74a69101e33eb409ae7fa8cedc7134a998fbb7d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5067,
     "textureMaxPx": 1024,
@@ -6971,7 +7887,7 @@
         "sha256": "e825437cd4d2ee9c1960b517a74a69101e33eb409ae7fa8cedc7134a998fbb7d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 6071,
     "textureMaxPx": 1024,
@@ -7038,7 +7954,7 @@
         "sha256": "cf898585da33fab50c724d31605fb931eb2912e6d2280092141e98ca81ad507d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4509,
     "textureMaxPx": 1024,
@@ -7103,7 +8019,7 @@
         "sha256": "93e6e25213009952276d9cf34f5d96a243767334c66f280db0433ddfabb91545"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4005,
     "textureMaxPx": 1024,
@@ -7169,7 +8085,7 @@
         "sha256": "93e6e25213009952276d9cf34f5d96a243767334c66f280db0433ddfabb91545"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4005,
     "textureMaxPx": 1024,
@@ -7235,7 +8151,7 @@
         "sha256": "cf898585da33fab50c724d31605fb931eb2912e6d2280092141e98ca81ad507d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 6225,
     "textureMaxPx": 1024,
@@ -7301,7 +8217,7 @@
         "sha256": "643bbc3f2eb6de3e5a8ad762553369662aa30e448126057874dbd4342cddbe3e"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7330,7 +8246,7 @@
         "sha256": "98e09cd022a0c78f0fdd876519f92fa57ad20bffabbaadbe455fe482a8fffb50"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7359,7 +8275,7 @@
         "sha256": "5781bc2c8872f31d506da64d0a3eae6fa1af71e18069a25a12303047e4a858a5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7388,7 +8304,7 @@
         "sha256": "b9b6d61bc3b6137b868a3447eef18737896acd26d58fe2f4b83ce8c0e9d3f8ad"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7417,7 +8333,7 @@
         "sha256": "02c975ea6ffecaa4cc1201a1a5a0455470137eaa01b64677700d7ac91ca41ab0"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7446,7 +8362,7 @@
         "sha256": "22650b378d43e7f62bf32c23aebf39a735c5e978ac27fac39827e142e6bd9ddf"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7475,7 +8391,7 @@
         "sha256": "9d6d920f27a38376747e0ac9458ee6449a94d382d2626b3d215d769231a023fd"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7504,7 +8420,7 @@
         "sha256": "458156780810eefc52a945b55f11d02571042fcd077134b59bb330335f68571a"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7533,7 +8449,7 @@
         "sha256": "9e1c60da44b34a9738b1256ba827541f097dc583521b1d281e61b5f4b4217bc5"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7562,7 +8478,7 @@
         "sha256": "6beecbfe11d1c7e75784e5357d2ddd300024988e4028eb8a21838824ca80da2b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7591,7 +8507,7 @@
         "sha256": "9aa010f0fa4e01a982e593eb5b06f82671acc9023a67d9451bbc94cacd7ef44c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7620,7 +8536,7 @@
         "sha256": "d92bec8a35b9cb16ec79b421ca0f572a7400286eae109beafa266629ef49a6cf"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7649,7 +8565,7 @@
         "sha256": "5a919c91753e860e354867b04d96f3d2cedd0a6f41af38529f8c4a2924e2ce00"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7678,7 +8594,7 @@
         "sha256": "5853b325a05fc40c6eb7af285e44f8bfb0229b29af03fa170e61cc0d64c7b89a"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7707,7 +8623,7 @@
         "sha256": "77c0b5ac13eead1420887c608b2c28209a1ae5ba70761bf29953aa23cf3dc31b"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7736,7 +8652,7 @@
         "sha256": "312506c2ea4cc474273dbabbf6287f1b60ec104ce0f8fbbbfa5a6e76d48d7edc"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7765,7 +8681,7 @@
         "sha256": "065e776d22c4f27320be525128760f7abb30c208063c91ec7d3eda7888f8b8e8"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7794,7 +8710,7 @@
         "sha256": "9943235b3605983c3890ad20c266441dcbd35f161e0da7e1b3ffb3529dd9cd3f"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7823,7 +8739,7 @@
         "sha256": "377e4d1888290558d5c21ac027f885581daa556fe37b63dcf2748b9647e35055"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7852,7 +8768,7 @@
         "sha256": "eecdcb7667fd7c150d3ebfa8a1ddea96747c917f70215e27f00a91c5a5ea7513"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7881,7 +8797,7 @@
         "sha256": "ffbe4de8765619f278c5f819cd751e003808fa671eb99603abdf82b94ca85e9a"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7910,7 +8826,7 @@
         "sha256": "99c3ed6b80e59253f5755460f527d2a37f1c3d8088be624ad10469f41998f5be"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7939,7 +8855,7 @@
         "sha256": "e9ae2d0e3b36bb15fbc665c8c06a2313eeb99ca2fdff3dcccde409c33274c562"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7968,7 +8884,7 @@
         "sha256": "ce7b984376757d3c0f7e5fdd43fa84241a9f7026c9f530813c2e493061a369b2"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -7997,7 +8913,7 @@
         "sha256": "3d46cc8b373655c29b5b523b9ea270ad6056dc8efe1a292d25a34d6783f6ca61"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -8026,7 +8942,7 @@
         "sha256": "dd60c209f61ac3cd3a028a63452474531bcb979f98128587e0e0e9c9ede5ebd1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -8055,7 +8971,7 @@
         "sha256": "e584e1db148c27a4185b5e2397b1bc708beaab2ee88fc46f938ba65fd56d33bc"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2,
     "textureMaxPx": 1024,
@@ -8084,7 +9000,7 @@
         "sha256": "c219d63818623ae1d1f341491e7c8086af26cb4c382901ddb2b218c367a9c6a1"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 960,
     "textureMaxPx": 2048,
@@ -8115,7 +9031,7 @@
         "sha256": "b0b64b89705e971964eb3533fd640d27e0eef165b1d02dde0704bc99af956912"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 960,
     "textureMaxPx": 2048,
@@ -8146,7 +9062,7 @@
         "sha256": "5b5f83161dd9dfb0d7067338e013c13d3c2e05b4853a81f92f6436d1bb223301"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 960,
     "textureMaxPx": 2048,
@@ -8177,7 +9093,7 @@
         "sha256": "a12a400a9216ea5be37e6cddd8bf318d8fbc956efd0ee93f861e9687528221fb"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 960,
     "textureMaxPx": 2048,
@@ -8208,7 +9124,7 @@
         "sha256": "1394c0a5c04893cf698fdd8419d50626f00dadb0be241672bfddae93da1117b8"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 1248,
     "textureMaxPx": 512,
@@ -8232,7 +9148,7 @@
         "sha256": "0a27c3ce29e0cfbf99408ee7636abcb923afaca288a94e56d3bafd1301cf8846"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5214,
     "textureMaxPx": 1024,
@@ -8261,7 +9177,7 @@
         "sha256": "dc350d103f8176b49b58ae0e56c1665fa2da2af70f2b3276600852f8c854108c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 2048,
     "textureMaxPx": 512,
@@ -8285,7 +9201,7 @@
         "sha256": "1333c35bd2713ee6227c2c80fce52734b1c9788e9c53cb20f6d6bf938a073433"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 3476,
     "textureMaxPx": 512,
@@ -8309,7 +9225,7 @@
         "sha256": "9108439239f94ab1a57df162e61067928ce207ccb84d96034175810014d83b43"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 4740,
     "textureMaxPx": 1024,
@@ -8333,7 +9249,7 @@
         "sha256": "8f54c61237dbef43df022beb250be740ffeb9da931abaa4e0b9ffa2bd860ed1c"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 5712,
     "textureMaxPx": 1024,
@@ -8357,7 +9273,7 @@
         "sha256": "e6158804e0820cb5ec17ebd1b06dea8216c541133f16c6bd5962ba50d5aef00d"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 3024,
     "textureMaxPx": 512,
@@ -8381,7 +9297,7 @@
         "sha256": "624d0d554bc205bbdc33e22a68a2c3c20edebb3e573011ead8878a65e5329b23"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": "1",
     "triangles": 45058,
     "textureMaxPx": 1024,
@@ -8405,7 +9321,7 @@
         "sha256": "a22017221687458f37b76991719cb80243b5f04554ae57f07503139f988add3f"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 7884,
     "textureMaxPx": 1024,
@@ -8431,7 +9347,7 @@
         "sha256": "35cfa9a000045a659938d5b882a7e818c24087131239ce0527eae91c239a82d9"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 7188,
     "textureMaxPx": 1024,
@@ -8457,7 +9373,7 @@
         "sha256": "78aed50756a15654bf544859d676556fd0cf884ef69bfdb4eb4945741cd64432"
       }
     ],
-    "retrieved": "2026-11-19",
+    "retrieved": "2026-11-20",
     "vrm": null,
     "triangles": 7300,
     "textureMaxPx": 1024,

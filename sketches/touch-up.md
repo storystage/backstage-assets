@@ -1,6 +1,6 @@
 # Sketches to touch up
 
-Written by `tools/make-sketches`: 3007 sketches, 0 replaced by hand, 0 to look at.
+Written by `tools/make-sketches`: 3127 sketches, 0 replaced by hand, 0 to look at.
 
 To replace a sketch, draw it in the same style (black lines 3 units wide on a white shape, the model facing left in side and three-quarter views), save it beside this file, and name it in `touch-up.json` under `overrides`. To draw one simplified (its outer edge and only its long, deep inner lines), name it under `simplified`; to keep one as it is, under `kept`.
 
@@ -13,6 +13,36 @@ Nothing: every sketch passed the checks.
 Their skeletons don't map onto the joint map (spec 17, section 2a), so they have the four facings only:
 
 - `blender-studio/Quadruped/autumn`
+- `gobkit/Flyer/bat`
+- `gobkit/Flyer/bee`
+- `gobkit/Flyer/blue-bird`
+- `gobkit/Flyer/chick`
+- `gobkit/Flyer/duck`
+- `gobkit/Flyer/owl`
+- `gobkit/Flyer/quail`
+- `gobkit/Flyer/seagull`
+- `gobkit/Quadruped/boar`
+- `gobkit/Quadruped/corgi`
+- `gobkit/Quadruped/dingo`
+- `gobkit/Quadruped/goat`
+- `gobkit/Quadruped/hippo`
+- `gobkit/Quadruped/koala`
+- `gobkit/Quadruped/marmot`
+- `gobkit/Quadruped/mole`
+- `gobkit/Quadruped/platypus`
+- `gobkit/Quadruped/rat`
+- `gobkit/Quadruped/red-panda`
+- `gobkit/Quadruped/rhino`
+- `gobkit/Quadruped/scorpion`
+- `gobkit/Quadruped/sea-otter`
+- `gobkit/Quadruped/tasmanian-devil`
+- `gobkit/Swimmer/anglerfish`
+- `gobkit/Swimmer/jellyfish`
+- `gobkit/Swimmer/narwhal`
+- `gobkit/Swimmer/pufferfish`
+- `gobkit/Swimmer/seal`
+- `gobkit/Swimmer/shark`
+- `gobkit/Swimmer/whale`
 - `sketchfab/Flyer/african-penguin`
 - `sketchfab/Flyer/bee`
 - `sketchfab/Flyer/chick`

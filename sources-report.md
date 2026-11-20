@@ -5,6 +5,36 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | Item | Name | Licence | Section | Triangles | Largest texture | Fits budget | Skeleton | Height | Format | Removed | Sketches |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | `blender-studio/Quadruped/autumn` | Autumn | CC-BY-4.0 | cast | 19599 | 1024 | yes | mapped | 0.41 m | glTF | — | 4 |
+| `gobkit/Flyer/bat` | Bat | CC0-1.0 | cast | 376 | 512 | yes | prop-only (missing spineBase, leftWingShoulder, rightWingShoulder) | 0.15 m | glTF | — | 4 |
+| `gobkit/Flyer/bee` | Bee | CC0-1.0 | cast | 328 | 512 | yes | prop-only (missing spineBase, leftWingShoulder, rightWingShoulder) | 0.08 m | glTF | — | 4 |
+| `gobkit/Flyer/blue-bird` | Blue bird | CC0-1.0 | cast | 384 | 512 | yes | prop-only (missing spineBase, leftWingShoulder, rightWingShoulder) | 0.25 m | glTF | — | 4 |
+| `gobkit/Flyer/chick` | Chick | CC0-1.0 | cast | 316 | 512 | yes | prop-only (missing spineBase, leftWingShoulder, rightWingShoulder) | 0.12 m | glTF | — | 4 |
+| `gobkit/Flyer/duck` | Duck | CC0-1.0 | cast | 508 | 512 | yes | prop-only (missing spineBase, leftWingShoulder, rightWingShoulder) | 0.35 m | glTF | — | 4 |
+| `gobkit/Flyer/owl` | Owl | CC0-1.0 | cast | 310 | 512 | yes | prop-only (missing spineBase, leftWingShoulder, rightWingShoulder) | 0.4 m | glTF | — | 4 |
+| `gobkit/Flyer/quail` | Quail | CC0-1.0 | cast | 508 | 512 | yes | prop-only (missing spineBase, leftWingShoulder, rightWingShoulder) | 0.2 m | glTF | — | 4 |
+| `gobkit/Flyer/seagull` | Seagull | CC0-1.0 | cast | 330 | 512 | yes | prop-only (missing spineBase, leftWingShoulder, rightWingShoulder) | 0.35 m | glTF | — | 4 |
+| `gobkit/Quadruped/boar` | Boar | CC0-1.0 | cast | 380 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.9 m | glTF | — | 4 |
+| `gobkit/Quadruped/corgi` | Corgi | CC0-1.0 | cast | 508 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.35 m | glTF | — | 4 |
+| `gobkit/Quadruped/dingo` | Dingo | CC0-1.0 | cast | 414 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.6 m | glTF | — | 4 |
+| `gobkit/Quadruped/goat` | Goat | CC0-1.0 | cast | 396 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.8 m | glTF | — | 4 |
+| `gobkit/Quadruped/hippo` | Hippo | CC0-1.0 | cast | 382 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 1.5 m | glTF | — | 4 |
+| `gobkit/Quadruped/koala` | Koala | CC0-1.0 | cast | 732 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.5 m | glTF | — | 4 |
+| `gobkit/Quadruped/marmot` | Marmot | CC0-1.0 | cast | 370 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.35 m | glTF | — | 4 |
+| `gobkit/Quadruped/mole` | Mole | CC0-1.0 | cast | 576 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.15 m | glTF | — | 4 |
+| `gobkit/Quadruped/platypus` | Platypus | CC0-1.0 | cast | 504 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.2 m | glTF | — | 4 |
+| `gobkit/Quadruped/rat` | Rat | CC0-1.0 | cast | 308 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.15 m | glTF | — | 4 |
+| `gobkit/Quadruped/red-panda` | Red panda | CC0-1.0 | cast | 470 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.4 m | glTF | — | 4 |
+| `gobkit/Quadruped/rhino` | Rhino | CC0-1.0 | cast | 464 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 1.7 m | glTF | — | 4 |
+| `gobkit/Quadruped/scorpion` | Scorpion | CC0-1.0 | cast | 720 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.08 m | glTF | — | 4 |
+| `gobkit/Quadruped/sea-otter` | Sea otter | CC0-1.0 | cast | 696 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.4 m | glTF | — | 4 |
+| `gobkit/Quadruped/tasmanian-devil` | Tasmanian devil | CC0-1.0 | cast | 606 | 512 | yes | prop-only (missing spineBase, frontLeftShoulder, frontLeftKnee, frontRightShoulder, frontRightKnee, backLeftHip, backLeftKnee, backRightHip, backRightKnee) | 0.4 m | glTF | — | 4 |
+| `gobkit/Swimmer/anglerfish` | Anglerfish | CC0-1.0 | cast | 266 | 512 | yes | prop-only (missing spineBase) | 0.3 m | glTF | — | 4 |
+| `gobkit/Swimmer/jellyfish` | Jellyfish | CC0-1.0 | cast | 428 | 512 | yes | prop-only (missing spineBase) | 0.3 m | glTF | — | 4 |
+| `gobkit/Swimmer/narwhal` | Narwhal | CC0-1.0 | cast | 572 | 512 | yes | prop-only (missing spineBase) | 0.7 m | glTF | — | 4 |
+| `gobkit/Swimmer/pufferfish` | Pufferfish | CC0-1.0 | cast | 256 | 512 | yes | prop-only (missing spineBase) | 0.3 m | glTF | — | 4 |
+| `gobkit/Swimmer/seal` | Seal | CC0-1.0 | cast | 398 | 512 | yes | prop-only (missing spineBase) | 0.6 m | glTF | — | 4 |
+| `gobkit/Swimmer/shark` | Shark | CC0-1.0 | cast | 286 | 512 | yes | prop-only (missing spineBase) | 0.8 m | glTF | — | 4 |
+| `gobkit/Swimmer/whale` | Whale | CC0-1.0 | cast | 272 | 512 | yes | prop-only (missing spineBase) | 1.2 m | glTF | — | 4 |
 | `kaykit/Biped/barbarian` | Barbarian | CC0-1.0 | cast | 5203 | 1024 | yes | mapped | 2.4 m | glTF | 4 parts, 35 clips | 16 |
 | `kaykit/Biped/knight` | Knight | CC0-1.0 | cast | 4712 | 1024 | yes | mapped | 2.47 m | glTF | 7 parts, 35 clips | 16 |
 | `kaykit/Biped/mage` | Mage | CC0-1.0 | cast | 4509 | 1024 | yes | mapped | 2.72 m | glTF | 4 parts, 35 clips | 16 |
@@ -355,4 +385,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** about 20,387 of 24,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 21,586 of 24,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
