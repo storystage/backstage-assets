@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "2.3.0",
+  "manifestVersion": "2.4.0",
   "items": [
     {
       "id": "blender-studio/Quadruped/autumn",
@@ -27627,6 +27627,7 @@
         "garden"
       ],
       "description": "a fat green frog with a pale belly, sitting down",
+      "gait": "hop",
       "files": {
         "model": "models/sketchfab/Quadruped/frog.glb",
         "thumbnail": "thumbnails/sketchfab/Quadruped/frog.webp"
