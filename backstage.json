@@ -31822,7 +31822,23 @@
         "model": "models/styloo/Flyer/chicken.glb",
         "thumbnail": "thumbnails/styloo/Flyer/chicken.webp"
       },
-      "joints": "prop-only",
+      "joints": [
+        "spineBase",
+        "spineMiddle",
+        "neck",
+        "upperNeck",
+        "head",
+        "leftWingShoulder",
+        "rightWingShoulder",
+        "tail",
+        "tail2",
+        "leftHip",
+        "leftKnee",
+        "leftAnkle",
+        "rightHip",
+        "rightKnee",
+        "rightAnkle"
+      ],
       "defaultSize": {
         "height": 0.45
       },
@@ -31871,7 +31887,12 @@
         "model": "models/styloo/Flyer/ladybird.glb",
         "thumbnail": "thumbnails/styloo/Flyer/ladybird.webp"
       },
-      "joints": "prop-only",
+      "joints": [
+        "spineBase",
+        "head",
+        "leftWingShoulder",
+        "rightWingShoulder"
+      ],
       "defaultSize": {
         "height": 0.06
       },
