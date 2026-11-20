@@ -107,6 +107,43 @@
       "turn": {
         "y": 180
       },
+      "addJoints": [
+        {
+          "name": "wing.L",
+          "parent": "Bone.002",
+          "at": [
+            0.18,
+            0.58,
+            -0.1
+          ]
+        },
+        {
+          "name": "wing.R",
+          "parent": "Bone.002",
+          "at": [
+            -0.18,
+            0.58,
+            -0.1
+          ]
+        }
+      ],
+      "bones": {
+        "Bone.001": "spineBase",
+        "Bone.002": "spineMiddle",
+        "Bone.003": "neck",
+        "Bone.004": "upperNeck",
+        "Bone.005": "head",
+        "Bone.006": "tail",
+        "Bone.007": "tail2",
+        "wing.L": "leftWingShoulder",
+        "wing.R": "rightWingShoulder",
+        "leg.001.L": "leftHip",
+        "leg.002.L": "leftKnee",
+        "feet.L": "leftAnkle",
+        "leg.001.R": "rightHip",
+        "leg.002.R": "rightKnee",
+        "feet.R": "rightAnkle"
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "64919e321ac4cb33b0bb5faeac5450a19fbe75f2",
@@ -164,6 +201,23 @@
       "height": 0.06,
       "turn": {
         "x": 90
+      },
+      "addJoints": [
+        {
+          "name": "head",
+          "parent": "Bone",
+          "at": [
+            0,
+            0.075,
+            -0.004
+          ]
+        }
+      ],
+      "bones": {
+        "Bone": "spineBase",
+        "head": "head",
+        "wings.L": "leftWingShoulder",
+        "wings.R": "rightWingShoulder"
       },
       "fetch": {
         "github": "storystage/backstage-assets",
