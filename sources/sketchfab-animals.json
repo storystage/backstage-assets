@@ -756,9 +756,9 @@
       "page": "https://sketchfab.com/3d-models/fat-low-poly-frog-with-animation-e162d0ecfe6e42f5a3afc4e0893bc560",
       "height": 0.12,
       "clips": {
-        "walk": "Take 001",
-        "jump": "Take 001"
+        "idle": "Take 001"
       },
+      "gait": "hop",
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "830f3cb0c2f8245b4b762e5a510a1ec5ea59847f",
