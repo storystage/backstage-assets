@@ -1,0 +1,895 @@
+{
+  "source": "gobkit",
+  "items": [
+    {
+      "id": "gobkit/Swimmer/anglerfish",
+      "displayName": "Anglerfish",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round pink anglerfish with a glowing lure on its head",
+      "licence": "CC0-1.0",
+      "credit": "Anglerfish by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.3,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "swim": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/anglerfish.glb"
+      }
+    },
+    {
+      "id": "gobkit/Flyer/bat",
+      "displayName": "Bat",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "night",
+        "spooky"
+      ],
+      "description": "a round yellow bat with big pointed ears and purple wings",
+      "licence": "CC0-1.0",
+      "credit": "Bat by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.15,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "fly": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/bat.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/corgi",
+      "displayName": "Corgi",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a chunky orange and cream corgi with big ears",
+      "licence": "CC0-1.0",
+      "credit": "Corgi by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.35,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/corgi.glb"
+      }
+    },
+    {
+      "id": "gobkit/Flyer/duck",
+      "displayName": "Duck",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm",
+        "pond"
+      ],
+      "description": "a round green duck with an orange beak and feet",
+      "licence": "CC0-1.0",
+      "credit": "Duck by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.35,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/duck.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/hippo",
+      "displayName": "Hippo",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna",
+        "river"
+      ],
+      "description": "a chunky brown hippo with little tusks",
+      "licence": "CC0-1.0",
+      "credit": "Hippo by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 1.5,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/hippo.glb"
+      }
+    },
+    {
+      "id": "gobkit/Swimmer/jellyfish",
+      "displayName": "Jellyfish",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round blue jellyfish with short tentacles",
+      "licence": "CC0-1.0",
+      "credit": "Jellyfish by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.3,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "swim": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/jellyfish.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/platypus",
+      "displayName": "Platypus",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "river"
+      ],
+      "description": "a round brown platypus with a flat bill",
+      "licence": "CC0-1.0",
+      "credit": "Platypus by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.2,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/platypus.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/red-panda",
+      "displayName": "Red panda",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a chunky red panda with a white face and dark legs",
+      "licence": "CC0-1.0",
+      "credit": "Red panda by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.4,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/red-panda.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/rhino",
+      "displayName": "Rhino",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a chunky blue-grey rhino with a white horn",
+      "licence": "CC0-1.0",
+      "credit": "Rhino by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 1.7,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/rhino.glb"
+      }
+    },
+    {
+      "id": "gobkit/Swimmer/shark",
+      "displayName": "Shark",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round blue shark with a big fin",
+      "licence": "CC0-1.0",
+      "credit": "Shark by Gobkit, Free Animal Pack (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.8,
+      "clips": {
+        "idle": {
+          "clip": "clip",
+          "start": 0,
+          "end": 1.2083
+        },
+        "swim": {
+          "clip": "clip",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/shark.glb"
+      }
+    },
+    {
+      "id": "gobkit/Flyer/bee",
+      "displayName": "Bee",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a round orange bee with black stripes and see-through wings",
+      "licence": "CC0-1.0",
+      "credit": "Bee by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.08,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "fly": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/bee.glb"
+      }
+    },
+    {
+      "id": "gobkit/Flyer/blue-bird",
+      "displayName": "Blue bird",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "garden",
+        "woodland"
+      ],
+      "description": "a round pale blue bird with a dark mask",
+      "licence": "CC0-1.0",
+      "credit": "Blue bird by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.25,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/blue-bird.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/boar",
+      "displayName": "Boar",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a chunky brown boar with white tusks",
+      "licence": "CC0-1.0",
+      "credit": "Boar by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.9,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/boar.glb"
+      }
+    },
+    {
+      "id": "gobkit/Swimmer/pufferfish",
+      "displayName": "Pufferfish",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round dark grey and pink pufferfish with little spikes",
+      "licence": "CC0-1.0",
+      "credit": "Pufferfish by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.3,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "swim": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/pufferfish.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/goat",
+      "displayName": "Goat",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm",
+        "mountains"
+      ],
+      "description": "a chunky cream goat with orange horns",
+      "licence": "CC0-1.0",
+      "credit": "Goat by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.8,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/goat.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/marmot",
+      "displayName": "Marmot",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "mountains"
+      ],
+      "description": "a chunky brown marmot with a dark back",
+      "licence": "CC0-1.0",
+      "credit": "Marmot by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.35,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/marmot.glb"
+      }
+    },
+    {
+      "id": "gobkit/Flyer/owl",
+      "displayName": "Owl",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland",
+        "night"
+      ],
+      "description": "a round orange-brown owl with ear tufts",
+      "licence": "CC0-1.0",
+      "credit": "Owl by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.4,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/owl.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/rat",
+      "displayName": "Rat",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "town"
+      ],
+      "description": "a round blue-grey rat with pink ears and whiskers",
+      "licence": "CC0-1.0",
+      "credit": "Rat by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.15,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "walk": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/rat.glb"
+      }
+    },
+    {
+      "id": "gobkit/Swimmer/seal",
+      "displayName": "Seal",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea",
+        "polar"
+      ],
+      "description": "a round lilac-grey seal with whiskers",
+      "licence": "CC0-1.0",
+      "credit": "Seal by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.6,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "swim": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/seal.glb"
+      }
+    },
+    {
+      "id": "gobkit/Swimmer/whale",
+      "displayName": "Whale",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a round blue whale with a pale belly",
+      "licence": "CC0-1.0",
+      "credit": "Whale by Gobkit, Free Animal Pack Vol. 2 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 1.2,
+      "clips": {
+        "idle": {
+          "clip": "Take 001",
+          "start": 0,
+          "end": 1.2083
+        },
+        "swim": {
+          "clip": "Take 001",
+          "start": 3.75,
+          "end": 4.9583
+        }
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/whale.glb"
+      }
+    },
+    {
+      "id": "gobkit/Flyer/chick",
+      "displayName": "Chick",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a round yellow chick with an orange beak and feet",
+      "licence": "CC0-1.0",
+      "credit": "Chick by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.12,
+      "clips": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/chick.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/dingo",
+      "displayName": "Dingo",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a chunky ginger dingo with a white chest",
+      "licence": "CC0-1.0",
+      "credit": "Dingo by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.6,
+      "clips": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/dingo.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/koala",
+      "displayName": "Koala",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a chunky grey koala with round ears and a black nose",
+      "licence": "CC0-1.0",
+      "credit": "Koala by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.5,
+      "clips": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/koala.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/mole",
+      "displayName": "Mole",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "garden"
+      ],
+      "description": "a round dark grey mole with a pink nose and big claws",
+      "licence": "CC0-1.0",
+      "credit": "Mole by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.15,
+      "clips": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/mole.glb"
+      }
+    },
+    {
+      "id": "gobkit/Swimmer/narwhal",
+      "displayName": "Narwhal",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea",
+        "polar"
+      ],
+      "description": "a round grey narwhal with a long tusk",
+      "licence": "CC0-1.0",
+      "credit": "Narwhal by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.7,
+      "clips": {
+        "idle": "idle",
+        "swim": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/narwhal.glb"
+      }
+    },
+    {
+      "id": "gobkit/Flyer/quail",
+      "displayName": "Quail",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a round blue-grey quail with a black face and a head plume",
+      "licence": "CC0-1.0",
+      "credit": "Quail by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.2,
+      "clips": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/quail.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/scorpion",
+      "displayName": "Scorpion",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "desert"
+      ],
+      "description": "a round orange-brown scorpion with a curled tail",
+      "licence": "CC0-1.0",
+      "credit": "Scorpion by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.08,
+      "clips": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/scorpion.glb"
+      }
+    },
+    {
+      "id": "gobkit/Flyer/seagull",
+      "displayName": "Seagull",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "seaside"
+      ],
+      "description": "a round white seagull with grey wings and a yellow beak",
+      "licence": "CC0-1.0",
+      "credit": "Seagull by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.35,
+      "clips": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/seagull.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/sea-otter",
+      "displayName": "Sea otter",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a chunky brown sea otter with a pale face",
+      "licence": "CC0-1.0",
+      "credit": "Sea otter by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.4,
+      "clips": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/sea-otter.glb"
+      }
+    },
+    {
+      "id": "gobkit/Quadruped/tasmanian-devil",
+      "displayName": "Tasmanian devil",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a chunky black Tasmanian devil with pink ears and sharp teeth",
+      "licence": "CC0-1.0",
+      "credit": "Tasmanian devil by Gobkit, Free Animal Pack Vol. 5 (CC0)",
+      "page": "https://gobkit.com/freebies",
+      "height": 0.4,
+      "clips": {
+        "idle": "idle",
+        "walk": "walk"
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "8d82f5c443810934abd5baf23883cdf387bd4027",
+        "path": "originals/gobkit/tasmanian-devil.glb"
+      }
+    }
+  ]
+}
