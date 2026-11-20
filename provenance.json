@@ -9157,13 +9157,8 @@
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
-    "skeleton": "prop-only",
-    "missingJoints": [
-      "spineBase",
-      "head",
-      "leftWingShoulder",
-      "rightWingShoulder"
-    ],
+    "skeleton": "mapped",
+    "missingJoints": [],
     "excluded": {
       "nodes": [],
       "animations": []
