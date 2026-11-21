@@ -9987,6 +9987,788 @@
       ]
     },
     {
+      "id": "nasa/Prop/gemini-spacesuit",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Gemini spacesuit",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "an empty dark 1960s Gemini spacesuit with a white helmet",
+      "files": {
+        "model": "models/nasa/Prop/gemini-spacesuit.glb",
+        "thumbnail": "thumbnails/nasa/Prop/gemini-spacesuit.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.8
+      },
+      "budget": {
+        "triangles": 7986,
+        "textureMaxPx": 0
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Gemini spacesuit by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/gemini-spacesuit/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Prop/gemini-spacesuit/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Prop/gemini-spacesuit/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Prop/gemini-spacesuit/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Prop/gemini-spacesuit/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Prop/mark-iii-spacesuit",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Mark III spacesuit",
+      "themes": [
+        "space"
+      ],
+      "description": "an empty bulky white test spacesuit with a dark visor",
+      "files": {
+        "model": "models/nasa/Prop/mark-iii-spacesuit.glb",
+        "thumbnail": "thumbnails/nasa/Prop/mark-iii-spacesuit.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.9
+      },
+      "budget": {
+        "triangles": 7877,
+        "textureMaxPx": 0
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Mark III spacesuit by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/mark-iii-spacesuit/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Prop/mark-iii-spacesuit/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Prop/mark-iii-spacesuit/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Prop/mark-iii-spacesuit/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Prop/mark-iii-spacesuit/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Prop/mercury-spacesuit",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Mercury spacesuit",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "an empty white 1960s Mercury spacesuit with blue straps",
+      "files": {
+        "model": "models/nasa/Prop/mercury-spacesuit.glb",
+        "thumbnail": "thumbnails/nasa/Prop/mercury-spacesuit.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.8
+      },
+      "budget": {
+        "triangles": 7988,
+        "textureMaxPx": 0
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Mercury spacesuit by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/mercury-spacesuit/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Prop/mercury-spacesuit/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Prop/mercury-spacesuit/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Prop/mercury-spacesuit/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Prop/mercury-spacesuit/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Prop/robonaut-2",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Robonaut 2",
+      "themes": [
+        "space",
+        "robots"
+      ],
+      "description": "Robonaut 2, a white space robot with a head, two arms and long climbing legs",
+      "files": {
+        "model": "models/nasa/Prop/robonaut-2.glb",
+        "thumbnail": "thumbnails/nasa/Prop/robonaut-2.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 2.4
+      },
+      "budget": {
+        "triangles": 8028,
+        "textureMaxPx": 0
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Robonaut 2 by NASA/JSC/Integrated Graphics, Operations, and Analysis Laboratory (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/robonaut-2/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Prop/robonaut-2/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Prop/robonaut-2/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Prop/robonaut-2/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Prop/robonaut-2/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Prop/space-helmet",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Space helmet",
+      "themes": [
+        "space"
+      ],
+      "description": "a white astronaut's helmet with a clear visor",
+      "files": {
+        "model": "models/nasa/Prop/space-helmet.glb",
+        "thumbnail": "thumbnails/nasa/Prop/space-helmet.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 7092,
+        "textureMaxPx": 0
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Space helmet by NASA/Ames Research Center (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/helmet/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Prop/space-helmet/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Prop/space-helmet/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Prop/space-helmet/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Prop/space-helmet/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Prop/spacewalk-suit",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Spacewalk suit",
+      "themes": [
+        "space"
+      ],
+      "description": "an empty white spacewalk suit with a big backpack",
+      "files": {
+        "model": "models/nasa/Prop/spacewalk-suit.glb",
+        "thumbnail": "thumbnails/nasa/Prop/spacewalk-suit.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.9
+      },
+      "budget": {
+        "triangles": 7960,
+        "textureMaxPx": 1024
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Spacewalk suit by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/extravehicular-mobility-unit/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Prop/spacewalk-suit/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Prop/spacewalk-suit/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Prop/spacewalk-suit/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Prop/spacewalk-suit/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Prop/vehicle-assembly-building",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Vehicle Assembly Building",
+      "themes": [
+        "space"
+      ],
+      "description": "the huge box-shaped building where rockets are put together, a US flag on its side",
+      "files": {
+        "model": "models/nasa/Prop/vehicle-assembly-building.glb",
+        "thumbnail": "thumbnails/nasa/Prop/vehicle-assembly-building.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 160
+      },
+      "budget": {
+        "triangles": 6458,
+        "textureMaxPx": 1024
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Vehicle Assembly Building by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/vehicle-assembly-building-vab/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Prop/vehicle-assembly-building/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Prop/vehicle-assembly-building/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Prop/vehicle-assembly-building/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Prop/vehicle-assembly-building/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Prop/z2-spacesuit",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Z2 spacesuit",
+      "themes": [
+        "space"
+      ],
+      "description": "an empty white and grey prototype spacesuit with a dark visor",
+      "files": {
+        "model": "models/nasa/Prop/z2-spacesuit.glb",
+        "thumbnail": "thumbnails/nasa/Prop/z2-spacesuit.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.9
+      },
+      "budget": {
+        "triangles": 8000,
+        "textureMaxPx": 1024
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Z2 spacesuit by NASA/LaRC/Advanced Concepts Lab (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/z2-spacesuit/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Prop/z2-spacesuit/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Prop/z2-spacesuit/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Prop/z2-spacesuit/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Prop/z2-spacesuit/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Transport/apollo-lunar-module",
+      "section": "set",
+      "class": "Transport",
+      "displayName": "Apollo lunar module",
+      "themes": [
+        "space",
+        "moon",
+        "history"
+      ],
+      "description": "the gold and silver Apollo lunar module that landed astronauts on the Moon",
+      "files": {
+        "model": "models/nasa/Transport/apollo-lunar-module.glb",
+        "thumbnail": "thumbnails/nasa/Transport/apollo-lunar-module.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 7
+      },
+      "budget": {
+        "triangles": 19911,
+        "textureMaxPx": 900
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Apollo lunar module by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/apollo-lunar-module/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Transport/apollo-lunar-module/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Transport/apollo-lunar-module/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Transport/apollo-lunar-module/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Transport/apollo-lunar-module/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Transport/crawler-transporter",
+      "section": "set",
+      "class": "Transport",
+      "displayName": "Crawler-transporter",
+      "themes": [
+        "space",
+        "transport"
+      ],
+      "description": "the giant tracked crawler that carries rockets to the launch pad",
+      "files": {
+        "model": "models/nasa/Transport/crawler-transporter.glb",
+        "thumbnail": "thumbnails/nasa/Transport/crawler-transporter.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 6.1
+      },
+      "budget": {
+        "triangles": 19514,
+        "textureMaxPx": 0
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Crawler-transporter by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/crawler/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Transport/crawler-transporter/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Transport/crawler-transporter/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Transport/crawler-transporter/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Transport/crawler-transporter/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Transport/ingenuity-helicopter",
+      "section": "props",
+      "class": "Transport",
+      "displayName": "Ingenuity Mars helicopter",
+      "themes": [
+        "space",
+        "mars"
+      ],
+      "description": "Ingenuity, the small Mars helicopter with two long rotor blades and four thin legs",
+      "files": {
+        "model": "models/nasa/Transport/ingenuity-helicopter.glb",
+        "thumbnail": "thumbnails/nasa/Transport/ingenuity-helicopter.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.49
+      },
+      "budget": {
+        "triangles": 7995,
+        "textureMaxPx": 1024
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Ingenuity Mars helicopter by NASA/Brian E. Kumanchik (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/ingenuity-mars-helicopter/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Transport/ingenuity-helicopter/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Transport/ingenuity-helicopter/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Transport/ingenuity-helicopter/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Transport/ingenuity-helicopter/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Transport/jupiter-c-rocket",
+      "section": "set",
+      "class": "Transport",
+      "displayName": "Jupiter-C rocket",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "the slim white rocket that launched the first American satellite in 1958",
+      "files": {
+        "model": "models/nasa/Transport/jupiter-c-rocket.glb",
+        "thumbnail": "thumbnails/nasa/Transport/jupiter-c-rocket.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 21.2
+      },
+      "budget": {
+        "triangles": 8933,
+        "textureMaxPx": 1000
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Jupiter-C rocket by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/explorer-jupiter-c-rocket/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Transport/jupiter-c-rocket/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Transport/jupiter-c-rocket/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Transport/jupiter-c-rocket/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Transport/jupiter-c-rocket/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Transport/perseverance-rover",
+      "section": "set",
+      "class": "Transport",
+      "displayName": "Perseverance rover",
+      "themes": [
+        "space",
+        "mars"
+      ],
+      "description": "Perseverance, the six-wheeled Mars rover with a camera mast and a robot arm",
+      "files": {
+        "model": "models/nasa/Transport/perseverance-rover.glb",
+        "thumbnail": "thumbnails/nasa/Transport/perseverance-rover.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 2.2
+      },
+      "budget": {
+        "triangles": 19848,
+        "textureMaxPx": 1024
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Perseverance rover by NASA/Jet Propulsion Laboratory (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/mars-2020-perseverance-rover/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Transport/perseverance-rover/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Transport/perseverance-rover/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Transport/perseverance-rover/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Transport/perseverance-rover/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Transport/saturn-v",
+      "section": "set",
+      "class": "Transport",
+      "displayName": "Saturn V rocket",
+      "themes": [
+        "space",
+        "moon",
+        "history"
+      ],
+      "description": "the giant white Saturn V rocket that launched the Apollo Moon missions",
+      "files": {
+        "model": "models/nasa/Transport/saturn-v.glb",
+        "thumbnail": "thumbnails/nasa/Transport/saturn-v.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 110.6
+      },
+      "budget": {
+        "triangles": 19946,
+        "textureMaxPx": 1000
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Saturn V rocket by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/saturn-v/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Transport/saturn-v/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Transport/saturn-v/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Transport/saturn-v/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Transport/saturn-v/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Transport/space-shuttle",
+      "section": "set",
+      "class": "Transport",
+      "displayName": "Space Shuttle",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "the white space shuttle orbiter with black tiles underneath and wings like a plane",
+      "files": {
+        "model": "models/nasa/Transport/space-shuttle.glb",
+        "thumbnail": "thumbnails/nasa/Transport/space-shuttle.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 14
+      },
+      "budget": {
+        "triangles": 19378,
+        "textureMaxPx": 664
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Space Shuttle by NASA/Johnson Space Center (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/space-shuttle-d/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Transport/space-shuttle/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Transport/space-shuttle/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Transport/space-shuttle/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Transport/space-shuttle/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "nasa/Transport/viking-lander",
+      "section": "set",
+      "class": "Transport",
+      "displayName": "Viking lander",
+      "themes": [
+        "space",
+        "mars",
+        "history"
+      ],
+      "description": "the Viking lander that touched down on Mars, on three legs with a dish antenna",
+      "files": {
+        "model": "models/nasa/Transport/viking-lander.glb",
+        "thumbnail": "thumbnails/nasa/Transport/viking-lander.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 2.1
+      },
+      "budget": {
+        "triangles": 19982,
+        "textureMaxPx": 0
+      },
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Viking lander by NASA/Michael D. Carbajal (public domain)",
+      "source": {
+        "url": "https://science.nasa.gov/3d-resources/viking-lander/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/nasa/Transport/viking-lander/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/nasa/Transport/viking-lander/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/nasa/Transport/viking-lander/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/nasa/Transport/viking-lander/back.svg"
+        }
+      ]
+    },
+    {
       "id": "osa/Biped/agnes",
       "section": "cast",
       "class": "Biped",
@@ -25249,6 +26031,342 @@
       ]
     },
     {
+      "id": "polyhaven/Prop/moon-rock-1",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Moon rock 1",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "files": {
+        "model": "models/polyhaven/Prop/moon-rock-1.glb",
+        "thumbnail": "thumbnails/polyhaven/Prop/moon-rock-1.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.08
+      },
+      "budget": {
+        "triangles": 7996,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 01 by Greg Zaal, Rico Cilliers, Jenelle van Heerden and Dario Barresi, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/moon_rock_01",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/polyhaven/Prop/moon-rock-1/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/polyhaven/Prop/moon-rock-1/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/polyhaven/Prop/moon-rock-1/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/polyhaven/Prop/moon-rock-1/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-2",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Moon rock 2",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "files": {
+        "model": "models/polyhaven/Prop/moon-rock-2.glb",
+        "thumbnail": "thumbnails/polyhaven/Prop/moon-rock-2.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.2
+      },
+      "budget": {
+        "triangles": 3304,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 02 by Rico Cilliers, Greg Zaal and Jenelle van Heerden, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/moon_rock_02",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/polyhaven/Prop/moon-rock-2/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/polyhaven/Prop/moon-rock-2/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/polyhaven/Prop/moon-rock-2/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/polyhaven/Prop/moon-rock-2/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-3",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Moon rock 3",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "files": {
+        "model": "models/polyhaven/Prop/moon-rock-3.glb",
+        "thumbnail": "thumbnails/polyhaven/Prop/moon-rock-3.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.06
+      },
+      "budget": {
+        "triangles": 5598,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 03 by Greg Zaal, Rico Cilliers and Jenelle van Heerden, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/moon_rock_03",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/polyhaven/Prop/moon-rock-3/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/polyhaven/Prop/moon-rock-3/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/polyhaven/Prop/moon-rock-3/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/polyhaven/Prop/moon-rock-3/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-4",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Moon rock 4",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "files": {
+        "model": "models/polyhaven/Prop/moon-rock-4.glb",
+        "thumbnail": "thumbnails/polyhaven/Prop/moon-rock-4.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.05
+      },
+      "budget": {
+        "triangles": 7636,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 04 by Greg Zaal, Rico Cilliers and Jenelle van Heerden, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/moon_rock_04",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/polyhaven/Prop/moon-rock-4/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/polyhaven/Prop/moon-rock-4/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/polyhaven/Prop/moon-rock-4/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/polyhaven/Prop/moon-rock-4/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-5",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Moon rock 5",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "files": {
+        "model": "models/polyhaven/Prop/moon-rock-5.glb",
+        "thumbnail": "thumbnails/polyhaven/Prop/moon-rock-5.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.07
+      },
+      "budget": {
+        "triangles": 8000,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 05 by Greg Zaal, Rico Cilliers and Jenelle van Heerden, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/moon_rock_05",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/polyhaven/Prop/moon-rock-5/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/polyhaven/Prop/moon-rock-5/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/polyhaven/Prop/moon-rock-5/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/polyhaven/Prop/moon-rock-5/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-6",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Moon rock 6",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "files": {
+        "model": "models/polyhaven/Prop/moon-rock-6.glb",
+        "thumbnail": "thumbnails/polyhaven/Prop/moon-rock-6.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.05
+      },
+      "budget": {
+        "triangles": 6920,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 06 by Greg Zaal, Jenelle van Heerden and Rico Cilliers, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/moon_rock_06",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/polyhaven/Prop/moon-rock-6/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/polyhaven/Prop/moon-rock-6/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/polyhaven/Prop/moon-rock-6/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/polyhaven/Prop/moon-rock-6/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-7",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Moon rock 7",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "files": {
+        "model": "models/polyhaven/Prop/moon-rock-7.glb",
+        "thumbnail": "thumbnails/polyhaven/Prop/moon-rock-7.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.06
+      },
+      "budget": {
+        "triangles": 6820,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 07 by Greg Zaal, Rico Cilliers and Jenelle van Heerden, Poly Haven (CC0)",
+      "source": {
+        "url": "https://polyhaven.com/a/moon_rock_07",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/polyhaven/Prop/moon-rock-7/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/polyhaven/Prop/moon-rock-7/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/polyhaven/Prop/moon-rock-7/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/polyhaven/Prop/moon-rock-7/back.svg"
+        }
+      ]
+    },
+    {
       "id": "polyhaven/Prop/mossy-rock",
       "section": "set",
       "class": "Prop",
@@ -25839,7 +26957,7 @@
       },
       "joints": "prop-only",
       "defaultSize": {
-        "height": 0.09
+        "height": 0.08
       },
       "budget": {
         "triangles": 8000,
@@ -26409,7 +27527,7 @@
       },
       "joints": "prop-only",
       "defaultSize": {
-        "height": 0.61
+        "height": 0.6
       },
       "budget": {
         "triangles": 214,
@@ -26985,7 +28103,7 @@
       },
       "joints": "prop-only",
       "defaultSize": {
-        "height": 0.77
+        "height": 0.76
       },
       "budget": {
         "triangles": 198,
@@ -27510,7 +28628,7 @@
       },
       "joints": "prop-only",
       "defaultSize": {
-        "height": 6.02
+        "height": 6
       },
       "budget": {
         "triangles": 439,
@@ -28314,7 +29432,7 @@
       },
       "joints": "prop-only",
       "defaultSize": {
-        "height": 0.29
+        "height": 0.3
       },
       "budget": {
         "triangles": 154,
@@ -29024,7 +30142,7 @@
       },
       "joints": "prop-only",
       "defaultSize": {
-        "height": 1.11
+        "height": 1.1
       },
       "budget": {
         "triangles": 192,
@@ -29071,7 +30189,7 @@
       },
       "joints": "prop-only",
       "defaultSize": {
-        "height": 11.83
+        "height": 12
       },
       "budget": {
         "triangles": 4428,
@@ -29261,7 +30379,7 @@
       },
       "joints": "prop-only",
       "defaultSize": {
-        "height": 11.95
+        "height": 12
       },
       "budget": {
         "triangles": 732,
@@ -31993,6 +33111,486 @@
       ]
     },
     {
+      "id": "solar-system/Prop/earth",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Earth",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "Earth from space, blue seas and green and brown land, to hang in the sky above the Moon",
+      "files": {
+        "model": "models/solar-system/Prop/earth.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/earth.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 8
+      },
+      "budget": {
+        "triangles": 3968,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Earth from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/earth/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/earth/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/earth/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/earth/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "solar-system/Prop/jupiter",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Jupiter",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "Jupiter, a giant planet with cream and brown stripes, to hang in the sky",
+      "files": {
+        "model": "models/solar-system/Prop/jupiter.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/jupiter.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 10
+      },
+      "budget": {
+        "triangles": 3968,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Jupiter from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/jupiter/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/jupiter/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/jupiter/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/jupiter/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "solar-system/Prop/mars",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Mars",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "Mars, the red planet, to hang in the sky",
+      "files": {
+        "model": "models/solar-system/Prop/mars.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/mars.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 4
+      },
+      "budget": {
+        "triangles": 3968,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Mars from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/mars/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/mars/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/mars/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/mars/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "solar-system/Prop/mercury",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Mercury",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "Mercury, a small grey cratered planet, to hang in the sky",
+      "files": {
+        "model": "models/solar-system/Prop/mercury.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/mercury.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 3
+      },
+      "budget": {
+        "triangles": 3968,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Mercury from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/mercury/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/mercury/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/mercury/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/mercury/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "solar-system/Prop/moon",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Moon",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "the Moon, grey with dark patches and craters, to hang in the night sky",
+      "files": {
+        "model": "models/solar-system/Prop/moon.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/moon.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 4
+      },
+      "budget": {
+        "triangles": 3968,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Moon from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/moon/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/moon/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/moon/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/moon/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "solar-system/Prop/neptune",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Neptune",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "Neptune, a deep blue planet, to hang in the sky",
+      "files": {
+        "model": "models/solar-system/Prop/neptune.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/neptune.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 6
+      },
+      "budget": {
+        "triangles": 3968,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Neptune from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/neptune/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/neptune/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/neptune/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/neptune/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "solar-system/Prop/saturn",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Saturn",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "Saturn, a pale gold planet with wide rings, to hang in the sky",
+      "files": {
+        "model": "models/solar-system/Prop/saturn.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/saturn.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 10
+      },
+      "budget": {
+        "triangles": 4224,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Saturn from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/saturn/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/saturn/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/saturn/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/saturn/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "solar-system/Prop/sun",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Sun",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "the Sun, a glowing orange ball, to hang high in the sky",
+      "files": {
+        "model": "models/solar-system/Prop/sun.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/sun.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 5
+      },
+      "budget": {
+        "triangles": 3968,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Sun from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/sun/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/sun/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/sun/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/sun/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "solar-system/Prop/uranus",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Uranus",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "Uranus, a smooth pale blue-green planet, to hang in the sky",
+      "files": {
+        "model": "models/solar-system/Prop/uranus.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/uranus.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 6
+      },
+      "budget": {
+        "triangles": 3968,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Uranus from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/uranus/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/uranus/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/uranus/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/uranus/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "solar-system/Prop/venus",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Venus",
+      "themes": [
+        "space",
+        "planets"
+      ],
+      "description": "Venus, a pale yellow cloudy planet, to hang in the sky",
+      "files": {
+        "model": "models/solar-system/Prop/venus.glb",
+        "thumbnail": "thumbnails/solar-system/Prop/venus.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 4
+      },
+      "budget": {
+        "triangles": 3968,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-4.0",
+      "credit": "Venus from a texture by Solar System Scope, CC BY 4.0, changed for StoryStage",
+      "source": {
+        "url": "https://www.solarsystemscope.com/textures/",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/solar-system/Prop/venus/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/solar-system/Prop/venus/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/solar-system/Prop/venus/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/solar-system/Prop/venus/back.svg"
+        }
+      ]
+    },
+    {
       "id": "storybook/Biped/anansi",
       "section": "cast",
       "class": "Biped",
@@ -32542,7 +34140,7 @@
         "rightToes"
       ],
       "defaultSize": {
-        "height": 4.99
+        "height": 5
       },
       "budget": {
         "triangles": 4123,
@@ -35091,7 +36689,7 @@
         "backRightToe"
       ],
       "defaultSize": {
-        "height": 4.99
+        "height": 5
       },
       "budget": {
         "triangles": 3024,

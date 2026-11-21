@@ -110,6 +110,22 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `makehuman/Biped/p35` | Eli | CC0-1.0 | cast | 36490 → 19986 | 1024 | yes | mapped | 1.14 m | glTF | — | 16 |
 | `makehuman/Biped/p36` | Poppy | CC0-1.0 | cast | 39104 → 19999 | 1024 | yes | mapped | 1.03 m | glTF | — | 16 |
 | `makehuman/Biped/p37` | George | CC0-1.0 | cast | 46784 → 19985 | 1024 | yes | mapped | 1.74 m | glTF | — | 16 |
+| `nasa/Prop/gemini-spacesuit` | Gemini spacesuit | public-domain | props | 114463 → 7986 | — | yes | none | 1.8 m | glTF | — | 4 |
+| `nasa/Prop/mark-iii-spacesuit` | Mark III spacesuit | public-domain | props | 69202 → 7877 | 700 → 0 | yes | none | 1.9 m | glTF | — | 4 |
+| `nasa/Prop/mercury-spacesuit` | Mercury spacesuit | public-domain | props | 110252 → 7988 | — | yes | none | 1.8 m | glTF | — | 4 |
+| `nasa/Prop/robonaut-2` | Robonaut 2 | public-domain | props | 213244 → 8028 | — | **no** | none | 2.4 m | glTF | — | 4 |
+| `nasa/Prop/space-helmet` | Space helmet | public-domain | props | 64664 → 7092 | — | yes | none | 0.4 m | glTF | — | 4 |
+| `nasa/Prop/spacewalk-suit` | Spacewalk suit | public-domain | props | 343455 → 7960 | 1032 → 1024 | yes | none | 1.9 m | glTF | — | 4 |
+| `nasa/Prop/vehicle-assembly-building` | Vehicle Assembly Building | public-domain | set | 6458 | 1768 → 1024 | yes | none | 160 m | glTF | — | 4 |
+| `nasa/Prop/z2-spacesuit` | Z2 spacesuit | public-domain | props | 30904 → 8000 | 4096 → 1024 | yes | none | 1.9 m | glTF | — | 4 |
+| `nasa/Transport/apollo-lunar-module` | Apollo lunar module | public-domain | set | 97588 → 19911 | 900 | yes | none | 7 m | glTF | — | 4 |
+| `nasa/Transport/crawler-transporter` | Crawler-transporter | public-domain | set | 279800 → 19514 | — | yes | none | 6.1 m | glTF | — | 4 |
+| `nasa/Transport/ingenuity-helicopter` | Ingenuity Mars helicopter | public-domain | props | 9124 → 7995 | 1024 | yes | none | 0.49 m | glTF | — | 4 |
+| `nasa/Transport/jupiter-c-rocket` | Jupiter-C rocket | public-domain | set | 8933 | 1000 | yes | none | 21.2 m | glTF | — | 4 |
+| `nasa/Transport/perseverance-rover` | Perseverance rover | public-domain | set | 199521 → 19848 | 1024 | yes | none | 2.2 m | glTF | — | 4 |
+| `nasa/Transport/saturn-v` | Saturn V rocket | public-domain | set | 34814 → 19946 | 1000 | yes | none | 110.6 m | glTF | — | 4 |
+| `nasa/Transport/space-shuttle` | Space Shuttle | public-domain | set | 19378 | 664 | yes | none | 14 m | glTF | — | 4 |
+| `nasa/Transport/viking-lander` | Viking lander | public-domain | set | 99526 → 19982 | — | yes | none | 2.1 m | glTF | — | 4 |
 | `osa/Biped/agnes` | Agnes | CC0-1.0 | cast | 11210 | 2048 → 1024 | yes | mapped | 1.73 m | VRM 0 | — | 16 |
 | `osa/Biped/ajo-majo` | Ajo Majo | CC0-1.0 | cast | 7666 | 2048 → 1024 | yes | mapped | 0.88 m | VRM 0 | — | 16 |
 | `osa/Biped/alien-teen` | Alien Teen | CC0-1.0 | cast | 10340 | 2048 → 1024 | yes | mapped | 1.34 m | VRM 0 | — | 16 |
@@ -220,6 +236,13 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polyhaven/Prop/gazania` | Gazania flower | CC0-1.0 | props | 3540 | 1024 | yes | none | 0.17 m | glTF | 7 parts | 4 |
 | `polyhaven/Prop/lemon` | Lemon | CC0-1.0 | props | 4012 | 1024 | yes | none | 0.1 m | glTF | — | 4 |
 | `polyhaven/Prop/money-tree` | Money tree | CC0-1.0 | set | 28105 → 19998 | 1024 | yes | none | 1.9 m | glTF | 6 parts | 4 |
+| `polyhaven/Prop/moon-rock-1` | Moon rock 1 | CC0-1.0 | props | 18668 → 7996 | 1024 | yes | none | 0.08 m | glTF | — | 4 |
+| `polyhaven/Prop/moon-rock-2` | Moon rock 2 | CC0-1.0 | props | 3304 | 1024 | yes | none | 0.2 m | glTF | — | 4 |
+| `polyhaven/Prop/moon-rock-3` | Moon rock 3 | CC0-1.0 | props | 5598 | 1024 | yes | none | 0.06 m | glTF | — | 4 |
+| `polyhaven/Prop/moon-rock-4` | Moon rock 4 | CC0-1.0 | props | 7636 | 1024 | yes | none | 0.05 m | glTF | — | 4 |
+| `polyhaven/Prop/moon-rock-5` | Moon rock 5 | CC0-1.0 | props | 9850 → 8000 | 1024 | yes | none | 0.07 m | glTF | — | 4 |
+| `polyhaven/Prop/moon-rock-6` | Moon rock 6 | CC0-1.0 | props | 6920 | 1024 | yes | none | 0.05 m | glTF | — | 4 |
+| `polyhaven/Prop/moon-rock-7` | Moon rock 7 | CC0-1.0 | props | 6820 | 1024 | yes | none | 0.06 m | glTF | — | 4 |
 | `polyhaven/Prop/mossy-rock` | Mossy rock | CC0-1.0 | set | 10589 | 1024 | yes | none | 1.77 m | glTF | 5 parts | 4 |
 | `polyhaven/Prop/nettle` | Nettle | CC0-1.0 | props | 6984 | 1024 | yes | none | 0.22 m | glTF | 5 parts | 4 |
 | `polyhaven/Prop/onion` | Onion | CC0-1.0 | props | 5444 | 1024 | yes | none | 0.09 m | glTF | — | 4 |
@@ -232,7 +255,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polyhaven/Prop/quartz-stone` | Quartz stone | CC0-1.0 | props | 53520 → 8000 | 1024 | yes | none | 0.07 m | glTF | — | 4 |
 | `polyhaven/Prop/quiver-tree` | Quiver tree | CC0-1.0 | set | 150124 → 19991 | 1024 | yes | none | 2.72 m | glTF | — | 4 |
 | `polyhaven/Prop/raised-planter` | Raised planter | CC0-1.0 | props | 13112 → 8000 | 1024 | yes | none | 0.86 m | glTF | — | 4 |
-| `polyhaven/Prop/rat` | Rat | CC0-1.0 | props | 57216 → 8000 | 1024 | yes | none | 0.09 m | glTF | — | 4 |
+| `polyhaven/Prop/rat` | Rat | CC0-1.0 | props | 57216 → 8000 | 1024 | yes | none | 0.08 m | glTF | — | 4 |
 | `polyhaven/Prop/red-rock` | Red rock | CC0-1.0 | props | 14844 → 8000 | 1024 | yes | none | 0.14 m | glTF | — | 4 |
 | `polyhaven/Prop/split-boulder` | Split boulder | CC0-1.0 | set | 97964 → 19991 | 1024 | yes | none | 0.88 m | glTF | — | 4 |
 | `polyhaven/Prop/sweet-potato` | Sweet potato | CC0-1.0 | props | 2042 | 1024 | yes | none | 0.1 m | glTF | — | 4 |
@@ -244,7 +267,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polypizza/Prop/barn` | Barn | CC-BY-3.0 | set | 766 | — | yes | none | 8 m | glTF | — | 4 |
 | `polypizza/Prop/basketball` | Basketball | CC-BY-3.0 | props | 508 | 32 | yes | none | 0.24 m | glTF | — | 4 |
 | `polypizza/Prop/beach-ball` | Beach ball | CC-BY-3.0 | props | 192 | — | yes | none | 0.5 m | glTF | — | 4 |
-| `polypizza/Prop/bed` | Bed | CC0-1.0 | props | 314 → 214 | — | yes | none | 0.61 m | glTF | — | 4 |
+| `polypizza/Prop/bed` | Bed | CC0-1.0 | props | 314 → 214 | — | yes | none | 0.6 m | glTF | — | 4 |
 | `polypizza/Prop/bench` | Bench | CC-BY-3.0 | set | 288 | — | yes | none | 0.85 m | glTF | — | 4 |
 | `polypizza/Prop/birthday-cake` | Birthday cake | CC-BY-3.0 | props | 7468 | — | yes | none | 0.25 m | glTF | — | 4 |
 | `polypizza/Prop/books` | Pile of books | CC-BY-3.0 | props | 640 | — | yes | none | 0.15 m | glTF | — | 4 |
@@ -256,7 +279,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polypizza/Prop/crutches` | Crutches | CC-BY-3.0 | props | 1136 | — | yes | none | 1.15 m | glTF | — | 4 |
 | `polypizza/Prop/cup-of-tea` | Cup of tea | CC0-1.0 | props | 436 | 128 | yes | none | 0.08 m | glTF | — | 4 |
 | `polypizza/Prop/cupboard` | Cupboard | CC0-1.0 | props | 536 → 296 | — | yes | none | 1.9 m | glTF | — | 4 |
-| `polypizza/Prop/desk` | Desk | CC0-1.0 | props | 352 → 198 | — | yes | none | 0.77 m | glTF | — | 4 |
+| `polypizza/Prop/desk` | Desk | CC0-1.0 | props | 352 → 198 | — | yes | none | 0.76 m | glTF | — | 4 |
 | `polypizza/Prop/desk-chair` | Desk chair | CC0-1.0 | props | 656 → 588 | — | yes | none | 1 m | glTF | — | 4 |
 | `polypizza/Prop/farmhouse` | Farmhouse | CC-BY-3.0 | set | 2047 | 2048 → 1024 | yes | none | 9 m | glTF | — | 4 |
 | `polypizza/Prop/fir-tree` | Fir tree | CC0-1.0 | set | 210 | — | yes | none | 8 m | glTF | — | 4 |
@@ -267,7 +290,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polypizza/Prop/globe` | Globe | CC-BY-3.0 | props | 532 | — | yes | none | 0.4 m | glTF | — | 4 |
 | `polypizza/Prop/grand-piano` | Grand piano | CC-BY-3.0 | props | 1576 | — | yes | none | 1 m | glTF | — | 4 |
 | `polypizza/Prop/guitar` | Guitar | CC-BY-3.0 | props | 520 | — | yes | none | 1 m | glTF | — | 4 |
-| `polypizza/Prop/house` | House | CC-BY-3.0 | set | 439 | 512 | yes | none | 6.02 m | glTF | — | 4 |
+| `polypizza/Prop/house` | House | CC-BY-3.0 | set | 439 | 512 | yes | none | 6 m | glTF | — | 4 |
 | `polypizza/Prop/kettle` | Kettle | CC-BY-3.0 | props | 796 | — | yes | none | 0.25 m | glTF | — | 4 |
 | `polypizza/Prop/kite` | Kite | CC-BY-3.0 | props | 774 | — | yes | none | 1.2 m | glTF | — | 4 |
 | `polypizza/Prop/lantern` | Lantern | CC0-1.0 | props | 264 | 1024 | yes | none | 0.3 m | glTF | — | 4 |
@@ -284,7 +307,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polypizza/Prop/school-desk` | School desk | CC-BY-3.0 | props | 1004 | — | yes | none | 0.8 m | glTF | — | 4 |
 | `polypizza/Prop/schoolhouse` | Schoolhouse | CC-BY-3.0 | set | 2136 | — | yes | none | 8 m | glTF | — | 4 |
 | `polypizza/Prop/sofa` | Sofa | CC0-1.0 | props | 256 → 128 | — | yes | none | 0.85 m | glTF | — | 4 |
-| `polypizza/Prop/stones` | Stones | CC-BY-3.0 | set | 154 | — | yes | none | 0.29 m | glTF | — | 4 |
+| `polypizza/Prop/stones` | Stones | CC-BY-3.0 | set | 154 | — | yes | none | 0.3 m | glTF | — | 4 |
 | `polypizza/Prop/table` | Table | CC-BY-3.0 | props | 788 | — | yes | none | 0.75 m | glTF | — | 4 |
 | `polypizza/Prop/teapot` | Teapot | CC-BY-3.0 | props | 2354 | — | yes | none | 0.15 m | glTF | — | 4 |
 | `polypizza/Prop/teddy-bear` | Teddy bear | CC-BY-3.0 | props | 5110 | — | yes | none | 0.35 m | glTF | — | 4 |
@@ -299,12 +322,12 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `polypizza/Prop/watering-can` | Watering can | CC0-1.0 | props | 710 | 1024 | yes | none | 0.3 m | glTF | — | 4 |
 | `polypizza/Prop/well` | Well | CC-BY-3.0 | set | 3466 | — | yes | none | 2.2 m | glTF | — | 4 |
 | `polypizza/Prop/wheelchair` | Wheelchair | CC-BY-3.0 | props | 16964 → 8000 | 4096 → 1024 | yes | none | 0.9 m | glTF | — | 4 |
-| `polypizza/Prop/wooden-fence` | Wooden fence | CC-BY-3.0 | set | 192 | — | yes | none | 1.11 m | glTF | — | 4 |
-| `polypizza/Transport/aeroplane` | Aeroplane | CC-BY-3.0 | props | 4428 | — | yes | none | 11.83 m | glTF | — | 4 |
+| `polypizza/Prop/wooden-fence` | Wooden fence | CC-BY-3.0 | set | 192 | — | yes | none | 1.1 m | glTF | — | 4 |
+| `polypizza/Transport/aeroplane` | Aeroplane | CC-BY-3.0 | props | 4428 | — | yes | none | 12 m | glTF | — | 4 |
 | `polypizza/Transport/bicycle` | Bicycle | CC-BY-3.0 | props | 2466 | — | yes | none | 1 m | glTF | — | 4 |
 | `polypizza/Transport/bus` | Bus | CC-BY-3.0 | props | 2142 | — | yes | none | 3.2 m | glTF | — | 4 |
 | `polypizza/Transport/car` | Car | CC-BY-3.0 | props | 2050 | 256 | yes | none | 1.5 m | glTF | — | 4 |
-| `polypizza/Transport/rocket` | Rocket | CC-BY-3.0 | props | 732 | — | yes | none | 11.95 m | glTF | — | 4 |
+| `polypizza/Transport/rocket` | Rocket | CC-BY-3.0 | props | 732 | — | yes | none | 12 m | glTF | — | 4 |
 | `polypizza/Transport/rowing-boat` | Rowing boat | CC-BY-3.0 | props | 1030 | 256 | yes | none | 0.6 m | glTF | — | 4 |
 | `polypizza/Transport/steam-train` | Steam train | CC-BY-3.0 | props | 4248 | — | yes | none | 4 m | glTF | — | 4 |
 | `scottishmaritime/Prop/locomotive-headlamp` | Locomotive headlamp | CC0-1.0 | props | 23593 → 7999 | 1024 | yes | none | 0.37 m | glTF | — | 4 |
@@ -348,11 +371,21 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `smithsonian/Transport/apollo-11-command-module` | Apollo 11 command module | CC0-1.0 | set | 241166 → 19996 | 4096 → 1024 | yes | none | 3.2 m | glTF | — | 4 |
 | `smithsonian/Transport/bell-x-1` | Bell X-1 | CC0-1.0 | set | 103678 → 19622 | 4096 → 1024 | yes | none | 3.2 m | glTF | — | 4 |
 | `smithsonian/Transport/space-shuttle-discovery` | Space Shuttle Discovery | CC0-1.0 | set | 150000 → 19387 | 4096 → 1024 | yes | none | 15.8 m | glTF | — | 4 |
+| `solar-system/Prop/earth` | Earth | CC-BY-4.0 | set | 3968 | 2048 → 1024 | yes | none | 8 m | glTF | — | 4 |
+| `solar-system/Prop/jupiter` | Jupiter | CC-BY-4.0 | set | 3968 | 2048 → 1024 | yes | none | 10 m | glTF | — | 4 |
+| `solar-system/Prop/mars` | Mars | CC-BY-4.0 | set | 3968 | 2048 → 1024 | yes | none | 4 m | glTF | — | 4 |
+| `solar-system/Prop/mercury` | Mercury | CC-BY-4.0 | set | 3968 | 2048 → 1024 | yes | none | 3 m | glTF | — | 4 |
+| `solar-system/Prop/moon` | Moon | CC-BY-4.0 | set | 3968 | 2048 → 1024 | yes | none | 4 m | glTF | — | 4 |
+| `solar-system/Prop/neptune` | Neptune | CC-BY-4.0 | set | 3968 | 2048 → 1024 | yes | none | 6 m | glTF | — | 4 |
+| `solar-system/Prop/saturn` | Saturn | CC-BY-4.0 | set | 4224 | 2048 → 1024 | yes | none | 10 m | glTF | — | 4 |
+| `solar-system/Prop/sun` | Sun | CC-BY-4.0 | set | 3968 | 2048 → 1024 | yes | none | 5 m | glTF | — | 4 |
+| `solar-system/Prop/uranus` | Uranus | CC-BY-4.0 | set | 3968 | 2048 → 1024 | yes | none | 6 m | glTF | — | 4 |
+| `solar-system/Prop/venus` | Venus | CC-BY-4.0 | set | 3968 | 2048 → 1024 | yes | none | 4 m | glTF | — | 4 |
 | `storybook/Biped/anansi` | Anansi | CC0-1.0 | cast | 12505 → 7705 | 1024 | yes | mapped | 2.24 m | glTF | 7 parts, 35 clips | 16 |
 | `storybook/Biped/beowulf` | Beowulf | CC0-1.0 | cast | 4777 | 1024 | yes | mapped | 2.4 m | glTF | 5 parts, 35 clips | 16 |
 | `storybook/Biped/branwen` | Branwen | CC0-1.0 | cast | 5067 | 1024 | yes | mapped | 2.19 m | glTF | 5 parts, 35 clips | 16 |
 | `storybook/Biped/doctor-watson` | Dr Watson | CC0-1.0 | cast | 5015 | 1024 | yes | mapped | 2.25 m | glTF | 6 parts, 35 clips | 16 |
-| `storybook/Biped/fionn-mac-cumhaill` | Fionn mac Cumhaill | CC0-1.0 | cast | 4123 | 1024 | yes | mapped | 4.99 m | glTF | 6 parts, 35 clips | 16 |
+| `storybook/Biped/fionn-mac-cumhaill` | Fionn mac Cumhaill | CC0-1.0 | cast | 4123 | 1024 | yes | mapped | 5 m | glTF | 6 parts, 35 clips | 16 |
 | `storybook/Biped/king-arthur` | King Arthur | CC0-1.0 | cast | 4232 | 1024 | yes | mapped | 2.31 m | glTF | 8 parts, 35 clips | 16 |
 | `storybook/Biped/maid-marian` | Maid Marian | CC0-1.0 | cast | 5067 | 1024 | yes | mapped | 2.19 m | glTF | 5 parts, 35 clips | 16 |
 | `storybook/Biped/medusa` | Medusa | CC0-1.0 | cast | 7271 → 6071 | 1024 | yes | mapped | 2.44 m | glTF | 6 parts, 35 clips | 16 |
@@ -397,7 +430,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `styloo/Quadruped/cat` | Cat | CC0-1.0 | cast | 3476 | 512 | yes | mapped | 0.3 m | glTF | — | 4 |
 | `styloo/Quadruped/cow` | Cow | CC0-1.0 | cast | 4740 | 1024 | yes | mapped | 1.6 m | glTF | — | 4 |
 | `styloo/Quadruped/dog` | Dog | CC0-1.0 | cast | 5712 | 1024 | yes | mapped | 0.65 m | glTF | — | 4 |
-| `styloo/Quadruped/giraffe` | Giraffe | CC0-1.0 | cast | 3024 | 512 | yes | mapped | 4.99 m | glTF | — | 4 |
+| `styloo/Quadruped/giraffe` | Giraffe | CC0-1.0 | cast | 3024 | 512 | yes | mapped | 5 m | glTF | — | 4 |
 | `vrmc/Biped/seed-san` | Seed-san | VRM-PL-1.0 | cast | 45058 | 1024 | **no** | mapped | 1.58 m | VRM 1 | — | 16 |
 | `vuena/Flyer/owl` | Owl | CC0-1.0 | cast | 7884 | 2048 → 1024 | yes | mapped | 0.4 m | glTF | 1 parts | 4 |
 | `vuena/Quadruped/cat` | Cat | CC0-1.0 | cast | 7188 | 2048 → 1024 | yes | mapped | 0.35 m | glTF | 1 parts | 4 |
@@ -446,4 +479,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** the index in its system prompt is about 6,413 of 12,000 tokens; every full line, which requests carry a few at a time, about 23,845. `prompter-catalogue.txt` holds every full line exactly as Claude reads it; check its descriptions with the sketches.
+**Prompter catalogue:** the index in its system prompt is about 7,041 of 12,000 tokens; every full line, which requests carry a few at a time, about 25,372. `prompter-catalogue.txt` holds every full line exactly as Claude reads it; check its descriptions with the sketches.

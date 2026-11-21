@@ -208,7 +208,7 @@ Cast
     storybook/Biped/beowulf: Beowulf, Beowulf the hero, bearded, in a bear hood and furs [storybook, legend, myth, history] 2.4 m, joints J1
     storybook/Biped/branwen: Branwen, Branwen of the Mabinogion, a young woman with long dark hair, in a long blue dress and cloak, with a gold circlet [storybook, legend, myth, Welsh] 2.19 m, joints J1
     storybook/Biped/doctor-watson: Dr Watson, Dr Watson, Sherlock Holmes's friend, with a grey beard and moustache, in a black bowler hat and a green coat [storybook, mystery, Victorian] 2.25 m, joints J1
-    storybook/Biped/fionn-mac-cumhaill: Fionn mac Cumhaill, Fionn mac Cumhaill, the Irish and Scottish giant, bearded, in furs [storybook, legend, myth] 4.99 m, joints J1
+    storybook/Biped/fionn-mac-cumhaill: Fionn mac Cumhaill, Fionn mac Cumhaill, the Irish and Scottish giant, bearded, in furs [storybook, legend, myth] 5 m, joints J1
     storybook/Biped/king-arthur: King Arthur, King Arthur, fair-haired and bareheaded, in armour and a red cape [storybook, legend, myth, history] 2.31 m, joints J1
     storybook/Biped/maid-marian: Maid Marian, Maid Marian, a young woman with long brown hair, in a long crimson dress and cloak, with a gold circlet [storybook, legend, folk tale] 2.19 m, joints J1
     storybook/Biped/medusa: Medusa, Medusa of the Greek myths, a young woman in a long white dress, with green snakes for hair [storybook, myth, Greek] 2.44 m, joints J1
@@ -268,7 +268,7 @@ Cast
     styloo/Quadruped/cat: Cat, a cream cat with light brown legs, ears and face, and blue eyes [animals, pets] 0.3 m, joints J42
     styloo/Quadruped/cow: Cow, a black and white cow with a pink nose [animals, farm] 1.6 m, joints J42
     styloo/Quadruped/dog: Dog, a grey dog with a black and white head and floppy ears [animals, pets] 0.65 m, joints J42
-    styloo/Quadruped/giraffe: Giraffe, a tall giraffe with orange-brown patches and a long neck [animals, savanna] 4.99 m, joints J42
+    styloo/Quadruped/giraffe: Giraffe, a tall giraffe with orange-brown patches and a long neck [animals, savanna] 5 m, joints J42
     vuena/Quadruped/cat: Cat, a chunky toy-style ginger cat with a white chest and big green eyes [animals, pets] 0.35 m, joints J50
     vuena/Quadruped/fox: Fox, a chunky toy-style orange fox with a white face and dark paws [animals, woodland] 0.45 m, joints J50
   Swimmer
@@ -300,6 +300,13 @@ Props
     kaykit-forest/Prop/rock-3-f: Grey rock F [nature] 1.18 m, no joints
     kaykit-forest/Prop/rock-3-j: Grey rock J [nature] 1.9 m, no joints
     kaykit/Prop/mug: Mug, a big wooden mug with metal bands, full to the top with froth [fantasy, food] 0.55 m, no joints
+    nasa/Prop/gemini-spacesuit: Gemini spacesuit, an empty dark 1960s Gemini spacesuit with a white helmet [space, history] 1.8 m, no joints
+    nasa/Prop/mark-iii-spacesuit: Mark III spacesuit, an empty bulky white test spacesuit with a dark visor [space] 1.9 m, no joints
+    nasa/Prop/mercury-spacesuit: Mercury spacesuit, an empty white 1960s Mercury spacesuit with blue straps [space, history] 1.8 m, no joints
+    nasa/Prop/robonaut-2: Robonaut 2, Robonaut 2, a white space robot with a head, two arms and long climbing legs [space, robots] 2.4 m, no joints
+    nasa/Prop/space-helmet: Space helmet, a white astronaut's helmet with a clear visor [space] 0.4 m, no joints
+    nasa/Prop/spacewalk-suit: Spacewalk suit, an empty white spacewalk suit with a big backpack [space] 1.9 m, no joints
+    nasa/Prop/z2-spacesuit: Z2 spacesuit, an empty white and grey prototype spacesuit with a dark visor [space] 1.9 m, no joints
     polyhaven/Prop/anthurium: Anthurium, a leafy green rainforest plant with long pointed leaves [plants, jungle] 0.5 m, no joints
     polyhaven/Prop/apple: Apple, a red apple [food, kitchen] 0.09 m, no joints
     polyhaven/Prop/avocado: Avocado, a dark green avocado [food, kitchen] 0.14 m, no joints
@@ -312,6 +319,13 @@ Props
     polyhaven/Prop/flat-stone: Flat stone, a flat grey stone [beach, river] 0.03 m, no joints
     polyhaven/Prop/gazania: Gazania flower, a low plant with orange daisy-like flowers and long leaves [plants, garden] 0.17 m, no joints
     polyhaven/Prop/lemon: Lemon, a yellow lemon [food, kitchen] 0.1 m, no joints
+    polyhaven/Prop/moon-rock-1: Moon rock 1, a small grey rock brought back from the Moon [space, moon] 0.08 m, no joints
+    polyhaven/Prop/moon-rock-2: Moon rock 2, a small grey rock brought back from the Moon [space, moon] 0.2 m, no joints
+    polyhaven/Prop/moon-rock-3: Moon rock 3, a small grey rock brought back from the Moon [space, moon] 0.06 m, no joints
+    polyhaven/Prop/moon-rock-4: Moon rock 4, a small grey rock brought back from the Moon [space, moon] 0.05 m, no joints
+    polyhaven/Prop/moon-rock-5: Moon rock 5, a small grey rock brought back from the Moon [space, moon] 0.07 m, no joints
+    polyhaven/Prop/moon-rock-6: Moon rock 6, a small grey rock brought back from the Moon [space, moon] 0.05 m, no joints
+    polyhaven/Prop/moon-rock-7: Moon rock 7, a small grey rock brought back from the Moon [space, moon] 0.06 m, no joints
     polyhaven/Prop/nettle: Nettle, a stinging nettle with pairs of jagged leaves up its stem [plants, woodland] 0.22 m, no joints
     polyhaven/Prop/onion: Onion, a round brown onion with dry papery outer layers [food, kitchen] 0.09 m, no joints
     polyhaven/Prop/periwinkle: Periwinkle, a leafy plant with small pink flowers [plants, garden] 0.4 m, no joints
@@ -322,7 +336,7 @@ Props
     polyhaven/Prop/potted-succulent: Potted succulent, a spiky green succulent in a small white pot with pebbles [plants, home] 0.27 m, no joints
     polyhaven/Prop/quartz-stone: Quartz stone, a small pinkish stone with white quartz in it [nature] 0.07 m, no joints
     polyhaven/Prop/raised-planter: Raised planter, a wooden planter box on legs, filled with soil [plants, garden] 0.86 m, no joints
-    polyhaven/Prop/rat: Rat, a dark brown rat with a long thin tail [animals, town] 0.09 m, no joints
+    polyhaven/Prop/rat: Rat, a dark brown rat with a long thin tail [animals, town] 0.08 m, no joints
     polyhaven/Prop/red-rock: Red rock, a small dark red rock [nature] 0.14 m, no joints
     polyhaven/Prop/sweet-potato: Sweet potato, a reddish sweet potato [food, kitchen] 0.1 m, no joints
     polypizza/Prop/alarm-clock: Alarm clock, a red alarm clock with two bells on top [home] 0.15 m, no joints
@@ -330,7 +344,7 @@ Props
     polypizza/Prop/backpack: Backpack, a brown backpack with pockets [school] 0.45 m, no joints
     polypizza/Prop/basketball: Basketball, an orange basketball with black lines [sport, toys] 0.24 m, no joints
     polypizza/Prop/beach-ball: Beach ball, a ball with blue, white, red and yellow panels [toys, beach] 0.5 m, no joints
-    polypizza/Prop/bed: Bed, a single bed with a wooden frame, a red cover and a white pillow [home] 0.61 m, no joints
+    polypizza/Prop/bed: Bed, a single bed with a wooden frame, a red cover and a white pillow [home] 0.6 m, no joints
     polypizza/Prop/birthday-cake: Birthday cake, a pink layered cake with lit candles on top [food, party] 0.25 m, no joints
     polypizza/Prop/books: Pile of books, a stack of coloured books lying flat [school, library] 0.15 m, no joints
     polypizza/Prop/bookshelf: Bookshelf, a tall wooden bookshelf full of coloured books [home, school, library] 1.8 m, no joints
@@ -339,7 +353,7 @@ Props
     polypizza/Prop/crutches: Crutches, a pair of grey forearm crutches [everyday, health] 1.15 m, no joints
     polypizza/Prop/cup-of-tea: Cup of tea, a white teacup on a saucer [kitchen, food] 0.08 m, no joints
     polypizza/Prop/cupboard: Cupboard, a tall wooden cupboard with two closed doors [home] 1.9 m, no joints
-    polypizza/Prop/desk: Desk, a light wooden desk with drawers [home, school, office] 0.77 m, no joints
+    polypizza/Prop/desk: Desk, a light wooden desk with drawers [home, school, office] 0.76 m, no joints
     polypizza/Prop/desk-chair: Desk chair, a red office chair on wheels with grey armrests [home, school, office] 1 m, no joints
     polypizza/Prop/floor-lamp: Floor lamp, a tall lamp with a yellow shade on a thin pole [home] 1.6 m, no joints
     polypizza/Prop/fridge: Fridge, a tall white fridge with two doors [home, kitchen] 1.8 m, no joints
@@ -371,11 +385,12 @@ Props
     smithsonian/Prop/lincoln-patent-model: Lincoln's patent model, Abraham Lincoln's wooden model of a boat with floats to lift it over shallow water [inventions, history] 0.25 m, no joints
     smithsonian/Prop/morse-telegraph-key: Morse telegraph key, an early telegraph key on a wooden base, for sending Morse code [inventions, history] 0.08 m, no joints
   Transport
-    polypizza/Transport/aeroplane: Aeroplane, a white passenger aeroplane [transport] 11.83 m, no joints
+    nasa/Transport/ingenuity-helicopter: Ingenuity Mars helicopter, Ingenuity, the small Mars helicopter with two long rotor blades and four thin legs [space, mars] 0.49 m, no joints
+    polypizza/Transport/aeroplane: Aeroplane, a white passenger aeroplane [transport] 12 m, no joints
     polypizza/Transport/bicycle: Bicycle, an orange bicycle [transport] 1 m, no joints
     polypizza/Transport/bus: Bus, a white and blue coach [transport, town] 3.2 m, no joints
     polypizza/Transport/car: Car, a small blue car [transport, town] 1.5 m, no joints
-    polypizza/Transport/rocket: Rocket, a white rocket with red fins and a round window [space] 11.95 m, no joints
+    polypizza/Transport/rocket: Rocket, a white rocket with red fins and a round window [space] 12 m, no joints
     polypizza/Transport/rowing-boat: Rowing boat, a small white rowing boat [transport, sea] 0.6 m, no joints
     polypizza/Transport/steam-train: Steam train, a small steam engine with its coal wagon [transport, history] 4 m, no joints
     scottishmaritime/Transport/mary-chalmers: Rowing boat, a small red wooden rowing boat [sea, boats, history] 0.41 m, no joints
@@ -400,6 +415,7 @@ Set
     kaykit-forest/Prop/rock-3-p: Grey rock P [nature] 3.68 m, no joints
     kaykit-forest/Prop/rock-3-q: Grey rock Q [nature] 3.72 m, no joints
     kaykit-forest/Prop/rock-3-r: Grey rock R [nature] 3.85 m, no joints
+    nasa/Prop/vehicle-assembly-building: Vehicle Assembly Building, the huge box-shaped building where rockets are put together, a US flag on its side [space] 160 m, no joints
     polyhaven/Prop/boulder: Boulder, a big rough brown boulder [nature] 1 m, no joints
     polyhaven/Prop/fallen-log: Fallen log, a long fallen log with rough bark [woodland, nature] 0.29 m, no joints
     polyhaven/Prop/money-tree: Money tree, a small tree with a braided trunk and green leaves [plants, home] 1.9 m, no joints
@@ -416,24 +432,41 @@ Set
     polypizza/Prop/fir-tree: Fir tree, a tall green fir tree [nature, winter] 8 m, no joints
     polypizza/Prop/footbridge: Footbridge, a small dark wooden footbridge [nature] 1.5 m, no joints
     polypizza/Prop/fountain: Fountain, a white stone fountain with three bowls [park, town] 1.5 m, no joints
-    polypizza/Prop/house: House, a small brown house with a chimney [town, home] 6.02 m, no joints
+    polypizza/Prop/house: House, a small brown house with a chimney [town, home] 6 m, no joints
     polypizza/Prop/lighthouse: Lighthouse, a red and white striped lighthouse beside a cottage [sea] 20 m, no joints
     polypizza/Prop/palm-tree: Palm tree, a palm tree with coconuts [beach] 8 m, no joints
     polypizza/Prop/picket-fence: Picket fence, a white picket fence [town, garden] 1 m, no joints
     polypizza/Prop/picnic-table: Picnic table, a wooden picnic table with benches [park] 0.75 m, no joints
     polypizza/Prop/rock: Rock, a tall grey rock [nature] 1.5 m, no joints
     polypizza/Prop/schoolhouse: Schoolhouse, a red schoolhouse with a bell tower [school, history] 8 m, no joints
-    polypizza/Prop/stones: Stones, a few small grey stones [nature] 0.29 m, no joints
+    polypizza/Prop/stones: Stones, a few small grey stones [nature] 0.3 m, no joints
     polypizza/Prop/tent: Tent, a green tent [camping] 1.6 m, no joints
     polypizza/Prop/tower: Tower, a round white stone tower with a wooden door [fairy tale] 10 m, no joints
     polypizza/Prop/town-building: Town building, a red brick building with shops below and flats above [town] 10 m, no joints
     polypizza/Prop/tree: Tree, a tree with a twisty trunk and round green leaves [nature] 6 m, no joints
     polypizza/Prop/well: Well, a stone well with a red roof and a bucket [fairy tale, countryside] 2.2 m, no joints
-    polypizza/Prop/wooden-fence: Wooden fence, a short wooden rail fence [farm, countryside] 1.11 m, no joints
+    polypizza/Prop/wooden-fence: Wooden fence, a short wooden rail fence [farm, countryside] 1.1 m, no joints
     scottishmaritime/Prop/steam-hammer: Steam hammer, a tall iron steam hammer from a shipyard [engines, inventions, history] 3.45 m, no joints
     smithsonian/Prop/triceratops: Triceratops skeleton, a Triceratops fossil skeleton, lying on its side, with three horns and a bony frill [fossils, dinosaurs, museum] 1.65 m, no joints
     smithsonian/Prop/woolly-mammoth: Woolly mammoth skeleton, a woolly mammoth's skeleton, with long curved tusks [fossils, museum, science] 3.4 m, no joints
+    solar-system/Prop/earth: Earth, Earth from space, blue seas and green and brown land, to hang in the sky above the Moon [space, planets] 8 m, no joints
+    solar-system/Prop/jupiter: Jupiter, Jupiter, a giant planet with cream and brown stripes, to hang in the sky [space, planets] 10 m, no joints
+    solar-system/Prop/mars: Mars, Mars, the red planet, to hang in the sky [space, planets] 4 m, no joints
+    solar-system/Prop/mercury: Mercury, Mercury, a small grey cratered planet, to hang in the sky [space, planets] 3 m, no joints
+    solar-system/Prop/moon: Moon, the Moon, grey with dark patches and craters, to hang in the night sky [space, planets] 4 m, no joints
+    solar-system/Prop/neptune: Neptune, Neptune, a deep blue planet, to hang in the sky [space, planets] 6 m, no joints
+    solar-system/Prop/saturn: Saturn, Saturn, a pale gold planet with wide rings, to hang in the sky [space, planets] 10 m, no joints
+    solar-system/Prop/sun: Sun, the Sun, a glowing orange ball, to hang high in the sky [space, planets] 5 m, no joints
+    solar-system/Prop/uranus: Uranus, Uranus, a smooth pale blue-green planet, to hang in the sky [space, planets] 6 m, no joints
+    solar-system/Prop/venus: Venus, Venus, a pale yellow cloudy planet, to hang in the sky [space, planets] 4 m, no joints
   Transport
+    nasa/Transport/apollo-lunar-module: Apollo lunar module, the gold and silver Apollo lunar module that landed astronauts on the Moon [space, moon, history] 7 m, no joints
+    nasa/Transport/crawler-transporter: Crawler-transporter, the giant tracked crawler that carries rockets to the launch pad [space, transport] 6.1 m, no joints
+    nasa/Transport/jupiter-c-rocket: Jupiter-C rocket, the slim white rocket that launched the first American satellite in 1958 [space, history] 21.2 m, no joints
+    nasa/Transport/perseverance-rover: Perseverance rover, Perseverance, the six-wheeled Mars rover with a camera mast and a robot arm [space, mars] 2.2 m, no joints
+    nasa/Transport/saturn-v: Saturn V rocket, the giant white Saturn V rocket that launched the Apollo Moon missions [space, moon, history] 110.6 m, no joints
+    nasa/Transport/space-shuttle: Space Shuttle, the white space shuttle orbiter with black tiles underneath and wings like a plane [space, history] 14 m, no joints
+    nasa/Transport/viking-lander: Viking lander, the Viking lander that touched down on Mars, on three legs with a dish antenna [space, mars, history] 2.1 m, no joints
     scottishmaritime/Transport/mv-spartan: Wrecked puffer ship, the wreck of a small old cargo ship, its hull broken and rusted [sea, boats, history] 9.14 m, no joints
     scottishmaritime/Transport/rnlb-jane-anne: Lifeboat, an old wooden lifeboat with a dark hull [sea, boats, history] 2.74 m, no joints
     smithsonian/Transport/apollo-11-command-module: Apollo 11 command module, the cone-shaped Apollo 11 spacecraft that brought three astronauts home from the Moon [space, history] 3.2 m, no joints
