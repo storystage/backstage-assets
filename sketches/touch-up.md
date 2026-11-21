@@ -1,6 +1,6 @@
 # Sketches to touch up
 
-Written by `tools/make-sketches`: 3503 sketches, 0 replaced by hand, 8 to look at.
+Written by `tools/make-sketches`: 3695 sketches, 0 replaced by hand, 20 to look at.
 
 To replace a sketch, draw it in the same style (black lines 3 units wide on a white shape, the model facing left in side and three-quarter views), save it beside this file, and name it in `touch-up.json` under `overrides`. To draw one simplified (its outer edge and only its long, deep inner lines), name it under `simplified`; to keep one as it is, under `kept`.
 
@@ -16,6 +16,18 @@ To replace a sketch, draw it in the same style (black lines 3 units wide on a wh
 | `sketches/nasa/Transport/perseverance-rover/side.svg` | 17 times its outline in lines: too many small lines to read. |
 | `sketches/nasa/Transport/perseverance-rover/back.svg` | 14 times its outline in lines: too many small lines to read. |
 | `sketches/polyhaven/Prop/money-tree/back.svg` | 14 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/canopic-jar-human-head/threeQuarter.svg` | 14 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/canopic-jar-human-head/side.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/canopic-jar-human-head/back.svg` | 15 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/daithis-pillar-stone/front.svg` | 18 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/daithis-pillar-stone/threeQuarter.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/daithis-pillar-stone/side.svg` | 18 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/daithis-pillar-stone/back.svg` | 21 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/roman-temple/front.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/roman-temple-white/front.svg` | 18 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/roman-temple-white/threeQuarter.svg` | 15 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/simpelveld-sarcophagus/threeQuarter.svg` | 17 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Transport/viking-longship/threeQuarter.svg` | 15 times its outline in lines: too many small lines to read. |
 
 ## Cast drawn without poses
 
@@ -105,6 +117,38 @@ None.
 - `sketches/scottishmaritime/Transport/mv-spartan/threeQuarter.svg`
 - `sketches/scottishmaritime/Transport/mv-spartan/side.svg`
 - `sketches/scottishmaritime/Transport/mv-spartan/back.svg`
+- `sketches/sketchfab-history/Prop/carnfree-standing-stone/front.svg`
+- `sketches/sketchfab-history/Prop/carnfree-standing-stone/threeQuarter.svg`
+- `sketches/sketchfab-history/Prop/carnfree-standing-stone/side.svg`
+- `sketches/sketchfab-history/Prop/carnfree-standing-stone/back.svg`
+- `sketches/sketchfab-history/Prop/egyptian-temple/front.svg`
+- `sketches/sketchfab-history/Prop/egyptian-temple/threeQuarter.svg`
+- `sketches/sketchfab-history/Prop/egyptian-temple/side.svg`
+- `sketches/sketchfab-history/Prop/egyptian-temple/back.svg`
+- `sketches/sketchfab-history/Prop/iron-age-pot/front.svg`
+- `sketches/sketchfab-history/Prop/iron-age-pot/threeQuarter.svg`
+- `sketches/sketchfab-history/Prop/iron-age-pot/side.svg`
+- `sketches/sketchfab-history/Prop/iron-age-pot/back.svg`
+- `sketches/sketchfab-history/Prop/neolithic-axehead/front.svg`
+- `sketches/sketchfab-history/Prop/neolithic-axehead/threeQuarter.svg`
+- `sketches/sketchfab-history/Prop/neolithic-axehead/side.svg`
+- `sketches/sketchfab-history/Prop/neolithic-axehead/back.svg`
+- `sketches/sketchfab-history/Prop/pyramidion/front.svg`
+- `sketches/sketchfab-history/Prop/pyramidion/threeQuarter.svg`
+- `sketches/sketchfab-history/Prop/pyramidion/side.svg`
+- `sketches/sketchfab-history/Prop/pyramidion/back.svg`
+- `sketches/sketchfab-history/Prop/roman-legionary-helmet/front.svg`
+- `sketches/sketchfab-history/Prop/roman-legionary-helmet/threeQuarter.svg`
+- `sketches/sketchfab-history/Prop/roman-legionary-helmet/side.svg`
+- `sketches/sketchfab-history/Prop/roman-legionary-helmet/back.svg`
+- `sketches/sketchfab-history/Prop/temple-of-taffeh/front.svg`
+- `sketches/sketchfab-history/Prop/temple-of-taffeh/threeQuarter.svg`
+- `sketches/sketchfab-history/Prop/temple-of-taffeh/side.svg`
+- `sketches/sketchfab-history/Prop/temple-of-taffeh/back.svg`
+- `sketches/sketchfab-history/Prop/thoth-baboon/front.svg`
+- `sketches/sketchfab-history/Prop/thoth-baboon/threeQuarter.svg`
+- `sketches/sketchfab-history/Prop/thoth-baboon/side.svg`
+- `sketches/sketchfab-history/Prop/thoth-baboon/back.svg`
 - `sketches/smithsonian/Prop/triceratops/back.svg`
 
 ## Looked at and kept

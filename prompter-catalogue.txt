@@ -303,7 +303,7 @@ Props
     nasa/Prop/gemini-spacesuit: Gemini spacesuit, an empty dark 1960s Gemini spacesuit with a white helmet [space, history] 1.8 m, no joints
     nasa/Prop/mark-iii-spacesuit: Mark III spacesuit, an empty bulky white test spacesuit with a dark visor [space] 1.9 m, no joints
     nasa/Prop/mercury-spacesuit: Mercury spacesuit, an empty white 1960s Mercury spacesuit with blue straps [space, history] 1.8 m, no joints
-    nasa/Prop/robonaut-2: Robonaut 2, Robonaut 2, a white space robot with a head, two arms and long climbing legs [space, robots] 2.4 m, no joints
+    nasa/Prop/robonaut-2: Robonaut 2, a white space robot with a head, two arms and long climbing legs [space, robots] 2.4 m, no joints
     nasa/Prop/space-helmet: Space helmet, a white astronaut's helmet with a clear visor [space] 0.4 m, no joints
     nasa/Prop/spacewalk-suit: Spacewalk suit, an empty white spacewalk suit with a big backpack [space] 1.9 m, no joints
     nasa/Prop/z2-spacesuit: Z2 spacesuit, an empty white and grey prototype spacesuit with a dark visor [space] 1.9 m, no joints
@@ -382,10 +382,35 @@ Props
     scottishmaritime/Prop/locomotive-headlamp: Locomotive headlamp, a steam train's old metal headlamp [trains, engines, history] 0.37 m, no joints
     scottishmaritime/Prop/safety-lamp: Miner's safety lamp, a brass miner's safety lamp with a glass cylinder [inventions, history, mining] 0.28 m, no joints
     scottishmaritime/Prop/snow-goggles: Captain Scott's snow goggles, wooden snow goggles with thin eye slits, from a polar expedition [exploration, history, polar] 0.09 m, no joints
+    sketchfab-history/Prop/acheulean-hand-axe: Stone Age hand axe, a flint hand axe chipped to a point, about 400,000 years old [history, stone age] 0.1 m, no joints
+    sketchfab-history/Prop/amphora: Amphora, a tall pointed clay jar with two handles, for carrying wine or oil [history, romans, egyptians] 0.7 m, no joints
+    sketchfab-history/Prop/anglo-saxon-helmet: Anglo-Saxon helmet, a gold and silver Anglo-Saxon helmet with a crown and a jewel [history, anglo-saxons] 0.3 m, no joints
+    sketchfab-history/Prop/bronze-horus: Bronze Horus, a green bronze falcon, the Egyptian god Horus, on a wooden base [history, egyptians] 0.25 m, no joints
+    sketchfab-history/Prop/bust-of-tranquillina: Bust of Tranquillina, a marble bust of a Roman empress on a grey stand [history, romans] 1.2 m, no joints
+    sketchfab-history/Prop/canopic-jar-falcon: Canopic jar with falcon, a stone Egyptian jar for a mummy, its lid a falcon head [history, egyptians] 0.4 m, no joints
+    sketchfab-history/Prop/canopic-jar-human-head: Canopic jar, an Egyptian clay jar for a mummy, its lid a human head [history, egyptians] 0.35 m, no joints
+    sketchfab-history/Prop/carved-stone-ball: Carved stone ball, a knobbly stone ball carved about 5,000 years ago [history, stone age] 0.07 m, no joints
+    sketchfab-history/Prop/eye-of-horus: Eye of Horus, a blue Egyptian charm in the shape of an eye, worn for protection [history, egyptians] 0.05 m, no joints
+    sketchfab-history/Prop/head-of-maximian: Head of Maximian, a marble head of a bearded Roman emperor on a grey stand [history, romans] 1 m, no joints
+    sketchfab-history/Prop/horus-falcon: Horus falcon, a small pale stone falcon, the Egyptian god Horus, on a black base [history, egyptians] 0.1 m, no joints
+    sketchfab-history/Prop/iron-age-pot: Iron Age pot, a brown clay pot with straight sides and a pattern round its rim [history, iron age] 0.2 m, no joints
+    sketchfab-history/Prop/iron-age-stone-lamp: Iron Age stone lamp, a dark stone bowl that held oil for a lamp [history, iron age] 0.08 m, no joints
+    sketchfab-history/Prop/neolithic-axehead: Polished stone axehead, a smooth grey stone axehead from the New Stone Age [history, stone age] 0.08 m, no joints
+    sketchfab-history/Prop/pyramidion: Pyramidion, a small carved stone pyramid that topped an Egyptian tomb [history, egyptians] 0.45 m, no joints
+    sketchfab-history/Prop/roman-coins: Pile of Roman coins, a scattered pile of gold Roman coins [history, romans, treasure] 0.03 m, no joints
+    sketchfab-history/Prop/roman-crested-helmet: Roman helmet with crest, a shiny Roman helmet with cheek guards and a red crest [history, romans] 0.4 m, no joints
+    sketchfab-history/Prop/roman-dupondius: Roman coin, dupondius, a worn bronze Roman coin standing on its edge [history, romans] 0.03 m, no joints
+    sketchfab-history/Prop/roman-gold-coin: Roman gold coin, a gold Roman coin with an emperor's head and a loop for a necklace [history, romans] 0.02 m, no joints
+    sketchfab-history/Prop/roman-legionary-helmet: Roman legionary helmet, a Roman soldier's green bronze helmet with a neck guard, as found [history, romans] 0.2 m, no joints
+    sketchfab-history/Prop/roman-oil-lamp: Roman oil lamp, a small round clay oil lamp with a hole for its wick [history, romans] 0.05 m, no joints
+    sketchfab-history/Prop/scarab: Scarab, a dark stone beetle, an Egyptian charm for new life [history, egyptians] 0.08 m, no joints
+    sketchfab-history/Prop/shabti-of-ramose: Shabti of Ramose, a small painted Egyptian figure, wrapped like a mummy, made to work in the afterlife [history, egyptians] 0.2 m, no joints
+    sketchfab-history/Prop/statue-of-minnefer: Statue of Minnefer, a pale stone statue of an Egyptian man striding forward [history, egyptians] 0.55 m, no joints
+    sketchfab-history/Prop/thoth-baboon: Thoth as a baboon, a pale stone baboon sitting, the Egyptian god Thoth [history, egyptians] 0.35 m, no joints
     smithsonian/Prop/lincoln-patent-model: Lincoln's patent model, Abraham Lincoln's wooden model of a boat with floats to lift it over shallow water [inventions, history] 0.25 m, no joints
     smithsonian/Prop/morse-telegraph-key: Morse telegraph key, an early telegraph key on a wooden base, for sending Morse code [inventions, history] 0.08 m, no joints
   Transport
-    nasa/Transport/ingenuity-helicopter: Ingenuity Mars helicopter, Ingenuity, the small Mars helicopter with two long rotor blades and four thin legs [space, mars] 0.49 m, no joints
+    nasa/Transport/ingenuity-helicopter: Ingenuity Mars helicopter, the small Mars helicopter with two long rotor blades and four thin legs [space, mars] 0.49 m, no joints
     polypizza/Transport/aeroplane: Aeroplane, a white passenger aeroplane [transport] 12 m, no joints
     polypizza/Transport/bicycle: Bicycle, an orange bicycle [transport] 1 m, no joints
     polypizza/Transport/bus: Bus, a white and blue coach [transport, town] 3.2 m, no joints
@@ -447,28 +472,51 @@ Set
     polypizza/Prop/well: Well, a stone well with a red roof and a bucket [fairy tale, countryside] 2.2 m, no joints
     polypizza/Prop/wooden-fence: Wooden fence, a short wooden rail fence [farm, countryside] 1.1 m, no joints
     scottishmaritime/Prop/steam-hammer: Steam hammer, a tall iron steam hammer from a shipyard [engines, inventions, history] 3.45 m, no joints
+    sketchfab-history/Prop/carnfree-standing-stone: Standing stone, a tall thin standing stone from Carnfree in Ireland [history, stone age] 1.8 m, no joints
+    sketchfab-history/Prop/daithis-pillar-stone: Daithí's pillar stone, a squat pillar stone standing in a patch of grass [history, stone age] 1.5 m, no joints
+    sketchfab-history/Prop/egyptian-coffin-gold: Egyptian coffin, gold, a painted Egyptian mummy coffin standing upright, blue and gold with a striped headdress [history, egyptians] 1.9 m, no joints
+    sketchfab-history/Prop/egyptian-coffin-red: Egyptian coffin, red, a painted Egyptian mummy coffin standing upright, red with a gold face [history, egyptians] 1.9 m, no joints
+    sketchfab-history/Prop/egyptian-temple: Egyptian temple, a pale Egyptian temple with two great gate towers and a courtyard [history, egyptians] 18 m, no joints
+    sketchfab-history/Prop/great-pyramid: Great Pyramid of Giza, scanned, standing in the desert with its ruined temples around it [history, egyptians] 139 m, no joints
+    sketchfab-history/Prop/great-sphinx: Great Sphinx, the Great Sphinx of Giza, a lion lying down with a pharaoh's head [history, egyptians] 20 m, no joints
+    sketchfab-history/Prop/iron-age-roundhouse: Iron Age roundhouse, a round house with a tall thatched cone roof and a low doorway [history, iron age] 6 m, no joints
+    sketchfab-history/Prop/obelisk: Obelisk, a tall golden Egyptian obelisk with a pointed top [history, egyptians] 21 m, no joints
+    sketchfab-history/Prop/pyramids-of-giza: Pyramids of Giza, the three pyramids of Giza in a row, smooth and sandy [history, egyptians] 139 m, no joints
+    sketchfab-history/Prop/roman-column: Roman column, a white stone column with a curled capital on a square base [history, romans] 6 m, no joints
+    sketchfab-history/Prop/roman-temple: Roman temple, a Roman temple with a red tiled roof, a porch of columns and wide steps [history, romans] 12 m, no joints
+    sketchfab-history/Prop/roman-temple-white: Roman temple, white, a white Roman temple with columns and steps up to its door [history, romans] 12 m, no joints
+    sketchfab-history/Prop/roundhouse-simple: Roundhouse, simple, a simple round house with a thatched roof on a patch of grass [history, iron age] 6 m, no joints
+    sketchfab-history/Prop/rune-stone: Rune stone, a tall stone painted with red runes and bright patterns [history, vikings] 2.2 m, no joints
+    sketchfab-history/Prop/simpelveld-sarcophagus: Simpelveld sarcophagus, a Roman stone coffin from the Netherlands, carved like a house inside [history, romans] 0.85 m, no joints
+    sketchfab-history/Prop/stonehenge: Stonehenge, Stonehenge as it stands today, grey stones in a ring on green grass [history, stone age] 7.2 m, no joints
+    sketchfab-history/Prop/stonehenge-low-poly: Stonehenge, simple, a simple model of Stonehenge, its great stones in a ring on grass [history, stone age] 7 m, no joints
+    sketchfab-history/Prop/temple-of-taffeh: Temple of Taffeh, a small stone Egyptian temple from Roman times, scanned in a museum [history, egyptians, romans] 5 m, no joints
+    sketchfab-history/Prop/viking-longhouse: Viking longhouse, a long wooden Viking house with a curved roof and carved gable ends [history, vikings] 6.5 m, no joints
     smithsonian/Prop/triceratops: Triceratops skeleton, a Triceratops fossil skeleton, lying on its side, with three horns and a bony frill [fossils, dinosaurs, museum] 1.65 m, no joints
     smithsonian/Prop/woolly-mammoth: Woolly mammoth skeleton, a woolly mammoth's skeleton, with long curved tusks [fossils, museum, science] 3.4 m, no joints
     solar-system/Prop/earth: Earth, Earth from space, blue seas and green and brown land, to hang in the sky above the Moon [space, planets] 8 m, no joints
-    solar-system/Prop/jupiter: Jupiter, Jupiter, a giant planet with cream and brown stripes, to hang in the sky [space, planets] 10 m, no joints
-    solar-system/Prop/mars: Mars, Mars, the red planet, to hang in the sky [space, planets] 4 m, no joints
-    solar-system/Prop/mercury: Mercury, Mercury, a small grey cratered planet, to hang in the sky [space, planets] 3 m, no joints
-    solar-system/Prop/moon: Moon, the Moon, grey with dark patches and craters, to hang in the night sky [space, planets] 4 m, no joints
-    solar-system/Prop/neptune: Neptune, Neptune, a deep blue planet, to hang in the sky [space, planets] 6 m, no joints
-    solar-system/Prop/saturn: Saturn, Saturn, a pale gold planet with wide rings, to hang in the sky [space, planets] 10 m, no joints
-    solar-system/Prop/sun: Sun, the Sun, a glowing orange ball, to hang high in the sky [space, planets] 5 m, no joints
-    solar-system/Prop/uranus: Uranus, Uranus, a smooth pale blue-green planet, to hang in the sky [space, planets] 6 m, no joints
-    solar-system/Prop/venus: Venus, Venus, a pale yellow cloudy planet, to hang in the sky [space, planets] 4 m, no joints
+    solar-system/Prop/jupiter: Jupiter, a giant planet with cream and brown stripes, to hang in the sky [space, planets] 10 m, no joints
+    solar-system/Prop/mars: Mars, the red planet, to hang in the sky [space, planets] 4 m, no joints
+    solar-system/Prop/mercury: Mercury, a small grey cratered planet, to hang in the sky [space, planets] 3 m, no joints
+    solar-system/Prop/moon: Moon, grey with dark patches and craters, to hang in the night sky [space, planets] 4 m, no joints
+    solar-system/Prop/neptune: Neptune, a deep blue planet, to hang in the sky [space, planets] 6 m, no joints
+    solar-system/Prop/saturn: Saturn, a pale gold planet with wide rings, to hang in the sky [space, planets] 10 m, no joints
+    solar-system/Prop/sun: Sun, a glowing orange ball, to hang high in the sky [space, planets] 5 m, no joints
+    solar-system/Prop/uranus: Uranus, a smooth pale blue-green planet, to hang in the sky [space, planets] 6 m, no joints
+    solar-system/Prop/venus: Venus, a pale yellow cloudy planet, to hang in the sky [space, planets] 4 m, no joints
   Transport
     nasa/Transport/apollo-lunar-module: Apollo lunar module, the gold and silver Apollo lunar module that landed astronauts on the Moon [space, moon, history] 7 m, no joints
     nasa/Transport/crawler-transporter: Crawler-transporter, the giant tracked crawler that carries rockets to the launch pad [space, transport] 6.1 m, no joints
     nasa/Transport/jupiter-c-rocket: Jupiter-C rocket, the slim white rocket that launched the first American satellite in 1958 [space, history] 21.2 m, no joints
-    nasa/Transport/perseverance-rover: Perseverance rover, Perseverance, the six-wheeled Mars rover with a camera mast and a robot arm [space, mars] 2.2 m, no joints
+    nasa/Transport/perseverance-rover: Perseverance rover, the six-wheeled Mars rover with a camera mast and a robot arm [space, mars] 2.2 m, no joints
     nasa/Transport/saturn-v: Saturn V rocket, the giant white Saturn V rocket that launched the Apollo Moon missions [space, moon, history] 110.6 m, no joints
     nasa/Transport/space-shuttle: Space Shuttle, the white space shuttle orbiter with black tiles underneath and wings like a plane [space, history] 14 m, no joints
     nasa/Transport/viking-lander: Viking lander, the Viking lander that touched down on Mars, on three legs with a dish antenna [space, mars, history] 2.1 m, no joints
     scottishmaritime/Transport/mv-spartan: Wrecked puffer ship, the wreck of a small old cargo ship, its hull broken and rusted [sea, boats, history] 9.14 m, no joints
     scottishmaritime/Transport/rnlb-jane-anne: Lifeboat, an old wooden lifeboat with a dark hull [sea, boats, history] 2.74 m, no joints
+    sketchfab-history/Transport/log-boat: Log boat, a long narrow boat hollowed out of a single tree trunk [history, boats] 0.5 m, no joints
+    sketchfab-history/Transport/viking-longship: Viking longship, a Viking longship with a dragon prow, a patterned sail, shields and oars [history, vikings, boats] 12 m, no joints
+    sketchfab-history/Transport/viking-longship-striped: Viking longship, striped sail, a simple Viking longship with a red and gold striped sail [history, vikings, boats] 12 m, no joints
     smithsonian/Transport/apollo-11-command-module: Apollo 11 command module, the cone-shaped Apollo 11 spacecraft that brought three astronauts home from the Moon [space, history] 3.2 m, no joints
     smithsonian/Transport/bell-x-1: Bell X-1, the orange rocket plane that first flew faster than sound [flight, history] 3.2 m, no joints
     smithsonian/Transport/space-shuttle-discovery: Space Shuttle Discovery, the white Space Shuttle Discovery, with black tiles underneath [space, history] 15.8 m, no joints
