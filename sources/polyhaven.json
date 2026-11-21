@@ -1,0 +1,790 @@
+{
+  "source": "polyhaven",
+  "items": [
+    {
+      "id": "polyhaven/Prop/anthurium",
+      "displayName": "Anthurium",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "jungle",
+        "nature"
+      ],
+      "description": "a leafy green rainforest plant with long pointed leaves",
+      "licence": "CC0-1.0",
+      "credit": "Anthurium Botany 01 by Rob Tuytel and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/anthurium_botany_01",
+      "height": 0.5,
+      "exclude": {
+        "nodes": [
+          "anthurium_botany_01_b",
+          "anthurium_botany_04_d",
+          "anthurium_botany_01_c",
+          "anthurium_botany_05_e",
+          "anthurium_botany_06_f"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/anthurium_botany_01/anthurium_botany_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/calathea",
+      "displayName": "Calathea",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "jungle",
+        "nature"
+      ],
+      "description": "a rainforest plant with big round striped leaves on thin stems",
+      "licence": "CC0-1.0",
+      "credit": "Calathea Orbifolia 01 by Rob Tuytel and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/calathea_orbifolia_01",
+      "height": 0.42,
+      "exclude": {
+        "nodes": [
+          "calathea_orbifolia_01_b",
+          "calathea_orbifolia_01_c",
+          "calathea_orbifolia_01_d",
+          "calathea_orbifolia_01_e"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/calathea_orbifolia_01/calathea_orbifolia_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/fern",
+      "displayName": "Fern",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "woodland",
+        "jungle",
+        "nature"
+      ],
+      "description": "a low green fern with feathery fronds",
+      "licence": "CC0-1.0",
+      "credit": "Fern 02 by Rob Tuytel and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/fern_02",
+      "height": 0.43,
+      "exclude": {
+        "nodes": [
+          "fern_02_c",
+          "fern_02_a",
+          "fern_02_d"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/fern_02/fern_02_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/dandelion",
+      "displayName": "Dandelion",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden",
+        "nature"
+      ],
+      "description": "a yellow dandelion flower on a stalk above toothed leaves",
+      "licence": "CC0-1.0",
+      "credit": "Dandelion 01 by Rob Tuytel and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/dandelion_01",
+      "height": 0.16,
+      "exclude": {
+        "nodes": [
+          "dandelion_01_b_LOD0",
+          "dandelion_01_c_LOD0",
+          "dandelion_01_d_LOD0",
+          "dandelion_01_e_LOD0"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/dandelion_01/dandelion_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/gazania",
+      "displayName": "Gazania flower",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden",
+        "nature"
+      ],
+      "description": "a low plant with orange daisy-like flowers and long leaves",
+      "licence": "CC0-1.0",
+      "credit": "Flower Gazania by James Ray Cock and Jenelle van Heerden, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/flower_gazania",
+      "height": 0.17,
+      "exclude": {
+        "nodes": [
+          "flower_gazania_a_LOD0",
+          "flower_gazania_b_LOD0",
+          "flower_gazania_c_LOD0",
+          "flower_gazania_d_LOD0",
+          "flower_gazania_g_LOD0",
+          "flower_gazania_f_LOD0",
+          "flower_gazania_e_LOD0"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/flower_gazania/flower_gazania_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/nettle",
+      "displayName": "Nettle",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "woodland",
+        "garden",
+        "nature"
+      ],
+      "description": "a stinging nettle with pairs of jagged leaves up its stem",
+      "licence": "CC0-1.0",
+      "credit": "Nettle Plant by Rob Tuytel and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/nettle_plant",
+      "height": 0.22,
+      "exclude": {
+        "nodes": [
+          "nettle_plant_medium_a_LOD0",
+          "nettle_plant_medium_b_LOD0",
+          "nettle_plant_small_a_LOD0",
+          "nettle_plant_small_b_LOD0",
+          "nettle_plant_tall_b_LOD0"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/nettle_plant/nettle_plant_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/periwinkle",
+      "displayName": "Periwinkle",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden",
+        "nature"
+      ],
+      "description": "a leafy plant with small pink flowers",
+      "licence": "CC0-1.0",
+      "credit": "Periwinkle Plant by Amal Kumar, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/periwinkle_plant",
+      "height": 0.4,
+      "exclude": {
+        "nodes": [
+          "periwinkle_plant_04_LOD0",
+          "periwinkle_plant_06_LOD0",
+          "periwinkle_plant_03_LOD0",
+          "periwinkle_plant_02_LOD0",
+          "periwinkle_plant_05_LOD0"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/periwinkle_plant/periwinkle_plant_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/potted-plant",
+      "displayName": "Potted plant",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "home",
+        "office"
+      ],
+      "description": "a leafy green plant in a terracotta pot with pebbles",
+      "licence": "CC0-1.0",
+      "credit": "Potted Plant 01 by Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/potted_plant_01",
+      "height": 1.33,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/potted_plant_01/potted_plant_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/potted-plant-big-leaves",
+      "displayName": "Potted plant with big leaves",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "home",
+        "office"
+      ],
+      "description": "a plant with big arrow-shaped leaves in a round terracotta pot",
+      "licence": "CC0-1.0",
+      "credit": "Potted Plant 02 by Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/potted_plant_02",
+      "height": 0.84,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/potted_plant_02/potted_plant_02_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/potted-succulent",
+      "displayName": "Potted succulent",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "home",
+        "desert"
+      ],
+      "description": "a spiky green succulent in a small white pot with pebbles",
+      "licence": "CC0-1.0",
+      "credit": "Potted Plant 04 by James Ray Cock, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/potted_plant_04",
+      "height": 0.27,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/potted_plant_04/potted_plant_04_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/planter-box",
+      "displayName": "Planter box",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden"
+      ],
+      "description": "a long wooden planter box filled with soil",
+      "licence": "CC0-1.0",
+      "credit": "Planter Box 01 by James Ray Cock, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/planter_box_01",
+      "height": 0.42,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/planter_box_01/planter_box_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/raised-planter",
+      "displayName": "Raised planter",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden",
+        "school"
+      ],
+      "description": "a wooden planter box on legs, filled with soil",
+      "licence": "CC0-1.0",
+      "credit": "Planter Box 03 by James Ray Cock, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/planter_box_03",
+      "height": 0.86,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/planter_box_03/planter_box_03_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/fallen-branch",
+      "displayName": "Fallen branch",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "woodland",
+        "forest",
+        "nature"
+      ],
+      "description": "a dry twisted branch lying on the ground",
+      "licence": "CC0-1.0",
+      "credit": "Dry Branches Medium 01 by Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/dry_branches_medium_01",
+      "height": 0.34,
+      "exclude": {
+        "nodes": [
+          "dry_branches_medium_01_c",
+          "dry_branches_medium_01_b"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/dry_branches_medium_01/dry_branches_medium_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/money-tree",
+      "displayName": "Money tree",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "plants",
+        "jungle",
+        "home",
+        "nature"
+      ],
+      "description": "a small tree with a braided trunk and bunches of green leaves",
+      "licence": "CC0-1.0",
+      "credit": "Pachira Aquatica 01 by Rob Tuytel and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/pachira_aquatica_01",
+      "height": 1.9,
+      "exclude": {
+        "nodes": [
+          "pachira_aquatica_01_bark_a",
+          "pachira_aquatica_01_bark_b",
+          "pachira_aquatica_01_bark_c",
+          "pachira_aquatica_01_leaves_a",
+          "pachira_aquatica_01_leaves_b",
+          "pachira_aquatica_01_leaves_c"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/pachira_aquatica_01/pachira_aquatica_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/quiver-tree",
+      "displayName": "Quiver tree",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "desert",
+        "plants",
+        "nature"
+      ],
+      "description": "a tall desert tree with a pale trunk and spiky leaves at the tips of its branches",
+      "licence": "CC0-1.0",
+      "credit": "Quiver Tree 01 by James Ray Cock, Dario Barresi and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/quiver_tree_01",
+      "height": 2.72,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/quiver_tree_01/quiver_tree_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/young-quiver-tree",
+      "displayName": "Young quiver tree",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "desert",
+        "plants",
+        "nature"
+      ],
+      "description": "a young desert tree with a thick trunk and a spiky crown",
+      "licence": "CC0-1.0",
+      "credit": "Quiver Tree 02 by Dario Barresi and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/quiver_tree_02",
+      "height": 1.47,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/quiver_tree_02/quiver_tree_02_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/tree-stump",
+      "displayName": "Tree stump",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "woodland",
+        "forest",
+        "nature"
+      ],
+      "description": "a mossy old tree stump with its roots spread over the ground",
+      "licence": "CC0-1.0",
+      "credit": "Tree Stump 01 by Rob Tuytel, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/tree_stump_01",
+      "height": 0.57,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/tree_stump_01/tree_stump_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/fallen-log",
+      "displayName": "Fallen log",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "woodland",
+        "forest",
+        "nature"
+      ],
+      "description": "a long fallen log with rough bark",
+      "licence": "CC0-1.0",
+      "credit": "Dead Tree Trunk by Rob Tuytel, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/dead_tree_trunk",
+      "height": 0.29,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/dead_tree_trunk/dead_tree_trunk_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/boulder",
+      "displayName": "Boulder",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "mountains",
+        "nature"
+      ],
+      "description": "a big rough brown boulder",
+      "licence": "CC0-1.0",
+      "credit": "Boulder 01 by Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/boulder_01",
+      "height": 1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/boulder_01/boulder_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/split-boulder",
+      "displayName": "Split boulder",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "desert",
+        "mountains",
+        "nature"
+      ],
+      "description": "a big boulder split into several blocks",
+      "licence": "CC0-1.0",
+      "credit": "Namaqualand Boulder 02 by Greg Zaal and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/namaqualand_boulder_02",
+      "height": 0.88,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/namaqualand_boulder_02/namaqualand_boulder_02_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/mossy-rock",
+      "displayName": "Mossy rock",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "woodland",
+        "forest",
+        "nature"
+      ],
+      "description": "a big rounded rock with green moss on it",
+      "licence": "CC0-1.0",
+      "credit": "Rock Moss Set 01 by Kless Gyzen, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/rock_moss_set_01",
+      "height": 1.77,
+      "exclude": {
+        "nodes": [
+          "rock_moss_set_01_rock01",
+          "rock_moss_set_01_rock02",
+          "rock_moss_set_01_rock03",
+          "rock_moss_set_01_rock05",
+          "rock_moss_set_01_rock06"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/rock_moss_set_01/rock_moss_set_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/red-rock",
+      "displayName": "Red rock",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "description": "a small dark red rock",
+      "licence": "CC0-1.0",
+      "credit": "Rock 07 by Jenelle van Heerden, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/rock_07",
+      "height": 0.14,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/rock_07/rock_07_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/flat-stone",
+      "displayName": "Flat stone",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "beach",
+        "river"
+      ],
+      "description": "a flat grey stone",
+      "licence": "CC0-1.0",
+      "credit": "Rock 09 by Jenelle van Heerden, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/rock_09",
+      "height": 0.03,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/rock_09/rock_09_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/quartz-stone",
+      "displayName": "Quartz stone",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "science"
+      ],
+      "description": "a small pinkish stone with white quartz in it",
+      "licence": "CC0-1.0",
+      "credit": "Stone 01 by Dario Barresi and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/stone_01",
+      "height": 0.07,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/stone_01/stone_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/conch-shell",
+      "displayName": "Spider conch shell",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "sea",
+        "beach",
+        "nature"
+      ],
+      "description": "a seashell with long spiky fingers along one side",
+      "licence": "CC0-1.0",
+      "credit": "Lambis Shell by Kuutti Siitonen, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/lambis_shell",
+      "height": 0.05,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/lambis_shell/lambis_shell_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/rat",
+      "displayName": "Rat",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "animals",
+        "town"
+      ],
+      "description": "a dark brown rat with a long thin tail",
+      "licence": "CC0-1.0",
+      "credit": "Street Rat by Sean Buckley, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/street_rat",
+      "height": 0.03,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/street_rat/street_rat_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/apple",
+      "displayName": "Apple",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "kitchen",
+        "plants"
+      ],
+      "description": "a red apple",
+      "licence": "CC0-1.0",
+      "credit": "Food Apple 01 by Oliver Harries, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/food_apple_01",
+      "height": 0.09,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/food_apple_01/food_apple_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/avocado",
+      "displayName": "Avocado",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "kitchen",
+        "plants"
+      ],
+      "description": "a dark green avocado",
+      "licence": "CC0-1.0",
+      "credit": "Food Avocado 01 by Oliver Harries, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/food_avocado_01",
+      "height": 0.14,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/food_avocado_01/food_avocado_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/pomegranate",
+      "displayName": "Pomegranate",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "kitchen",
+        "plants"
+      ],
+      "description": "a round red pomegranate",
+      "licence": "CC0-1.0",
+      "credit": "Food Pomegranate 01 by Oliver Harries, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/food_pomegranate_01",
+      "height": 0.11,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/food_pomegranate_01/food_pomegranate_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/lemon",
+      "displayName": "Lemon",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "kitchen",
+        "plants"
+      ],
+      "description": "a yellow lemon",
+      "licence": "CC0-1.0",
+      "credit": "Lemon by Kuutti Siitonen, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/lemon",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/lemon/lemon_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/bananas",
+      "displayName": "Bunch of bananas",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "kitchen",
+        "plants"
+      ],
+      "description": "a bunch of four yellow bananas",
+      "licence": "CC0-1.0",
+      "credit": "Bananas by Alexander Shulha, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/bananas",
+      "height": 0.18,
+      "exclude": {
+        "nodes": [
+          "bananas_c",
+          "bananas_d",
+          "bananas_a",
+          "bananas_b"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/bananas/bananas_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/sweet-potato",
+      "displayName": "Sweet potato",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "kitchen",
+        "plants"
+      ],
+      "description": "a reddish sweet potato",
+      "licence": "CC0-1.0",
+      "credit": "Sweet Potato by Jan Martens, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/sweet_potato",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/sweet_potato/sweet_potato_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/onion",
+      "displayName": "Onion",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "kitchen",
+        "plants"
+      ],
+      "description": "a round brown onion with dry papery outer layers",
+      "licence": "CC0-1.0",
+      "credit": "Yellow Onion by Kuutti Siitonen, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/yellow_onion",
+      "height": 0.09,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/polyhaven/yellow_onion/yellow_onion_1k.gltf"
+      }
+    }
+  ]
+}

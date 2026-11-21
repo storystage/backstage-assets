@@ -1,0 +1,609 @@
+{
+  "source": "kaykit-forest",
+  "items": [
+    {
+      "id": "kaykit-forest/Prop/grass-2-a",
+      "displayName": "Blade of grass",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "grass",
+        "nature",
+        "garden",
+        "park"
+      ],
+      "description": "one tall cartoon blade of green grass",
+      "licence": "CC0-1.0",
+      "credit": "Grass 2 A by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 0.92,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Grass_2_A_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/grass-2-b",
+      "displayName": "Two blades of grass",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "grass",
+        "nature",
+        "garden",
+        "park"
+      ],
+      "description": "two tall cartoon blades of green grass",
+      "licence": "CC0-1.0",
+      "credit": "Grass 2 B by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 0.92,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Grass_2_B_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/grass-2-c",
+      "displayName": "Tuft of grass",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "grass",
+        "nature",
+        "garden",
+        "park"
+      ],
+      "description": "a thick cartoon tuft of tall green grass",
+      "licence": "CC0-1.0",
+      "credit": "Grass 2 C by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 0.94,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Grass_2_C_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/grass-2-d",
+      "displayName": "Spread tuft of grass",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "grass",
+        "nature",
+        "garden",
+        "park"
+      ],
+      "description": "a spread-out cartoon tuft of tall green grass",
+      "licence": "CC0-1.0",
+      "credit": "Grass 2 D by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 0.94,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Grass_2_D_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-a",
+      "displayName": "Grey rock A",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, about knee to shoulder high",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 A by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 0.86,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_A_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-b",
+      "displayName": "Grey rock B",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, about knee to shoulder high",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 B by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 1.03,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_B_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-c",
+      "displayName": "Grey rock C",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, about knee to shoulder high",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 C by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 0.97,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_C_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-d",
+      "displayName": "Grey rock D",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, about knee to shoulder high",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 D by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 0.97,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_D_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-e",
+      "displayName": "Grey rock E",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, about knee to shoulder high",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 E by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 1.29,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_E_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-f",
+      "displayName": "Grey rock F",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, about knee to shoulder high",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 F by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 1.18,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_F_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-g",
+      "displayName": "Grey rock G",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 G by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_G_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-h",
+      "displayName": "Grey rock H",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 H by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 2.06,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_H_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-i",
+      "displayName": "Grey rock I",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 I by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 2.11,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_I_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-j",
+      "displayName": "Grey rock J",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, about knee to shoulder high",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 J by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 1.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_J_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-k",
+      "displayName": "Grey rock K",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 K by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 2.22,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_K_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-l",
+      "displayName": "Grey rock L",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 L by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 2.27,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_L_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-m",
+      "displayName": "Grey rock M",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 M by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 3.6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_M_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-n",
+      "displayName": "Grey rock N",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 N by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 3.53,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_N_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-o",
+      "displayName": "Grey rock O",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 O by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 3.47,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_O_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-p",
+      "displayName": "Grey rock P",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 P by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 3.68,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_P_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-q",
+      "displayName": "Grey rock Q",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 Q by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 3.72,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_Q_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/rock-3-r",
+      "displayName": "Grey rock R",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "nature",
+        "mountains",
+        "storybook"
+      ],
+      "description": "a rounded grey cartoon rock, big",
+      "licence": "CC0-1.0",
+      "credit": "Rock 3 R by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 3.85,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Rock_3_R_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/bare-tree-1-a",
+      "displayName": "Bare twisted tree, small",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "woodland",
+        "forest",
+        "winter",
+        "spooky",
+        "storybook"
+      ],
+      "description": "a leafless cartoon tree with a fat twisted trunk and a few curling branches",
+      "licence": "CC0-1.0",
+      "credit": "Tree Bare 1 A by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 2.86,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Tree_Bare_1_A_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/bare-tree-1-b",
+      "displayName": "Bare twisted tree, medium",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "woodland",
+        "forest",
+        "winter",
+        "spooky",
+        "storybook"
+      ],
+      "description": "a leafless cartoon tree with a fat twisted trunk and a few curling branches",
+      "licence": "CC0-1.0",
+      "credit": "Tree Bare 1 B by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 3.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Tree_Bare_1_B_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/bare-tree-1-c",
+      "displayName": "Bare twisted tree, large",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "woodland",
+        "forest",
+        "winter",
+        "spooky",
+        "storybook"
+      ],
+      "description": "a leafless cartoon tree with a fat twisted trunk and a few curling branches",
+      "licence": "CC0-1.0",
+      "credit": "Tree Bare 1 C by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 5.26,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Tree_Bare_1_C_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/bare-tree-2-a",
+      "displayName": "Bare tall tree, small",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "woodland",
+        "forest",
+        "winter",
+        "spooky",
+        "storybook"
+      ],
+      "description": "a leafless cartoon tree with a tall thin trunk and short branches",
+      "licence": "CC0-1.0",
+      "credit": "Tree Bare 2 A by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 3.84,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Tree_Bare_2_A_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/bare-tree-2-b",
+      "displayName": "Bare tall tree, medium",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "woodland",
+        "forest",
+        "winter",
+        "spooky",
+        "storybook"
+      ],
+      "description": "a leafless cartoon tree with a tall thin trunk and short branches",
+      "licence": "CC0-1.0",
+      "credit": "Tree Bare 2 B by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 5.54,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Tree_Bare_2_B_Color1.gltf"
+      }
+    },
+    {
+      "id": "kaykit-forest/Prop/bare-tree-2-c",
+      "displayName": "Bare tall tree, large",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "woodland",
+        "forest",
+        "winter",
+        "spooky",
+        "storybook"
+      ],
+      "description": "a leafless cartoon tree with a tall thin trunk and short branches",
+      "licence": "CC0-1.0",
+      "credit": "Tree Bare 2 C by Kay Lousberg, KayKit Forest Nature Pack (CC0)",
+      "page": "https://kaylousberg.itch.io/kaykit-forest",
+      "height": 7.61,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
+        "path": "originals/kaykit-forest/Tree_Bare_2_C_Color1.gltf"
+      }
+    }
+  ]
+}
