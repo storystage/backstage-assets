@@ -1,0 +1,1521 @@
+{
+  "source": "poly-google",
+  "items": [
+    {
+      "id": "poly-google/Quadruped/pig",
+      "displayName": "Pig",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a pink pig with a curly tail",
+      "licence": "CC-BY-3.0",
+      "credit": "Pig by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/6XC3XssJIU_",
+      "height": 0.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/pig.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/hedgehog",
+      "displayName": "Hedgehog",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "garden",
+        "woodland"
+      ],
+      "description": "a brown hedgehog with a spiky back",
+      "licence": "CC-BY-3.0",
+      "credit": "Hedgehog by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/8UNni5IvK_c",
+      "height": 0.15,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/hedgehog.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/porcupine",
+      "displayName": "Porcupine",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a dark porcupine covered in long quills",
+      "licence": "CC-BY-3.0",
+      "credit": "Porcupine by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/17NdW1sy5PC",
+      "height": 0.4,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/porcupine.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/red-squirrel",
+      "displayName": "Red squirrel",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland",
+        "park"
+      ],
+      "description": "an orange squirrel sitting up with a big bushy tail",
+      "licence": "CC-BY-3.0",
+      "credit": "Squirrel by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/64Yw0UoayhC",
+      "height": 0.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/red-squirrel.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/badger",
+      "displayName": "Badger",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland",
+        "night"
+      ],
+      "description": "a grey badger with a black and white striped face",
+      "licence": "CC-BY-3.0",
+      "credit": "Badger by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/fXBbhQr-T80",
+      "height": 0.3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/badger.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/beaver",
+      "displayName": "Beaver",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "river"
+      ],
+      "description": "a brown beaver with a flat tail",
+      "licence": "CC-BY-3.0",
+      "credit": "Beaver by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/fwtA7VLrXPr",
+      "height": 0.35,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/beaver.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/black-bear",
+      "displayName": "Black bear",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland",
+        "mountains"
+      ],
+      "description": "a black bear on all fours",
+      "licence": "CC-BY-3.0",
+      "credit": "Black bear by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/56ym_pyVnel",
+      "height": 1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/black-bear.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/aardvark",
+      "displayName": "Aardvark",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna",
+        "night"
+      ],
+      "description": "a grey-brown aardvark with a long snout and tall ears",
+      "licence": "CC-BY-3.0",
+      "credit": "Aardvark by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/f_O3IZGPYvs",
+      "height": 0.6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/aardvark.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/raccoon",
+      "displayName": "Raccoon",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland",
+        "town"
+      ],
+      "description": "a grey raccoon with a dark mask and a ringed tail",
+      "licence": "CC-BY-3.0",
+      "credit": "Raccoon by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/5_mL2EUPZ1N",
+      "height": 0.3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/raccoon.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/panda",
+      "displayName": "Panda",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "forest",
+        "mountains"
+      ],
+      "description": "a black and white giant panda on all fours",
+      "licence": "CC-BY-3.0",
+      "credit": "Panda by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/2T6A0o4Kq2h",
+      "height": 0.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/panda.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/bear-cub",
+      "displayName": "Bear cub",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland",
+        "fairy tale"
+      ],
+      "description": "a small dark brown bear cub",
+      "licence": "CC-BY-3.0",
+      "credit": "Bear Cub by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/dc_78YWzT_R",
+      "height": 0.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/bear-cub.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/brown-bear",
+      "displayName": "Brown bear",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "woodland",
+        "fairy tale"
+      ],
+      "description": "a big brown bear on all fours",
+      "licence": "CC-BY-3.0",
+      "credit": "Bear by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/4knUstaaX5C",
+      "height": 1.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/brown-bear.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/lion",
+      "displayName": "Lion",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a lion with a big shaggy mane",
+      "licence": "CC-BY-3.0",
+      "credit": "Lion by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/3XAJojWxSWz",
+      "height": 1.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/lion.glb"
+      }
+    },
+    {
+      "id": "poly-google/Swimmer/sea-lion",
+      "displayName": "Sea lion",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea",
+        "beach"
+      ],
+      "description": "a dark brown sea lion sitting up on its flippers",
+      "licence": "CC-BY-3.0",
+      "credit": "Sea lion by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/45HRvXYpvUG",
+      "height": 0.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/sea-lion.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/tiger",
+      "displayName": "Tiger",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "an orange tiger with black stripes",
+      "licence": "CC-BY-3.0",
+      "credit": "Tiger by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/5A3w06FXUup",
+      "height": 1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/tiger.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/jaguar",
+      "displayName": "Jaguar",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "a golden jaguar with black spots",
+      "licence": "CC-BY-3.0",
+      "credit": "Jaguar by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/4fb-oMr2uUF",
+      "height": 0.7,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/jaguar.glb"
+      }
+    },
+    {
+      "id": "poly-google/Biped/chimpanzee",
+      "displayName": "Chimpanzee",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "a black chimpanzee standing up with long arms",
+      "licence": "CC-BY-3.0",
+      "credit": "Chimpanzee by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/6m3diqGPysx",
+      "height": 1.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/chimpanzee.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/orangutan",
+      "displayName": "Orangutan",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "an orange orangutan with long arms",
+      "licence": "CC-BY-3.0",
+      "credit": "Ape by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/2wRk-94IPnU",
+      "height": 0.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/orangutan.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/monkey",
+      "displayName": "Monkey",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "a small black monkey with a white face and a long tail",
+      "licence": "CC-BY-3.0",
+      "credit": "Capuchin by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/29hG1_J1Uiq",
+      "height": 0.45,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/monkey.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/gorilla",
+      "displayName": "Gorilla",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "a black gorilla with a silver back, leaning on its knuckles",
+      "licence": "CC-BY-3.0",
+      "credit": "Gorilla by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bmfQ1j9CeO2",
+      "height": 1.4,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/gorilla.glb"
+      }
+    },
+    {
+      "id": "poly-google/Swimmer/sea-turtle",
+      "displayName": "Sea turtle",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea",
+        "beach"
+      ],
+      "description": "a yellow-green sea turtle with long flippers",
+      "licence": "CC-BY-3.0",
+      "credit": "Turtle by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/fklSEvGm1Q8",
+      "height": 0.3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/sea-turtle.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/tortoise",
+      "displayName": "Tortoise",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets",
+        "garden"
+      ],
+      "description": "a tortoise with a domed brown shell",
+      "licence": "CC-BY-3.0",
+      "credit": "Turtle by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bXreDp3oSqy",
+      "height": 0.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/tortoise.glb"
+      }
+    },
+    {
+      "id": "poly-google/Slitherer/snail",
+      "displayName": "Snail",
+      "class": "Slitherer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a garden snail with a brown spiral shell",
+      "licence": "CC-BY-3.0",
+      "credit": "Snail by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/aZ_cT-AIu2y",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/snail.glb"
+      }
+    },
+    {
+      "id": "poly-google/Slitherer/earthworm",
+      "displayName": "Earthworm",
+      "class": "Slitherer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a pink earthworm",
+      "licence": "CC-BY-3.0",
+      "credit": "Earthworm by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/6Isq2Aqy4MR",
+      "height": 0.03,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/earthworm.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/ant",
+      "displayName": "Ant",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a black ant",
+      "licence": "CC-BY-3.0",
+      "credit": "Ant by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/90PJjBye5ZC",
+      "height": 0.03,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/ant.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/hamster",
+      "displayName": "Hamster",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a ginger hamster sitting up beside a little blue dish",
+      "licence": "CC-BY-3.0",
+      "credit": "Dog by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/cjsAptT6P9b",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/hamster.glb"
+      }
+    },
+    {
+      "id": "poly-google/Swimmer/goldfish",
+      "displayName": "Goldfish",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "pets",
+        "pond"
+      ],
+      "description": "a golden goldfish with a big tail",
+      "licence": "CC-BY-3.0",
+      "credit": "Goldfish by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/0bOZGc8ONrx",
+      "height": 0.15,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/goldfish.glb"
+      }
+    },
+    {
+      "id": "poly-google/Flyer/parrot",
+      "displayName": "Parrot",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "jungle",
+        "pirates"
+      ],
+      "description": "a red parrot with blue and yellow wings",
+      "licence": "CC-BY-3.0",
+      "credit": "Parrot by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/dfNjMLtO0pd",
+      "height": 0.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/parrot.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/mouse",
+      "displayName": "Mouse",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "garden",
+        "town"
+      ],
+      "description": "a small grey-brown mouse with a long tail",
+      "licence": "CC-BY-3.0",
+      "credit": "Mouse by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/cWxdxmp7yaE",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/mouse.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/kangaroo",
+      "displayName": "Kangaroo",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a tan kangaroo with a long tail",
+      "licence": "CC-BY-3.0",
+      "credit": "Kangaroo by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/7BiPR-oOGgX",
+      "height": 1.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/kangaroo.glb"
+      }
+    },
+    {
+      "id": "poly-google/Flyer/emu",
+      "displayName": "Emu",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a tall shaggy brown emu with long legs",
+      "licence": "CC-BY-3.0",
+      "credit": "Emu by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/dVhJSddeK67",
+      "height": 1.7,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/emu.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/camel",
+      "displayName": "Camel",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "desert"
+      ],
+      "description": "a sandy camel with one hump",
+      "licence": "CC-BY-3.0",
+      "credit": "Camel by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/7XeLogrxLad",
+      "height": 2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/camel.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/bactrian-camel",
+      "displayName": "Bactrian camel",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "desert",
+        "mountains"
+      ],
+      "description": "a shaggy brown camel with two humps",
+      "licence": "CC-BY-3.0",
+      "credit": "Camel by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/cyuwV4fg0B1",
+      "height": 2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/bactrian-camel.glb"
+      }
+    },
+    {
+      "id": "poly-google/Swimmer/octopus",
+      "displayName": "Octopus",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a pink octopus with curling arms",
+      "licence": "CC-BY-3.0",
+      "credit": "Octopus by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/9-b6-yqrwEe",
+      "height": 0.4,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/octopus.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/crab",
+      "displayName": "Crab",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "sea",
+        "beach"
+      ],
+      "description": "an orange crab with big claws",
+      "licence": "CC-BY-3.0",
+      "credit": "Crab by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/1O5Q4pE8X6e",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/crab.glb"
+      }
+    },
+    {
+      "id": "poly-google/Swimmer/crayfish",
+      "displayName": "Crayfish",
+      "class": "Swimmer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "river",
+        "pond"
+      ],
+      "description": "a red crayfish with long feelers and big claws",
+      "licence": "CC-BY-3.0",
+      "credit": "Crawfish by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/ct4Z0kUIHdT",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/crayfish.glb"
+      }
+    },
+    {
+      "id": "poly-google/Flyer/goose",
+      "displayName": "Goose",
+      "class": "Flyer",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "farm",
+        "pond"
+      ],
+      "description": "a goose with a black neck and a white chin strap",
+      "licence": "CC-BY-3.0",
+      "credit": "Goose by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/9wn3If7Qgb4",
+      "height": 0.8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/goose.glb"
+      }
+    },
+    {
+      "id": "poly-google/Quadruped/gazelle",
+      "displayName": "Gazelle",
+      "class": "Quadruped",
+      "section": "cast",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a sandy gazelle with curved ringed horns and a dark stripe on its side",
+      "licence": "CC-BY-3.0",
+      "credit": "Gazelle by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bPYIQ_XQbrj",
+      "height": 0.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/gazelle.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/sunflower",
+      "displayName": "Sunflower",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden",
+        "farm"
+      ],
+      "description": "a tall sunflower with a big brown centre",
+      "licence": "CC-BY-3.0",
+      "credit": "Sunflower by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/ce4GXw3VYE5",
+      "height": 1.8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/sunflower.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/daisy",
+      "displayName": "Daisy",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden"
+      ],
+      "description": "a white daisy with a yellow centre",
+      "licence": "CC-BY-3.0",
+      "credit": "Daisy by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/cuayhwWYHet",
+      "height": 0.3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/daisy.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/tulips",
+      "displayName": "Tulips",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden"
+      ],
+      "description": "five tulips in a row: white, red, yellow, pink and red",
+      "licence": "CC-BY-3.0",
+      "credit": "Tulips by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/aaJtRIXws3U",
+      "height": 0.4,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/tulips.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/hibiscus",
+      "displayName": "Hibiscus",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "jungle",
+        "garden"
+      ],
+      "description": "a big orange hibiscus flower",
+      "licence": "CC-BY-3.0",
+      "credit": "Flower by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/fg5U0dl1Sd3",
+      "height": 0.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/hibiscus.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/flowering-cactus",
+      "displayName": "Flowering cactus",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "desert"
+      ],
+      "description": "a ribbed cactus with a pink flower",
+      "licence": "CC-BY-3.0",
+      "credit": "Cactus by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/9UCcl_W0Xq3",
+      "height": 0.6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/flowering-cactus.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/saguaro-cactus",
+      "displayName": "Saguaro cactus",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "plants",
+        "desert",
+        "wild west"
+      ],
+      "description": "a tall cactus with arms curving upwards",
+      "licence": "CC-BY-3.0",
+      "credit": "Cactus by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/1_3Ur2-LAs8",
+      "height": 3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/saguaro-cactus.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/prickly-pear",
+      "displayName": "Prickly pear",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "desert"
+      ],
+      "description": "a prickly pear cactus with flat paddles and a flower",
+      "licence": "CC-BY-3.0",
+      "credit": "Prickly pear cactus by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/47Af27jQemx",
+      "height": 1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/prickly-pear.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/barrel-cactus",
+      "displayName": "Barrel cactus",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "desert"
+      ],
+      "description": "a round barrel cactus with long spines",
+      "licence": "CC-BY-3.0",
+      "credit": "Barrel cactus by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/5-hrumGDq1K",
+      "height": 0.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/barrel-cactus.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/bulrushes",
+      "displayName": "Bulrushes",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "pond",
+        "river"
+      ],
+      "description": "tall bulrushes with brown seed heads",
+      "licence": "CC-BY-3.0",
+      "credit": "Cattail by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/9vCk81sIPve",
+      "height": 1.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/bulrushes.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/bamboo",
+      "displayName": "Bamboo",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "plants",
+        "jungle",
+        "forest"
+      ],
+      "description": "pale green bamboo canes",
+      "licence": "CC-BY-3.0",
+      "credit": "Bamboo by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/etkjGJtQYHh",
+      "height": 3,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/bamboo.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/bush",
+      "displayName": "Bush",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden",
+        "woodland"
+      ],
+      "description": "a round leafy green bush",
+      "licence": "CC-BY-3.0",
+      "credit": "Oak tree by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/0DtsZfSTWzA",
+      "height": 1.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/bush.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/orchid",
+      "displayName": "Orchid",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "home"
+      ],
+      "description": "a purple orchid in a white pot",
+      "licence": "CC-BY-3.0",
+      "credit": "Orchid by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/ef9ozEPNGk5",
+      "height": 0.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/orchid.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/rose-bush",
+      "displayName": "Rose bush",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden",
+        "fairy tale"
+      ],
+      "description": "a climbing rose with red flowers",
+      "licence": "CC-BY-3.0",
+      "credit": "Rose bush by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/aHGWuZ3PD4s",
+      "height": 0.8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/rose-bush.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/daffodils",
+      "displayName": "Daffodils",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "garden"
+      ],
+      "description": "yellow daffodils in a patch of earth",
+      "licence": "CC-BY-3.0",
+      "credit": "Daffodil by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/2Gw0Pca1YRS",
+      "height": 0.35,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/daffodils.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/toadstools",
+      "displayName": "Toadstools",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "woodland",
+        "fairy tale"
+      ],
+      "description": "three spotted toadstools: red, yellow and blue",
+      "licence": "CC-BY-3.0",
+      "credit": "Mushroom by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/01h5sEA40Hp",
+      "height": 0.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/toadstools.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/pumpkin",
+      "displayName": "Pumpkin",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "plants",
+        "farm",
+        "autumn"
+      ],
+      "description": "a big orange pumpkin",
+      "licence": "CC-BY-3.0",
+      "credit": "Pumpkin by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bn33F2RDgGD",
+      "height": 0.4,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/pumpkin.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/carrot",
+      "displayName": "Carrot",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "plants",
+        "farm"
+      ],
+      "description": "an orange carrot with its green leaves",
+      "licence": "CC-BY-3.0",
+      "credit": "Carrot by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/3oFkNid6ofx",
+      "height": 0.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/carrot.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/corn-on-the-cob",
+      "displayName": "Corn on the cob",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "plants",
+        "farm"
+      ],
+      "description": "a yellow corn cob in its green husk",
+      "licence": "CC-BY-3.0",
+      "credit": "Ear of corn by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/3zsUEPnTdFt",
+      "height": 0.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/corn-on-the-cob.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/field-of-corn",
+      "displayName": "Field of corn",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "plants",
+        "farm",
+        "countryside"
+      ],
+      "description": "rows of tall maize plants",
+      "licence": "CC-BY-3.0",
+      "credit": "Field of corn by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/dE73diXi82k",
+      "height": 2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/field-of-corn.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/field-of-wheat",
+      "displayName": "Field of wheat",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "plants",
+        "farm",
+        "countryside"
+      ],
+      "description": "a patch of golden wheat",
+      "licence": "CC-BY-3.0",
+      "credit": "Field of wheat by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/eWhaaKNh755",
+      "height": 1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/field-of-wheat.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/potato",
+      "displayName": "Potato",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "farm"
+      ],
+      "description": "a brown potato",
+      "licence": "CC-BY-3.0",
+      "credit": "Potato by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/2zXFdq69HNj",
+      "height": 0.07,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/potato.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/aubergine",
+      "displayName": "Aubergine",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "farm"
+      ],
+      "description": "a shiny purple aubergine",
+      "licence": "CC-BY-3.0",
+      "credit": "Eggplant by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/abKWST5Odkg",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/aubergine.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/cabbage",
+      "displayName": "Cabbage",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "farm",
+        "garden"
+      ],
+      "description": "a round pale green cabbage",
+      "licence": "CC-BY-3.0",
+      "credit": "Cabbage by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/dNUS4xC0D6C",
+      "height": 0.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/cabbage.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/cucumber",
+      "displayName": "Cucumber",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a green cucumber",
+      "licence": "CC-BY-3.0",
+      "credit": "Cucumber by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/6tIy7yd7SPa",
+      "height": 0.05,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/cucumber.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/lettuce",
+      "displayName": "Lettuce",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a head of lettuce",
+      "licence": "CC-BY-3.0",
+      "credit": "Head of lettuce by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/7_SB4QHJvBR",
+      "height": 0.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/lettuce.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/tomato",
+      "displayName": "Tomato",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a red tomato with a green stalk",
+      "licence": "CC-BY-3.0",
+      "credit": "Tomato by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/0vxjCVR_euD",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/tomato.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/green-pepper",
+      "displayName": "Green pepper",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a shiny green pepper",
+      "licence": "CC-BY-3.0",
+      "credit": "Green Pepper by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/5d6zv4Ow2tO",
+      "height": 0.12,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/green-pepper.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/strawberry",
+      "displayName": "Strawberry",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a red strawberry with green leaves",
+      "licence": "CC-BY-3.0",
+      "credit": "Strawberry by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/4W3g1NixX1K",
+      "height": 0.04,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/strawberry.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/cherries",
+      "displayName": "Cherries",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food"
+      ],
+      "description": "two dark red cherries on their stalks",
+      "licence": "CC-BY-3.0",
+      "credit": "Cherry by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/8BsjISKsNIz",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/cherries.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/grapes",
+      "displayName": "Grapes",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "food"
+      ],
+      "description": "a bunch of purple grapes",
+      "licence": "CC-BY-3.0",
+      "credit": "Grapes by jeremy, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/csU4Smr2_aV",
+      "height": 0.18,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/grapes.glb"
+      }
+    },
+    {
+      "id": "poly-google/Transport/space-shuttle",
+      "displayName": "Space shuttle",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "space",
+        "transport"
+      ],
+      "description": "a white space shuttle on its orange fuel tank, between two rocket boosters, ready to launch",
+      "licence": "CC-BY-3.0",
+      "credit": "Space Shuttle by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/djxolbz_CYC",
+      "height": 56,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/space-shuttle.glb"
+      }
+    },
+    {
+      "id": "poly-google/Biped/astronaut",
+      "displayName": "Astronaut",
+      "class": "Biped",
+      "section": "cast",
+      "themes": [
+        "space",
+        "adults"
+      ],
+      "description": "an astronaut in a white spacesuit with a dark visor",
+      "licence": "CC-BY-3.0",
+      "credit": "Astronaut by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/dLHpzNdygsg",
+      "height": 1.8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/astronaut.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/telescope",
+      "displayName": "Telescope",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "night",
+        "science"
+      ],
+      "description": "a telescope on a tripod",
+      "licence": "CC-BY-3.0",
+      "credit": "Telescope by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/1ZoSwQQOBJX",
+      "height": 1.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/telescope.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/binoculars",
+      "displayName": "Binoculars",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "adventure",
+        "exploration"
+      ],
+      "description": "a pair of black binoculars",
+      "licence": "CC-BY-3.0",
+      "credit": "Binoculars by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/6nj5FdUlsEW",
+      "height": 0.07,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/binoculars.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/flag",
+      "displayName": "Flag",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "adventure"
+      ],
+      "description": "a white pennant on a tall pole",
+      "licence": "CC-BY-3.0",
+      "credit": "Flag by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/0okBVouy3-T",
+      "height": 2.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/flag.glb"
+      }
+    },
+    {
+      "id": "poly-google/Prop/map",
+      "displayName": "Map",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "adventure",
+        "geography",
+        "school"
+      ],
+      "description": "a map of the world, opened flat",
+      "licence": "CC-BY-3.0",
+      "credit": "Map by Google, CC BY 3.0, via Poly Pizza",
+      "page": "https://poly.pizza/m/bU3B6P0ngfi",
+      "height": 0.01,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
+        "path": "originals/poly-google/map.glb"
+      }
+    }
+  ]
+}
