@@ -385,10 +385,7 @@ Props
     sketchfab-history/Prop/acheulean-hand-axe: Stone Age hand axe, a flint hand axe chipped to a point, about 400,000 years old [history, stone age] 0.1 m, no joints
     sketchfab-history/Prop/amphora: Amphora, a tall pointed clay jar with two handles, for carrying wine or oil [history, romans, egyptians] 0.7 m, no joints
     sketchfab-history/Prop/anglo-saxon-helmet: Anglo-Saxon helmet, a gold and silver Anglo-Saxon helmet with a crown and a jewel [history, anglo-saxons] 0.3 m, no joints
-    sketchfab-history/Prop/anglo-saxon-sword: Anglo-Saxon sword, a long Anglo-Saxon sword with a gold patterned hilt [history, anglo-saxons] 0.35 m, no joints
-    sketchfab-history/Prop/antenna-sword: Antenna sword, a bronze sword with two curled horns on its handle, lying flat [history, bronze age] 0.02 m, no joints
     sketchfab-history/Prop/bronze-horus: Bronze Horus, a green bronze falcon, the Egyptian god Horus, on a wooden base [history, egyptians] 0.25 m, no joints
-    sketchfab-history/Prop/bronze-sword: Bronze sword, a long golden bronze sword lying flat [history, bronze age] 0.01 m, no joints
     sketchfab-history/Prop/bust-of-tranquillina: Bust of Tranquillina, a marble bust of a Roman empress on a grey stand [history, romans] 1.2 m, no joints
     sketchfab-history/Prop/canopic-jar-falcon: Canopic jar with falcon, a stone Egyptian jar for a mummy, its lid a falcon head [history, egyptians] 0.4 m, no joints
     sketchfab-history/Prop/canopic-jar-human-head: Canopic jar, an Egyptian clay jar for a mummy, its lid a human head [history, egyptians] 0.35 m, no joints
@@ -410,7 +407,6 @@ Props
     sketchfab-history/Prop/shabti-of-ramose: Shabti of Ramose, a small painted Egyptian figure, wrapped like a mummy, made to work in the afterlife [history, egyptians] 0.2 m, no joints
     sketchfab-history/Prop/statue-of-minnefer: Statue of Minnefer, a pale stone statue of an Egyptian man striding forward [history, egyptians] 0.55 m, no joints
     sketchfab-history/Prop/thoth-baboon: Thoth as a baboon, a pale stone baboon sitting, the Egyptian god Thoth [history, egyptians] 0.35 m, no joints
-    sketchfab-history/Prop/yetholm-shield: Yetholm shield, a round bronze shield with rings of tiny bumps, from the Late Bronze Age [history, bronze age] 0.6 m, no joints
     smithsonian/Prop/lincoln-patent-model: Lincoln's patent model, Abraham Lincoln's wooden model of a boat with floats to lift it over shallow water [inventions, history] 0.25 m, no joints
     smithsonian/Prop/morse-telegraph-key: Morse telegraph key, an early telegraph key on a wooden base, for sending Morse code [inventions, history] 0.08 m, no joints
   Transport
@@ -481,7 +477,7 @@ Set
     sketchfab-history/Prop/egyptian-coffin-gold: Egyptian coffin, gold, a painted Egyptian mummy coffin standing upright, blue and gold with a striped headdress [history, egyptians] 1.9 m, no joints
     sketchfab-history/Prop/egyptian-coffin-red: Egyptian coffin, red, a painted Egyptian mummy coffin standing upright, red with a gold face [history, egyptians] 1.9 m, no joints
     sketchfab-history/Prop/egyptian-temple: Egyptian temple, a pale Egyptian temple with two great gate towers and a courtyard [history, egyptians] 18 m, no joints
-    sketchfab-history/Prop/great-pyramid: Great Pyramid of Giza, the Great Pyramid of Giza, scanned, standing in the desert [history, egyptians] 139 m, no joints
+    sketchfab-history/Prop/great-pyramid: Great Pyramid of Giza, scanned, standing in the desert with its ruined temples around it [history, egyptians] 139 m, no joints
     sketchfab-history/Prop/great-sphinx: Great Sphinx, the Great Sphinx of Giza, a lion lying down with a pharaoh's head [history, egyptians] 20 m, no joints
     sketchfab-history/Prop/iron-age-roundhouse: Iron Age roundhouse, a round house with a tall thatched cone roof and a low doorway [history, iron age] 6 m, no joints
     sketchfab-history/Prop/obelisk: Obelisk, a tall golden Egyptian obelisk with a pointed top [history, egyptians] 21 m, no joints

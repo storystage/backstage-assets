@@ -341,10 +341,7 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `sketchfab-history/Prop/acheulean-hand-axe` | Stone Age hand axe | CC0-1.0 | props | 8000 | 1024 | yes | none | 0.1 m | glTF | — | 4 |
 | `sketchfab-history/Prop/amphora` | Amphora | CC-BY-4.0 | props | 8000 | 1024 | yes | none | 0.7 m | glTF | — | 4 |
 | `sketchfab-history/Prop/anglo-saxon-helmet` | Anglo-Saxon helmet | CC-BY-4.0 | props | 7993 | 256 | yes | none | 0.3 m | glTF | 2 parts | 4 |
-| `sketchfab-history/Prop/anglo-saxon-sword` | Anglo-Saxon sword | CC-BY-4.0 | props | 7992 | 1024 | yes | none | 0.35 m | glTF | — | 4 |
-| `sketchfab-history/Prop/antenna-sword` | Antenna sword | CC-BY-4.0 | props | 1392 | 1024 | yes | none | 0.02 m | glTF | — | 4 |
 | `sketchfab-history/Prop/bronze-horus` | Bronze Horus | CC0-1.0 | props | 7997 | 1024 | yes | none | 0.25 m | glTF | — | 4 |
-| `sketchfab-history/Prop/bronze-sword` | Bronze sword | CC-BY-4.0 | props | 1612 | 1024 | yes | none | 0.01 m | glTF | — | 4 |
 | `sketchfab-history/Prop/bust-of-tranquillina` | Bust of Tranquillina | CC0-1.0 | props | 7998 | 1024 | yes | none | 1.2 m | glTF | — | 4 |
 | `sketchfab-history/Prop/canopic-jar-falcon` | Canopic jar with falcon | CC0-1.0 | props | 7835 | 1024 | yes | none | 0.4 m | glTF | — | 4 |
 | `sketchfab-history/Prop/canopic-jar-human-head` | Canopic jar | CC0-1.0 | props | 7991 | 1024 | yes | none | 0.35 m | glTF | — | 4 |
@@ -386,7 +383,6 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `sketchfab-history/Prop/temple-of-taffeh` | Temple of Taffeh | CC0-1.0 | set | 19580 | 1024 | yes | none | 5 m | glTF | — | 4 |
 | `sketchfab-history/Prop/thoth-baboon` | Thoth as a baboon | CC0-1.0 | props | 7863 | 1024 | yes | none | 0.35 m | glTF | — | 4 |
 | `sketchfab-history/Prop/viking-longhouse` | Viking longhouse | CC-BY-4.0 | set | 13582 | 1024 | yes | none | 6.5 m | glTF | — | 4 |
-| `sketchfab-history/Prop/yetholm-shield` | Yetholm shield | CC0-1.0 | props | 7999 | 1024 | yes | none | 0.6 m | glTF | — | 4 |
 | `sketchfab-history/Transport/log-boat` | Log boat | CC0-1.0 | set | 19999 | 1024 | yes | none | 0.5 m | glTF | — | 4 |
 | `sketchfab-history/Transport/viking-longship` | Viking longship | CC-BY-4.0 | set | 19973 | 1024 | yes | none | 12 m | glTF | — | 4 |
 | `sketchfab-history/Transport/viking-longship-striped` | Viking longship, striped sail | CC-BY-4.0 | set | 3314 | 256 | yes | none | 12 m | glTF | — | 4 |
@@ -531,4 +527,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** the index in its system prompt is about 8,316 of 12,000 tokens; every full line, which requests carry a few at a time, about 28,116. `prompter-catalogue.txt` holds every full line exactly as Claude reads it; check its descriptions with the sketches.
+**Prompter catalogue:** the index in its system prompt is about 8,222 of 12,000 tokens; every full line, which requests carry a few at a time, about 27,910. `prompter-catalogue.txt` holds every full line exactly as Claude reads it; check its descriptions with the sketches.

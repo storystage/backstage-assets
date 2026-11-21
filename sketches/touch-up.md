@@ -1,6 +1,6 @@
 # Sketches to touch up
 
-Written by `tools/make-sketches`: 3711 sketches, 0 replaced by hand, 22 to look at.
+Written by `tools/make-sketches`: 3695 sketches, 0 replaced by hand, 20 to look at.
 
 To replace a sketch, draw it in the same style (black lines 3 units wide on a white shape, the model facing left in side and three-quarter views), save it beside this file, and name it in `touch-up.json` under `overrides`. To draw one simplified (its outer edge and only its long, deep inner lines), name it under `simplified`; to keep one as it is, under `kept`.
 
@@ -16,8 +16,6 @@ To replace a sketch, draw it in the same style (black lines 3 units wide on a wh
 | `sketches/nasa/Transport/perseverance-rover/side.svg` | 17 times its outline in lines: too many small lines to read. |
 | `sketches/nasa/Transport/perseverance-rover/back.svg` | 14 times its outline in lines: too many small lines to read. |
 | `sketches/polyhaven/Prop/money-tree/back.svg` | 14 times its outline in lines: too many small lines to read. |
-| `sketches/sketchfab-history/Prop/bronze-sword/threeQuarter.svg` | Only 11 units across: hard to see. |
-| `sketches/sketchfab-history/Prop/bronze-sword/side.svg` | Only 8 units across: hard to see. |
 | `sketches/sketchfab-history/Prop/canopic-jar-human-head/threeQuarter.svg` | 14 times its outline in lines: too many small lines to read. |
 | `sketches/sketchfab-history/Prop/canopic-jar-human-head/side.svg` | 16 times its outline in lines: too many small lines to read. |
 | `sketches/sketchfab-history/Prop/canopic-jar-human-head/back.svg` | 15 times its outline in lines: too many small lines to read. |
@@ -151,10 +149,6 @@ None.
 - `sketches/sketchfab-history/Prop/thoth-baboon/threeQuarter.svg`
 - `sketches/sketchfab-history/Prop/thoth-baboon/side.svg`
 - `sketches/sketchfab-history/Prop/thoth-baboon/back.svg`
-- `sketches/sketchfab-history/Prop/yetholm-shield/front.svg`
-- `sketches/sketchfab-history/Prop/yetholm-shield/threeQuarter.svg`
-- `sketches/sketchfab-history/Prop/yetholm-shield/side.svg`
-- `sketches/sketchfab-history/Prop/yetholm-shield/back.svg`
 - `sketches/smithsonian/Prop/triceratops/back.svg`
 
 ## Looked at and kept

@@ -31045,102 +31045,6 @@
       ]
     },
     {
-      "id": "sketchfab-history/Prop/anglo-saxon-sword",
-      "section": "props",
-      "class": "Prop",
-      "displayName": "Anglo-Saxon sword",
-      "themes": [
-        "history",
-        "anglo-saxons"
-      ],
-      "description": "a long Anglo-Saxon sword with a gold patterned hilt",
-      "files": {
-        "model": "models/sketchfab-history/Prop/anglo-saxon-sword.glb",
-        "thumbnail": "thumbnails/sketchfab-history/Prop/anglo-saxon-sword.webp"
-      },
-      "joints": "prop-only",
-      "defaultSize": {
-        "height": 0.35
-      },
-      "budget": {
-        "triangles": 7992,
-        "textureMaxPx": 1024
-      },
-      "licence": "CC-BY-4.0",
-      "credit": "Anglo Saxon sword - reconstruction by Andy Woodhead, CC BY 4.0, via Sketchfab, changed for StoryStage",
-      "source": {
-        "url": "https://sketchfab.com/3d-models/anglo-saxon-sword-reconstruction-c4ec57af0f9446e2b5a52df4c3778fd0",
-        "retrieved": "2026-11-21"
-      },
-      "origin": "shipped",
-      "sketches": [
-        {
-          "facing": "front",
-          "file": "sketches/sketchfab-history/Prop/anglo-saxon-sword/front.svg"
-        },
-        {
-          "facing": "threeQuarter",
-          "file": "sketches/sketchfab-history/Prop/anglo-saxon-sword/threeQuarter.svg"
-        },
-        {
-          "facing": "side",
-          "file": "sketches/sketchfab-history/Prop/anglo-saxon-sword/side.svg"
-        },
-        {
-          "facing": "back",
-          "file": "sketches/sketchfab-history/Prop/anglo-saxon-sword/back.svg"
-        }
-      ]
-    },
-    {
-      "id": "sketchfab-history/Prop/antenna-sword",
-      "section": "props",
-      "class": "Prop",
-      "displayName": "Antenna sword",
-      "themes": [
-        "history",
-        "bronze age"
-      ],
-      "description": "a bronze sword with two curled horns on its handle, lying flat",
-      "files": {
-        "model": "models/sketchfab-history/Prop/antenna-sword.glb",
-        "thumbnail": "thumbnails/sketchfab-history/Prop/antenna-sword.webp"
-      },
-      "joints": "prop-only",
-      "defaultSize": {
-        "height": 0.02
-      },
-      "budget": {
-        "triangles": 1392,
-        "textureMaxPx": 1024
-      },
-      "licence": "CC-BY-4.0",
-      "credit": "Antenne Bronze Sword by Ryoce, CC BY 4.0, via Sketchfab, changed for StoryStage",
-      "source": {
-        "url": "https://sketchfab.com/3d-models/antenne-bronze-sword-691a0aab8daa4304aeb564ab472ffcba",
-        "retrieved": "2026-11-21"
-      },
-      "origin": "shipped",
-      "sketches": [
-        {
-          "facing": "front",
-          "file": "sketches/sketchfab-history/Prop/antenna-sword/front.svg"
-        },
-        {
-          "facing": "threeQuarter",
-          "file": "sketches/sketchfab-history/Prop/antenna-sword/threeQuarter.svg"
-        },
-        {
-          "facing": "side",
-          "file": "sketches/sketchfab-history/Prop/antenna-sword/side.svg"
-        },
-        {
-          "facing": "back",
-          "file": "sketches/sketchfab-history/Prop/antenna-sword/back.svg"
-        }
-      ]
-    },
-    {
       "id": "sketchfab-history/Prop/bronze-horus",
       "section": "props",
       "class": "Prop",
@@ -31185,54 +31089,6 @@
         {
           "facing": "back",
           "file": "sketches/sketchfab-history/Prop/bronze-horus/back.svg"
-        }
-      ]
-    },
-    {
-      "id": "sketchfab-history/Prop/bronze-sword",
-      "section": "props",
-      "class": "Prop",
-      "displayName": "Bronze sword",
-      "themes": [
-        "history",
-        "bronze age"
-      ],
-      "description": "a long golden bronze sword lying flat",
-      "files": {
-        "model": "models/sketchfab-history/Prop/bronze-sword.glb",
-        "thumbnail": "thumbnails/sketchfab-history/Prop/bronze-sword.webp"
-      },
-      "joints": "prop-only",
-      "defaultSize": {
-        "height": 0.01
-      },
-      "budget": {
-        "triangles": 1612,
-        "textureMaxPx": 1024
-      },
-      "licence": "CC-BY-4.0",
-      "credit": "Bronze  Sword by Ryoce, CC BY 4.0, via Sketchfab, changed for StoryStage",
-      "source": {
-        "url": "https://sketchfab.com/3d-models/bronze-sword-4d52d68ee8e94a8aa08e4b7625690f89",
-        "retrieved": "2026-11-21"
-      },
-      "origin": "shipped",
-      "sketches": [
-        {
-          "facing": "front",
-          "file": "sketches/sketchfab-history/Prop/bronze-sword/front.svg"
-        },
-        {
-          "facing": "threeQuarter",
-          "file": "sketches/sketchfab-history/Prop/bronze-sword/threeQuarter.svg"
-        },
-        {
-          "facing": "side",
-          "file": "sketches/sketchfab-history/Prop/bronze-sword/side.svg"
-        },
-        {
-          "facing": "back",
-          "file": "sketches/sketchfab-history/Prop/bronze-sword/back.svg"
         }
       ]
     },
@@ -31725,7 +31581,7 @@
         "history",
         "egyptians"
       ],
-      "description": "the Great Pyramid of Giza, scanned, standing in the desert",
+      "description": "scanned, standing in the desert with its ruined temples around it",
       "files": {
         "model": "models/sketchfab-history/Prop/great-pyramid.glb",
         "thumbnail": "thumbnails/sketchfab-history/Prop/great-pyramid.webp"
@@ -33203,54 +33059,6 @@
         {
           "facing": "back",
           "file": "sketches/sketchfab-history/Prop/viking-longhouse/back.svg"
-        }
-      ]
-    },
-    {
-      "id": "sketchfab-history/Prop/yetholm-shield",
-      "section": "props",
-      "class": "Prop",
-      "displayName": "Yetholm shield",
-      "themes": [
-        "history",
-        "bronze age"
-      ],
-      "description": "a round bronze shield with rings of tiny bumps, from the Late Bronze Age",
-      "files": {
-        "model": "models/sketchfab-history/Prop/yetholm-shield.glb",
-        "thumbnail": "thumbnails/sketchfab-history/Prop/yetholm-shield.webp"
-      },
-      "joints": "prop-only",
-      "defaultSize": {
-        "height": 0.6
-      },
-      "budget": {
-        "triangles": 7999,
-        "textureMaxPx": 1024
-      },
-      "licence": "CC0-1.0",
-      "credit": "Late Bronze Age, Yetholm Shield by The Hunt Museum (CC0), via Sketchfab",
-      "source": {
-        "url": "https://sketchfab.com/3d-models/late-bronze-age-yetholm-shield-4de8add67c144fc996d88a2d61a0f74d",
-        "retrieved": "2026-11-21"
-      },
-      "origin": "shipped",
-      "sketches": [
-        {
-          "facing": "front",
-          "file": "sketches/sketchfab-history/Prop/yetholm-shield/front.svg"
-        },
-        {
-          "facing": "threeQuarter",
-          "file": "sketches/sketchfab-history/Prop/yetholm-shield/threeQuarter.svg"
-        },
-        {
-          "facing": "side",
-          "file": "sketches/sketchfab-history/Prop/yetholm-shield/side.svg"
-        },
-        {
-          "facing": "back",
-          "file": "sketches/sketchfab-history/Prop/yetholm-shield/back.svg"
         }
       ]
     },

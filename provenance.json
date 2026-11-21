@@ -9637,54 +9637,6 @@
       "animations": []
     }
   },
-  "sketchfab-history/Prop/anglo-saxon-sword": {
-    "source": "sketchfab-history",
-    "fetched": [
-      {
-        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/anglo-saxon-sword.glb",
-        "sha256": "1f61517e73ce0da43b81e9c4d829e1b8407f86de5eeb565430fb3385fcb89cbb"
-      }
-    ],
-    "retrieved": "2026-11-21",
-    "vrm": null,
-    "triangles": 7992,
-    "textureMaxPx": 1024,
-    "fetchedSize": {
-      "triangles": 7992,
-      "textureMaxPx": 1024
-    },
-    "fitsBudget": true,
-    "skeleton": "none",
-    "missingJoints": [],
-    "excluded": {
-      "nodes": [],
-      "animations": []
-    }
-  },
-  "sketchfab-history/Prop/antenna-sword": {
-    "source": "sketchfab-history",
-    "fetched": [
-      {
-        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/antenna-sword.glb",
-        "sha256": "db03a0e60b7a8fdff52de6451ac5e7e4a9ac4c60b4c23e4ff81cfbac2192b5fa"
-      }
-    ],
-    "retrieved": "2026-11-21",
-    "vrm": null,
-    "triangles": 1392,
-    "textureMaxPx": 1024,
-    "fetchedSize": {
-      "triangles": 1392,
-      "textureMaxPx": 1024
-    },
-    "fitsBudget": true,
-    "skeleton": "none",
-    "missingJoints": [],
-    "excluded": {
-      "nodes": [],
-      "animations": []
-    }
-  },
   "sketchfab-history/Prop/bronze-horus": {
     "source": "sketchfab-history",
     "fetched": [
@@ -9699,30 +9651,6 @@
     "textureMaxPx": 1024,
     "fetchedSize": {
       "triangles": 7997,
-      "textureMaxPx": 1024
-    },
-    "fitsBudget": true,
-    "skeleton": "none",
-    "missingJoints": [],
-    "excluded": {
-      "nodes": [],
-      "animations": []
-    }
-  },
-  "sketchfab-history/Prop/bronze-sword": {
-    "source": "sketchfab-history",
-    "fetched": [
-      {
-        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/bronze-sword.glb",
-        "sha256": "411acbce18f1d12efbea5737143c142d40aac66bb238f2a0dc47ec91f56d9d01"
-      }
-    ],
-    "retrieved": "2026-11-21",
-    "vrm": null,
-    "triangles": 1612,
-    "textureMaxPx": 1024,
-    "fetchedSize": {
-      "triangles": 1612,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,
@@ -10707,30 +10635,6 @@
     "textureMaxPx": 1024,
     "fetchedSize": {
       "triangles": 13582,
-      "textureMaxPx": 1024
-    },
-    "fitsBudget": true,
-    "skeleton": "none",
-    "missingJoints": [],
-    "excluded": {
-      "nodes": [],
-      "animations": []
-    }
-  },
-  "sketchfab-history/Prop/yetholm-shield": {
-    "source": "sketchfab-history",
-    "fetched": [
-      {
-        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/yetholm-shield.glb",
-        "sha256": "d46dadac6242efad3ca7ee4d43481b1598d2a18718ee9985362f37df9b8f8ba6"
-      }
-    ],
-    "retrieved": "2026-11-21",
-    "vrm": null,
-    "triangles": 7999,
-    "textureMaxPx": 1024,
-    "fetchedSize": {
-      "triangles": 7999,
       "textureMaxPx": 1024
     },
     "fitsBudget": true,

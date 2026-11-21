@@ -8435,50 +8435,6 @@
       ]
     },
     {
-      "id": "sketchfab-history/Prop/anglo-saxon-sword",
-      "section": "props",
-      "class": "Prop",
-      "name": "Anglo-Saxon sword",
-      "joints": "none",
-      "line": "sketchfab-history/Prop/anglo-saxon-sword: Anglo-Saxon sword, a long Anglo-Saxon sword with a gold patterned hilt [history, anglo-saxons] 0.35 m, no joints",
-      "short": "sketchfab-history/Prop/anglo-saxon-sword: Anglo-Saxon sword (no joints)",
-      "words": [
-        "anglo",
-        "saxon",
-        "sword",
-        "long",
-        "gold",
-        "patterned",
-        "hilt",
-        "history",
-        "saxons",
-        "prop"
-      ]
-    },
-    {
-      "id": "sketchfab-history/Prop/antenna-sword",
-      "section": "props",
-      "class": "Prop",
-      "name": "Antenna sword",
-      "joints": "none",
-      "line": "sketchfab-history/Prop/antenna-sword: Antenna sword, a bronze sword with two curled horns on its handle, lying flat [history, bronze age] 0.02 m, no joints",
-      "short": "sketchfab-history/Prop/antenna-sword: Antenna sword (no joints)",
-      "words": [
-        "antenna",
-        "sword",
-        "bronze",
-        "two",
-        "curled",
-        "horns",
-        "handle",
-        "lying",
-        "flat",
-        "history",
-        "age",
-        "prop"
-      ]
-    },
-    {
       "id": "sketchfab-history/Prop/bronze-horus",
       "section": "props",
       "class": "Prop",
@@ -8497,26 +8453,6 @@
         "base",
         "history",
         "egyptians",
-        "prop"
-      ]
-    },
-    {
-      "id": "sketchfab-history/Prop/bronze-sword",
-      "section": "props",
-      "class": "Prop",
-      "name": "Bronze sword",
-      "joints": "none",
-      "line": "sketchfab-history/Prop/bronze-sword: Bronze sword, a long golden bronze sword lying flat [history, bronze age] 0.01 m, no joints",
-      "short": "sketchfab-history/Prop/bronze-sword: Bronze sword (no joints)",
-      "words": [
-        "bronze",
-        "sword",
-        "long",
-        "golden",
-        "lying",
-        "flat",
-        "history",
-        "age",
         "prop"
       ]
     },
@@ -8977,28 +8913,6 @@
         "god",
         "history",
         "egyptians",
-        "prop"
-      ]
-    },
-    {
-      "id": "sketchfab-history/Prop/yetholm-shield",
-      "section": "props",
-      "class": "Prop",
-      "name": "Yetholm shield",
-      "joints": "none",
-      "line": "sketchfab-history/Prop/yetholm-shield: Yetholm shield, a round bronze shield with rings of tiny bumps, from the Late Bronze Age [history, bronze age] 0.6 m, no joints",
-      "short": "sketchfab-history/Prop/yetholm-shield: Yetholm shield (no joints)",
-      "words": [
-        "yetholm",
-        "shield",
-        "round",
-        "bronze",
-        "rings",
-        "tiny",
-        "bumps",
-        "late",
-        "age",
-        "history",
         "prop"
       ]
     },
@@ -10242,7 +10156,7 @@
       "class": "Prop",
       "name": "Great Pyramid of Giza",
       "joints": "none",
-      "line": "sketchfab-history/Prop/great-pyramid: Great Pyramid of Giza, the Great Pyramid of Giza, scanned, standing in the desert [history, egyptians] 139 m, no joints",
+      "line": "sketchfab-history/Prop/great-pyramid: Great Pyramid of Giza, scanned, standing in the desert with its ruined temples around it [history, egyptians] 139 m, no joints",
       "short": "sketchfab-history/Prop/great-pyramid: Great Pyramid of Giza (no joints)",
       "words": [
         "great",
@@ -10251,6 +10165,9 @@
         "scanned",
         "standing",
         "desert",
+        "ruined",
+        "temples",
+        "around",
         "history",
         "egyptians",
         "prop"
