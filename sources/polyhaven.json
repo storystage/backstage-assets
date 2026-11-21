@@ -751,6 +751,146 @@
         "commit": "a26da4f7af2b067f09c6c2dd51f01a7e43362fca",
         "path": "originals/polyhaven/yellow_onion/yellow_onion_1k.gltf"
       }
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-1",
+      "displayName": "Moon rock 1",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 01 by Greg Zaal, Rico Cilliers, Jenelle van Heerden and Dario Barresi, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/moon_rock_01",
+      "height": 0.075,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "316ffba5c2f8542399ce69a9f3bec53a2dc88c27",
+        "path": "originals/polyhaven/moon_rock_01/moon_rock_01_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-2",
+      "displayName": "Moon rock 2",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 02 by Rico Cilliers, Greg Zaal and Jenelle van Heerden, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/moon_rock_02",
+      "height": 0.202,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "316ffba5c2f8542399ce69a9f3bec53a2dc88c27",
+        "path": "originals/polyhaven/moon_rock_02/moon_rock_02_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-3",
+      "displayName": "Moon rock 3",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 03 by Greg Zaal, Rico Cilliers and Jenelle van Heerden, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/moon_rock_03",
+      "height": 0.058,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "316ffba5c2f8542399ce69a9f3bec53a2dc88c27",
+        "path": "originals/polyhaven/moon_rock_03/moon_rock_03_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-4",
+      "displayName": "Moon rock 4",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 04 by Greg Zaal, Rico Cilliers and Jenelle van Heerden, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/moon_rock_04",
+      "height": 0.054,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "316ffba5c2f8542399ce69a9f3bec53a2dc88c27",
+        "path": "originals/polyhaven/moon_rock_04/moon_rock_04_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-5",
+      "displayName": "Moon rock 5",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 05 by Greg Zaal, Rico Cilliers and Jenelle van Heerden, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/moon_rock_05",
+      "height": 0.074,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "316ffba5c2f8542399ce69a9f3bec53a2dc88c27",
+        "path": "originals/polyhaven/moon_rock_05/moon_rock_05_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-6",
+      "displayName": "Moon rock 6",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 06 by Greg Zaal, Jenelle van Heerden and Rico Cilliers, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/moon_rock_06",
+      "height": 0.055,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "316ffba5c2f8542399ce69a9f3bec53a2dc88c27",
+        "path": "originals/polyhaven/moon_rock_06/moon_rock_06_1k.gltf"
+      }
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-7",
+      "displayName": "Moon rock 7",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "moon"
+      ],
+      "description": "a small grey rock brought back from the Moon",
+      "licence": "CC0-1.0",
+      "credit": "Moon Rock 07 by Greg Zaal, Rico Cilliers and Jenelle van Heerden, Poly Haven (CC0)",
+      "page": "https://polyhaven.com/a/moon_rock_07",
+      "height": 0.06,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "316ffba5c2f8542399ce69a9f3bec53a2dc88c27",
+        "path": "originals/polyhaven/moon_rock_07/moon_rock_07_1k.gltf"
+      }
     }
   ]
 }

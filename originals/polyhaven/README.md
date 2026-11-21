@@ -1,6 +1,6 @@
 # Poly Haven originals
 
-The 33 Poly Haven models `sources/polyhaven.json` ships (storystage2's spec 17), as fetched on 20 November 2026: plants, pot plants and planters, trees, a stump and a log, rocks and boulders, a shell, a rat, and fruit and vegetables, the owner's choice of 21 Nov 2026 from a sheet of the picks as the build would ship them. All are **CC0** ([polyhaven.com/license](https://polyhaven.com/license); storystage2's `docs/legal/licence-audit.md`: Poly Haven, ship). Each is credited by its makers in `backstage.json`, though CC0 asks for no credit.
+The Poly Haven models `sources/polyhaven.json` ships: 33 (storystage2's spec 17), as fetched on 20 November 2026: plants, pot plants and planters, trees, a stump and a log, rocks and boulders, a shell, a rat, and fruit and vegetables, the owner's choice of 21 Nov 2026 from a sheet of the picks as the build would ship them. All are **CC0** ([polyhaven.com/license](https://polyhaven.com/license); storystage2's `docs/legal/licence-audit.md`: Poly Haven, ship). Each is credited by its makers in `backstage.json`, though CC0 asks for no credit.
 
 Each folder is the model's 1K glTF with its buffer and textures, byte for byte as Poly Haven's API listed them (`api.polyhaven.com/files/<id>`), each file checked against the API's MD5 when fetched. The API's terms ask for a User-Agent naming the client; the tools send a generic one. They are kept here so the build fetches exactly what was reviewed, pinned to the commit that added them.
 
@@ -185,3 +185,40 @@ Where a file holds several variants side by side (the plants, the bananas, the b
 |  |  |  |  | `textures/yellow_onion_nor_gl_1k.jpg` | `f471dbeb82baaf3d743f28a254ed94587f83bd6131f03e656655c6d48717f137` |
 |  |  |  |  | `yellow_onion.bin` | `586c1e459e31e0647d090df4497e88c4e905e598607e9632590fb74cce7ef5f5` |
 |  |  |  |  | `yellow_onion_1k.gltf` | `0d4aaa4046c5b471ea7f9197c453f3d48699bc85e06fd13606c8ea09a1dce699` |
+| `moon_rock_01` | Moon Rock 01 | Greg Zaal, Rico Cilliers, Jenelle van Heerden and Dario Barresi | [page](https://polyhaven.com/a/moon_rock_01) | `moon_rock_01.bin` | `c6671327046efd27ab1a97c4c716412f209a063184e65f0376e3be6583e8f52a` |
+|  |  |  |  | `moon_rock_01_1k.gltf` | `004cc353fa0c29572a9ba40535f3716c297466fdf2c650d36deaf9e27eed5ce7` |
+|  |  |  |  | `textures/moon_rock_01_arm_1k.jpg` | `168cbef24f61a6602068d634f858a297bfa7b3675a43be6230e0daf2e8953cf9` |
+|  |  |  |  | `textures/moon_rock_01_diff_1k.jpg` | `1cdcb7dea183431326751abc03d30f89f1c51e99ce5b851401d51bd38f606c0b` |
+|  |  |  |  | `textures/moon_rock_01_nor_gl_1k.jpg` | `0b58d5009e7b317698eaff224bcf01c912c11ffc52203a728940e5e46a7494e9` |
+| `moon_rock_02` | Moon Rock 02 | Rico Cilliers, Greg Zaal and Jenelle van Heerden | [page](https://polyhaven.com/a/moon_rock_02) | `moon_rock_02.bin` | `3ba6af10eebb46347e4e0c9d3e2a836d1328525d9d47e82b798a13d9ca2b216f` |
+|  |  |  |  | `moon_rock_02_1k.gltf` | `fada2419ab6de440c24081bf06545f37c41c3d4f8bb57fc4d1ba45bdb35baf5d` |
+|  |  |  |  | `textures/moon_rock_02_arm_1k.jpg` | `4b87eaca9c57ecb145b26033cfb9fbb03191b67777458e4e699eaca823cca0e2` |
+|  |  |  |  | `textures/moon_rock_02_diff_1k.jpg` | `2df7bedcd0f169d76f37af52768c2a674019b6c6b812492a47c230726cff96ad` |
+|  |  |  |  | `textures/moon_rock_02_nor_gl_1k.jpg` | `6c7a4c51e89ee1b66b243a8341e8491bcc5a9151c30feee5b35e19742106f872` |
+| `moon_rock_03` | Moon Rock 03 | Greg Zaal, Rico Cilliers and Jenelle van Heerden | [page](https://polyhaven.com/a/moon_rock_03) | `moon_rock_03.bin` | `b9e79d1c12719515f48b8e27ddf692f9e2076ad4eafd1cf4a4d12d1bcc6d85df` |
+|  |  |  |  | `moon_rock_03_1k.gltf` | `aee7860497473cba4d06038abaa37e6da675cc97a4e7fa2fdee28ebf8844eea1` |
+|  |  |  |  | `textures/moon_rock_03_arm_1k.jpg` | `748403657a81b7c38c2cf8ddce22d8f41212a33a41520a92df79ba31c9b229dc` |
+|  |  |  |  | `textures/moon_rock_03_diff_1k.jpg` | `ab94cec085c5e6c5db832f7c69c504bfefcffce0a0c2215f592ebcbbaa12862b` |
+|  |  |  |  | `textures/moon_rock_03_nor_gl_1k.jpg` | `b5ace21b213a3c76ba6e0fabd37a9150ef4b525214fb5eba17546ec480f14bf7` |
+| `moon_rock_04` | Moon Rock 04 | Greg Zaal, Rico Cilliers and Jenelle van Heerden | [page](https://polyhaven.com/a/moon_rock_04) | `moon_rock_04.bin` | `561664fd5fcac47a00012f050af4e427c8357f156497189f063d67e38a64ce5e` |
+|  |  |  |  | `moon_rock_04_1k.gltf` | `09f7f305fd3e3711a4d52712bdb2e935cfcf669c30965827f089b57d81930d0f` |
+|  |  |  |  | `textures/moon_rock_04_arm_1k.jpg` | `9b0f994f4e0a8b815a6fa017a07ec4e7b4bb1dfa66fee9851a1fe11ec22f966b` |
+|  |  |  |  | `textures/moon_rock_04_diff_1k.jpg` | `4d94c93aa585555d7aedc579b7bdd160a38b5ee47ef96a1e6c20a9134aaee2ba` |
+|  |  |  |  | `textures/moon_rock_04_nor_gl_1k.jpg` | `a62082b898900550d273a9af0207ed7bf3d1fcb2e742a21361216af5e2e86bf3` |
+| `moon_rock_05` | Moon Rock 05 | Greg Zaal, Rico Cilliers and Jenelle van Heerden | [page](https://polyhaven.com/a/moon_rock_05) | `moon_rock_05.bin` | `15fd7e9cc1a2636c432a5f7cf3112dcf60bca059068db0f18e212e693c7af07e` |
+|  |  |  |  | `moon_rock_05_1k.gltf` | `f41052a54dd51d6c4e7c0b26556ea80798cf566bd9797c7c0529960b86cc0be2` |
+|  |  |  |  | `textures/moon_rock_05_arm_1k.jpg` | `7697d7612515f5f96aae196d769e44d458084afcfd91a260379a877d06ec5dc3` |
+|  |  |  |  | `textures/moon_rock_05_diff_1k.jpg` | `0be388345c96c3f0da59ba69cac23a4579a7804e34e46f6a9f130b73db45a216` |
+|  |  |  |  | `textures/moon_rock_05_nor_gl_1k.jpg` | `6b0b85bbade95df9ecfd2f5fb1576a3da8c98824a1c1ceea7ce2c48f6068a1d6` |
+| `moon_rock_06` | Moon Rock 06 | Greg Zaal, Jenelle van Heerden and Rico Cilliers | [page](https://polyhaven.com/a/moon_rock_06) | `moon_rock_06.bin` | `41885795c796e492cc8158fe8ada1ac2cf0d0b91cbcb9bf6f473b81cabfd7418` |
+|  |  |  |  | `moon_rock_06_1k.gltf` | `8761f36dc8a800d326dcabb826a15b39d07aa8f3663ef4b591c79f8d2016e320` |
+|  |  |  |  | `textures/moon_rock_06_arm_1k.jpg` | `1955fd2613d0e2d0a7edffa6f5ce1d25eec8394f7ed484a3daaa46d3a29dc6f3` |
+|  |  |  |  | `textures/moon_rock_06_diff_1k.jpg` | `2b70037d05ee05df98893d60adf4e63795a5e5922b4562ff03c3fb659e3b9498` |
+|  |  |  |  | `textures/moon_rock_06_nor_gl_1k.jpg` | `bc5c052a09b6a79a897a5d0021fe478be19170c76802aa0b315d3dbba8a10f73` |
+| `moon_rock_07` | Moon Rock 07 | Greg Zaal, Rico Cilliers and Jenelle van Heerden | [page](https://polyhaven.com/a/moon_rock_07) | `moon_rock_07.bin` | `86d82068bc2d7f65cf653e9e591cd14b40e3ef893924dba46a8c9747269f1e14` |
+|  |  |  |  | `moon_rock_07_1k.gltf` | `5aec6881f1c76cfd57a9c58c356bf2bf69c5acb80705246fc5df63dde9fc906e` |
+|  |  |  |  | `textures/moon_rock_07_arm_1k.jpg` | `b3e39d8b88a181960c6b950c9f7642addbec3793aeda319e577d5154d9ec4be3` |
+|  |  |  |  | `textures/moon_rock_07_diff_1k.jpg` | `ea0228898a9ee7cbca4392aa385d5998f6769adcc70b3d778ccde4b944029617` |
+|  |  |  |  | `textures/moon_rock_07_nor_gl_1k.jpg` | `c5c40bd39c605ac2128bfa17d869868c73dad9af830fcda5be0f84ea83cebea6` |
+
+The seven moon rocks (scans of Apollo samples, CC0) were added on 21 November 2026 for space, the same way.

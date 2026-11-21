@@ -4968,7 +4968,7 @@
       "class": "Biped",
       "name": "Fionn mac Cumhaill",
       "joints": "J1",
-      "line": "storybook/Biped/fionn-mac-cumhaill: Fionn mac Cumhaill, Fionn mac Cumhaill, the Irish and Scottish giant, bearded, in furs [storybook, legend, myth] 4.99 m, joints J1",
+      "line": "storybook/Biped/fionn-mac-cumhaill: Fionn mac Cumhaill, Fionn mac Cumhaill, the Irish and Scottish giant, bearded, in furs [storybook, legend, myth] 5 m, joints J1",
       "short": "storybook/Biped/fionn-mac-cumhaill: Fionn mac Cumhaill (J1)",
       "words": [
         "fionn",
@@ -6234,7 +6234,7 @@
       "class": "Quadruped",
       "name": "Giraffe",
       "joints": "J42",
-      "line": "styloo/Quadruped/giraffe: Giraffe, a tall giraffe with orange-brown patches and a long neck [animals, savanna] 4.99 m, joints J42",
+      "line": "styloo/Quadruped/giraffe: Giraffe, a tall giraffe with orange-brown patches and a long neck [animals, savanna] 5 m, joints J42",
       "short": "styloo/Quadruped/giraffe: Giraffe (J42)",
       "words": [
         "giraffe",
@@ -6763,6 +6763,152 @@
       ]
     },
     {
+      "id": "nasa/Prop/gemini-spacesuit",
+      "section": "props",
+      "class": "Prop",
+      "name": "Gemini spacesuit",
+      "joints": "none",
+      "line": "nasa/Prop/gemini-spacesuit: Gemini spacesuit, an empty dark 1960s Gemini spacesuit with a white helmet [space, history] 1.8 m, no joints",
+      "short": "nasa/Prop/gemini-spacesuit: Gemini spacesuit (no joints)",
+      "words": [
+        "gemini",
+        "spacesuit",
+        "empty",
+        "dark",
+        "1960s",
+        "white",
+        "helmet",
+        "space",
+        "history",
+        "prop"
+      ]
+    },
+    {
+      "id": "nasa/Prop/mark-iii-spacesuit",
+      "section": "props",
+      "class": "Prop",
+      "name": "Mark III spacesuit",
+      "joints": "none",
+      "line": "nasa/Prop/mark-iii-spacesuit: Mark III spacesuit, an empty bulky white test spacesuit with a dark visor [space] 1.9 m, no joints",
+      "short": "nasa/Prop/mark-iii-spacesuit: Mark III spacesuit (no joints)",
+      "words": [
+        "mark",
+        "iii",
+        "spacesuit",
+        "empty",
+        "bulky",
+        "white",
+        "test",
+        "dark",
+        "visor",
+        "space",
+        "prop"
+      ]
+    },
+    {
+      "id": "nasa/Prop/mercury-spacesuit",
+      "section": "props",
+      "class": "Prop",
+      "name": "Mercury spacesuit",
+      "joints": "none",
+      "line": "nasa/Prop/mercury-spacesuit: Mercury spacesuit, an empty white 1960s Mercury spacesuit with blue straps [space, history] 1.8 m, no joints",
+      "short": "nasa/Prop/mercury-spacesuit: Mercury spacesuit (no joints)",
+      "words": [
+        "mercury",
+        "spacesuit",
+        "empty",
+        "white",
+        "1960s",
+        "blue",
+        "straps",
+        "space",
+        "history",
+        "prop"
+      ]
+    },
+    {
+      "id": "nasa/Prop/robonaut-2",
+      "section": "props",
+      "class": "Prop",
+      "name": "Robonaut 2",
+      "joints": "none",
+      "line": "nasa/Prop/robonaut-2: Robonaut 2, Robonaut 2, a white space robot with a head, two arms and long climbing legs [space, robots] 2.4 m, no joints",
+      "short": "nasa/Prop/robonaut-2: Robonaut 2 (no joints)",
+      "words": [
+        "robonaut",
+        "2",
+        "white",
+        "space",
+        "robot",
+        "head",
+        "two",
+        "arms",
+        "long",
+        "climbing",
+        "legs",
+        "robots",
+        "prop"
+      ]
+    },
+    {
+      "id": "nasa/Prop/space-helmet",
+      "section": "props",
+      "class": "Prop",
+      "name": "Space helmet",
+      "joints": "none",
+      "line": "nasa/Prop/space-helmet: Space helmet, a white astronaut's helmet with a clear visor [space] 0.4 m, no joints",
+      "short": "nasa/Prop/space-helmet: Space helmet (no joints)",
+      "words": [
+        "space",
+        "helmet",
+        "white",
+        "astronaut",
+        "clear",
+        "visor",
+        "prop"
+      ]
+    },
+    {
+      "id": "nasa/Prop/spacewalk-suit",
+      "section": "props",
+      "class": "Prop",
+      "name": "Spacewalk suit",
+      "joints": "none",
+      "line": "nasa/Prop/spacewalk-suit: Spacewalk suit, an empty white spacewalk suit with a big backpack [space] 1.9 m, no joints",
+      "short": "nasa/Prop/spacewalk-suit: Spacewalk suit (no joints)",
+      "words": [
+        "spacewalk",
+        "suit",
+        "empty",
+        "white",
+        "big",
+        "backpack",
+        "space",
+        "prop"
+      ]
+    },
+    {
+      "id": "nasa/Prop/z2-spacesuit",
+      "section": "props",
+      "class": "Prop",
+      "name": "Z2 spacesuit",
+      "joints": "none",
+      "line": "nasa/Prop/z2-spacesuit: Z2 spacesuit, an empty white and grey prototype spacesuit with a dark visor [space] 1.9 m, no joints",
+      "short": "nasa/Prop/z2-spacesuit: Z2 spacesuit (no joints)",
+      "words": [
+        "z2",
+        "spacesuit",
+        "empty",
+        "white",
+        "grey",
+        "prototype",
+        "dark",
+        "visor",
+        "space",
+        "prop"
+      ]
+    },
+    {
       "id": "polyhaven/Prop/anthurium",
       "section": "props",
       "class": "Prop",
@@ -6998,6 +7144,146 @@
       ]
     },
     {
+      "id": "polyhaven/Prop/moon-rock-1",
+      "section": "props",
+      "class": "Prop",
+      "name": "Moon rock 1",
+      "joints": "none",
+      "line": "polyhaven/Prop/moon-rock-1: Moon rock 1, a small grey rock brought back from the Moon [space, moon] 0.08 m, no joints",
+      "short": "polyhaven/Prop/moon-rock-1: Moon rock 1 (no joints)",
+      "words": [
+        "moon",
+        "rock",
+        "1",
+        "small",
+        "grey",
+        "brought",
+        "back",
+        "space",
+        "prop"
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-2",
+      "section": "props",
+      "class": "Prop",
+      "name": "Moon rock 2",
+      "joints": "none",
+      "line": "polyhaven/Prop/moon-rock-2: Moon rock 2, a small grey rock brought back from the Moon [space, moon] 0.2 m, no joints",
+      "short": "polyhaven/Prop/moon-rock-2: Moon rock 2 (no joints)",
+      "words": [
+        "moon",
+        "rock",
+        "2",
+        "small",
+        "grey",
+        "brought",
+        "back",
+        "space",
+        "prop"
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-3",
+      "section": "props",
+      "class": "Prop",
+      "name": "Moon rock 3",
+      "joints": "none",
+      "line": "polyhaven/Prop/moon-rock-3: Moon rock 3, a small grey rock brought back from the Moon [space, moon] 0.06 m, no joints",
+      "short": "polyhaven/Prop/moon-rock-3: Moon rock 3 (no joints)",
+      "words": [
+        "moon",
+        "rock",
+        "3",
+        "small",
+        "grey",
+        "brought",
+        "back",
+        "space",
+        "prop"
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-4",
+      "section": "props",
+      "class": "Prop",
+      "name": "Moon rock 4",
+      "joints": "none",
+      "line": "polyhaven/Prop/moon-rock-4: Moon rock 4, a small grey rock brought back from the Moon [space, moon] 0.05 m, no joints",
+      "short": "polyhaven/Prop/moon-rock-4: Moon rock 4 (no joints)",
+      "words": [
+        "moon",
+        "rock",
+        "4",
+        "small",
+        "grey",
+        "brought",
+        "back",
+        "space",
+        "prop"
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-5",
+      "section": "props",
+      "class": "Prop",
+      "name": "Moon rock 5",
+      "joints": "none",
+      "line": "polyhaven/Prop/moon-rock-5: Moon rock 5, a small grey rock brought back from the Moon [space, moon] 0.07 m, no joints",
+      "short": "polyhaven/Prop/moon-rock-5: Moon rock 5 (no joints)",
+      "words": [
+        "moon",
+        "rock",
+        "5",
+        "small",
+        "grey",
+        "brought",
+        "back",
+        "space",
+        "prop"
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-6",
+      "section": "props",
+      "class": "Prop",
+      "name": "Moon rock 6",
+      "joints": "none",
+      "line": "polyhaven/Prop/moon-rock-6: Moon rock 6, a small grey rock brought back from the Moon [space, moon] 0.05 m, no joints",
+      "short": "polyhaven/Prop/moon-rock-6: Moon rock 6 (no joints)",
+      "words": [
+        "moon",
+        "rock",
+        "6",
+        "small",
+        "grey",
+        "brought",
+        "back",
+        "space",
+        "prop"
+      ]
+    },
+    {
+      "id": "polyhaven/Prop/moon-rock-7",
+      "section": "props",
+      "class": "Prop",
+      "name": "Moon rock 7",
+      "joints": "none",
+      "line": "polyhaven/Prop/moon-rock-7: Moon rock 7, a small grey rock brought back from the Moon [space, moon] 0.06 m, no joints",
+      "short": "polyhaven/Prop/moon-rock-7: Moon rock 7 (no joints)",
+      "words": [
+        "moon",
+        "rock",
+        "7",
+        "small",
+        "grey",
+        "brought",
+        "back",
+        "space",
+        "prop"
+      ]
+    },
+    {
       "id": "polyhaven/Prop/nettle",
       "section": "props",
       "class": "Prop",
@@ -7206,7 +7492,7 @@
       "class": "Prop",
       "name": "Rat",
       "joints": "none",
-      "line": "polyhaven/Prop/rat: Rat, a dark brown rat with a long thin tail [animals, town] 0.09 m, no joints",
+      "line": "polyhaven/Prop/rat: Rat, a dark brown rat with a long thin tail [animals, town] 0.08 m, no joints",
       "short": "polyhaven/Prop/rat: Rat (no joints)",
       "words": [
         "rat",
@@ -7351,7 +7637,7 @@
       "class": "Prop",
       "name": "Bed",
       "joints": "none",
-      "line": "polypizza/Prop/bed: Bed, a single bed with a wooden frame, a red cover and a white pillow [home] 0.61 m, no joints",
+      "line": "polypizza/Prop/bed: Bed, a single bed with a wooden frame, a red cover and a white pillow [home] 0.6 m, no joints",
       "short": "polypizza/Prop/bed: Bed (no joints)",
       "words": [
         "bed",
@@ -7531,7 +7817,7 @@
       "class": "Prop",
       "name": "Desk",
       "joints": "none",
-      "line": "polypizza/Prop/desk: Desk, a light wooden desk with drawers [home, school, office] 0.77 m, no joints",
+      "line": "polypizza/Prop/desk: Desk, a light wooden desk with drawers [home, school, office] 0.76 m, no joints",
       "short": "polypizza/Prop/desk: Desk (no joints)",
       "words": [
         "desk",
@@ -8125,12 +8411,36 @@
       ]
     },
     {
+      "id": "nasa/Transport/ingenuity-helicopter",
+      "section": "props",
+      "class": "Transport",
+      "name": "Ingenuity Mars helicopter",
+      "joints": "none",
+      "line": "nasa/Transport/ingenuity-helicopter: Ingenuity Mars helicopter, Ingenuity, the small Mars helicopter with two long rotor blades and four thin legs [space, mars] 0.49 m, no joints",
+      "short": "nasa/Transport/ingenuity-helicopter: Ingenuity Mars helicopter (no joints)",
+      "words": [
+        "ingenuity",
+        "mars",
+        "helicopter",
+        "small",
+        "two",
+        "long",
+        "rotor",
+        "blades",
+        "four",
+        "thin",
+        "legs",
+        "space",
+        "transport"
+      ]
+    },
+    {
       "id": "polypizza/Transport/aeroplane",
       "section": "props",
       "class": "Transport",
       "name": "Aeroplane",
       "joints": "none",
-      "line": "polypizza/Transport/aeroplane: Aeroplane, a white passenger aeroplane [transport] 11.83 m, no joints",
+      "line": "polypizza/Transport/aeroplane: Aeroplane, a white passenger aeroplane [transport] 12 m, no joints",
       "short": "polypizza/Transport/aeroplane: Aeroplane (no joints)",
       "words": [
         "aeroplane",
@@ -8192,7 +8502,7 @@
       "class": "Transport",
       "name": "Rocket",
       "joints": "none",
-      "line": "polypizza/Transport/rocket: Rocket, a white rocket with red fins and a round window [space] 11.95 m, no joints",
+      "line": "polypizza/Transport/rocket: Rocket, a white rocket with red fins and a round window [space] 12 m, no joints",
       "short": "polypizza/Transport/rocket: Rocket (no joints)",
       "words": [
         "rocket",
@@ -8579,6 +8889,32 @@
       ]
     },
     {
+      "id": "nasa/Prop/vehicle-assembly-building",
+      "section": "set",
+      "class": "Prop",
+      "name": "Vehicle Assembly Building",
+      "joints": "none",
+      "line": "nasa/Prop/vehicle-assembly-building: Vehicle Assembly Building, the huge box-shaped building where rockets are put together, a US flag on its side [space] 160 m, no joints",
+      "short": "nasa/Prop/vehicle-assembly-building: Vehicle Assembly Building (no joints)",
+      "words": [
+        "vehicle",
+        "assembly",
+        "building",
+        "huge",
+        "box",
+        "shaped",
+        "where",
+        "rockets",
+        "put",
+        "together",
+        "us",
+        "flag",
+        "side",
+        "space",
+        "prop"
+      ]
+    },
+    {
       "id": "polyhaven/Prop/boulder",
       "section": "set",
       "class": "Prop",
@@ -8887,7 +9223,7 @@
       "class": "Prop",
       "name": "House",
       "joints": "none",
-      "line": "polypizza/Prop/house: House, a small brown house with a chimney [town, home] 6.02 m, no joints",
+      "line": "polypizza/Prop/house: House, a small brown house with a chimney [town, home] 6 m, no joints",
       "short": "polypizza/Prop/house: House (no joints)",
       "words": [
         "house",
@@ -9008,7 +9344,7 @@
       "class": "Prop",
       "name": "Stones",
       "joints": "none",
-      "line": "polypizza/Prop/stones: Stones, a few small grey stones [nature] 0.29 m, no joints",
+      "line": "polypizza/Prop/stones: Stones, a few small grey stones [nature] 0.3 m, no joints",
       "short": "polypizza/Prop/stones: Stones (no joints)",
       "words": [
         "stones",
@@ -9119,7 +9455,7 @@
       "class": "Prop",
       "name": "Wooden fence",
       "joints": "none",
-      "line": "polypizza/Prop/wooden-fence: Wooden fence, a short wooden rail fence [farm, countryside] 1.11 m, no joints",
+      "line": "polypizza/Prop/wooden-fence: Wooden fence, a short wooden rail fence [farm, countryside] 1.1 m, no joints",
       "short": "polypizza/Prop/wooden-fence: Wooden fence (no joints)",
       "words": [
         "wooden",
@@ -9194,6 +9530,376 @@
         "museum",
         "science",
         "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/earth",
+      "section": "set",
+      "class": "Prop",
+      "name": "Earth",
+      "joints": "none",
+      "line": "solar-system/Prop/earth: Earth, Earth from space, blue seas and green and brown land, to hang in the sky above the Moon [space, planets] 8 m, no joints",
+      "short": "solar-system/Prop/earth: Earth (no joints)",
+      "words": [
+        "earth",
+        "space",
+        "blue",
+        "seas",
+        "green",
+        "brown",
+        "land",
+        "hang",
+        "sky",
+        "above",
+        "moon",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/jupiter",
+      "section": "set",
+      "class": "Prop",
+      "name": "Jupiter",
+      "joints": "none",
+      "line": "solar-system/Prop/jupiter: Jupiter, Jupiter, a giant planet with cream and brown stripes, to hang in the sky [space, planets] 10 m, no joints",
+      "short": "solar-system/Prop/jupiter: Jupiter (no joints)",
+      "words": [
+        "jupiter",
+        "giant",
+        "planet",
+        "cream",
+        "brown",
+        "stripes",
+        "hang",
+        "sky",
+        "space",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/mars",
+      "section": "set",
+      "class": "Prop",
+      "name": "Mars",
+      "joints": "none",
+      "line": "solar-system/Prop/mars: Mars, Mars, the red planet, to hang in the sky [space, planets] 4 m, no joints",
+      "short": "solar-system/Prop/mars: Mars (no joints)",
+      "words": [
+        "mars",
+        "red",
+        "planet",
+        "hang",
+        "sky",
+        "space",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/mercury",
+      "section": "set",
+      "class": "Prop",
+      "name": "Mercury",
+      "joints": "none",
+      "line": "solar-system/Prop/mercury: Mercury, Mercury, a small grey cratered planet, to hang in the sky [space, planets] 3 m, no joints",
+      "short": "solar-system/Prop/mercury: Mercury (no joints)",
+      "words": [
+        "mercury",
+        "small",
+        "grey",
+        "cratered",
+        "planet",
+        "hang",
+        "sky",
+        "space",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/moon",
+      "section": "set",
+      "class": "Prop",
+      "name": "Moon",
+      "joints": "none",
+      "line": "solar-system/Prop/moon: Moon, the Moon, grey with dark patches and craters, to hang in the night sky [space, planets] 4 m, no joints",
+      "short": "solar-system/Prop/moon: Moon (no joints)",
+      "words": [
+        "moon",
+        "grey",
+        "dark",
+        "patches",
+        "craters",
+        "hang",
+        "night",
+        "sky",
+        "space",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/neptune",
+      "section": "set",
+      "class": "Prop",
+      "name": "Neptune",
+      "joints": "none",
+      "line": "solar-system/Prop/neptune: Neptune, Neptune, a deep blue planet, to hang in the sky [space, planets] 6 m, no joints",
+      "short": "solar-system/Prop/neptune: Neptune (no joints)",
+      "words": [
+        "neptune",
+        "deep",
+        "blue",
+        "planet",
+        "hang",
+        "sky",
+        "space",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/saturn",
+      "section": "set",
+      "class": "Prop",
+      "name": "Saturn",
+      "joints": "none",
+      "line": "solar-system/Prop/saturn: Saturn, Saturn, a pale gold planet with wide rings, to hang in the sky [space, planets] 10 m, no joints",
+      "short": "solar-system/Prop/saturn: Saturn (no joints)",
+      "words": [
+        "saturn",
+        "pale",
+        "gold",
+        "planet",
+        "wide",
+        "rings",
+        "hang",
+        "sky",
+        "space",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/sun",
+      "section": "set",
+      "class": "Prop",
+      "name": "Sun",
+      "joints": "none",
+      "line": "solar-system/Prop/sun: Sun, the Sun, a glowing orange ball, to hang high in the sky [space, planets] 5 m, no joints",
+      "short": "solar-system/Prop/sun: Sun (no joints)",
+      "words": [
+        "sun",
+        "glowing",
+        "orange",
+        "ball",
+        "hang",
+        "high",
+        "sky",
+        "space",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/uranus",
+      "section": "set",
+      "class": "Prop",
+      "name": "Uranus",
+      "joints": "none",
+      "line": "solar-system/Prop/uranus: Uranus, Uranus, a smooth pale blue-green planet, to hang in the sky [space, planets] 6 m, no joints",
+      "short": "solar-system/Prop/uranus: Uranus (no joints)",
+      "words": [
+        "uranus",
+        "smooth",
+        "pale",
+        "blue",
+        "green",
+        "planet",
+        "hang",
+        "sky",
+        "space",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "solar-system/Prop/venus",
+      "section": "set",
+      "class": "Prop",
+      "name": "Venus",
+      "joints": "none",
+      "line": "solar-system/Prop/venus: Venus, Venus, a pale yellow cloudy planet, to hang in the sky [space, planets] 4 m, no joints",
+      "short": "solar-system/Prop/venus: Venus (no joints)",
+      "words": [
+        "venus",
+        "pale",
+        "yellow",
+        "cloudy",
+        "planet",
+        "hang",
+        "sky",
+        "space",
+        "planets",
+        "prop"
+      ]
+    },
+    {
+      "id": "nasa/Transport/apollo-lunar-module",
+      "section": "set",
+      "class": "Transport",
+      "name": "Apollo lunar module",
+      "joints": "none",
+      "line": "nasa/Transport/apollo-lunar-module: Apollo lunar module, the gold and silver Apollo lunar module that landed astronauts on the Moon [space, moon, history] 7 m, no joints",
+      "short": "nasa/Transport/apollo-lunar-module: Apollo lunar module (no joints)",
+      "words": [
+        "apollo",
+        "lunar",
+        "module",
+        "gold",
+        "silver",
+        "landed",
+        "astronauts",
+        "moon",
+        "space",
+        "history",
+        "transport"
+      ]
+    },
+    {
+      "id": "nasa/Transport/crawler-transporter",
+      "section": "set",
+      "class": "Transport",
+      "name": "Crawler-transporter",
+      "joints": "none",
+      "line": "nasa/Transport/crawler-transporter: Crawler-transporter, the giant tracked crawler that carries rockets to the launch pad [space, transport] 6.1 m, no joints",
+      "short": "nasa/Transport/crawler-transporter: Crawler-transporter (no joints)",
+      "words": [
+        "crawler",
+        "transporter",
+        "giant",
+        "tracked",
+        "carries",
+        "rockets",
+        "launch",
+        "pad",
+        "space",
+        "transport"
+      ]
+    },
+    {
+      "id": "nasa/Transport/jupiter-c-rocket",
+      "section": "set",
+      "class": "Transport",
+      "name": "Jupiter-C rocket",
+      "joints": "none",
+      "line": "nasa/Transport/jupiter-c-rocket: Jupiter-C rocket, the slim white rocket that launched the first American satellite in 1958 [space, history] 21.2 m, no joints",
+      "short": "nasa/Transport/jupiter-c-rocket: Jupiter-C rocket (no joints)",
+      "words": [
+        "jupiter",
+        "rocket",
+        "slim",
+        "white",
+        "launched",
+        "first",
+        "american",
+        "satellite",
+        "1958",
+        "space",
+        "history",
+        "transport"
+      ]
+    },
+    {
+      "id": "nasa/Transport/perseverance-rover",
+      "section": "set",
+      "class": "Transport",
+      "name": "Perseverance rover",
+      "joints": "none",
+      "line": "nasa/Transport/perseverance-rover: Perseverance rover, Perseverance, the six-wheeled Mars rover with a camera mast and a robot arm [space, mars] 2.2 m, no joints",
+      "short": "nasa/Transport/perseverance-rover: Perseverance rover (no joints)",
+      "words": [
+        "perseverance",
+        "rover",
+        "six",
+        "wheeled",
+        "mars",
+        "camera",
+        "mast",
+        "robot",
+        "arm",
+        "space",
+        "transport"
+      ]
+    },
+    {
+      "id": "nasa/Transport/saturn-v",
+      "section": "set",
+      "class": "Transport",
+      "name": "Saturn V rocket",
+      "joints": "none",
+      "line": "nasa/Transport/saturn-v: Saturn V rocket, the giant white Saturn V rocket that launched the Apollo Moon missions [space, moon, history] 110.6 m, no joints",
+      "short": "nasa/Transport/saturn-v: Saturn V rocket (no joints)",
+      "words": [
+        "saturn",
+        "rocket",
+        "giant",
+        "white",
+        "launched",
+        "apollo",
+        "moon",
+        "missions",
+        "space",
+        "history",
+        "transport"
+      ]
+    },
+    {
+      "id": "nasa/Transport/space-shuttle",
+      "section": "set",
+      "class": "Transport",
+      "name": "Space Shuttle",
+      "joints": "none",
+      "line": "nasa/Transport/space-shuttle: Space Shuttle, the white space shuttle orbiter with black tiles underneath and wings like a plane [space, history] 14 m, no joints",
+      "short": "nasa/Transport/space-shuttle: Space Shuttle (no joints)",
+      "words": [
+        "space",
+        "shuttle",
+        "white",
+        "orbiter",
+        "black",
+        "tiles",
+        "underneath",
+        "wings",
+        "like",
+        "plane",
+        "history",
+        "transport"
+      ]
+    },
+    {
+      "id": "nasa/Transport/viking-lander",
+      "section": "set",
+      "class": "Transport",
+      "name": "Viking lander",
+      "joints": "none",
+      "line": "nasa/Transport/viking-lander: Viking lander, the Viking lander that touched down on Mars, on three legs with a dish antenna [space, mars, history] 2.1 m, no joints",
+      "short": "nasa/Transport/viking-lander: Viking lander (no joints)",
+      "words": [
+        "viking",
+        "lander",
+        "touched",
+        "down",
+        "mars",
+        "three",
+        "legs",
+        "dish",
+        "antenna",
+        "space",
+        "history",
+        "transport"
       ]
     },
     {

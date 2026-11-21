@@ -1,0 +1,484 @@
+{
+  "source": "nasa",
+  "items": [
+    {
+      "id": "nasa/Transport/apollo-lunar-module",
+      "displayName": "Apollo lunar module",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "space",
+        "moon",
+        "history"
+      ],
+      "description": "the gold and silver Apollo lunar module that landed astronauts on the Moon",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Apollo lunar module by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/apollo-lunar-module/",
+      "height": 7,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Apollo Lunar Module/Apollo Lunar Module.glb"
+      }
+    },
+    {
+      "id": "nasa/Transport/crawler-transporter",
+      "displayName": "Crawler-transporter",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "space",
+        "transport"
+      ],
+      "description": "the giant tracked crawler that carries rockets to the launch pad",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Crawler-transporter by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/crawler/",
+      "height": 6.1,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Crawler/Crawler.glb"
+      }
+    },
+    {
+      "id": "nasa/Transport/jupiter-c-rocket",
+      "displayName": "Jupiter-C rocket",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "the slim white rocket that launched the first American satellite in 1958",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Jupiter-C rocket by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/explorer-jupiter-c-rocket/",
+      "height": 21.2,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Explorer Jupiter-C Rocket/Explorer Jupiter-C Rocket.glb"
+      }
+    },
+    {
+      "id": "nasa/Prop/spacewalk-suit",
+      "displayName": "Spacewalk suit",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space"
+      ],
+      "description": "an empty white spacewalk suit with a big backpack",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Spacewalk suit by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/extravehicular-mobility-unit/",
+      "height": 1.9,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Extravehicular Mobility Unit/Extravehicular Mobility Unit.glb"
+      }
+    },
+    {
+      "id": "nasa/Prop/gemini-spacesuit",
+      "displayName": "Gemini spacesuit",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "an empty dark 1960s Gemini spacesuit with a white helmet",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Gemini spacesuit by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/gemini-spacesuit/",
+      "height": 1.8,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Gemini Spacesuit/Gemini Spacesuit.glb"
+      }
+    },
+    {
+      "id": "nasa/Prop/space-helmet",
+      "displayName": "Space helmet",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space"
+      ],
+      "description": "a white astronaut's helmet with a clear visor",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Space helmet by NASA/Ames Research Center (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/helmet/",
+      "height": 0.4,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Helmet/Helmet.glb"
+      }
+    },
+    {
+      "id": "nasa/Transport/ingenuity-helicopter",
+      "displayName": "Ingenuity Mars helicopter",
+      "class": "Transport",
+      "section": "props",
+      "themes": [
+        "space",
+        "mars"
+      ],
+      "description": "Ingenuity, the small Mars helicopter with two long rotor blades and four thin legs",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Ingenuity Mars helicopter by NASA/Brian E. Kumanchik (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/ingenuity-mars-helicopter/",
+      "height": 0.49,
+      "cover": [
+        {
+          "texture": "blade",
+          "at": [
+            885,
+            390,
+            139,
+            122
+          ]
+        },
+        {
+          "texture": "blade",
+          "at": [
+            21,
+            164,
+            130,
+            42
+          ],
+          "colour": "#bdbdbd"
+        },
+        {
+          "texture": "chopper_sp_r2",
+          "at": [
+            868,
+            340,
+            156,
+            172
+          ]
+        }
+      ],
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Ingenuity Mars Helicopter/Ingenuity Mars Helicopter.glb"
+      }
+    },
+    {
+      "id": "nasa/Prop/mark-iii-spacesuit",
+      "displayName": "Mark III spacesuit",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space"
+      ],
+      "description": "an empty bulky white test spacesuit with a dark visor",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Mark III spacesuit by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/mark-iii-spacesuit/",
+      "height": 1.9,
+      "cover": [
+        {
+          "texture": "texturelogo",
+          "at": [
+            0,
+            0,
+            700,
+            700
+          ],
+          "colour": "#d2d4e5"
+        }
+      ],
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Mark III Spacesuit/Mark III Spacesuit.glb"
+      }
+    },
+    {
+      "id": "nasa/Transport/perseverance-rover",
+      "displayName": "Perseverance rover",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "space",
+        "mars"
+      ],
+      "description": "Perseverance, the six-wheeled Mars rover with a camera mast and a robot arm",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Perseverance rover by NASA/Jet Propulsion Laboratory (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/mars-2020-perseverance-rover/",
+      "height": 2.2,
+      "cover": [
+        {
+          "texture": "arm_graphics",
+          "at": [
+            106,
+            274,
+            74,
+            66
+          ]
+        },
+        {
+          "texture": "arm_graphics",
+          "at": [
+            186,
+            284,
+            100,
+            58
+          ]
+        },
+        {
+          "texture": "blade",
+          "at": [
+            885,
+            390,
+            139,
+            122
+          ]
+        },
+        {
+          "texture": "blade",
+          "at": [
+            21,
+            164,
+            130,
+            42
+          ],
+          "colour": "#bdbdbd"
+        }
+      ],
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Mars 2020 Perseverance Rover/Mars 2020 Perseverance Rover.glb"
+      }
+    },
+    {
+      "id": "nasa/Prop/mercury-spacesuit",
+      "displayName": "Mercury spacesuit",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "an empty white 1960s Mercury spacesuit with blue straps",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Mercury spacesuit by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/mercury-spacesuit/",
+      "height": 1.8,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Mercury Spacesuit/Mercury Spacesuit.glb"
+      }
+    },
+    {
+      "id": "nasa/Prop/robonaut-2",
+      "displayName": "Robonaut 2",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space",
+        "robots"
+      ],
+      "description": "Robonaut 2, a white space robot with a head, two arms and long climbing legs",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Robonaut 2 by NASA/JSC/Integrated Graphics, Operations, and Analysis Laboratory (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/robonaut-2/",
+      "height": 2.4,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Robonaut 2/Robonaut 2.glb"
+      }
+    },
+    {
+      "id": "nasa/Transport/saturn-v",
+      "displayName": "Saturn V rocket",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "space",
+        "moon",
+        "history"
+      ],
+      "description": "the giant white Saturn V rocket that launched the Apollo Moon missions",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Saturn V rocket by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/saturn-v/",
+      "height": 110.6,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Saturn V/Saturn V.glb"
+      }
+    },
+    {
+      "id": "nasa/Transport/space-shuttle",
+      "displayName": "Space Shuttle",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "space",
+        "history"
+      ],
+      "description": "the white space shuttle orbiter with black tiles underneath and wings like a plane",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Space Shuttle by NASA/Johnson Space Center (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/space-shuttle-d/",
+      "height": 14,
+      "turn": {
+        "x": -90,
+        "y": -90
+      },
+      "cover": [
+        {
+          "texture": "wingtop",
+          "at": [
+            34,
+            135,
+            72,
+            72
+          ]
+        },
+        {
+          "texture": "side-stb",
+          "at": [
+            87,
+            40,
+            20,
+            20
+          ]
+        },
+        {
+          "texture": "side-prt",
+          "at": [
+            89,
+            40,
+            20,
+            20
+          ]
+        }
+      ],
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Space Shuttle (D)/Space Shuttle (D).glb"
+      }
+    },
+    {
+      "id": "nasa/Prop/vehicle-assembly-building",
+      "displayName": "Vehicle Assembly Building",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "space"
+      ],
+      "description": "the huge box-shaped building where rockets are put together, a US flag on its side",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Vehicle Assembly Building by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/vehicle-assembly-building-vab/",
+      "height": 160,
+      "cover": [
+        {
+          "texture": "vabwall6",
+          "at": [
+            1475,
+            1560,
+            185,
+            205
+          ]
+        }
+      ],
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Vehicle Assembly Building (VAB)/Vehicle Assembly Building (VAB).glb"
+      }
+    },
+    {
+      "id": "nasa/Transport/viking-lander",
+      "displayName": "Viking lander",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "space",
+        "mars",
+        "history"
+      ],
+      "description": "the Viking lander that touched down on Mars, on three legs with a dish antenna",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Viking lander by NASA/Michael D. Carbajal (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/viking-lander/",
+      "height": 2.1,
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Viking Lander/Viking Lander.glb"
+      }
+    },
+    {
+      "id": "nasa/Prop/z2-spacesuit",
+      "displayName": "Z2 spacesuit",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "space"
+      ],
+      "description": "an empty white and grey prototype spacesuit with a dark visor",
+      "licence": "public-domain",
+      "publicDomain": "docs/legal/public-domain/nasa.md",
+      "credit": "Z2 spacesuit by NASA/LaRC/Advanced Concepts Lab (public domain)",
+      "page": "https://science.nasa.gov/3d-resources/z2-spacesuit/",
+      "height": 1.9,
+      "cover": [
+        {
+          "texture": "z2_Color_s",
+          "at": [
+            210,
+            3445,
+            140,
+            145
+          ]
+        },
+        {
+          "texture": "z2_spec_color_s",
+          "at": [
+            210,
+            3445,
+            140,
+            145
+          ]
+        }
+      ],
+      "fetch": {
+        "github": "nasa/NASA-3D-Resources",
+        "commit": "11ebb4ee043715aefbba6aeec8a61746fad67fa7",
+        "path": "3D Models/Z2 Spacesuit/Z2 Spacesuit.glb"
+      }
+    }
+  ]
+}

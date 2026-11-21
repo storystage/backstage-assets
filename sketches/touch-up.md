@@ -1,6 +1,6 @@
 # Sketches to touch up
 
-Written by `tools/make-sketches`: 3371 sketches, 0 replaced by hand, 1 to look at.
+Written by `tools/make-sketches`: 3503 sketches, 0 replaced by hand, 8 to look at.
 
 To replace a sketch, draw it in the same style (black lines 3 units wide on a white shape, the model facing left in side and three-quarter views), save it beside this file, and name it in `touch-up.json` under `overrides`. To draw one simplified (its outer edge and only its long, deep inner lines), name it under `simplified`; to keep one as it is, under `kept`.
 
@@ -8,6 +8,13 @@ To replace a sketch, draw it in the same style (black lines 3 units wide on a wh
 
 | Sketch | Why |
 |---|---|
+| `sketches/nasa/Transport/crawler-transporter/front.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/nasa/Transport/crawler-transporter/threeQuarter.svg` | 14 times its outline in lines: too many small lines to read. |
+| `sketches/nasa/Transport/crawler-transporter/back.svg` | 15 times its outline in lines: too many small lines to read. |
+| `sketches/nasa/Transport/perseverance-rover/front.svg` | 19 times its outline in lines: too many small lines to read. |
+| `sketches/nasa/Transport/perseverance-rover/threeQuarter.svg` | 21 times its outline in lines: too many small lines to read. |
+| `sketches/nasa/Transport/perseverance-rover/side.svg` | 17 times its outline in lines: too many small lines to read. |
+| `sketches/nasa/Transport/perseverance-rover/back.svg` | 14 times its outline in lines: too many small lines to read. |
 | `sketches/polyhaven/Prop/money-tree/back.svg` | 14 times its outline in lines: too many small lines to read. |
 
 ## Cast drawn without poses
@@ -86,6 +93,14 @@ None.
 
 ## Drawn simplified
 
+- `sketches/nasa/Prop/space-helmet/front.svg`
+- `sketches/nasa/Prop/space-helmet/threeQuarter.svg`
+- `sketches/nasa/Prop/space-helmet/side.svg`
+- `sketches/nasa/Prop/space-helmet/back.svg`
+- `sketches/nasa/Prop/spacewalk-suit/front.svg`
+- `sketches/nasa/Prop/spacewalk-suit/threeQuarter.svg`
+- `sketches/nasa/Prop/spacewalk-suit/side.svg`
+- `sketches/nasa/Prop/spacewalk-suit/back.svg`
 - `sketches/scottishmaritime/Transport/mv-spartan/front.svg`
 - `sketches/scottishmaritime/Transport/mv-spartan/threeQuarter.svg`
 - `sketches/scottishmaritime/Transport/mv-spartan/side.svg`
