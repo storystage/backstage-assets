@@ -8,8 +8,7 @@
       "section": "props",
       "themes": [
         "plants",
-        "jungle",
-        "nature"
+        "jungle"
       ],
       "description": "a leafy green rainforest plant with long pointed leaves",
       "licence": "CC0-1.0",
@@ -38,10 +37,9 @@
       "section": "props",
       "themes": [
         "plants",
-        "jungle",
-        "nature"
+        "jungle"
       ],
-      "description": "a rainforest plant with big round striped leaves on thin stems",
+      "description": "a rainforest plant with big round striped leaves",
       "licence": "CC0-1.0",
       "credit": "Calathea Orbifolia 01 by Rob Tuytel and Rico Cilliers, Poly Haven (CC0)",
       "page": "https://polyhaven.com/a/calathea_orbifolia_01",
@@ -67,9 +65,7 @@
       "section": "props",
       "themes": [
         "plants",
-        "woodland",
-        "jungle",
-        "nature"
+        "woodland"
       ],
       "description": "a low green fern with feathery fronds",
       "licence": "CC0-1.0",
@@ -96,8 +92,7 @@
       "section": "props",
       "themes": [
         "plants",
-        "garden",
-        "nature"
+        "garden"
       ],
       "description": "a yellow dandelion flower on a stalk above toothed leaves",
       "licence": "CC0-1.0",
@@ -125,8 +120,7 @@
       "section": "props",
       "themes": [
         "plants",
-        "garden",
-        "nature"
+        "garden"
       ],
       "description": "a low plant with orange daisy-like flowers and long leaves",
       "licence": "CC0-1.0",
@@ -157,9 +151,7 @@
       "section": "props",
       "themes": [
         "plants",
-        "woodland",
-        "garden",
-        "nature"
+        "woodland"
       ],
       "description": "a stinging nettle with pairs of jagged leaves up its stem",
       "licence": "CC0-1.0",
@@ -188,8 +180,7 @@
       "section": "props",
       "themes": [
         "plants",
-        "garden",
-        "nature"
+        "garden"
       ],
       "description": "a leafy plant with small pink flowers",
       "licence": "CC0-1.0",
@@ -218,8 +209,7 @@
       "section": "props",
       "themes": [
         "plants",
-        "home",
-        "office"
+        "home"
       ],
       "description": "a leafy green plant in a terracotta pot with pebbles",
       "licence": "CC0-1.0",
@@ -239,10 +229,9 @@
       "section": "props",
       "themes": [
         "plants",
-        "home",
-        "office"
+        "home"
       ],
-      "description": "a plant with big arrow-shaped leaves in a round terracotta pot",
+      "description": "a plant with big arrow-shaped leaves in a terracotta pot",
       "licence": "CC0-1.0",
       "credit": "Potted Plant 02 by Rico Cilliers, Poly Haven (CC0)",
       "page": "https://polyhaven.com/a/potted_plant_02",
@@ -260,8 +249,7 @@
       "section": "props",
       "themes": [
         "plants",
-        "home",
-        "desert"
+        "home"
       ],
       "description": "a spiky green succulent in a small white pot with pebbles",
       "licence": "CC0-1.0",
@@ -301,8 +289,7 @@
       "section": "props",
       "themes": [
         "plants",
-        "garden",
-        "school"
+        "garden"
       ],
       "description": "a wooden planter box on legs, filled with soil",
       "licence": "CC0-1.0",
@@ -322,7 +309,6 @@
       "section": "props",
       "themes": [
         "woodland",
-        "forest",
         "nature"
       ],
       "description": "a dry twisted branch lying on the ground",
@@ -349,11 +335,9 @@
       "section": "set",
       "themes": [
         "plants",
-        "jungle",
-        "home",
-        "nature"
+        "home"
       ],
-      "description": "a small tree with a braided trunk and bunches of green leaves",
+      "description": "a small tree with a braided trunk and green leaves",
       "licence": "CC0-1.0",
       "credit": "Pachira Aquatica 01 by Rob Tuytel and Rico Cilliers, Poly Haven (CC0)",
       "page": "https://polyhaven.com/a/pachira_aquatica_01",
@@ -381,10 +365,9 @@
       "section": "set",
       "themes": [
         "desert",
-        "plants",
-        "nature"
+        "plants"
       ],
-      "description": "a tall desert tree with a pale trunk and spiky leaves at the tips of its branches",
+      "description": "a tall desert tree with spiky leaves at its branch tips",
       "licence": "CC0-1.0",
       "credit": "Quiver Tree 01 by James Ray Cock, Dario Barresi and Rico Cilliers, Poly Haven (CC0)",
       "page": "https://polyhaven.com/a/quiver_tree_01",
@@ -402,8 +385,7 @@
       "section": "set",
       "themes": [
         "desert",
-        "plants",
-        "nature"
+        "plants"
       ],
       "description": "a young desert tree with a thick trunk and a spiky crown",
       "licence": "CC0-1.0",
@@ -423,10 +405,9 @@
       "section": "set",
       "themes": [
         "woodland",
-        "forest",
         "nature"
       ],
-      "description": "a mossy old tree stump with its roots spread over the ground",
+      "description": "a mossy old tree stump with spreading roots",
       "licence": "CC0-1.0",
       "credit": "Tree Stump 01 by Rob Tuytel, Poly Haven (CC0)",
       "page": "https://polyhaven.com/a/tree_stump_01",
@@ -444,7 +425,6 @@
       "section": "set",
       "themes": [
         "woodland",
-        "forest",
         "nature"
       ],
       "description": "a long fallen log with rough bark",
@@ -464,7 +444,6 @@
       "class": "Prop",
       "section": "set",
       "themes": [
-        "mountains",
         "nature"
       ],
       "description": "a big rough brown boulder",
@@ -485,7 +464,6 @@
       "section": "set",
       "themes": [
         "desert",
-        "mountains",
         "nature"
       ],
       "description": "a big boulder split into several blocks",
@@ -506,7 +484,6 @@
       "section": "set",
       "themes": [
         "woodland",
-        "forest",
         "nature"
       ],
       "description": "a big rounded rock with green moss on it",
@@ -535,8 +512,7 @@
       "class": "Prop",
       "section": "props",
       "themes": [
-        "nature",
-        "science"
+        "nature"
       ],
       "description": "a small dark red rock",
       "licence": "CC0-1.0",
@@ -555,7 +531,6 @@
       "class": "Prop",
       "section": "props",
       "themes": [
-        "nature",
         "beach",
         "river"
       ],
@@ -576,8 +551,7 @@
       "class": "Prop",
       "section": "props",
       "themes": [
-        "nature",
-        "science"
+        "nature"
       ],
       "description": "a small pinkish stone with white quartz in it",
       "licence": "CC0-1.0",
@@ -597,8 +571,7 @@
       "section": "props",
       "themes": [
         "sea",
-        "beach",
-        "nature"
+        "beach"
       ],
       "description": "a seashell with long spiky fingers along one side",
       "licence": "CC0-1.0",
@@ -638,8 +611,7 @@
       "section": "props",
       "themes": [
         "food",
-        "kitchen",
-        "plants"
+        "kitchen"
       ],
       "description": "a red apple",
       "licence": "CC0-1.0",
@@ -659,8 +631,7 @@
       "section": "props",
       "themes": [
         "food",
-        "kitchen",
-        "plants"
+        "kitchen"
       ],
       "description": "a dark green avocado",
       "licence": "CC0-1.0",
@@ -680,8 +651,7 @@
       "section": "props",
       "themes": [
         "food",
-        "kitchen",
-        "plants"
+        "kitchen"
       ],
       "description": "a round red pomegranate",
       "licence": "CC0-1.0",
@@ -701,8 +671,7 @@
       "section": "props",
       "themes": [
         "food",
-        "kitchen",
-        "plants"
+        "kitchen"
       ],
       "description": "a yellow lemon",
       "licence": "CC0-1.0",
@@ -722,8 +691,7 @@
       "section": "props",
       "themes": [
         "food",
-        "kitchen",
-        "plants"
+        "kitchen"
       ],
       "description": "a bunch of four yellow bananas",
       "licence": "CC0-1.0",
@@ -751,8 +719,7 @@
       "section": "props",
       "themes": [
         "food",
-        "kitchen",
-        "plants"
+        "kitchen"
       ],
       "description": "a reddish sweet potato",
       "licence": "CC0-1.0",
@@ -772,8 +739,7 @@
       "section": "props",
       "themes": [
         "food",
-        "kitchen",
-        "plants"
+        "kitchen"
       ],
       "description": "a round brown onion with dry papery outer layers",
       "licence": "CC0-1.0",
