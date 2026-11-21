@@ -4,7 +4,15 @@
     "sketches/scottishmaritime/Transport/mv-spartan/threeQuarter.svg",
     "sketches/scottishmaritime/Transport/mv-spartan/side.svg",
     "sketches/scottishmaritime/Transport/mv-spartan/back.svg",
-    "sketches/smithsonian/Prop/triceratops/back.svg"
+    "sketches/smithsonian/Prop/triceratops/back.svg",
+    "sketches/nasa/Prop/space-helmet/front.svg",
+    "sketches/nasa/Prop/space-helmet/threeQuarter.svg",
+    "sketches/nasa/Prop/space-helmet/side.svg",
+    "sketches/nasa/Prop/space-helmet/back.svg",
+    "sketches/nasa/Prop/spacewalk-suit/front.svg",
+    "sketches/nasa/Prop/spacewalk-suit/threeQuarter.svg",
+    "sketches/nasa/Prop/spacewalk-suit/side.svg",
+    "sketches/nasa/Prop/spacewalk-suit/back.svg"
   ],
   "kept": [
     "sketches/polypizza/Prop/books/side.svg",
