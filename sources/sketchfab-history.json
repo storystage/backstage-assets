@@ -1,0 +1,1057 @@
+{
+  "source": "sketchfab-history",
+  "items": [
+    {
+      "id": "sketchfab-history/Prop/acheulean-hand-axe",
+      "displayName": "Stone Age hand axe",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "stone age"
+      ],
+      "description": "a flint hand axe chipped to a point, about 400,000 years old",
+      "licence": "CC0-1.0",
+      "credit": "Acheulean Hand Axe (518a2) by RLA Archaeology (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/acheulean-hand-axe-518a2-06309df47b73468a8cd2500b236e80ee",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/acheulean-hand-axe.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/neolithic-axehead",
+      "displayName": "Polished stone axehead",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "stone age"
+      ],
+      "description": "a smooth grey stone axehead from the New Stone Age",
+      "licence": "CC0-1.0",
+      "credit": "Neolithic Ground Axehead by The Hunt Museum (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/neolithic-ground-axehead-f334149852e44a20adfbbd30de12a75b",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/neolithic-axehead.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/carved-stone-ball",
+      "displayName": "Carved stone ball",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "stone age"
+      ],
+      "description": "a knobbly stone ball carved about 5,000 years ago",
+      "licence": "CC0-1.0",
+      "credit": "Carved stone ball by The Hunt Museum (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/carved-stone-ball-84353442b43643cb8432589080664d56",
+      "height": 0.07,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/carved-stone-ball.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/carnfree-standing-stone",
+      "displayName": "Standing stone",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "stone age"
+      ],
+      "description": "a tall thin standing stone from Carnfree in Ireland",
+      "licence": "CC0-1.0",
+      "credit": "Carnfree - Standing Stone 1 by Roscommon3D DH_AGE (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/carnfree-standing-stone-1-b08644210c4148e3b07333bb9c087cb6",
+      "height": 1.8,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/carnfree-standing-stone.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/daithis-pillar-stone",
+      "displayName": "Daithí's pillar stone",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "stone age"
+      ],
+      "description": "a squat pillar stone standing in a patch of grass",
+      "licence": "CC0-1.0",
+      "credit": "Daithi's Pillar Stone by Roscommon3D DH_AGE (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/daithis-pillar-stone-9480c0cb937647afbf0a5778ac6febc4",
+      "height": 1.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/daithis-pillar-stone.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/stonehenge-low-poly",
+      "displayName": "Stonehenge, simple",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "stone age"
+      ],
+      "description": "a simple model of Stonehenge, its great stones in a ring on grass",
+      "licence": "CC-BY-4.0",
+      "credit": "Stonehenge by ruslans3d, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/stonehenge-37cfc2bb99944703b5d57ea281030ca6",
+      "height": 7,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/stonehenge-low-poly.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/stonehenge",
+      "displayName": "Stonehenge",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "stone age"
+      ],
+      "description": "Stonehenge as it stands today, grey stones in a ring on green grass",
+      "licence": "CC-BY-4.0",
+      "credit": "Stonehenge by Sereib, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/stonehenge-b43f5366560f48498a46812ebcabf3e6",
+      "height": 7.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/stonehenge.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/yetholm-shield",
+      "displayName": "Yetholm shield",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "bronze age"
+      ],
+      "description": "a round bronze shield with rings of tiny bumps, from the Late Bronze Age",
+      "licence": "CC0-1.0",
+      "credit": "Late Bronze Age, Yetholm Shield by The Hunt Museum (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/late-bronze-age-yetholm-shield-4de8add67c144fc996d88a2d61a0f74d",
+      "height": 0.6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/yetholm-shield.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/bronze-sword",
+      "displayName": "Bronze sword",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "bronze age"
+      ],
+      "description": "a long golden bronze sword lying flat",
+      "licence": "CC-BY-4.0",
+      "credit": "Bronze  Sword by Ryoce, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/bronze-sword-4d52d68ee8e94a8aa08e4b7625690f89",
+      "height": 0.01,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/bronze-sword.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/antenna-sword",
+      "displayName": "Antenna sword",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "bronze age"
+      ],
+      "description": "a bronze sword with two curled horns on its handle, lying flat",
+      "licence": "CC-BY-4.0",
+      "credit": "Antenne Bronze Sword by Ryoce, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/antenne-bronze-sword-691a0aab8daa4304aeb564ab472ffcba",
+      "height": 0.02,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/antenna-sword.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/iron-age-roundhouse",
+      "displayName": "Iron Age roundhouse",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "iron age"
+      ],
+      "description": "a round house with a tall thatched cone roof and a low doorway",
+      "licence": "CC-BY-4.0",
+      "credit": "Iron Age Roundhouse Reconstruction - April 2024 by Thomas Flynn, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/iron-age-roundhouse-reconstruction-april-2024-0608ab8dcf3d4a9183c01e87eb1c4bcf",
+      "height": 6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/iron-age-roundhouse.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roundhouse-simple",
+      "displayName": "Roundhouse, simple",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "iron age"
+      ],
+      "description": "a simple round house with a thatched roof on a patch of grass",
+      "licence": "CC-BY-4.0",
+      "credit": "Iron Age Roundhouse by moforabbit, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/iron-age-roundhouse-36a702f382c3474280c0f4b10a7d5ffa",
+      "height": 6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roundhouse-simple.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/iron-age-stone-lamp",
+      "displayName": "Iron Age stone lamp",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "iron age"
+      ],
+      "description": "a dark stone bowl that held oil for a lamp",
+      "licence": "CC0-1.0",
+      "credit": "Iron Age stone lamp by The Hunt Museum (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/iron-age-stone-lamp-934bd78c490140198db542aee7f765fa",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/iron-age-stone-lamp.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/iron-age-pot",
+      "displayName": "Iron Age pot",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "iron age"
+      ],
+      "description": "a brown clay pot with straight sides and a pattern round its rim",
+      "licence": "CC0-1.0",
+      "credit": "Pottery from the iron-age. by Arkeologisk Museum - University of Stavanger (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/pottery-from-the-iron-age-b6cf71de462540d4a96aeb4466ea237c",
+      "height": 0.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/iron-age-pot.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Transport/log-boat",
+      "displayName": "Log boat",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "history",
+        "boats"
+      ],
+      "description": "a long narrow boat hollowed out of a single tree trunk",
+      "licence": "CC0-1.0",
+      "credit": "Lee Island Log Boat 5  Replica by Galway3D_DH_AGe (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/lee-island-log-boat-5-replica-a4e28e9985954d96943279dcdefd43f6",
+      "height": 0.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/log-boat.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roman-legionary-helmet",
+      "displayName": "Roman legionary helmet",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a Roman soldier's green bronze helmet with a neck guard, as found",
+      "licence": "CC0-1.0",
+      "credit": "046 Legionärshelm / Roman legionnary helmet by LWL-Archaeologie (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/046-legionarshelm-roman-legionnary-helmet-58b2ee67fbda4764a2c975ded8e46b96",
+      "height": 0.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roman-legionary-helmet.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roman-crested-helmet",
+      "displayName": "Roman helmet with crest",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a shiny Roman helmet with cheek guards and a red crest",
+      "licence": "CC-BY-4.0",
+      "credit": "Roman Helmet by VascoAmorimdeLemos, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/roman-helmet-fe4dc3a4c6a141b795c97e2e94b336a3",
+      "height": 0.4,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roman-crested-helmet.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roman-oil-lamp",
+      "displayName": "Roman oil lamp",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a small round clay oil lamp with a hole for its wick",
+      "licence": "CC0-1.0",
+      "credit": "Oil lamp, frog type by Virtual Museums of Małopolska (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/oil-lamp-frog-type-01d3ecb08e26464f8f7f8ea940cfa2d8",
+      "height": 0.045,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roman-oil-lamp.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roman-dupondius",
+      "displayName": "Roman coin, dupondius",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a worn bronze Roman coin standing on its edge",
+      "licence": "CC0-1.0",
+      "credit": "Dupondius d'Octave à la tête de bélier by Musée Saint-Raymond (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/dupondius-doctave-a-la-tete-de-belier-48e52062e37d4a6194a36f76f6eb959f",
+      "height": 0.028,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roman-dupondius.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roman-gold-coin",
+      "displayName": "Roman gold coin",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a gold Roman coin with an emperor's head and a loop for a necklace",
+      "licence": "CC0-1.0",
+      "credit": "Aureus of Emperor Tacitus by Virtual Museums of Małopolska (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/aureus-of-emperor-tacitus-47941bca17b144fd86924d9a3b4df4ab",
+      "height": 0.025,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roman-gold-coin.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roman-coins",
+      "displayName": "Pile of Roman coins",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "romans",
+        "treasure"
+      ],
+      "description": "a scattered pile of gold Roman coins",
+      "licence": "CC-BY-4.0",
+      "credit": "Roman Coins by denis_cliofas, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/roman-coins-ea59329cf7204686b0b4a6badd70754d",
+      "height": 0.03,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roman-coins.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/simpelveld-sarcophagus",
+      "displayName": "Simpelveld sarcophagus",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a Roman stone coffin from the Netherlands, carved like a house inside",
+      "licence": "CC0-1.0",
+      "credit": "Sarcofaag van Simpelveld by The National Museum of Antiquities (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/sarcofaag-van-simpelveld-11dee304d70749098879ceb7ddda035d",
+      "height": 0.85,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/simpelveld-sarcophagus.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roman-temple-white",
+      "displayName": "Roman temple, white",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a white Roman temple with columns and steps up to its door",
+      "licence": "CC-BY-4.0",
+      "credit": "Roman Temple by Robin Butler, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/roman-temple-f5efe108fb19419ab985ef69d1762839",
+      "height": 12,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roman-temple-white.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roman-temple",
+      "displayName": "Roman temple",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a Roman temple with a red tiled roof, a porch of columns and wide steps",
+      "licence": "CC-BY-4.0",
+      "credit": "Roman temple by Heliona, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/roman-temple-ca685185481e45cc9317da6e70a8f509",
+      "height": 12,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roman-temple.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/roman-column",
+      "displayName": "Roman column",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a white stone column with a curled capital on a square base",
+      "licence": "CC-BY-4.0",
+      "credit": "3D model of a roman column by bplusr, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/3d-model-of-a-roman-column-4157855bd1a4441bbf3fe87c6e6fe72a",
+      "height": 6,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/roman-column.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/bust-of-tranquillina",
+      "displayName": "Bust of Tranquillina",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a marble bust of a Roman empress on a grey stand",
+      "licence": "CC0-1.0",
+      "credit": "Buste de Tranquillina by Musée Saint-Raymond (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/buste-de-tranquillina-99885917df7f4008ad8a7eedbf52041d",
+      "height": 1.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/bust-of-tranquillina.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/head-of-maximian",
+      "displayName": "Head of Maximian",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "romans"
+      ],
+      "description": "a marble head of a bearded Roman emperor on a grey stand",
+      "licence": "CC0-1.0",
+      "credit": "Tête de Maximien Hercule by Musée Saint-Raymond (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/tete-de-maximien-hercule-fcc8b76187144603925295d06e41744e",
+      "height": 1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/head-of-maximian.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/amphora",
+      "displayName": "Amphora",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "romans",
+        "egyptians"
+      ],
+      "description": "a tall pointed clay jar with two handles, for carrying wine or oil",
+      "licence": "CC-BY-4.0",
+      "credit": "Amphora - Egyptian duty roster by Allard Pierson, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/amphora-egyptian-duty-roster-e94fee9aedfc41fdbafa79f471fffbaa",
+      "height": 0.7,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/amphora.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/canopic-jar-human-head",
+      "displayName": "Canopic jar",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "an Egyptian clay jar for a mummy, its lid a human head",
+      "licence": "CC0-1.0",
+      "credit": "Canopic jar with a lid by Virtual Museums of Małopolska (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/canopic-jar-with-a-lid-f2a6085788d04fcda96fb8cc87fcf214",
+      "height": 0.35,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/canopic-jar-human-head.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/canopic-jar-falcon",
+      "displayName": "Canopic jar with falcon",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a stone Egyptian jar for a mummy, its lid a falcon head",
+      "licence": "CC0-1.0",
+      "credit": "1921.1018 Canopic Jar with Falcon's Head by Cleveland Museum of Art (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/19211018-canopic-jar-with-falcons-head-e1e86d7848ce42089343b700c3b9c5ae",
+      "height": 0.4,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/canopic-jar-falcon.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/shabti-of-ramose",
+      "displayName": "Shabti of Ramose",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a small painted Egyptian figure, wrapped like a mummy, made to work in the afterlife",
+      "licence": "CC-BY-4.0",
+      "credit": "Shabti of Ramose by Fitzwilliam Museum, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/shabti-of-ramose-37128a12fc4d4c5e842a872f4085664d",
+      "height": 0.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/shabti-of-ramose.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/eye-of-horus",
+      "displayName": "Eye of Horus",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a blue Egyptian charm in the shape of an eye, worn for protection",
+      "licence": "CC0-1.0",
+      "credit": "Udjat Eye of Ra, 1297-1185 BCE by Minneapolis Institute of Art (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/udjat-eye-of-ra-1297-1185-bce-7300d219ed944585ace4b2509bef4f6e",
+      "height": 0.05,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/eye-of-horus.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/horus-falcon",
+      "displayName": "Horus falcon",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a small pale stone falcon, the Egyptian god Horus, on a black base",
+      "licence": "CC0-1.0",
+      "credit": "Horus, c. 2000-1570 BCE by Minneapolis Institute of Art (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/horus-c-2000-1570-bce-839a29d2f176467991d6f5f2ccb6a410",
+      "height": 0.1,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/horus-falcon.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/scarab",
+      "displayName": "Scarab",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a dark stone beetle, an Egyptian charm for new life",
+      "licence": "CC-BY-4.0",
+      "credit": "Egyptian scarab beetle by Kudo, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/egyptian-scarab-beetle-b4cd7baabeea42e192c54eb02ca72c1a",
+      "height": 0.08,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/scarab.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/egyptian-coffin-red",
+      "displayName": "Egyptian coffin, red",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a painted Egyptian mummy coffin standing upright, red with a gold face",
+      "licence": "CC-BY-4.0",
+      "credit": "Egyptian Sarcophagus by charlie_xmas, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/egyptian-sarcophagus-ddb27f0f19064317bf4ad900fb4853d7",
+      "height": 1.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/egyptian-coffin-red.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/egyptian-coffin-gold",
+      "displayName": "Egyptian coffin, gold",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a painted Egyptian mummy coffin standing upright, blue and gold with a striped headdress",
+      "licence": "CC-BY-4.0",
+      "credit": "Ancient Egyptian Sarcophagus by ItsKrish7, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/ancient-egyptian-sarcophagus-a74641c51e7b4280ba6df8da6bf4e81f",
+      "height": 1.9,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/egyptian-coffin-gold.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/pyramidion",
+      "displayName": "Pyramidion",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a small carved stone pyramid that topped an Egyptian tomb",
+      "licence": "CC0-1.0",
+      "credit": "Pyramidion van Ptahemwia by The National Museum of Antiquities (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/pyramidion-van-ptahemwia-f92ca6a968634540aab7960012b6b059",
+      "height": 0.45,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/pyramidion.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/thoth-baboon",
+      "displayName": "Thoth as a baboon",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a pale stone baboon sitting, the Egyptian god Thoth",
+      "licence": "CC0-1.0",
+      "credit": "Limestone Statue of god Thoth as a Baboon by The Hunt Museum (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/limestone-statue-of-god-thoth-as-a-baboon-ea511ed3b3b343da892b64656d0d5c21",
+      "height": 0.35,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/thoth-baboon.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/bronze-horus",
+      "displayName": "Bronze Horus",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a green bronze falcon, the Egyptian god Horus, on a wooden base",
+      "licence": "CC0-1.0",
+      "credit": "Bronze Statue of the god Horus by The Hunt Museum (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/bronze-statue-of-the-god-horus-84542ab14ce84929b44266f1c98fae07",
+      "height": 0.25,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/bronze-horus.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/statue-of-minnefer",
+      "displayName": "Statue of Minnefer",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a pale stone statue of an Egyptian man striding forward",
+      "licence": "CC0-1.0",
+      "credit": "1948.420 Striding Statue of Minnefer by Cleveland Museum of Art (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/1948420-striding-statue-of-minnefer-5697bb6a10c04f9c9eda558a3d125527",
+      "height": 0.55,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/statue-of-minnefer.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Transport/viking-longship",
+      "displayName": "Viking longship",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "history",
+        "vikings",
+        "boats"
+      ],
+      "description": "a Viking longship with a dragon prow, a patterned sail, shields and oars",
+      "licence": "CC-BY-4.0",
+      "credit": "Viking longship by massive-graphisme, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/viking-longship-3d649f8373514860b69ff6f874c0efb5",
+      "height": 12,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/viking-longship.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Transport/viking-longship-striped",
+      "displayName": "Viking longship, striped sail",
+      "class": "Transport",
+      "section": "set",
+      "themes": [
+        "history",
+        "vikings",
+        "boats"
+      ],
+      "description": "a simple Viking longship with a red and gold striped sail",
+      "licence": "CC-BY-4.0",
+      "credit": "Viking Longship by Mr. The Rich, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/viking-longship-676471ccc38e4ed3beebe029551076ed",
+      "height": 12,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/viking-longship-striped.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/viking-longhouse",
+      "displayName": "Viking longhouse",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "vikings"
+      ],
+      "description": "a long wooden Viking house with a curved roof and carved gable ends",
+      "licence": "CC-BY-4.0",
+      "credit": "Casa Viking (Longhouse) - Textura by Matheus Mota, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/casa-viking-longhouse-textura-202140b20e354e95980e921f598ec9c8",
+      "height": 6.5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/viking-longhouse.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/anglo-saxon-helmet",
+      "displayName": "Anglo-Saxon helmet",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "anglo-saxons"
+      ],
+      "description": "a gold and silver Anglo-Saxon helmet with a crown and a jewel",
+      "licence": "CC-BY-4.0",
+      "credit": "Anglo Saxon Helmet by Mike Rowley, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/anglo-saxon-helmet-28a3386b7a3145b8b9d4528ef3e26079",
+      "height": 0.3,
+      "exclude": {
+        "nodes": [
+          "Plane",
+          "Plane.001",
+          "Lamp"
+        ]
+      },
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/anglo-saxon-helmet.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/anglo-saxon-sword",
+      "displayName": "Anglo-Saxon sword",
+      "class": "Prop",
+      "section": "props",
+      "themes": [
+        "history",
+        "anglo-saxons"
+      ],
+      "description": "a long Anglo-Saxon sword with a gold patterned hilt",
+      "licence": "CC-BY-4.0",
+      "credit": "Anglo Saxon sword - reconstruction by Andy Woodhead, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/anglo-saxon-sword-reconstruction-c4ec57af0f9446e2b5a52df4c3778fd0",
+      "height": 0.35,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/anglo-saxon-sword.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/rune-stone",
+      "displayName": "Rune stone",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "vikings"
+      ],
+      "description": "a tall stone painted with red runes and bright patterns",
+      "licence": "CC-BY-4.0",
+      "credit": "Rune's Stone by chelloveco, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/runes-stone-5a650aec439c4c308343a6a6e50f7f46",
+      "height": 2.2,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/rune-stone.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/great-pyramid",
+      "displayName": "Great Pyramid of Giza",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "the Great Pyramid of Giza, scanned, standing in the desert",
+      "licence": "CC-BY-4.0",
+      "credit": "The Great Pyramid of Giza by ianicolo, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/the-great-pyramid-of-giza-4a251113722f4d969b6cf2ca5f35c502",
+      "height": 139,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/great-pyramid.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/pyramids-of-giza",
+      "displayName": "Pyramids of Giza",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "the three pyramids of Giza in a row, smooth and sandy",
+      "licence": "CC-BY-4.0",
+      "credit": "The Great Pyramid of Giza Egypt by Chenzoss, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/the-great-pyramid-of-giza-egypt-99bb947b9a9f4884ba249aec1be779eb",
+      "height": 139,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/pyramids-of-giza.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/great-sphinx",
+      "displayName": "Great Sphinx",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "the Great Sphinx of Giza, a lion lying down with a pharaoh's head",
+      "licence": "CC-BY-4.0",
+      "credit": "The Great Sphinx of Giza - Egypt by Chenzoss, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/the-great-sphinx-of-giza-egypt-f169dbe7974648babe327179091e0ee3",
+      "height": 20,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/great-sphinx.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/obelisk",
+      "displayName": "Obelisk",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a tall golden Egyptian obelisk with a pointed top",
+      "licence": "CC-BY-4.0",
+      "credit": "Ancient Egyptian Obelisk by moamen.nagi, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/ancient-egyptian-obelisk-979dce865fec4c4183f0cf8982753b7c",
+      "height": 21,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/obelisk.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/temple-of-taffeh",
+      "displayName": "Temple of Taffeh",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "egyptians",
+        "romans"
+      ],
+      "description": "a small stone Egyptian temple from Roman times, scanned in a museum",
+      "licence": "CC0-1.0",
+      "credit": "Tempel van Taffeh by The National Museum of Antiquities (CC0), via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/tempel-van-taffeh-31b1d3dc77b14af8a5bb84d6e24a2271",
+      "height": 5,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/temple-of-taffeh.glb"
+      }
+    },
+    {
+      "id": "sketchfab-history/Prop/egyptian-temple",
+      "displayName": "Egyptian temple",
+      "class": "Prop",
+      "section": "set",
+      "themes": [
+        "history",
+        "egyptians"
+      ],
+      "description": "a pale Egyptian temple with two great gate towers and a courtyard",
+      "licence": "CC-BY-4.0",
+      "credit": "Egyptian Temple by Bruno Macchioni, CC BY 4.0, via Sketchfab",
+      "page": "https://sketchfab.com/3d-models/egyptian-temple-5d71635d05d14a32b58cd852c16752fa",
+      "height": 18,
+      "fetch": {
+        "github": "storystage/backstage-assets",
+        "commit": "18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6",
+        "path": "originals/sketchfab-history/egyptian-temple.glb"
+      }
+    }
+  ]
+}

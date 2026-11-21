@@ -135,7 +135,7 @@
         "space",
         "mars"
       ],
-      "description": "Ingenuity, the small Mars helicopter with two long rotor blades and four thin legs",
+      "description": "the small Mars helicopter with two long rotor blades and four thin legs",
       "licence": "public-domain",
       "publicDomain": "docs/legal/public-domain/nasa.md",
       "credit": "Ingenuity Mars helicopter by NASA/Brian E. Kumanchik (public domain)",
@@ -218,7 +218,7 @@
         "space",
         "mars"
       ],
-      "description": "Perseverance, the six-wheeled Mars rover with a camera mast and a robot arm",
+      "description": "the six-wheeled Mars rover with a camera mast and a robot arm",
       "licence": "public-domain",
       "publicDomain": "docs/legal/public-domain/nasa.md",
       "credit": "Perseverance rover by NASA/Jet Propulsion Laboratory (public domain)",
@@ -299,7 +299,7 @@
         "space",
         "robots"
       ],
-      "description": "Robonaut 2, a white space robot with a head, two arms and long climbing legs",
+      "description": "a white space robot with a head, two arms and long climbing legs",
       "licence": "public-domain",
       "publicDomain": "docs/legal/public-domain/nasa.md",
       "credit": "Robonaut 2 by NASA/JSC/Integrated Graphics, Operations, and Analysis Laboratory (public domain)",
