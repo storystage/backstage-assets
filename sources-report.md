@@ -338,6 +338,58 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `scottishmaritime/Transport/mv-spartan` | Wrecked puffer ship | CC0-1.0 | set | 511093 → 19543 | 1024 | yes | none | 9.14 m | glTF | — | 4 |
 | `scottishmaritime/Transport/rnlb-jane-anne` | Lifeboat | CC0-1.0 | set | 185230 → 19918 | 1024 | yes | none | 2.74 m | glTF | — | 4 |
 | `scottishmaritime/Transport/venus` | Shetland rowing boat | CC0-1.0 | props | 19888 → 7839 | 1024 | yes | none | 1.62 m | glTF | — | 4 |
+| `sketchfab-history/Prop/acheulean-hand-axe` | Stone Age hand axe | CC0-1.0 | props | 8000 | 1024 | yes | none | 0.1 m | glTF | — | 4 |
+| `sketchfab-history/Prop/amphora` | Amphora | CC-BY-4.0 | props | 8000 | 1024 | yes | none | 0.7 m | glTF | — | 4 |
+| `sketchfab-history/Prop/anglo-saxon-helmet` | Anglo-Saxon helmet | CC-BY-4.0 | props | 7993 | 256 | yes | none | 0.3 m | glTF | 2 parts | 4 |
+| `sketchfab-history/Prop/anglo-saxon-sword` | Anglo-Saxon sword | CC-BY-4.0 | props | 7992 | 1024 | yes | none | 0.35 m | glTF | — | 4 |
+| `sketchfab-history/Prop/antenna-sword` | Antenna sword | CC-BY-4.0 | props | 1392 | 1024 | yes | none | 0.02 m | glTF | — | 4 |
+| `sketchfab-history/Prop/bronze-horus` | Bronze Horus | CC0-1.0 | props | 7997 | 1024 | yes | none | 0.25 m | glTF | — | 4 |
+| `sketchfab-history/Prop/bronze-sword` | Bronze sword | CC-BY-4.0 | props | 1612 | 1024 | yes | none | 0.01 m | glTF | — | 4 |
+| `sketchfab-history/Prop/bust-of-tranquillina` | Bust of Tranquillina | CC0-1.0 | props | 7998 | 1024 | yes | none | 1.2 m | glTF | — | 4 |
+| `sketchfab-history/Prop/canopic-jar-falcon` | Canopic jar with falcon | CC0-1.0 | props | 7835 | 1024 | yes | none | 0.4 m | glTF | — | 4 |
+| `sketchfab-history/Prop/canopic-jar-human-head` | Canopic jar | CC0-1.0 | props | 7991 | 1024 | yes | none | 0.35 m | glTF | — | 4 |
+| `sketchfab-history/Prop/carnfree-standing-stone` | Standing stone | CC0-1.0 | set | 19990 | 1024 | yes | none | 1.8 m | glTF | — | 4 |
+| `sketchfab-history/Prop/carved-stone-ball` | Carved stone ball | CC0-1.0 | props | 7840 | 1024 | yes | none | 0.07 m | glTF | — | 4 |
+| `sketchfab-history/Prop/daithis-pillar-stone` | Daithí's pillar stone | CC0-1.0 | set | 19978 | 1024 | yes | none | 1.5 m | glTF | — | 4 |
+| `sketchfab-history/Prop/egyptian-coffin-gold` | Egyptian coffin, gold | CC-BY-4.0 | set | 19408 | 1024 | yes | none | 1.9 m | glTF | — | 4 |
+| `sketchfab-history/Prop/egyptian-coffin-red` | Egyptian coffin, red | CC-BY-4.0 | set | 20000 | 1024 | yes | none | 1.9 m | glTF | — | 4 |
+| `sketchfab-history/Prop/egyptian-temple` | Egyptian temple | CC-BY-4.0 | set | 19571 | 512 | yes | none | 18 m | glTF | — | 4 |
+| `sketchfab-history/Prop/eye-of-horus` | Eye of Horus | CC0-1.0 | props | 7978 | 1024 | yes | none | 0.05 m | glTF | — | 4 |
+| `sketchfab-history/Prop/great-pyramid` | Great Pyramid of Giza | CC-BY-4.0 | set | 19892 | 1024 | yes | none | 139 m | glTF | — | 4 |
+| `sketchfab-history/Prop/great-sphinx` | Great Sphinx | CC-BY-4.0 | set | 20000 | 1024 | yes | none | 20 m | glTF | — | 4 |
+| `sketchfab-history/Prop/head-of-maximian` | Head of Maximian | CC0-1.0 | props | 7975 | 1024 | yes | none | 1 m | glTF | — | 4 |
+| `sketchfab-history/Prop/horus-falcon` | Horus falcon | CC0-1.0 | props | 8000 | 1024 | yes | none | 0.1 m | glTF | — | 4 |
+| `sketchfab-history/Prop/iron-age-pot` | Iron Age pot | CC0-1.0 | props | 7982 | 1024 | yes | none | 0.2 m | glTF | — | 4 |
+| `sketchfab-history/Prop/iron-age-roundhouse` | Iron Age roundhouse | CC-BY-4.0 | set | 19998 | 1024 | yes | none | 6 m | glTF | — | 4 |
+| `sketchfab-history/Prop/iron-age-stone-lamp` | Iron Age stone lamp | CC0-1.0 | props | 7999 | 1024 | yes | none | 0.08 m | glTF | — | 4 |
+| `sketchfab-history/Prop/neolithic-axehead` | Polished stone axehead | CC0-1.0 | props | 7998 | 1024 | yes | none | 0.08 m | glTF | — | 4 |
+| `sketchfab-history/Prop/obelisk` | Obelisk | CC-BY-4.0 | set | 488 | 1024 | yes | none | 21 m | glTF | — | 4 |
+| `sketchfab-history/Prop/pyramidion` | Pyramidion | CC0-1.0 | props | 7997 | 1024 | yes | none | 0.45 m | glTF | — | 4 |
+| `sketchfab-history/Prop/pyramids-of-giza` | Pyramids of Giza | CC-BY-4.0 | set | 20000 | 1024 | yes | none | 139 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roman-coins` | Pile of Roman coins | CC-BY-4.0 | props | 8000 | 1024 | yes | none | 0.03 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roman-column` | Roman column | CC-BY-4.0 | set | 19997 | 1024 | yes | none | 6 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roman-crested-helmet` | Roman helmet with crest | CC-BY-4.0 | props | 7995 | 1024 | yes | none | 0.4 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roman-dupondius` | Roman coin, dupondius | CC0-1.0 | props | 8000 | 1024 | yes | none | 0.03 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roman-gold-coin` | Roman gold coin | CC0-1.0 | props | 7832 | 1024 | yes | none | 0.02 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roman-legionary-helmet` | Roman legionary helmet | CC0-1.0 | props | 7836 | 1024 | yes | none | 0.2 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roman-oil-lamp` | Roman oil lamp | CC0-1.0 | props | 8000 | 1024 | yes | none | 0.05 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roman-temple` | Roman temple | CC-BY-4.0 | set | 19993 | 1024 | yes | none | 12 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roman-temple-white` | Roman temple, white | CC-BY-4.0 | set | 19631 | — | yes | none | 12 m | glTF | — | 4 |
+| `sketchfab-history/Prop/roundhouse-simple` | Roundhouse, simple | CC-BY-4.0 | set | 1808 | 1024 | yes | none | 6 m | glTF | — | 4 |
+| `sketchfab-history/Prop/rune-stone` | Rune stone | CC-BY-4.0 | set | 20000 | 1024 | yes | none | 2.2 m | glTF | — | 4 |
+| `sketchfab-history/Prop/scarab` | Scarab | CC-BY-4.0 | props | 7835 | 1024 | yes | none | 0.08 m | glTF | — | 4 |
+| `sketchfab-history/Prop/shabti-of-ramose` | Shabti of Ramose | CC-BY-4.0 | props | 7998 | 1024 | yes | none | 0.2 m | glTF | — | 4 |
+| `sketchfab-history/Prop/simpelveld-sarcophagus` | Simpelveld sarcophagus | CC0-1.0 | set | 19990 | 1024 | yes | none | 0.85 m | glTF | — | 4 |
+| `sketchfab-history/Prop/statue-of-minnefer` | Statue of Minnefer | CC0-1.0 | props | 7838 | 1024 | yes | none | 0.55 m | glTF | — | 4 |
+| `sketchfab-history/Prop/stonehenge` | Stonehenge | CC-BY-4.0 | set | 19988 | 1024 | yes | none | 7.2 m | glTF | — | 4 |
+| `sketchfab-history/Prop/stonehenge-low-poly` | Stonehenge, simple | CC-BY-4.0 | set | 18402 | 1024 | yes | none | 7 m | glTF | — | 4 |
+| `sketchfab-history/Prop/temple-of-taffeh` | Temple of Taffeh | CC0-1.0 | set | 19580 | 1024 | yes | none | 5 m | glTF | — | 4 |
+| `sketchfab-history/Prop/thoth-baboon` | Thoth as a baboon | CC0-1.0 | props | 7863 | 1024 | yes | none | 0.35 m | glTF | — | 4 |
+| `sketchfab-history/Prop/viking-longhouse` | Viking longhouse | CC-BY-4.0 | set | 13582 | 1024 | yes | none | 6.5 m | glTF | — | 4 |
+| `sketchfab-history/Prop/yetholm-shield` | Yetholm shield | CC0-1.0 | props | 7999 | 1024 | yes | none | 0.6 m | glTF | — | 4 |
+| `sketchfab-history/Transport/log-boat` | Log boat | CC0-1.0 | set | 19999 | 1024 | yes | none | 0.5 m | glTF | — | 4 |
+| `sketchfab-history/Transport/viking-longship` | Viking longship | CC-BY-4.0 | set | 19973 | 1024 | yes | none | 12 m | glTF | — | 4 |
+| `sketchfab-history/Transport/viking-longship-striped` | Viking longship, striped sail | CC-BY-4.0 | set | 3314 | 256 | yes | none | 12 m | glTF | — | 4 |
 | `sketchfab/Biped/grandmother` | Grandmother | CC-BY-4.0 | cast | 617 | 256 | yes | mapped | 1.55 m | glTF | — | 16 |
 | `sketchfab/Biped/red-riding-hood` | Little Red Riding Hood | CC-BY-4.0 | cast | 11596 | — | yes | mapped | 1.2 m | glTF | — | 16 |
 | `sketchfab/Flyer/african-penguin` | African penguin | CC-BY-4.0 | cast | 4124 | 1024 | yes | mapped | 0.6 m | glTF | — | 4 |
@@ -479,4 +531,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** the index in its system prompt is about 7,041 of 12,000 tokens; every full line, which requests carry a few at a time, about 25,372. `prompter-catalogue.txt` holds every full line exactly as Claude reads it; check its descriptions with the sketches.
+**Prompter catalogue:** the index in its system prompt is about 8,316 of 12,000 tokens; every full line, which requests carry a few at a time, about 28,116. `prompter-catalogue.txt` holds every full line exactly as Claude reads it; check its descriptions with the sketches.
