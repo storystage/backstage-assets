@@ -78,7 +78,8 @@
       "page": "https://poly.pizza/m/64Yw0UoayhC",
       "height": 0.25,
       "turn": {
-        "x": -90
+        "x": -90,
+        "y": -90
       },
       "fetch": {
         "github": "storystage/backstage-assets",
