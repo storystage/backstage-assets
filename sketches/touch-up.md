@@ -1,6 +1,6 @@
 # Sketches to touch up
 
-Written by `tools/make-sketches`: 3503 sketches, 0 replaced by hand, 8 to look at.
+Written by `tools/make-sketches`: 3711 sketches, 0 replaced by hand, 31 to look at.
 
 To replace a sketch, draw it in the same style (black lines 3 units wide on a white shape, the model facing left in side and three-quarter views), save it beside this file, and name it in `touch-up.json` under `overrides`. To draw one simplified (its outer edge and only its long, deep inner lines), name it under `simplified`; to keep one as it is, under `kept`.
 
@@ -16,6 +16,29 @@ To replace a sketch, draw it in the same style (black lines 3 units wide on a wh
 | `sketches/nasa/Transport/perseverance-rover/side.svg` | 17 times its outline in lines: too many small lines to read. |
 | `sketches/nasa/Transport/perseverance-rover/back.svg` | 14 times its outline in lines: too many small lines to read. |
 | `sketches/polyhaven/Prop/money-tree/back.svg` | 14 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/bronze-sword/threeQuarter.svg` | Only 11 units across: hard to see. |
+| `sketches/sketchfab-history/Prop/bronze-sword/side.svg` | Only 8 units across: hard to see. |
+| `sketches/sketchfab-history/Prop/canopic-jar-human-head/threeQuarter.svg` | 14 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/canopic-jar-human-head/side.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/canopic-jar-human-head/back.svg` | 15 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/carnfree-standing-stone/front.svg` | 18 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/carnfree-standing-stone/threeQuarter.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/carnfree-standing-stone/side.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/carnfree-standing-stone/back.svg` | 18 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/daithis-pillar-stone/front.svg` | 18 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/daithis-pillar-stone/threeQuarter.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/daithis-pillar-stone/side.svg` | 18 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/daithis-pillar-stone/back.svg` | 21 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/roman-legionary-helmet/front.svg` | 15 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/roman-temple/front.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/roman-temple-white/front.svg` | 18 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/roman-temple-white/threeQuarter.svg` | 15 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/simpelveld-sarcophagus/threeQuarter.svg` | 17 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/temple-of-taffeh/front.svg` | 19 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/temple-of-taffeh/threeQuarter.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/temple-of-taffeh/side.svg` | 15 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Prop/yetholm-shield/threeQuarter.svg` | 15 times its outline in lines: too many small lines to read. |
+| `sketches/sketchfab-history/Transport/viking-longship/threeQuarter.svg` | 15 times its outline in lines: too many small lines to read. |
 
 ## Cast drawn without poses
 
