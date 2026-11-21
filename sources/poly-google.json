@@ -77,6 +77,9 @@
       "credit": "Squirrel by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/64Yw0UoayhC",
       "height": 0.25,
+      "turn": {
+        "x": -90
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
@@ -1205,7 +1208,7 @@
         "food",
         "farm"
       ],
-      "description": "a brown potato",
+      "description": "a baked potato with a pat of butter on top",
       "licence": "CC-BY-3.0",
       "credit": "Potato by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/2zXFdq69HNj",
