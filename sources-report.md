@@ -35,6 +35,34 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `gobkit/Swimmer/seal` | Seal | CC0-1.0 | cast | 398 | 512 | yes | prop-only (missing spineBase) | 0.6 m | glTF | — | 4 |
 | `gobkit/Swimmer/shark` | Shark | CC0-1.0 | cast | 286 | 512 | yes | prop-only (missing spineBase) | 0.8 m | glTF | — | 4 |
 | `gobkit/Swimmer/whale` | Whale | CC0-1.0 | cast | 272 | 512 | yes | prop-only (missing spineBase) | 1.2 m | glTF | — | 4 |
+| `kaykit-forest/Prop/bare-tree-1-a` | Bare twisted tree, small | CC0-1.0 | set | 324 | 1024 | yes | none | 2.86 m | glTF | — | 4 |
+| `kaykit-forest/Prop/bare-tree-1-b` | Bare twisted tree, medium | CC0-1.0 | set | 332 | 1024 | yes | none | 3.25 m | glTF | — | 4 |
+| `kaykit-forest/Prop/bare-tree-1-c` | Bare twisted tree, large | CC0-1.0 | set | 936 | 1024 | yes | none | 5.26 m | glTF | — | 4 |
+| `kaykit-forest/Prop/bare-tree-2-a` | Bare tall tree, small | CC0-1.0 | set | 404 | 1024 | yes | none | 3.84 m | glTF | — | 4 |
+| `kaykit-forest/Prop/bare-tree-2-b` | Bare tall tree, medium | CC0-1.0 | set | 448 | 1024 | yes | none | 5.54 m | glTF | — | 4 |
+| `kaykit-forest/Prop/bare-tree-2-c` | Bare tall tree, large | CC0-1.0 | set | 634 | 1024 | yes | none | 7.61 m | glTF | — | 4 |
+| `kaykit-forest/Prop/grass-2-a` | Blade of grass | CC0-1.0 | props | 44 | 1024 | yes | none | 0.92 m | glTF | — | 4 |
+| `kaykit-forest/Prop/grass-2-b` | Two blades of grass | CC0-1.0 | props | 132 | 1024 | yes | none | 0.92 m | glTF | — | 4 |
+| `kaykit-forest/Prop/grass-2-c` | Tuft of grass | CC0-1.0 | props | 528 | 1024 | yes | none | 0.94 m | glTF | — | 4 |
+| `kaykit-forest/Prop/grass-2-d` | Spread tuft of grass | CC0-1.0 | props | 528 | 1024 | yes | none | 0.94 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-a` | Grey rock A | CC0-1.0 | props | 84 | 1024 | yes | none | 0.86 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-b` | Grey rock B | CC0-1.0 | props | 84 | 1024 | yes | none | 1.03 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-c` | Grey rock C | CC0-1.0 | props | 84 | 1024 | yes | none | 0.97 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-d` | Grey rock D | CC0-1.0 | props | 84 | 1024 | yes | none | 0.97 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-e` | Grey rock E | CC0-1.0 | props | 84 | 1024 | yes | none | 1.29 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-f` | Grey rock F | CC0-1.0 | props | 84 | 1024 | yes | none | 1.18 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-g` | Grey rock G | CC0-1.0 | set | 168 | 1024 | yes | none | 2 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-h` | Grey rock H | CC0-1.0 | set | 168 | 1024 | yes | none | 2.06 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-i` | Grey rock I | CC0-1.0 | set | 168 | 1024 | yes | none | 2.11 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-j` | Grey rock J | CC0-1.0 | props | 168 | 1024 | yes | none | 1.9 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-k` | Grey rock K | CC0-1.0 | set | 168 | 1024 | yes | none | 2.22 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-l` | Grey rock L | CC0-1.0 | set | 168 | 1024 | yes | none | 2.27 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-m` | Grey rock M | CC0-1.0 | set | 320 | 1024 | yes | none | 3.6 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-n` | Grey rock N | CC0-1.0 | set | 320 | 1024 | yes | none | 3.53 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-o` | Grey rock O | CC0-1.0 | set | 320 | 1024 | yes | none | 3.47 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-p` | Grey rock P | CC0-1.0 | set | 320 | 1024 | yes | none | 3.68 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-q` | Grey rock Q | CC0-1.0 | set | 320 | 1024 | yes | none | 3.72 m | glTF | — | 4 |
+| `kaykit-forest/Prop/rock-3-r` | Grey rock R | CC0-1.0 | set | 320 | 1024 | yes | none | 3.85 m | glTF | — | 4 |
 | `kaykit/Biped/barbarian` | Barbarian | CC0-1.0 | cast | 5203 | 1024 | yes | mapped | 2.4 m | glTF | 4 parts, 35 clips | 16 |
 | `kaykit/Biped/knight` | Knight | CC0-1.0 | cast | 4712 | 1024 | yes | mapped | 2.47 m | glTF | 7 parts, 35 clips | 16 |
 | `kaykit/Biped/mage` | Mage | CC0-1.0 | cast | 4509 | 1024 | yes | mapped | 2.72 m | glTF | 4 parts, 35 clips | 16 |
@@ -177,6 +205,39 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `osa/Biped/vladi` | Vladi | CC0-1.0 | cast | 8697 | 2048 → 1024 | yes | mapped | 1.06 m | VRM 0 | — | 16 |
 | `osa/Biped/weird-cat` | Weird Cat | CC0-1.0 | cast | 6640 | 2048 → 1024 | yes | mapped | 1.22 m | VRM 0 | — | 16 |
 | `osa/Biped/yeti-dude` | Yeti Dude | CC0-1.0 | cast | 8240 | 2048 → 1024 | yes | mapped | 1.63 m | VRM 0 | — | 16 |
+| `polyhaven/Prop/anthurium` | Anthurium | CC0-1.0 | props | 15808 → 7999 | 1024 | yes | none | 0.5 m | glTF | 5 parts | 4 |
+| `polyhaven/Prop/apple` | Apple | CC0-1.0 | props | 7012 | 1024 | yes | none | 0.09 m | glTF | — | 4 |
+| `polyhaven/Prop/avocado` | Avocado | CC0-1.0 | props | 7743 | 1024 | yes | none | 0.14 m | glTF | — | 4 |
+| `polyhaven/Prop/bananas` | Bunch of bananas | CC0-1.0 | props | 25876 → 8000 | 1024 | yes | none | 0.18 m | glTF | 4 parts | 4 |
+| `polyhaven/Prop/boulder` | Boulder | CC0-1.0 | set | 66122 → 19600 | 1024 | yes | none | 1 m | glTF | — | 4 |
+| `polyhaven/Prop/calathea` | Calathea | CC0-1.0 | props | 5904 | 1024 | yes | none | 0.42 m | glTF | 4 parts | 4 |
+| `polyhaven/Prop/conch-shell` | Spider conch shell | CC0-1.0 | props | 12498 → 8000 | 1024 | yes | none | 0.05 m | glTF | — | 4 |
+| `polyhaven/Prop/dandelion` | Dandelion | CC0-1.0 | props | 23542 → 7666 | 1024 | yes | none | 0.16 m | glTF | 4 parts | 4 |
+| `polyhaven/Prop/fallen-branch` | Fallen branch | CC0-1.0 | props | 5933 | 1024 | yes | none | 0.34 m | glTF | 2 parts | 4 |
+| `polyhaven/Prop/fallen-log` | Fallen log | CC0-1.0 | set | 101802 → 20000 | 1024 | yes | none | 0.29 m | glTF | — | 4 |
+| `polyhaven/Prop/fern` | Fern | CC0-1.0 | props | 2384 | 1024 | yes | none | 0.43 m | glTF | 3 parts | 4 |
+| `polyhaven/Prop/flat-stone` | Flat stone | CC0-1.0 | props | 12416 → 8000 | 1024 | yes | none | 0.03 m | glTF | — | 4 |
+| `polyhaven/Prop/gazania` | Gazania flower | CC0-1.0 | props | 3540 | 1024 | yes | none | 0.17 m | glTF | 7 parts | 4 |
+| `polyhaven/Prop/lemon` | Lemon | CC0-1.0 | props | 4012 | 1024 | yes | none | 0.1 m | glTF | — | 4 |
+| `polyhaven/Prop/money-tree` | Money tree | CC0-1.0 | set | 28105 → 19998 | 1024 | yes | none | 1.9 m | glTF | 6 parts | 4 |
+| `polyhaven/Prop/mossy-rock` | Mossy rock | CC0-1.0 | set | 10589 | 1024 | yes | none | 1.77 m | glTF | 5 parts | 4 |
+| `polyhaven/Prop/nettle` | Nettle | CC0-1.0 | props | 6984 | 1024 | yes | none | 0.22 m | glTF | 5 parts | 4 |
+| `polyhaven/Prop/onion` | Onion | CC0-1.0 | props | 5444 | 1024 | yes | none | 0.09 m | glTF | — | 4 |
+| `polyhaven/Prop/periwinkle` | Periwinkle | CC0-1.0 | props | 11252 → 8000 | 1024 | yes | none | 0.4 m | glTF | 5 parts | 4 |
+| `polyhaven/Prop/planter-box` | Planter box | CC0-1.0 | props | 8094 → 8000 | 1024 | yes | none | 0.42 m | glTF | — | 4 |
+| `polyhaven/Prop/pomegranate` | Pomegranate | CC0-1.0 | props | 8142 → 8000 | 1024 | yes | none | 0.11 m | glTF | — | 4 |
+| `polyhaven/Prop/potted-plant` | Potted plant | CC0-1.0 | props | 176226 → 7997 | 1024 | yes | none | 1.33 m | glTF | — | 4 |
+| `polyhaven/Prop/potted-plant-big-leaves` | Potted plant with big leaves | CC0-1.0 | props | 69806 → 7996 | 1024 | yes | none | 0.84 m | glTF | — | 4 |
+| `polyhaven/Prop/potted-succulent` | Potted succulent | CC0-1.0 | props | 8929 → 7999 | 1024 | yes | none | 0.27 m | glTF | — | 4 |
+| `polyhaven/Prop/quartz-stone` | Quartz stone | CC0-1.0 | props | 53520 → 8000 | 1024 | yes | none | 0.07 m | glTF | — | 4 |
+| `polyhaven/Prop/quiver-tree` | Quiver tree | CC0-1.0 | set | 150124 → 19991 | 1024 | yes | none | 2.72 m | glTF | — | 4 |
+| `polyhaven/Prop/raised-planter` | Raised planter | CC0-1.0 | props | 13112 → 8000 | 1024 | yes | none | 0.86 m | glTF | — | 4 |
+| `polyhaven/Prop/rat` | Rat | CC0-1.0 | props | 57216 → 8000 | 1024 | yes | none | 0.03 m | glTF | — | 4 |
+| `polyhaven/Prop/red-rock` | Red rock | CC0-1.0 | props | 14844 → 8000 | 1024 | yes | none | 0.14 m | glTF | — | 4 |
+| `polyhaven/Prop/split-boulder` | Split boulder | CC0-1.0 | set | 97964 → 19991 | 1024 | yes | none | 0.88 m | glTF | — | 4 |
+| `polyhaven/Prop/sweet-potato` | Sweet potato | CC0-1.0 | props | 2042 | 1024 | yes | none | 0.1 m | glTF | — | 4 |
+| `polyhaven/Prop/tree-stump` | Tree stump | CC0-1.0 | set | 41046 → 20000 | 1024 | yes | none | 0.57 m | glTF | — | 4 |
+| `polyhaven/Prop/young-quiver-tree` | Young quiver tree | CC0-1.0 | set | 82074 → 19999 | 1024 | yes | none | 1.47 m | glTF | — | 4 |
 | `polypizza/Prop/alarm-clock` | Alarm clock | CC0-1.0 | props | 458 | 128 | yes | none | 0.15 m | glTF | — | 4 |
 | `polypizza/Prop/apple` | Apple | CC-BY-3.0 | props | 330 | — | yes | none | 0.08 m | glTF | — | 4 |
 | `polypizza/Prop/backpack` | Backpack | CC-BY-3.0 | props | 746 | — | yes | none | 0.45 m | glTF | — | 4 |
@@ -385,4 +446,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** about 21,662 of 24,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
+**Prompter catalogue:** about 23,845 of 24,000 tokens. `prompter-catalogue.txt` is exactly what Claude reads; check its descriptions with the sketches.
