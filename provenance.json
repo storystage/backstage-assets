@@ -6005,6 +6005,1782 @@
       "animations": []
     }
   },
+  "poly-google/Biped/astronaut": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/astronaut.glb",
+        "sha256": "907b8f2ab245f8009f3078b06ef76d941e7ac1dd10b8ee7823f81de90063fc20"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1604,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1604,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Biped/chimpanzee": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/chimpanzee.glb",
+        "sha256": "cff8ec45244af02c6c7dfb07f33385d9ff425ff3ba946bd3dc331a5dd2ffaba2"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 704,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 704,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Flyer/emu": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/emu.glb",
+        "sha256": "dee2e4800f90d2254e73dc67a8d7690be1bd18982d1ff5ba9229a65d94cc3f84"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 548,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 548,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Flyer/goose": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/goose.glb",
+        "sha256": "a6b7500571e491f78b18fabc8d3a3120357e1693c7aa293751de847656868418"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 460,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 460,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Flyer/parrot": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/parrot.glb",
+        "sha256": "52c904f00dd236e181b3f037ee93a1209889ab6c7794b8c1095bb4ccff75a73b"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 651,
+    "textureMaxPx": 64,
+    "fetchedSize": {
+      "triangles": 651,
+      "textureMaxPx": 64
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/aubergine": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/aubergine.glb",
+        "sha256": "d36c7df3edbc1dcb627eca442264a3a4d86126aaf16bf7e3fe1efebae66703ff"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 376,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 376,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/bamboo": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/bamboo.glb",
+        "sha256": "5e45096f056f2abd88f0ba017ac1cd25903a0aee28effcb4efcf753f959abf36"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 2576,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 2576,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/barrel-cactus": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/barrel-cactus.glb",
+        "sha256": "3f3d6ad4e283ebc5e09023afc4a0a31db25e51b3576907b12442653ab95cbc1a"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1400,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1400,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/binoculars": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/binoculars.glb",
+        "sha256": "036ae3ed3486efeed1ee33387143a205a2af561f3e1edbfa8000c6e5c61dc561"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 928,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 928,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/bulrushes": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/bulrushes.glb",
+        "sha256": "4274703fe73864749644939c94e7a03c53987322a2eee8556f684e78649b7eac"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 473,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 473,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/bush": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/bush.glb",
+        "sha256": "2c0733b3ccdcd1defe4386ad7bb601cb2ef2f11e4f0c8d07a135a28e8deb31db"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 470,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 470,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/cabbage": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/cabbage.glb",
+        "sha256": "280f59fc991135d48f0d60481bbb96fa30177e474ccbb9ff00fe98d1412e9933"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 704,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 704,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/carrot": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/carrot.glb",
+        "sha256": "2bc765298aca931542d385e21e8e5194e5be71b4c20922f8d0f83a3bef439e08"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 598,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 598,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/cherries": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/cherries.glb",
+        "sha256": "6499b857a01240593ec5564731d766cdebaf76e997de584cd3fae52c65a0ea8e"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 568,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 568,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/corn-on-the-cob": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/corn-on-the-cob.glb",
+        "sha256": "1279b5f47e5add78d307041cd7ec7511cf6e1df0ab0a373aeb9f8a35bae4b6ee"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1168,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1168,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/cucumber": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/cucumber.glb",
+        "sha256": "904d7bf80999790cd0e8547eef7e993c5c83f85d814f4a0be4aa7dc06edd48e9"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 144,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 144,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/daffodils": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/daffodils.glb",
+        "sha256": "8edae877f82eb310bd4747ba408c3f55106661d9244042bab88177cc2f349c45"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 5872,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 5872,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/daisy": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/daisy.glb",
+        "sha256": "bc6f0d2e26b18192c44c903b00d8f27087593755d385da0a9d4fdf231897d7e9"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 496,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 496,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/field-of-corn": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/field-of-corn.glb",
+        "sha256": "b71be555f78537da13e347c0299bacd61f530df02c7379015068b5575ec94e35"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 8448,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 8448,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/field-of-wheat": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/field-of-wheat.glb",
+        "sha256": "8be153d692f19a1f2299423f2e331a5044782816927bc0d2890a1c716e32cee1"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 4385,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 4385,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/flag": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/flag.glb",
+        "sha256": "738fcf33425641d2ca0efd9a51e16b5eee0d43a5ae5548e111c8b8d01c8f928e"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 2284,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 2284,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/flowering-cactus": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/flowering-cactus.glb",
+        "sha256": "1b985e62f919862f6a4e7ad33510ffd624e4bd10fdd37ab7e5db9743cc15ad4a"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 404,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 404,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/grapes": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/grapes.glb",
+        "sha256": "773af1a8a3c3a209e83ccfff6cfae2314fbe3d6bfbc0dff1058bdbce38758445"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 2064,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 2064,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/green-pepper": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/green-pepper.glb",
+        "sha256": "918243794f66c1eb01a2b5ccf311f6e292177101a7b98c89d926726cfa75dae1"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 630,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 630,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/hibiscus": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/hibiscus.glb",
+        "sha256": "42146acdabfced0a445ebd2828ddd0290f9095ff9802c4c745c72ba0f11e3889"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1160,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 1160,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/lettuce": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/lettuce.glb",
+        "sha256": "663d810b3eb91ee3c9cbbb9207a70f4c2c7cca1a4618bf780b3e0b34d55eb70e"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 812,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 812,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/map": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/map.glb",
+        "sha256": "aca3349080f1bdff11aa6a7ea3c6c2854008b52ecb4624eefc882724986087d4"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 480,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 480,
+      "textureMaxPx": 4096
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/orchid": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/orchid.glb",
+        "sha256": "76c1405be7b96249fb7494515284b0c800e31bf76a738c85846161f846faf0f5"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 3497,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 3497,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/potato": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/potato.glb",
+        "sha256": "8f77eaf0511b6b3ab25c0e1f35fa774090ab199781db55d83eefe339a6499df6"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 212,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 212,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/prickly-pear": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/prickly-pear.glb",
+        "sha256": "9024fa389f8bae53a31990947ebca21918ad90b59af9327c32127407de023b9f"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1028,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 1028,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/pumpkin": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/pumpkin.glb",
+        "sha256": "7d89b0fff7959942e8596945516373865abdfa9c015637ac49f0c98e01dc564e"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 912,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 912,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/rose-bush": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/rose-bush.glb",
+        "sha256": "af3f3d870e3922086411c60aa9556ac9e9c51acb5d2b22c5f79bcbabce4fef25"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 4336,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 4336,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/saguaro-cactus": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/saguaro-cactus.glb",
+        "sha256": "b8f6ab1db16f3d1a898b12a99b0588cb26ddf9094248bc9e70f67ff8227d518a"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 592,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 592,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/strawberry": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/strawberry.glb",
+        "sha256": "fc8ead6cae1ef2e7252f0d5e2099eb5a103d8782c5e531056b8ce37c18a75d8a"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 212,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 212,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/sunflower": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/sunflower.glb",
+        "sha256": "1714bd2832a215cf27031d03c3b2a92da978ac3cde3e47a92c52163b0b720e4c"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 340,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 340,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/telescope": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/telescope.glb",
+        "sha256": "5b06f69a9e72825716042238cc42f1ae51f4ff012ac94d38d4c83a0bd077cb88"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 3474,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 3474,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/toadstools": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/toadstools.glb",
+        "sha256": "f32ac5097ba3fdeef09d1e31f2f035b6a893969526a852e69c2b8b720437e338"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7968,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 8088,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/tomato": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/tomato.glb",
+        "sha256": "62509075f92e48e4867c016e46f948a2a5bc2171ffd1157a62a7101eac0835bc"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 824,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 824,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Prop/tulips": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/tulips.glb",
+        "sha256": "405b9758e8747af036b409ceb21cdcd7aea1510b55f1913dc75279765902516f"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7880,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7880,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/aardvark": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/aardvark.glb",
+        "sha256": "79356ced159edd6b48300e700564d2aa82707ff3aeb8fa7fdcd0fa9a8c2f72ed"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 728,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 728,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/ant": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/ant.glb",
+        "sha256": "4f61e52ee9ec3dbc81074cb6bf6f3433d45bff0d751cf602a35a97c2a906350d"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 2000,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 2000,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/bactrian-camel": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/bactrian-camel.glb",
+        "sha256": "c89cb812ac0fedb354d57dbe8ab1a64f6838760d209885848b82a326066d36db"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1402,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1402,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/badger": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/badger.glb",
+        "sha256": "451872f9743d0535d1488b82e728bb9d58c4c7be27fa45ac9089f149b30732d5"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 514,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 514,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/bear-cub": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/bear-cub.glb",
+        "sha256": "5ab9d1a79a109a4589bab624c51864f62123f8d5b21d3ea2bad1b2e8dc22823f"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 542,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 542,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/beaver": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/beaver.glb",
+        "sha256": "37e595b4916758e1c03ef816e4fa4f334e797fa90f095ccdd34832a522d097f1"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 568,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 568,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/black-bear": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/black-bear.glb",
+        "sha256": "04b739edaf4758849952757737ab97a7350370bdfbc662a96d7b6d4b75bc43d8"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 666,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 666,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/brown-bear": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/brown-bear.glb",
+        "sha256": "d273ba9bde94c2e78b87cc3b2571dd5e57cfd68d4472ad07b1d1285086ff9199"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 326,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 326,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/camel": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/camel.glb",
+        "sha256": "db042872873cd394805d1aef0ec365899c6bbc03e660d308cc06442f45d87eb2"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 822,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 822,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/crab": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/crab.glb",
+        "sha256": "436b13afa9c2fc4a99402c4f23d5813caf9936702fb99eb0727792013000c569"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1340,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 1340,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/gazelle": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/gazelle.glb",
+        "sha256": "747d3d5f15930f88a4a99501d80a59b8950737b53262f693bbdead173c9d08ee"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 810,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 810,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/gorilla": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/gorilla.glb",
+        "sha256": "aebcbde2234ece994bf13b5d18bd025581fc1abb1e1736131f8f7ed14536fdce"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 576,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 576,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/hamster": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/hamster.glb",
+        "sha256": "65838c12d700b94faec4a9f0333f1f256ff8a5be648481308187f87902b46228"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1664,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 1664,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/hedgehog": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/hedgehog.glb",
+        "sha256": "b38f52270821b0f363bc811c306ad98d0b09b9067e794965cc154364d9ff1625"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 376,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 376,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/jaguar": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/jaguar.glb",
+        "sha256": "39cc957920732a2c4dcb3992dab8807bfb8e8d15fa6270b72a8de962c2f0d3dc"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1020,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1020,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/kangaroo": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/kangaroo.glb",
+        "sha256": "379f1cc4e1bd0b672f8fd476e089bc6963d12484edbf23fab6002aee2613a126"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 760,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 760,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/lion": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/lion.glb",
+        "sha256": "e7e64a59768bf2251fd25b641fef1eaf260e857c9e519cd1b08360b3fcfe21f3"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1350,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1350,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/monkey": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/monkey.glb",
+        "sha256": "0c622a0033ec1e6bb47014867f66798bec7d2e0043ed7c5b7c63852b860b5229"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1478,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1478,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/mouse": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/mouse.glb",
+        "sha256": "0ae8158a827560c0c55ebee2b1eda2031638cc633df47a881768f5743f9c6ec8"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 568,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 568,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/orangutan": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/orangutan.glb",
+        "sha256": "a2847497fb580827463cca4c8cb54ed3a27d45407f9562574a394cfd4db2cc1c"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 628,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 628,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/panda": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/panda.glb",
+        "sha256": "43deaeb108bff1bb748b93b4577f1475479d8347de6789851f1fb3ae798daac2"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 780,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 780,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/pig": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/pig.glb",
+        "sha256": "a4ce7cc7a899deb9bbb2432b84251cac849e519f2a389eb9377e79bd27f10dbc"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 608,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 608,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/porcupine": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/porcupine.glb",
+        "sha256": "20bc7a75039d89ed92bf9eaed304ec658d7ccdff3082f53335379ab6c0464d64"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1728,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1728,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/raccoon": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/raccoon.glb",
+        "sha256": "e2e5a732cf878c5b65f91fad7cd83b7589f7144fbf1b8046b7a6f1906e7dd93e"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 807,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 807,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/red-squirrel": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/red-squirrel.glb",
+        "sha256": "bddcc11c8c0e92f4072a0e030f683873483b7c1b964a948f33d2475ec39d64af"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 292,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 292,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/tiger": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/tiger.glb",
+        "sha256": "7247cb1a4d28033d347cadbc8e053472773f441fd171fa9c56090497da9f7863"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 742,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 742,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Quadruped/tortoise": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/tortoise.glb",
+        "sha256": "8dde9d76647b3d5fa40bf3afc1238c47ee3544c7a0b7190710f345a7eafb6ab8"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1468,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 1468,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Slitherer/earthworm": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/earthworm.glb",
+        "sha256": "0321710fef059296263bce630f69b5b1e325db29bf137414c3fe83418496fc96"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 3617,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 3617,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Slitherer/snail": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/snail.glb",
+        "sha256": "b51141375a5c2b5eef58aa4b12f22e746ce096e3c44bc9d1614a43ffb52379de"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 399,
+    "textureMaxPx": 32,
+    "fetchedSize": {
+      "triangles": 399,
+      "textureMaxPx": 32
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Swimmer/crayfish": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/crayfish.glb",
+        "sha256": "c755bccf04b6dc097dcab2a17c8b0acb1a113fdde523c9525edd61498471072c"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1556,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 1556,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Swimmer/goldfish": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/goldfish.glb",
+        "sha256": "284073fcbfe4395ceaa84c4f57e14f1941ed1176c8ae6269054a9496a0bca067"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1036,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 1036,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Swimmer/octopus": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/octopus.glb",
+        "sha256": "f8f2efc419b77b078c83537256343db34db9c78e6629175347c992ce46087161"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 754,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 754,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Swimmer/sea-lion": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/sea-lion.glb",
+        "sha256": "acc5c8a6b14c643827a7cda2931ea09a7a467a5245a8f2f6fe86e607ed53b6e4"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 714,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 714,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Swimmer/sea-turtle": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/sea-turtle.glb",
+        "sha256": "96f9cb7c678810f77c69fa697fd17f76905d09276566856beea6e54d4d10b590"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1788,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 1788,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "poly-google/Transport/space-shuttle": {
+    "source": "poly-google",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/50982923f1502a734252ecb29d50f559cceed7b1/originals/poly-google/space-shuttle.glb",
+        "sha256": "9fa3eed8f35e1958bf43cac1678a2fdd536b00763366e523021a946e573f7a68"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1472,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1472,
+      "textureMaxPx": 2048
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
   "polyhaven/Prop/anthurium": {
     "source": "polyhaven",
     "fetched": [

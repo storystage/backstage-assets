@@ -25312,6 +25312,3594 @@
       ]
     },
     {
+      "id": "poly-google/Biped/astronaut",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Astronaut",
+      "themes": [
+        "space",
+        "adults"
+      ],
+      "description": "an astronaut in a white spacesuit with a dark visor",
+      "files": {
+        "model": "models/poly-google/Biped/astronaut.glb",
+        "thumbnail": "thumbnails/poly-google/Biped/astronaut.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.8
+      },
+      "budget": {
+        "triangles": 1604,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Astronaut by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/dLHpzNdygsg",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Biped/astronaut/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Biped/astronaut/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Biped/astronaut/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Biped/astronaut/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Biped/chimpanzee",
+      "section": "cast",
+      "class": "Biped",
+      "displayName": "Chimpanzee",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "a black chimpanzee standing up with long arms",
+      "files": {
+        "model": "models/poly-google/Biped/chimpanzee.glb",
+        "thumbnail": "thumbnails/poly-google/Biped/chimpanzee.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.2
+      },
+      "budget": {
+        "triangles": 704,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Chimpanzee by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/6m3diqGPysx",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Biped/chimpanzee/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Biped/chimpanzee/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Biped/chimpanzee/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Biped/chimpanzee/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Flyer/emu",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Emu",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a tall shaggy brown emu with long legs",
+      "files": {
+        "model": "models/poly-google/Flyer/emu.glb",
+        "thumbnail": "thumbnails/poly-google/Flyer/emu.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.7
+      },
+      "budget": {
+        "triangles": 548,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Emu by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/dVhJSddeK67",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Flyer/emu/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Flyer/emu/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Flyer/emu/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Flyer/emu/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Flyer/goose",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Goose",
+      "themes": [
+        "animals",
+        "farm",
+        "pond"
+      ],
+      "description": "a goose with a black neck and a white chin strap",
+      "files": {
+        "model": "models/poly-google/Flyer/goose.glb",
+        "thumbnail": "thumbnails/poly-google/Flyer/goose.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.8
+      },
+      "budget": {
+        "triangles": 460,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Goose by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/9wn3If7Qgb4",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Flyer/goose/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Flyer/goose/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Flyer/goose/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Flyer/goose/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Flyer/parrot",
+      "section": "cast",
+      "class": "Flyer",
+      "displayName": "Parrot",
+      "themes": [
+        "animals",
+        "jungle",
+        "pirates"
+      ],
+      "description": "a red parrot with blue and yellow wings",
+      "files": {
+        "model": "models/poly-google/Flyer/parrot.glb",
+        "thumbnail": "thumbnails/poly-google/Flyer/parrot.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.5
+      },
+      "budget": {
+        "triangles": 651,
+        "textureMaxPx": 64
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Parrot by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/dfNjMLtO0pd",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Flyer/parrot/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Flyer/parrot/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Flyer/parrot/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Flyer/parrot/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/aubergine",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Aubergine",
+      "themes": [
+        "food",
+        "farm"
+      ],
+      "description": "a shiny purple aubergine",
+      "files": {
+        "model": "models/poly-google/Prop/aubergine.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/aubergine.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.1
+      },
+      "budget": {
+        "triangles": 376,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Eggplant by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/abKWST5Odkg",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/aubergine/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/aubergine/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/aubergine/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/aubergine/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/bamboo",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Bamboo",
+      "themes": [
+        "plants",
+        "jungle",
+        "forest"
+      ],
+      "description": "pale green bamboo canes",
+      "files": {
+        "model": "models/poly-google/Prop/bamboo.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/bamboo.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 3
+      },
+      "budget": {
+        "triangles": 2576,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Bamboo by jeremy, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/etkjGJtQYHh",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/bamboo/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/bamboo/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/bamboo/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/bamboo/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/barrel-cactus",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Barrel cactus",
+      "themes": [
+        "plants",
+        "desert"
+      ],
+      "description": "a round barrel cactus with long spines",
+      "files": {
+        "model": "models/poly-google/Prop/barrel-cactus.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/barrel-cactus.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.5
+      },
+      "budget": {
+        "triangles": 1400,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Barrel cactus by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/5-hrumGDq1K",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/barrel-cactus/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/barrel-cactus/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/barrel-cactus/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/barrel-cactus/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/binoculars",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Binoculars",
+      "themes": [
+        "adventure",
+        "exploration"
+      ],
+      "description": "a pair of black binoculars",
+      "files": {
+        "model": "models/poly-google/Prop/binoculars.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/binoculars.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.07
+      },
+      "budget": {
+        "triangles": 928,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Binoculars by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/6nj5FdUlsEW",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/binoculars/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/binoculars/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/binoculars/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/binoculars/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/bulrushes",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Bulrushes",
+      "themes": [
+        "plants",
+        "pond",
+        "river"
+      ],
+      "description": "tall bulrushes with brown seed heads",
+      "files": {
+        "model": "models/poly-google/Prop/bulrushes.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/bulrushes.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.5
+      },
+      "budget": {
+        "triangles": 473,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Cattail by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/9vCk81sIPve",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/bulrushes/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/bulrushes/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/bulrushes/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/bulrushes/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/bush",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Bush",
+      "themes": [
+        "plants",
+        "garden",
+        "woodland"
+      ],
+      "description": "a round leafy green bush",
+      "files": {
+        "model": "models/poly-google/Prop/bush.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/bush.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.2
+      },
+      "budget": {
+        "triangles": 470,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Oak tree by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/0DtsZfSTWzA",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/bush/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/bush/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/bush/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/bush/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/cabbage",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Cabbage",
+      "themes": [
+        "food",
+        "farm",
+        "garden"
+      ],
+      "description": "a round pale green cabbage",
+      "files": {
+        "model": "models/poly-google/Prop/cabbage.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/cabbage.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.2
+      },
+      "budget": {
+        "triangles": 704,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Cabbage by jeremy, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/dNUS4xC0D6C",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/cabbage/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/cabbage/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/cabbage/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/cabbage/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/carrot",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Carrot",
+      "themes": [
+        "food",
+        "plants",
+        "farm"
+      ],
+      "description": "an orange carrot with its green leaves",
+      "files": {
+        "model": "models/poly-google/Prop/carrot.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/carrot.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.25
+      },
+      "budget": {
+        "triangles": 598,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Carrot by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/3oFkNid6ofx",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/carrot/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/carrot/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/carrot/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/carrot/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/cherries",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Cherries",
+      "themes": [
+        "food"
+      ],
+      "description": "two dark red cherries on their stalks",
+      "files": {
+        "model": "models/poly-google/Prop/cherries.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/cherries.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.08
+      },
+      "budget": {
+        "triangles": 568,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Cherry by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/8BsjISKsNIz",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/cherries/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/cherries/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/cherries/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/cherries/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/corn-on-the-cob",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Corn on the cob",
+      "themes": [
+        "food",
+        "plants",
+        "farm"
+      ],
+      "description": "a yellow corn cob in its green husk",
+      "files": {
+        "model": "models/poly-google/Prop/corn-on-the-cob.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/corn-on-the-cob.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.25
+      },
+      "budget": {
+        "triangles": 1168,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Ear of corn by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/3zsUEPnTdFt",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/corn-on-the-cob/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/corn-on-the-cob/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/corn-on-the-cob/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/corn-on-the-cob/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/cucumber",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Cucumber",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a green cucumber",
+      "files": {
+        "model": "models/poly-google/Prop/cucumber.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/cucumber.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.05
+      },
+      "budget": {
+        "triangles": 144,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Cucumber by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/6tIy7yd7SPa",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/cucumber/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/cucumber/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/cucumber/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/cucumber/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/daffodils",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Daffodils",
+      "themes": [
+        "plants",
+        "garden"
+      ],
+      "description": "yellow daffodils in a patch of earth",
+      "files": {
+        "model": "models/poly-google/Prop/daffodils.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/daffodils.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.35
+      },
+      "budget": {
+        "triangles": 5872,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Daffodil by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/2Gw0Pca1YRS",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/daffodils/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/daffodils/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/daffodils/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/daffodils/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/daisy",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Daisy",
+      "themes": [
+        "plants",
+        "garden"
+      ],
+      "description": "a white daisy with a yellow centre",
+      "files": {
+        "model": "models/poly-google/Prop/daisy.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/daisy.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 496,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Daisy by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/cuayhwWYHet",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/daisy/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/daisy/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/daisy/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/daisy/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/field-of-corn",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Field of corn",
+      "themes": [
+        "plants",
+        "farm",
+        "countryside"
+      ],
+      "description": "rows of tall maize plants",
+      "files": {
+        "model": "models/poly-google/Prop/field-of-corn.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/field-of-corn.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 2
+      },
+      "budget": {
+        "triangles": 8448,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Field of corn by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/dE73diXi82k",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/field-of-corn/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/field-of-corn/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/field-of-corn/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/field-of-corn/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/field-of-wheat",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Field of wheat",
+      "themes": [
+        "plants",
+        "farm",
+        "countryside"
+      ],
+      "description": "a patch of golden wheat",
+      "files": {
+        "model": "models/poly-google/Prop/field-of-wheat.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/field-of-wheat.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 4385,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Field of wheat by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/eWhaaKNh755",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/field-of-wheat/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/field-of-wheat/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/field-of-wheat/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/field-of-wheat/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/flag",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Flag",
+      "themes": [
+        "space",
+        "adventure"
+      ],
+      "description": "a white pennant on a tall pole",
+      "files": {
+        "model": "models/poly-google/Prop/flag.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/flag.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 2.5
+      },
+      "budget": {
+        "triangles": 2284,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Flag by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/0okBVouy3-T",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/flag/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/flag/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/flag/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/flag/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/flowering-cactus",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Flowering cactus",
+      "themes": [
+        "plants",
+        "desert"
+      ],
+      "description": "a ribbed cactus with a pink flower",
+      "files": {
+        "model": "models/poly-google/Prop/flowering-cactus.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/flowering-cactus.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.6
+      },
+      "budget": {
+        "triangles": 404,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Cactus by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/9UCcl_W0Xq3",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/flowering-cactus/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/flowering-cactus/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/flowering-cactus/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/flowering-cactus/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/grapes",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Grapes",
+      "themes": [
+        "food"
+      ],
+      "description": "a bunch of purple grapes",
+      "files": {
+        "model": "models/poly-google/Prop/grapes.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/grapes.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.18
+      },
+      "budget": {
+        "triangles": 2064,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Grapes by jeremy, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/csU4Smr2_aV",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/grapes/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/grapes/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/grapes/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/grapes/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/green-pepper",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Green pepper",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a shiny green pepper",
+      "files": {
+        "model": "models/poly-google/Prop/green-pepper.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/green-pepper.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.12
+      },
+      "budget": {
+        "triangles": 630,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Green Pepper by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/5d6zv4Ow2tO",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/green-pepper/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/green-pepper/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/green-pepper/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/green-pepper/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/hibiscus",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Hibiscus",
+      "themes": [
+        "plants",
+        "jungle",
+        "garden"
+      ],
+      "description": "a big orange hibiscus flower",
+      "files": {
+        "model": "models/poly-google/Prop/hibiscus.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/hibiscus.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.25
+      },
+      "budget": {
+        "triangles": 1160,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Flower by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/fg5U0dl1Sd3",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/hibiscus/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/hibiscus/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/hibiscus/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/hibiscus/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/lettuce",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Lettuce",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a head of lettuce",
+      "files": {
+        "model": "models/poly-google/Prop/lettuce.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/lettuce.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.25
+      },
+      "budget": {
+        "triangles": 812,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Head of lettuce by jeremy, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/7_SB4QHJvBR",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/lettuce/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/lettuce/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/lettuce/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/lettuce/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/map",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Map",
+      "themes": [
+        "adventure",
+        "geography",
+        "school"
+      ],
+      "description": "a map of the world, opened flat",
+      "files": {
+        "model": "models/poly-google/Prop/map.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/map.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.01
+      },
+      "budget": {
+        "triangles": 480,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Map by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/bU3B6P0ngfi",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/map/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/map/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/map/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/map/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/orchid",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Orchid",
+      "themes": [
+        "plants",
+        "home"
+      ],
+      "description": "a purple orchid in a white pot",
+      "files": {
+        "model": "models/poly-google/Prop/orchid.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/orchid.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.5
+      },
+      "budget": {
+        "triangles": 3497,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Orchid by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/ef9ozEPNGk5",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/orchid/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/orchid/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/orchid/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/orchid/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/potato",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Potato",
+      "themes": [
+        "food",
+        "farm"
+      ],
+      "description": "a brown potato",
+      "files": {
+        "model": "models/poly-google/Prop/potato.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/potato.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.07
+      },
+      "budget": {
+        "triangles": 212,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Potato by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/2zXFdq69HNj",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/potato/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/potato/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/potato/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/potato/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/prickly-pear",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Prickly pear",
+      "themes": [
+        "plants",
+        "desert"
+      ],
+      "description": "a prickly pear cactus with flat paddles and a flower",
+      "files": {
+        "model": "models/poly-google/Prop/prickly-pear.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/prickly-pear.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 1028,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Prickly pear cactus by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/47Af27jQemx",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/prickly-pear/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/prickly-pear/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/prickly-pear/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/prickly-pear/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/pumpkin",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Pumpkin",
+      "themes": [
+        "plants",
+        "farm",
+        "autumn"
+      ],
+      "description": "a big orange pumpkin",
+      "files": {
+        "model": "models/poly-google/Prop/pumpkin.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/pumpkin.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 912,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Pumpkin by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/bn33F2RDgGD",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/pumpkin/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/pumpkin/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/pumpkin/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/pumpkin/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/rose-bush",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Rose bush",
+      "themes": [
+        "plants",
+        "garden",
+        "fairy tale"
+      ],
+      "description": "a climbing rose with red flowers",
+      "files": {
+        "model": "models/poly-google/Prop/rose-bush.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/rose-bush.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.8
+      },
+      "budget": {
+        "triangles": 4336,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Rose bush by jeremy, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/aHGWuZ3PD4s",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/rose-bush/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/rose-bush/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/rose-bush/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/rose-bush/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/saguaro-cactus",
+      "section": "set",
+      "class": "Prop",
+      "displayName": "Saguaro cactus",
+      "themes": [
+        "plants",
+        "desert",
+        "wild west"
+      ],
+      "description": "a tall cactus with arms curving upwards",
+      "files": {
+        "model": "models/poly-google/Prop/saguaro-cactus.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/saguaro-cactus.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 3
+      },
+      "budget": {
+        "triangles": 592,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Cactus by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/1_3Ur2-LAs8",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/saguaro-cactus/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/saguaro-cactus/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/saguaro-cactus/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/saguaro-cactus/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/strawberry",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Strawberry",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a red strawberry with green leaves",
+      "files": {
+        "model": "models/poly-google/Prop/strawberry.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/strawberry.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.04
+      },
+      "budget": {
+        "triangles": 212,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Strawberry by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/4W3g1NixX1K",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/strawberry/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/strawberry/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/strawberry/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/strawberry/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/sunflower",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Sunflower",
+      "themes": [
+        "plants",
+        "garden",
+        "farm"
+      ],
+      "description": "a tall sunflower with a big brown centre",
+      "files": {
+        "model": "models/poly-google/Prop/sunflower.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/sunflower.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.8
+      },
+      "budget": {
+        "triangles": 340,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Sunflower by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/ce4GXw3VYE5",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/sunflower/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/sunflower/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/sunflower/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/sunflower/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/telescope",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Telescope",
+      "themes": [
+        "space",
+        "night",
+        "science"
+      ],
+      "description": "a telescope on a tripod",
+      "files": {
+        "model": "models/poly-google/Prop/telescope.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/telescope.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.5
+      },
+      "budget": {
+        "triangles": 3474,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Telescope by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/1ZoSwQQOBJX",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/telescope/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/telescope/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/telescope/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/telescope/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/toadstools",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Toadstools",
+      "themes": [
+        "plants",
+        "woodland",
+        "fairy tale"
+      ],
+      "description": "three spotted toadstools: red, yellow and blue",
+      "files": {
+        "model": "models/poly-google/Prop/toadstools.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/toadstools.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.2
+      },
+      "budget": {
+        "triangles": 7968,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Mushroom by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/01h5sEA40Hp",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/toadstools/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/toadstools/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/toadstools/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/toadstools/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/tomato",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Tomato",
+      "themes": [
+        "food",
+        "garden"
+      ],
+      "description": "a red tomato with a green stalk",
+      "files": {
+        "model": "models/poly-google/Prop/tomato.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/tomato.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.08
+      },
+      "budget": {
+        "triangles": 824,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Tomato by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/0vxjCVR_euD",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/tomato/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/tomato/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/tomato/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/tomato/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Prop/tulips",
+      "section": "props",
+      "class": "Prop",
+      "displayName": "Tulips",
+      "themes": [
+        "plants",
+        "garden"
+      ],
+      "description": "five tulips in a row: white, red, yellow, pink and red",
+      "files": {
+        "model": "models/poly-google/Prop/tulips.glb",
+        "thumbnail": "thumbnails/poly-google/Prop/tulips.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 7880,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Tulips by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/aaJtRIXws3U",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Prop/tulips/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Prop/tulips/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Prop/tulips/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Prop/tulips/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/aardvark",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Aardvark",
+      "themes": [
+        "animals",
+        "savanna",
+        "night"
+      ],
+      "description": "a grey-brown aardvark with a long snout and tall ears",
+      "files": {
+        "model": "models/poly-google/Quadruped/aardvark.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/aardvark.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.6
+      },
+      "budget": {
+        "triangles": 728,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Aardvark by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/f_O3IZGPYvs",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/aardvark/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/aardvark/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/aardvark/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/aardvark/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/ant",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Ant",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a black ant",
+      "files": {
+        "model": "models/poly-google/Quadruped/ant.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/ant.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.03
+      },
+      "budget": {
+        "triangles": 2000,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Ant by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/90PJjBye5ZC",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/ant/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/ant/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/ant/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/ant/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/bactrian-camel",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Bactrian camel",
+      "themes": [
+        "animals",
+        "desert",
+        "mountains"
+      ],
+      "description": "a shaggy brown camel with two humps",
+      "files": {
+        "model": "models/poly-google/Quadruped/bactrian-camel.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/bactrian-camel.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 2
+      },
+      "budget": {
+        "triangles": 1402,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Camel by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/cyuwV4fg0B1",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/bactrian-camel/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/bactrian-camel/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/bactrian-camel/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/bactrian-camel/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/badger",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Badger",
+      "themes": [
+        "animals",
+        "woodland",
+        "night"
+      ],
+      "description": "a grey badger with a black and white striped face",
+      "files": {
+        "model": "models/poly-google/Quadruped/badger.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/badger.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 514,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Badger by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/fXBbhQr-T80",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/badger/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/badger/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/badger/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/badger/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/bear-cub",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Bear cub",
+      "themes": [
+        "animals",
+        "woodland",
+        "fairy tale"
+      ],
+      "description": "a small dark brown bear cub",
+      "files": {
+        "model": "models/poly-google/Quadruped/bear-cub.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/bear-cub.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.5
+      },
+      "budget": {
+        "triangles": 542,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Bear Cub by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/dc_78YWzT_R",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/bear-cub/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/bear-cub/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/bear-cub/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/bear-cub/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/beaver",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Beaver",
+      "themes": [
+        "animals",
+        "river"
+      ],
+      "description": "a brown beaver with a flat tail",
+      "files": {
+        "model": "models/poly-google/Quadruped/beaver.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/beaver.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.35
+      },
+      "budget": {
+        "triangles": 568,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Beaver by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/fwtA7VLrXPr",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/beaver/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/beaver/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/beaver/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/beaver/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/black-bear",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Black bear",
+      "themes": [
+        "animals",
+        "woodland",
+        "mountains"
+      ],
+      "description": "a black bear on all fours",
+      "files": {
+        "model": "models/poly-google/Quadruped/black-bear.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/black-bear.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 666,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Black bear by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/56ym_pyVnel",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/black-bear/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/black-bear/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/black-bear/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/black-bear/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/brown-bear",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Brown bear",
+      "themes": [
+        "animals",
+        "woodland",
+        "fairy tale"
+      ],
+      "description": "a big brown bear on all fours",
+      "files": {
+        "model": "models/poly-google/Quadruped/brown-bear.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/brown-bear.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.2
+      },
+      "budget": {
+        "triangles": 326,
+        "textureMaxPx": 512
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Bear by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/4knUstaaX5C",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/brown-bear/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/brown-bear/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/brown-bear/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/brown-bear/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/camel",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Camel",
+      "themes": [
+        "animals",
+        "desert"
+      ],
+      "description": "a sandy camel with one hump",
+      "files": {
+        "model": "models/poly-google/Quadruped/camel.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/camel.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 2
+      },
+      "budget": {
+        "triangles": 822,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Camel by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/7XeLogrxLad",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/camel/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/camel/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/camel/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/camel/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/crab",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Crab",
+      "themes": [
+        "animals",
+        "sea",
+        "beach"
+      ],
+      "description": "an orange crab with big claws",
+      "files": {
+        "model": "models/poly-google/Quadruped/crab.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/crab.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.1
+      },
+      "budget": {
+        "triangles": 1340,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Crab by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/1O5Q4pE8X6e",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/crab/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/crab/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/crab/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/crab/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/gazelle",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Gazelle",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a sandy gazelle with curved ringed horns and a dark stripe on its side",
+      "files": {
+        "model": "models/poly-google/Quadruped/gazelle.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/gazelle.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.9
+      },
+      "budget": {
+        "triangles": 810,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Gazelle by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/bPYIQ_XQbrj",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/gazelle/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/gazelle/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/gazelle/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/gazelle/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/gorilla",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Gorilla",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "a black gorilla with a silver back, leaning on its knuckles",
+      "files": {
+        "model": "models/poly-google/Quadruped/gorilla.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/gorilla.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.4
+      },
+      "budget": {
+        "triangles": 576,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Gorilla by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/bmfQ1j9CeO2",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/gorilla/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/gorilla/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/gorilla/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/gorilla/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/hamster",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Hamster",
+      "themes": [
+        "animals",
+        "pets"
+      ],
+      "description": "a ginger hamster sitting up beside a little blue dish",
+      "files": {
+        "model": "models/poly-google/Quadruped/hamster.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/hamster.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.1
+      },
+      "budget": {
+        "triangles": 1664,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Dog by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/cjsAptT6P9b",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/hamster/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/hamster/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/hamster/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/hamster/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/hedgehog",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Hedgehog",
+      "themes": [
+        "animals",
+        "garden",
+        "woodland"
+      ],
+      "description": "a brown hedgehog with a spiky back",
+      "files": {
+        "model": "models/poly-google/Quadruped/hedgehog.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/hedgehog.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.15
+      },
+      "budget": {
+        "triangles": 376,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Hedgehog by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/8UNni5IvK_c",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/hedgehog/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/hedgehog/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/hedgehog/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/hedgehog/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/jaguar",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Jaguar",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "a golden jaguar with black spots",
+      "files": {
+        "model": "models/poly-google/Quadruped/jaguar.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/jaguar.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.7
+      },
+      "budget": {
+        "triangles": 1020,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Jaguar by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/4fb-oMr2uUF",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/jaguar/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/jaguar/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/jaguar/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/jaguar/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/kangaroo",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Kangaroo",
+      "themes": [
+        "animals",
+        "outback"
+      ],
+      "description": "a tan kangaroo with a long tail",
+      "files": {
+        "model": "models/poly-google/Quadruped/kangaroo.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/kangaroo.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.5
+      },
+      "budget": {
+        "triangles": 760,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Kangaroo by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/7BiPR-oOGgX",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/kangaroo/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/kangaroo/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/kangaroo/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/kangaroo/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/lion",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Lion",
+      "themes": [
+        "animals",
+        "savanna"
+      ],
+      "description": "a lion with a big shaggy mane",
+      "files": {
+        "model": "models/poly-google/Quadruped/lion.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/lion.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1.1
+      },
+      "budget": {
+        "triangles": 1350,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Lion by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/3XAJojWxSWz",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/lion/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/lion/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/lion/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/lion/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/monkey",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Monkey",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "a small black monkey with a white face and a long tail",
+      "files": {
+        "model": "models/poly-google/Quadruped/monkey.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/monkey.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.45
+      },
+      "budget": {
+        "triangles": 1478,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Capuchin by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/29hG1_J1Uiq",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/monkey/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/monkey/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/monkey/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/monkey/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/mouse",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Mouse",
+      "themes": [
+        "animals",
+        "garden",
+        "town"
+      ],
+      "description": "a small grey-brown mouse with a long tail",
+      "files": {
+        "model": "models/poly-google/Quadruped/mouse.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/mouse.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.08
+      },
+      "budget": {
+        "triangles": 568,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Mouse by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/cWxdxmp7yaE",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/mouse/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/mouse/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/mouse/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/mouse/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/orangutan",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Orangutan",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "an orange orangutan with long arms",
+      "files": {
+        "model": "models/poly-google/Quadruped/orangutan.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/orangutan.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.9
+      },
+      "budget": {
+        "triangles": 628,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Ape by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/2wRk-94IPnU",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/orangutan/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/orangutan/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/orangutan/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/orangutan/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/panda",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Panda",
+      "themes": [
+        "animals",
+        "forest",
+        "mountains"
+      ],
+      "description": "a black and white giant panda on all fours",
+      "files": {
+        "model": "models/poly-google/Quadruped/panda.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/panda.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.9
+      },
+      "budget": {
+        "triangles": 780,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Panda by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/2T6A0o4Kq2h",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/panda/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/panda/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/panda/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/panda/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/pig",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Pig",
+      "themes": [
+        "animals",
+        "farm"
+      ],
+      "description": "a pink pig with a curly tail",
+      "files": {
+        "model": "models/poly-google/Quadruped/pig.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/pig.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.9
+      },
+      "budget": {
+        "triangles": 608,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Pig by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/6XC3XssJIU_",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/pig/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/pig/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/pig/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/pig/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/porcupine",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Porcupine",
+      "themes": [
+        "animals",
+        "woodland"
+      ],
+      "description": "a dark porcupine covered in long quills",
+      "files": {
+        "model": "models/poly-google/Quadruped/porcupine.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/porcupine.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 1728,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Porcupine by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/17NdW1sy5PC",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/porcupine/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/porcupine/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/porcupine/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/porcupine/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/raccoon",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Raccoon",
+      "themes": [
+        "animals",
+        "woodland",
+        "town"
+      ],
+      "description": "a grey raccoon with a dark mask and a ringed tail",
+      "files": {
+        "model": "models/poly-google/Quadruped/raccoon.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/raccoon.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 807,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Raccoon by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/5_mL2EUPZ1N",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/raccoon/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/raccoon/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/raccoon/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/raccoon/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/red-squirrel",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Red squirrel",
+      "themes": [
+        "animals",
+        "woodland",
+        "park"
+      ],
+      "description": "an orange squirrel sitting up with a big bushy tail",
+      "files": {
+        "model": "models/poly-google/Quadruped/red-squirrel.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/red-squirrel.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.25
+      },
+      "budget": {
+        "triangles": 292,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Squirrel by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/64Yw0UoayhC",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/red-squirrel/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/red-squirrel/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/red-squirrel/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/red-squirrel/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/tiger",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Tiger",
+      "themes": [
+        "animals",
+        "jungle"
+      ],
+      "description": "an orange tiger with black stripes",
+      "files": {
+        "model": "models/poly-google/Quadruped/tiger.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/tiger.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 1
+      },
+      "budget": {
+        "triangles": 742,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Tiger by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/5A3w06FXUup",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/tiger/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/tiger/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/tiger/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/tiger/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/tortoise",
+      "section": "cast",
+      "class": "Quadruped",
+      "displayName": "Tortoise",
+      "themes": [
+        "animals",
+        "pets",
+        "garden"
+      ],
+      "description": "a tortoise with a domed brown shell",
+      "files": {
+        "model": "models/poly-google/Quadruped/tortoise.glb",
+        "thumbnail": "thumbnails/poly-google/Quadruped/tortoise.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.25
+      },
+      "budget": {
+        "triangles": 1468,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Turtle by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/bXreDp3oSqy",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Quadruped/tortoise/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Quadruped/tortoise/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Quadruped/tortoise/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Quadruped/tortoise/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Slitherer/earthworm",
+      "section": "cast",
+      "class": "Slitherer",
+      "displayName": "Earthworm",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a pink earthworm",
+      "files": {
+        "model": "models/poly-google/Slitherer/earthworm.glb",
+        "thumbnail": "thumbnails/poly-google/Slitherer/earthworm.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.03
+      },
+      "budget": {
+        "triangles": 3617,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Earthworm by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/6Isq2Aqy4MR",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Slitherer/earthworm/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Slitherer/earthworm/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Slitherer/earthworm/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Slitherer/earthworm/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Slitherer/snail",
+      "section": "cast",
+      "class": "Slitherer",
+      "displayName": "Snail",
+      "themes": [
+        "animals",
+        "minibeasts",
+        "garden"
+      ],
+      "description": "a garden snail with a brown spiral shell",
+      "files": {
+        "model": "models/poly-google/Slitherer/snail.glb",
+        "thumbnail": "thumbnails/poly-google/Slitherer/snail.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.08
+      },
+      "budget": {
+        "triangles": 399,
+        "textureMaxPx": 32
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Snail by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/aZ_cT-AIu2y",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Slitherer/snail/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Slitherer/snail/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Slitherer/snail/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Slitherer/snail/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/crayfish",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Crayfish",
+      "themes": [
+        "animals",
+        "river",
+        "pond"
+      ],
+      "description": "a red crayfish with long feelers and big claws",
+      "files": {
+        "model": "models/poly-google/Swimmer/crayfish.glb",
+        "thumbnail": "thumbnails/poly-google/Swimmer/crayfish.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.1
+      },
+      "budget": {
+        "triangles": 1556,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Crawfish by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/ct4Z0kUIHdT",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Swimmer/crayfish/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Swimmer/crayfish/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Swimmer/crayfish/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Swimmer/crayfish/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/goldfish",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Goldfish",
+      "themes": [
+        "animals",
+        "pets",
+        "pond"
+      ],
+      "description": "a golden goldfish with a big tail",
+      "files": {
+        "model": "models/poly-google/Swimmer/goldfish.glb",
+        "thumbnail": "thumbnails/poly-google/Swimmer/goldfish.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.15
+      },
+      "budget": {
+        "triangles": 1036,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Goldfish by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/0bOZGc8ONrx",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Swimmer/goldfish/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Swimmer/goldfish/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Swimmer/goldfish/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Swimmer/goldfish/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/octopus",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Octopus",
+      "themes": [
+        "animals",
+        "sea"
+      ],
+      "description": "a pink octopus with curling arms",
+      "files": {
+        "model": "models/poly-google/Swimmer/octopus.glb",
+        "thumbnail": "thumbnails/poly-google/Swimmer/octopus.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.4
+      },
+      "budget": {
+        "triangles": 754,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Octopus by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/9-b6-yqrwEe",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Swimmer/octopus/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Swimmer/octopus/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Swimmer/octopus/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Swimmer/octopus/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/sea-lion",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Sea lion",
+      "themes": [
+        "animals",
+        "sea",
+        "beach"
+      ],
+      "description": "a dark brown sea lion sitting up on its flippers",
+      "files": {
+        "model": "models/poly-google/Swimmer/sea-lion.glb",
+        "thumbnail": "thumbnails/poly-google/Swimmer/sea-lion.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.9
+      },
+      "budget": {
+        "triangles": 714,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Sea lion by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/45HRvXYpvUG",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Swimmer/sea-lion/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Swimmer/sea-lion/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Swimmer/sea-lion/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Swimmer/sea-lion/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/sea-turtle",
+      "section": "cast",
+      "class": "Swimmer",
+      "displayName": "Sea turtle",
+      "themes": [
+        "animals",
+        "sea",
+        "beach"
+      ],
+      "description": "a yellow-green sea turtle with long flippers",
+      "files": {
+        "model": "models/poly-google/Swimmer/sea-turtle.glb",
+        "thumbnail": "thumbnails/poly-google/Swimmer/sea-turtle.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 0.3
+      },
+      "budget": {
+        "triangles": 1788,
+        "textureMaxPx": 0
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Turtle by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/fklSEvGm1Q8",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Swimmer/sea-turtle/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Swimmer/sea-turtle/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Swimmer/sea-turtle/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Swimmer/sea-turtle/back.svg"
+        }
+      ]
+    },
+    {
+      "id": "poly-google/Transport/space-shuttle",
+      "section": "set",
+      "class": "Transport",
+      "displayName": "Space shuttle",
+      "themes": [
+        "space",
+        "transport"
+      ],
+      "description": "a white space shuttle on its orange fuel tank, between two rocket boosters, ready to launch",
+      "files": {
+        "model": "models/poly-google/Transport/space-shuttle.glb",
+        "thumbnail": "thumbnails/poly-google/Transport/space-shuttle.webp"
+      },
+      "joints": "prop-only",
+      "defaultSize": {
+        "height": 56
+      },
+      "budget": {
+        "triangles": 1472,
+        "textureMaxPx": 1024
+      },
+      "licence": "CC-BY-3.0",
+      "credit": "Space Shuttle by Google, CC BY 3.0, via Poly Pizza, changed for StoryStage",
+      "source": {
+        "url": "https://poly.pizza/m/djxolbz_CYC",
+        "retrieved": "2026-11-21"
+      },
+      "origin": "shipped",
+      "sketches": [
+        {
+          "facing": "front",
+          "file": "sketches/poly-google/Transport/space-shuttle/front.svg"
+        },
+        {
+          "facing": "threeQuarter",
+          "file": "sketches/poly-google/Transport/space-shuttle/threeQuarter.svg"
+        },
+        {
+          "facing": "side",
+          "file": "sketches/poly-google/Transport/space-shuttle/side.svg"
+        },
+        {
+          "facing": "back",
+          "file": "sketches/poly-google/Transport/space-shuttle/back.svg"
+        }
+      ]
+    },
+    {
       "id": "polyhaven/Prop/anthurium",
       "section": "props",
       "class": "Prop",
