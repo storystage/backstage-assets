@@ -4809,6 +4809,45 @@
       ]
     },
     {
+      "id": "poly-google/Biped/astronaut",
+      "section": "cast",
+      "class": "Biped",
+      "name": "Astronaut",
+      "joints": "none",
+      "line": "poly-google/Biped/astronaut: Astronaut, an astronaut in a white spacesuit with a dark visor [space, adults] 1.8 m, no joints",
+      "short": "poly-google/Biped/astronaut: Astronaut (no joints)",
+      "words": [
+        "astronaut",
+        "white",
+        "spacesuit",
+        "dark",
+        "visor",
+        "space",
+        "adults",
+        "biped"
+      ]
+    },
+    {
+      "id": "poly-google/Biped/chimpanzee",
+      "section": "cast",
+      "class": "Biped",
+      "name": "Chimpanzee",
+      "joints": "none",
+      "line": "poly-google/Biped/chimpanzee: Chimpanzee, a black chimpanzee standing up with long arms [animals, jungle] 1.2 m, no joints",
+      "short": "poly-google/Biped/chimpanzee: Chimpanzee (no joints)",
+      "words": [
+        "chimpanzee",
+        "black",
+        "standing",
+        "up",
+        "long",
+        "arms",
+        "animals",
+        "jungle",
+        "biped"
+      ]
+    },
+    {
       "id": "sketchfab/Biped/grandmother",
       "section": "cast",
       "class": "Biped",
@@ -5366,6 +5405,67 @@
       ]
     },
     {
+      "id": "poly-google/Flyer/emu",
+      "section": "cast",
+      "class": "Flyer",
+      "name": "Emu",
+      "joints": "none",
+      "line": "poly-google/Flyer/emu: Emu, a tall shaggy brown emu with long legs [animals, outback] 1.7 m, no joints",
+      "short": "poly-google/Flyer/emu: Emu (no joints)",
+      "words": [
+        "emu",
+        "tall",
+        "shaggy",
+        "brown",
+        "long",
+        "legs",
+        "animals",
+        "outback",
+        "flyer"
+      ]
+    },
+    {
+      "id": "poly-google/Flyer/goose",
+      "section": "cast",
+      "class": "Flyer",
+      "name": "Goose",
+      "joints": "none",
+      "line": "poly-google/Flyer/goose: Goose, a goose with a black neck and a white chin strap [animals, farm, pond] 0.8 m, no joints",
+      "short": "poly-google/Flyer/goose: Goose (no joints)",
+      "words": [
+        "goose",
+        "black",
+        "neck",
+        "white",
+        "chin",
+        "strap",
+        "animals",
+        "farm",
+        "pond",
+        "flyer"
+      ]
+    },
+    {
+      "id": "poly-google/Flyer/parrot",
+      "section": "cast",
+      "class": "Flyer",
+      "name": "Parrot",
+      "joints": "none",
+      "line": "poly-google/Flyer/parrot: Parrot, a red parrot with blue and yellow wings [animals, jungle, pirates] 0.5 m, no joints",
+      "short": "poly-google/Flyer/parrot: Parrot (no joints)",
+      "words": [
+        "parrot",
+        "red",
+        "blue",
+        "yellow",
+        "wings",
+        "animals",
+        "jungle",
+        "pirates",
+        "flyer"
+      ]
+    },
+    {
       "id": "sketchfab/Flyer/african-penguin",
       "section": "cast",
       "class": "Flyer",
@@ -5862,6 +5962,539 @@
       ]
     },
     {
+      "id": "poly-google/Quadruped/aardvark",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Aardvark",
+      "joints": "none",
+      "line": "poly-google/Quadruped/aardvark: Aardvark, a grey-brown aardvark with a long snout and tall ears [animals, savanna, night] 0.6 m, no joints",
+      "short": "poly-google/Quadruped/aardvark: Aardvark (no joints)",
+      "words": [
+        "aardvark",
+        "grey",
+        "brown",
+        "long",
+        "snout",
+        "tall",
+        "ears",
+        "animals",
+        "savanna",
+        "night",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/ant",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Ant",
+      "joints": "none",
+      "line": "poly-google/Quadruped/ant: Ant, a black ant [animals, minibeasts, garden] 0.03 m, no joints",
+      "short": "poly-google/Quadruped/ant: Ant (no joints)",
+      "words": [
+        "ant",
+        "black",
+        "animals",
+        "minibeasts",
+        "garden",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/bactrian-camel",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Bactrian camel",
+      "joints": "none",
+      "line": "poly-google/Quadruped/bactrian-camel: Bactrian camel, a shaggy brown camel with two humps [animals, desert, mountains] 2 m, no joints",
+      "short": "poly-google/Quadruped/bactrian-camel: Bactrian camel (no joints)",
+      "words": [
+        "bactrian",
+        "camel",
+        "shaggy",
+        "brown",
+        "two",
+        "humps",
+        "animals",
+        "desert",
+        "mountains",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/badger",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Badger",
+      "joints": "none",
+      "line": "poly-google/Quadruped/badger: Badger, a grey badger with a black and white striped face [animals, woodland, night] 0.3 m, no joints",
+      "short": "poly-google/Quadruped/badger: Badger (no joints)",
+      "words": [
+        "badger",
+        "grey",
+        "black",
+        "white",
+        "striped",
+        "face",
+        "animals",
+        "woodland",
+        "night",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/bear-cub",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Bear cub",
+      "joints": "none",
+      "line": "poly-google/Quadruped/bear-cub: Bear cub, a small dark brown bear cub [animals, woodland, fairy tale] 0.5 m, no joints",
+      "short": "poly-google/Quadruped/bear-cub: Bear cub (no joints)",
+      "words": [
+        "bear",
+        "cub",
+        "small",
+        "dark",
+        "brown",
+        "animals",
+        "woodland",
+        "fairy",
+        "tale",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/beaver",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Beaver",
+      "joints": "none",
+      "line": "poly-google/Quadruped/beaver: Beaver, a brown beaver with a flat tail [animals, river] 0.35 m, no joints",
+      "short": "poly-google/Quadruped/beaver: Beaver (no joints)",
+      "words": [
+        "beaver",
+        "brown",
+        "flat",
+        "tail",
+        "animals",
+        "river",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/black-bear",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Black bear",
+      "joints": "none",
+      "line": "poly-google/Quadruped/black-bear: Black bear, a black bear on all fours [animals, woodland, mountains] 1 m, no joints",
+      "short": "poly-google/Quadruped/black-bear: Black bear (no joints)",
+      "words": [
+        "black",
+        "bear",
+        "all",
+        "fours",
+        "animals",
+        "woodland",
+        "mountains",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/brown-bear",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Brown bear",
+      "joints": "none",
+      "line": "poly-google/Quadruped/brown-bear: Brown bear, a big brown bear on all fours [animals, woodland, fairy tale] 1.2 m, no joints",
+      "short": "poly-google/Quadruped/brown-bear: Brown bear (no joints)",
+      "words": [
+        "brown",
+        "bear",
+        "big",
+        "all",
+        "fours",
+        "animals",
+        "woodland",
+        "fairy",
+        "tale",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/camel",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Camel",
+      "joints": "none",
+      "line": "poly-google/Quadruped/camel: Camel, a sandy camel with one hump [animals, desert] 2 m, no joints",
+      "short": "poly-google/Quadruped/camel: Camel (no joints)",
+      "words": [
+        "camel",
+        "sandy",
+        "one",
+        "hump",
+        "animals",
+        "desert",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/crab",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Crab",
+      "joints": "none",
+      "line": "poly-google/Quadruped/crab: Crab, an orange crab with big claws [animals, sea, beach] 0.1 m, no joints",
+      "short": "poly-google/Quadruped/crab: Crab (no joints)",
+      "words": [
+        "crab",
+        "orange",
+        "big",
+        "claws",
+        "animals",
+        "sea",
+        "beach",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/gazelle",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Gazelle",
+      "joints": "none",
+      "line": "poly-google/Quadruped/gazelle: Gazelle, a sandy gazelle with curved ringed horns and a dark stripe on its side [animals, savanna] 0.9 m, no joints",
+      "short": "poly-google/Quadruped/gazelle: Gazelle (no joints)",
+      "words": [
+        "gazelle",
+        "sandy",
+        "curved",
+        "ringed",
+        "horns",
+        "dark",
+        "stripe",
+        "side",
+        "animals",
+        "savanna",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/gorilla",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Gorilla",
+      "joints": "none",
+      "line": "poly-google/Quadruped/gorilla: Gorilla, a black gorilla with a silver back, leaning on its knuckles [animals, jungle] 1.4 m, no joints",
+      "short": "poly-google/Quadruped/gorilla: Gorilla (no joints)",
+      "words": [
+        "gorilla",
+        "black",
+        "silver",
+        "back",
+        "leaning",
+        "knuckles",
+        "animals",
+        "jungle",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/hamster",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Hamster",
+      "joints": "none",
+      "line": "poly-google/Quadruped/hamster: Hamster, a ginger hamster sitting up beside a little blue dish [animals, pets] 0.1 m, no joints",
+      "short": "poly-google/Quadruped/hamster: Hamster (no joints)",
+      "words": [
+        "hamster",
+        "ginger",
+        "sitting",
+        "up",
+        "beside",
+        "little",
+        "blue",
+        "dish",
+        "animals",
+        "pets",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/hedgehog",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Hedgehog",
+      "joints": "none",
+      "line": "poly-google/Quadruped/hedgehog: Hedgehog, a brown hedgehog with a spiky back [animals, garden, woodland] 0.15 m, no joints",
+      "short": "poly-google/Quadruped/hedgehog: Hedgehog (no joints)",
+      "words": [
+        "hedgehog",
+        "brown",
+        "spiky",
+        "back",
+        "animals",
+        "garden",
+        "woodland",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/jaguar",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Jaguar",
+      "joints": "none",
+      "line": "poly-google/Quadruped/jaguar: Jaguar, a golden jaguar with black spots [animals, jungle] 0.7 m, no joints",
+      "short": "poly-google/Quadruped/jaguar: Jaguar (no joints)",
+      "words": [
+        "jaguar",
+        "golden",
+        "black",
+        "spots",
+        "animals",
+        "jungle",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/kangaroo",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Kangaroo",
+      "joints": "none",
+      "line": "poly-google/Quadruped/kangaroo: Kangaroo, a tan kangaroo with a long tail [animals, outback] 1.5 m, no joints",
+      "short": "poly-google/Quadruped/kangaroo: Kangaroo (no joints)",
+      "words": [
+        "kangaroo",
+        "tan",
+        "long",
+        "tail",
+        "animals",
+        "outback",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/lion",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Lion",
+      "joints": "none",
+      "line": "poly-google/Quadruped/lion: Lion, a lion with a big shaggy mane [animals, savanna] 1.1 m, no joints",
+      "short": "poly-google/Quadruped/lion: Lion (no joints)",
+      "words": [
+        "lion",
+        "big",
+        "shaggy",
+        "mane",
+        "animals",
+        "savanna",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/monkey",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Monkey",
+      "joints": "none",
+      "line": "poly-google/Quadruped/monkey: Monkey, a small black monkey with a white face and a long tail [animals, jungle] 0.45 m, no joints",
+      "short": "poly-google/Quadruped/monkey: Monkey (no joints)",
+      "words": [
+        "monkey",
+        "small",
+        "black",
+        "white",
+        "face",
+        "long",
+        "tail",
+        "animals",
+        "jungle",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/mouse",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Mouse",
+      "joints": "none",
+      "line": "poly-google/Quadruped/mouse: Mouse, a small grey-brown mouse with a long tail [animals, garden, town] 0.08 m, no joints",
+      "short": "poly-google/Quadruped/mouse: Mouse (no joints)",
+      "words": [
+        "mouse",
+        "small",
+        "grey",
+        "brown",
+        "long",
+        "tail",
+        "animals",
+        "garden",
+        "town",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/orangutan",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Orangutan",
+      "joints": "none",
+      "line": "poly-google/Quadruped/orangutan: Orangutan, an orange orangutan with long arms [animals, jungle] 0.9 m, no joints",
+      "short": "poly-google/Quadruped/orangutan: Orangutan (no joints)",
+      "words": [
+        "orangutan",
+        "orange",
+        "long",
+        "arms",
+        "animals",
+        "jungle",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/panda",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Panda",
+      "joints": "none",
+      "line": "poly-google/Quadruped/panda: Panda, a black and white giant panda on all fours [animals, forest, mountains] 0.9 m, no joints",
+      "short": "poly-google/Quadruped/panda: Panda (no joints)",
+      "words": [
+        "panda",
+        "black",
+        "white",
+        "giant",
+        "all",
+        "fours",
+        "animals",
+        "forest",
+        "mountains",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/pig",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Pig",
+      "joints": "none",
+      "line": "poly-google/Quadruped/pig: Pig, a pink pig with a curly tail [animals, farm] 0.9 m, no joints",
+      "short": "poly-google/Quadruped/pig: Pig (no joints)",
+      "words": [
+        "pig",
+        "pink",
+        "curly",
+        "tail",
+        "animals",
+        "farm",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/porcupine",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Porcupine",
+      "joints": "none",
+      "line": "poly-google/Quadruped/porcupine: Porcupine, a dark porcupine covered in long quills [animals, woodland] 0.4 m, no joints",
+      "short": "poly-google/Quadruped/porcupine: Porcupine (no joints)",
+      "words": [
+        "porcupine",
+        "dark",
+        "covered",
+        "long",
+        "quills",
+        "animals",
+        "woodland",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/raccoon",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Raccoon",
+      "joints": "none",
+      "line": "poly-google/Quadruped/raccoon: Raccoon, a grey raccoon with a dark mask and a ringed tail [animals, woodland, town] 0.3 m, no joints",
+      "short": "poly-google/Quadruped/raccoon: Raccoon (no joints)",
+      "words": [
+        "raccoon",
+        "grey",
+        "dark",
+        "mask",
+        "ringed",
+        "tail",
+        "animals",
+        "woodland",
+        "town",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/red-squirrel",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Red squirrel",
+      "joints": "none",
+      "line": "poly-google/Quadruped/red-squirrel: Red squirrel, an orange squirrel sitting up with a big bushy tail [animals, woodland, park] 0.25 m, no joints",
+      "short": "poly-google/Quadruped/red-squirrel: Red squirrel (no joints)",
+      "words": [
+        "red",
+        "squirrel",
+        "orange",
+        "sitting",
+        "up",
+        "big",
+        "bushy",
+        "tail",
+        "animals",
+        "woodland",
+        "park",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/tiger",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Tiger",
+      "joints": "none",
+      "line": "poly-google/Quadruped/tiger: Tiger, an orange tiger with black stripes [animals, jungle] 1 m, no joints",
+      "short": "poly-google/Quadruped/tiger: Tiger (no joints)",
+      "words": [
+        "tiger",
+        "orange",
+        "black",
+        "stripes",
+        "animals",
+        "jungle",
+        "quadruped"
+      ]
+    },
+    {
+      "id": "poly-google/Quadruped/tortoise",
+      "section": "cast",
+      "class": "Quadruped",
+      "name": "Tortoise",
+      "joints": "none",
+      "line": "poly-google/Quadruped/tortoise: Tortoise, a tortoise with a domed brown shell [animals, pets, garden] 0.25 m, no joints",
+      "short": "poly-google/Quadruped/tortoise: Tortoise (no joints)",
+      "words": [
+        "tortoise",
+        "domed",
+        "brown",
+        "shell",
+        "animals",
+        "pets",
+        "garden",
+        "quadruped"
+      ]
+    },
+    {
       "id": "sketchfab/Quadruped/buffalo",
       "section": "cast",
       "class": "Quadruped",
@@ -6297,6 +6930,42 @@
       ]
     },
     {
+      "id": "poly-google/Slitherer/earthworm",
+      "section": "cast",
+      "class": "Slitherer",
+      "name": "Earthworm",
+      "joints": "none",
+      "line": "poly-google/Slitherer/earthworm: Earthworm, a pink earthworm [animals, minibeasts, garden] 0.03 m, no joints",
+      "short": "poly-google/Slitherer/earthworm: Earthworm (no joints)",
+      "words": [
+        "earthworm",
+        "pink",
+        "animals",
+        "minibeasts",
+        "garden",
+        "slitherer"
+      ]
+    },
+    {
+      "id": "poly-google/Slitherer/snail",
+      "section": "cast",
+      "class": "Slitherer",
+      "name": "Snail",
+      "joints": "none",
+      "line": "poly-google/Slitherer/snail: Snail, a garden snail with a brown spiral shell [animals, minibeasts, garden] 0.08 m, no joints",
+      "short": "poly-google/Slitherer/snail: Snail (no joints)",
+      "words": [
+        "snail",
+        "garden",
+        "brown",
+        "spiral",
+        "shell",
+        "animals",
+        "minibeasts",
+        "slitherer"
+      ]
+    },
+    {
       "id": "gobkit/Swimmer/anglerfish",
       "section": "cast",
       "class": "Swimmer",
@@ -6431,6 +7100,105 @@
         "belly",
         "animals",
         "sea",
+        "swimmer"
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/crayfish",
+      "section": "cast",
+      "class": "Swimmer",
+      "name": "Crayfish",
+      "joints": "none",
+      "line": "poly-google/Swimmer/crayfish: Crayfish, a red crayfish with long feelers and big claws [animals, river, pond] 0.1 m, no joints",
+      "short": "poly-google/Swimmer/crayfish: Crayfish (no joints)",
+      "words": [
+        "crayfish",
+        "red",
+        "long",
+        "feelers",
+        "big",
+        "claws",
+        "animals",
+        "river",
+        "pond",
+        "swimmer"
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/goldfish",
+      "section": "cast",
+      "class": "Swimmer",
+      "name": "Goldfish",
+      "joints": "none",
+      "line": "poly-google/Swimmer/goldfish: Goldfish, a golden goldfish with a big tail [animals, pets, pond] 0.15 m, no joints",
+      "short": "poly-google/Swimmer/goldfish: Goldfish (no joints)",
+      "words": [
+        "goldfish",
+        "golden",
+        "big",
+        "tail",
+        "animals",
+        "pets",
+        "pond",
+        "swimmer"
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/octopus",
+      "section": "cast",
+      "class": "Swimmer",
+      "name": "Octopus",
+      "joints": "none",
+      "line": "poly-google/Swimmer/octopus: Octopus, a pink octopus with curling arms [animals, sea] 0.4 m, no joints",
+      "short": "poly-google/Swimmer/octopus: Octopus (no joints)",
+      "words": [
+        "octopus",
+        "pink",
+        "curling",
+        "arms",
+        "animals",
+        "sea",
+        "swimmer"
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/sea-lion",
+      "section": "cast",
+      "class": "Swimmer",
+      "name": "Sea lion",
+      "joints": "none",
+      "line": "poly-google/Swimmer/sea-lion: Sea lion, a dark brown sea lion sitting up on its flippers [animals, sea, beach] 0.9 m, no joints",
+      "short": "poly-google/Swimmer/sea-lion: Sea lion (no joints)",
+      "words": [
+        "sea",
+        "lion",
+        "dark",
+        "brown",
+        "sitting",
+        "up",
+        "flippers",
+        "animals",
+        "beach",
+        "swimmer"
+      ]
+    },
+    {
+      "id": "poly-google/Swimmer/sea-turtle",
+      "section": "cast",
+      "class": "Swimmer",
+      "name": "Sea turtle",
+      "joints": "none",
+      "line": "poly-google/Swimmer/sea-turtle: Sea turtle, a yellow-green sea turtle with long flippers [animals, sea, beach] 0.3 m, no joints",
+      "short": "poly-google/Swimmer/sea-turtle: Sea turtle (no joints)",
+      "words": [
+        "sea",
+        "turtle",
+        "yellow",
+        "green",
+        "long",
+        "flippers",
+        "animals",
+        "beach",
         "swimmer"
       ]
     },
@@ -6905,6 +7673,563 @@
         "dark",
         "visor",
         "space",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/aubergine",
+      "section": "props",
+      "class": "Prop",
+      "name": "Aubergine",
+      "joints": "none",
+      "line": "poly-google/Prop/aubergine: Aubergine, a shiny purple aubergine [food, farm] 0.1 m, no joints",
+      "short": "poly-google/Prop/aubergine: Aubergine (no joints)",
+      "words": [
+        "aubergine",
+        "shiny",
+        "purple",
+        "food",
+        "farm",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/barrel-cactus",
+      "section": "props",
+      "class": "Prop",
+      "name": "Barrel cactus",
+      "joints": "none",
+      "line": "poly-google/Prop/barrel-cactus: Barrel cactus, a round barrel cactus with long spines [plants, desert] 0.5 m, no joints",
+      "short": "poly-google/Prop/barrel-cactus: Barrel cactus (no joints)",
+      "words": [
+        "barrel",
+        "cactus",
+        "round",
+        "long",
+        "spines",
+        "plants",
+        "desert",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/binoculars",
+      "section": "props",
+      "class": "Prop",
+      "name": "Binoculars",
+      "joints": "none",
+      "line": "poly-google/Prop/binoculars: Binoculars, a pair of black binoculars [adventure, exploration] 0.07 m, no joints",
+      "short": "poly-google/Prop/binoculars: Binoculars (no joints)",
+      "words": [
+        "binoculars",
+        "pair",
+        "black",
+        "adventure",
+        "exploration",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/bulrushes",
+      "section": "props",
+      "class": "Prop",
+      "name": "Bulrushes",
+      "joints": "none",
+      "line": "poly-google/Prop/bulrushes: Bulrushes, tall bulrushes with brown seed heads [plants, pond, river] 1.5 m, no joints",
+      "short": "poly-google/Prop/bulrushes: Bulrushes (no joints)",
+      "words": [
+        "bulrushes",
+        "tall",
+        "brown",
+        "seed",
+        "heads",
+        "plants",
+        "pond",
+        "river",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/bush",
+      "section": "props",
+      "class": "Prop",
+      "name": "Bush",
+      "joints": "none",
+      "line": "poly-google/Prop/bush: Bush, a round leafy green bush [plants, garden, woodland] 1.2 m, no joints",
+      "short": "poly-google/Prop/bush: Bush (no joints)",
+      "words": [
+        "bush",
+        "round",
+        "leafy",
+        "green",
+        "plants",
+        "garden",
+        "woodland",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/cabbage",
+      "section": "props",
+      "class": "Prop",
+      "name": "Cabbage",
+      "joints": "none",
+      "line": "poly-google/Prop/cabbage: Cabbage, a round pale green cabbage [food, farm, garden] 0.2 m, no joints",
+      "short": "poly-google/Prop/cabbage: Cabbage (no joints)",
+      "words": [
+        "cabbage",
+        "round",
+        "pale",
+        "green",
+        "food",
+        "farm",
+        "garden",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/carrot",
+      "section": "props",
+      "class": "Prop",
+      "name": "Carrot",
+      "joints": "none",
+      "line": "poly-google/Prop/carrot: Carrot, an orange carrot with its green leaves [food, plants, farm] 0.25 m, no joints",
+      "short": "poly-google/Prop/carrot: Carrot (no joints)",
+      "words": [
+        "carrot",
+        "orange",
+        "green",
+        "leaves",
+        "food",
+        "plants",
+        "farm",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/cherries",
+      "section": "props",
+      "class": "Prop",
+      "name": "Cherries",
+      "joints": "none",
+      "line": "poly-google/Prop/cherries: Cherries, two dark red cherries on their stalks [food] 0.08 m, no joints",
+      "short": "poly-google/Prop/cherries: Cherries (no joints)",
+      "words": [
+        "cherries",
+        "two",
+        "dark",
+        "red",
+        "stalks",
+        "food",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/corn-on-the-cob",
+      "section": "props",
+      "class": "Prop",
+      "name": "Corn on the cob",
+      "joints": "none",
+      "line": "poly-google/Prop/corn-on-the-cob: Corn on the cob, a yellow corn cob in its green husk [food, plants, farm] 0.25 m, no joints",
+      "short": "poly-google/Prop/corn-on-the-cob: Corn on the cob (no joints)",
+      "words": [
+        "corn",
+        "cob",
+        "yellow",
+        "green",
+        "husk",
+        "food",
+        "plants",
+        "farm",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/cucumber",
+      "section": "props",
+      "class": "Prop",
+      "name": "Cucumber",
+      "joints": "none",
+      "line": "poly-google/Prop/cucumber: Cucumber, a green cucumber [food, garden] 0.05 m, no joints",
+      "short": "poly-google/Prop/cucumber: Cucumber (no joints)",
+      "words": [
+        "cucumber",
+        "green",
+        "food",
+        "garden",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/daffodils",
+      "section": "props",
+      "class": "Prop",
+      "name": "Daffodils",
+      "joints": "none",
+      "line": "poly-google/Prop/daffodils: Daffodils, yellow daffodils in a patch of earth [plants, garden] 0.35 m, no joints",
+      "short": "poly-google/Prop/daffodils: Daffodils (no joints)",
+      "words": [
+        "daffodils",
+        "yellow",
+        "patch",
+        "earth",
+        "plants",
+        "garden",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/daisy",
+      "section": "props",
+      "class": "Prop",
+      "name": "Daisy",
+      "joints": "none",
+      "line": "poly-google/Prop/daisy: Daisy, a white daisy with a yellow centre [plants, garden] 0.3 m, no joints",
+      "short": "poly-google/Prop/daisy: Daisy (no joints)",
+      "words": [
+        "daisy",
+        "white",
+        "yellow",
+        "centre",
+        "plants",
+        "garden",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/flag",
+      "section": "props",
+      "class": "Prop",
+      "name": "Flag",
+      "joints": "none",
+      "line": "poly-google/Prop/flag: Flag, a white pennant on a tall pole [space, adventure] 2.5 m, no joints",
+      "short": "poly-google/Prop/flag: Flag (no joints)",
+      "words": [
+        "flag",
+        "white",
+        "pennant",
+        "tall",
+        "pole",
+        "space",
+        "adventure",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/flowering-cactus",
+      "section": "props",
+      "class": "Prop",
+      "name": "Flowering cactus",
+      "joints": "none",
+      "line": "poly-google/Prop/flowering-cactus: Flowering cactus, a ribbed cactus with a pink flower [plants, desert] 0.6 m, no joints",
+      "short": "poly-google/Prop/flowering-cactus: Flowering cactus (no joints)",
+      "words": [
+        "flowering",
+        "cactus",
+        "ribbed",
+        "pink",
+        "flower",
+        "plants",
+        "desert",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/grapes",
+      "section": "props",
+      "class": "Prop",
+      "name": "Grapes",
+      "joints": "none",
+      "line": "poly-google/Prop/grapes: Grapes, a bunch of purple grapes [food] 0.18 m, no joints",
+      "short": "poly-google/Prop/grapes: Grapes (no joints)",
+      "words": [
+        "grapes",
+        "bunch",
+        "purple",
+        "food",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/green-pepper",
+      "section": "props",
+      "class": "Prop",
+      "name": "Green pepper",
+      "joints": "none",
+      "line": "poly-google/Prop/green-pepper: Green pepper, a shiny green pepper [food, garden] 0.12 m, no joints",
+      "short": "poly-google/Prop/green-pepper: Green pepper (no joints)",
+      "words": [
+        "green",
+        "pepper",
+        "shiny",
+        "food",
+        "garden",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/hibiscus",
+      "section": "props",
+      "class": "Prop",
+      "name": "Hibiscus",
+      "joints": "none",
+      "line": "poly-google/Prop/hibiscus: Hibiscus, a big orange hibiscus flower [plants, jungle, garden] 0.25 m, no joints",
+      "short": "poly-google/Prop/hibiscus: Hibiscus (no joints)",
+      "words": [
+        "hibiscus",
+        "big",
+        "orange",
+        "flower",
+        "plants",
+        "jungle",
+        "garden",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/lettuce",
+      "section": "props",
+      "class": "Prop",
+      "name": "Lettuce",
+      "joints": "none",
+      "line": "poly-google/Prop/lettuce: Lettuce, a head of lettuce [food, garden] 0.25 m, no joints",
+      "short": "poly-google/Prop/lettuce: Lettuce (no joints)",
+      "words": [
+        "lettuce",
+        "head",
+        "food",
+        "garden",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/map",
+      "section": "props",
+      "class": "Prop",
+      "name": "Map",
+      "joints": "none",
+      "line": "poly-google/Prop/map: Map, a map of the world, opened flat [adventure, geography, school] 0.01 m, no joints",
+      "short": "poly-google/Prop/map: Map (no joints)",
+      "words": [
+        "map",
+        "world",
+        "opened",
+        "flat",
+        "adventure",
+        "geography",
+        "school",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/orchid",
+      "section": "props",
+      "class": "Prop",
+      "name": "Orchid",
+      "joints": "none",
+      "line": "poly-google/Prop/orchid: Orchid, a purple orchid in a white pot [plants, home] 0.5 m, no joints",
+      "short": "poly-google/Prop/orchid: Orchid (no joints)",
+      "words": [
+        "orchid",
+        "purple",
+        "white",
+        "pot",
+        "plants",
+        "home",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/potato",
+      "section": "props",
+      "class": "Prop",
+      "name": "Potato",
+      "joints": "none",
+      "line": "poly-google/Prop/potato: Potato, a baked potato with a pat of butter on top [food, farm] 0.07 m, no joints",
+      "short": "poly-google/Prop/potato: Potato (no joints)",
+      "words": [
+        "potato",
+        "baked",
+        "pat",
+        "butter",
+        "top",
+        "food",
+        "farm",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/prickly-pear",
+      "section": "props",
+      "class": "Prop",
+      "name": "Prickly pear",
+      "joints": "none",
+      "line": "poly-google/Prop/prickly-pear: Prickly pear, a prickly pear cactus with flat paddles and a flower [plants, desert] 1 m, no joints",
+      "short": "poly-google/Prop/prickly-pear: Prickly pear (no joints)",
+      "words": [
+        "prickly",
+        "pear",
+        "cactus",
+        "flat",
+        "paddles",
+        "flower",
+        "plants",
+        "desert",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/pumpkin",
+      "section": "props",
+      "class": "Prop",
+      "name": "Pumpkin",
+      "joints": "none",
+      "line": "poly-google/Prop/pumpkin: Pumpkin, a big orange pumpkin [plants, farm, autumn] 0.4 m, no joints",
+      "short": "poly-google/Prop/pumpkin: Pumpkin (no joints)",
+      "words": [
+        "pumpkin",
+        "big",
+        "orange",
+        "plants",
+        "farm",
+        "autumn",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/rose-bush",
+      "section": "props",
+      "class": "Prop",
+      "name": "Rose bush",
+      "joints": "none",
+      "line": "poly-google/Prop/rose-bush: Rose bush, a climbing rose with red flowers [plants, garden, fairy tale] 0.8 m, no joints",
+      "short": "poly-google/Prop/rose-bush: Rose bush (no joints)",
+      "words": [
+        "rose",
+        "bush",
+        "climbing",
+        "red",
+        "flowers",
+        "plants",
+        "garden",
+        "fairy",
+        "tale",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/strawberry",
+      "section": "props",
+      "class": "Prop",
+      "name": "Strawberry",
+      "joints": "none",
+      "line": "poly-google/Prop/strawberry: Strawberry, a red strawberry with green leaves [food, garden] 0.04 m, no joints",
+      "short": "poly-google/Prop/strawberry: Strawberry (no joints)",
+      "words": [
+        "strawberry",
+        "red",
+        "green",
+        "leaves",
+        "food",
+        "garden",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/sunflower",
+      "section": "props",
+      "class": "Prop",
+      "name": "Sunflower",
+      "joints": "none",
+      "line": "poly-google/Prop/sunflower: Sunflower, a tall sunflower with a big brown centre [plants, garden, farm] 1.8 m, no joints",
+      "short": "poly-google/Prop/sunflower: Sunflower (no joints)",
+      "words": [
+        "sunflower",
+        "tall",
+        "big",
+        "brown",
+        "centre",
+        "plants",
+        "garden",
+        "farm",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/telescope",
+      "section": "props",
+      "class": "Prop",
+      "name": "Telescope",
+      "joints": "none",
+      "line": "poly-google/Prop/telescope: Telescope, a telescope on a tripod [space, night, science] 1.5 m, no joints",
+      "short": "poly-google/Prop/telescope: Telescope (no joints)",
+      "words": [
+        "telescope",
+        "tripod",
+        "space",
+        "night",
+        "science",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/toadstools",
+      "section": "props",
+      "class": "Prop",
+      "name": "Toadstools",
+      "joints": "none",
+      "line": "poly-google/Prop/toadstools: Toadstools, three spotted toadstools: red, yellow and blue [plants, woodland, fairy tale] 0.2 m, no joints",
+      "short": "poly-google/Prop/toadstools: Toadstools (no joints)",
+      "words": [
+        "toadstools",
+        "three",
+        "spotted",
+        "red",
+        "yellow",
+        "blue",
+        "plants",
+        "woodland",
+        "fairy",
+        "tale",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/tomato",
+      "section": "props",
+      "class": "Prop",
+      "name": "Tomato",
+      "joints": "none",
+      "line": "poly-google/Prop/tomato: Tomato, a red tomato with a green stalk [food, garden] 0.08 m, no joints",
+      "short": "poly-google/Prop/tomato: Tomato (no joints)",
+      "words": [
+        "tomato",
+        "red",
+        "green",
+        "stalk",
+        "food",
+        "garden",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/tulips",
+      "section": "props",
+      "class": "Prop",
+      "name": "Tulips",
+      "joints": "none",
+      "line": "poly-google/Prop/tulips: Tulips, five tulips in a row: white, red, yellow, pink and red [plants, garden] 0.4 m, no joints",
+      "short": "poly-google/Prop/tulips: Tulips (no joints)",
+      "words": [
+        "tulips",
+        "five",
+        "row",
+        "white",
+        "red",
+        "yellow",
+        "pink",
+        "plants",
+        "garden",
         "prop"
       ]
     },
@@ -9468,6 +10793,86 @@
       ]
     },
     {
+      "id": "poly-google/Prop/bamboo",
+      "section": "set",
+      "class": "Prop",
+      "name": "Bamboo",
+      "joints": "none",
+      "line": "poly-google/Prop/bamboo: Bamboo, pale green bamboo canes [plants, jungle, forest] 3 m, no joints",
+      "short": "poly-google/Prop/bamboo: Bamboo (no joints)",
+      "words": [
+        "bamboo",
+        "pale",
+        "green",
+        "canes",
+        "plants",
+        "jungle",
+        "forest",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/field-of-corn",
+      "section": "set",
+      "class": "Prop",
+      "name": "Field of corn",
+      "joints": "none",
+      "line": "poly-google/Prop/field-of-corn: Field of corn, rows of tall maize plants [plants, farm, countryside] 2 m, no joints",
+      "short": "poly-google/Prop/field-of-corn: Field of corn (no joints)",
+      "words": [
+        "field",
+        "corn",
+        "rows",
+        "tall",
+        "maize",
+        "plants",
+        "farm",
+        "countryside",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/field-of-wheat",
+      "section": "set",
+      "class": "Prop",
+      "name": "Field of wheat",
+      "joints": "none",
+      "line": "poly-google/Prop/field-of-wheat: Field of wheat, a patch of golden wheat [plants, farm, countryside] 1 m, no joints",
+      "short": "poly-google/Prop/field-of-wheat: Field of wheat (no joints)",
+      "words": [
+        "field",
+        "wheat",
+        "patch",
+        "golden",
+        "plants",
+        "farm",
+        "countryside",
+        "prop"
+      ]
+    },
+    {
+      "id": "poly-google/Prop/saguaro-cactus",
+      "section": "set",
+      "class": "Prop",
+      "name": "Saguaro cactus",
+      "joints": "none",
+      "line": "poly-google/Prop/saguaro-cactus: Saguaro cactus, a tall cactus with arms curving upwards [plants, desert, wild west] 3 m, no joints",
+      "short": "poly-google/Prop/saguaro-cactus: Saguaro cactus (no joints)",
+      "words": [
+        "saguaro",
+        "cactus",
+        "tall",
+        "arms",
+        "curving",
+        "upwards",
+        "plants",
+        "desert",
+        "wild",
+        "west",
+        "prop"
+      ]
+    },
+    {
       "id": "polyhaven/Prop/boulder",
       "section": "set",
       "class": "Prop",
@@ -10899,6 +12304,30 @@
         "antenna",
         "space",
         "history",
+        "transport"
+      ]
+    },
+    {
+      "id": "poly-google/Transport/space-shuttle",
+      "section": "set",
+      "class": "Transport",
+      "name": "Space shuttle",
+      "joints": "none",
+      "line": "poly-google/Transport/space-shuttle: Space shuttle, a white space shuttle on its orange fuel tank, between two rocket boosters, ready to launch [space, transport] 56 m, no joints",
+      "short": "poly-google/Transport/space-shuttle: Space shuttle (no joints)",
+      "words": [
+        "space",
+        "shuttle",
+        "white",
+        "orange",
+        "fuel",
+        "tank",
+        "between",
+        "two",
+        "rocket",
+        "boosters",
+        "ready",
+        "launch",
         "transport"
       ]
     },

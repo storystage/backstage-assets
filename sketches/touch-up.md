@@ -1,6 +1,6 @@
 # Sketches to touch up
 
-Written by `tools/make-sketches`: 3695 sketches, 0 replaced by hand, 20 to look at.
+Written by `tools/make-sketches`: 3991 sketches, 0 replaced by hand, 38 to look at.
 
 To replace a sketch, draw it in the same style (black lines 3 units wide on a white shape, the model facing left in side and three-quarter views), save it beside this file, and name it in `touch-up.json` under `overrides`. To draw one simplified (its outer edge and only its long, deep inner lines), name it under `simplified`; to keep one as it is, under `kept`.
 
@@ -15,6 +15,24 @@ To replace a sketch, draw it in the same style (black lines 3 units wide on a wh
 | `sketches/nasa/Transport/perseverance-rover/threeQuarter.svg` | 21 times its outline in lines: too many small lines to read. |
 | `sketches/nasa/Transport/perseverance-rover/side.svg` | 17 times its outline in lines: too many small lines to read. |
 | `sketches/nasa/Transport/perseverance-rover/back.svg` | 14 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Prop/field-of-corn/front.svg` | 36 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Prop/field-of-corn/threeQuarter.svg` | 32 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Prop/field-of-corn/side.svg` | 30 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Prop/field-of-corn/back.svg` | 36 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Prop/field-of-wheat/front.svg` | 22 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Prop/field-of-wheat/threeQuarter.svg` | 23 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Prop/field-of-wheat/side.svg` | 19 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Prop/field-of-wheat/back.svg` | 23 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Prop/flag/front.svg` | Only 11 units across: hard to see. |
+| `sketches/poly-google/Prop/flag/back.svg` | Only 11 units across: hard to see. |
+| `sketches/poly-google/Prop/map/front.svg` | Only 1 units across: hard to see. |
+| `sketches/poly-google/Prop/map/threeQuarter.svg` | Only 1 units across: hard to see. |
+| `sketches/poly-google/Prop/map/side.svg` | Only 1 units across: hard to see. |
+| `sketches/poly-google/Prop/map/back.svg` | Only 1 units across: hard to see. |
+| `sketches/poly-google/Quadruped/porcupine/front.svg` | 17 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Quadruped/porcupine/threeQuarter.svg` | 16 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Quadruped/porcupine/side.svg` | 17 times its outline in lines: too many small lines to read. |
+| `sketches/poly-google/Quadruped/porcupine/back.svg` | 20 times its outline in lines: too many small lines to read. |
 | `sketches/polyhaven/Prop/money-tree/back.svg` | 14 times its outline in lines: too many small lines to read. |
 | `sketches/sketchfab-history/Prop/canopic-jar-human-head/threeQuarter.svg` | 14 times its outline in lines: too many small lines to read. |
 | `sketches/sketchfab-history/Prop/canopic-jar-human-head/side.svg` | 16 times its outline in lines: too many small lines to read. |
@@ -64,6 +82,45 @@ Their skeletons don't map onto the joint map (spec 17, section 2a), so they have
 - `gobkit/Swimmer/seal`
 - `gobkit/Swimmer/shark`
 - `gobkit/Swimmer/whale`
+- `poly-google/Biped/astronaut`
+- `poly-google/Biped/chimpanzee`
+- `poly-google/Flyer/emu`
+- `poly-google/Flyer/goose`
+- `poly-google/Flyer/parrot`
+- `poly-google/Quadruped/aardvark`
+- `poly-google/Quadruped/ant`
+- `poly-google/Quadruped/bactrian-camel`
+- `poly-google/Quadruped/badger`
+- `poly-google/Quadruped/bear-cub`
+- `poly-google/Quadruped/beaver`
+- `poly-google/Quadruped/black-bear`
+- `poly-google/Quadruped/brown-bear`
+- `poly-google/Quadruped/camel`
+- `poly-google/Quadruped/crab`
+- `poly-google/Quadruped/gazelle`
+- `poly-google/Quadruped/gorilla`
+- `poly-google/Quadruped/hamster`
+- `poly-google/Quadruped/hedgehog`
+- `poly-google/Quadruped/jaguar`
+- `poly-google/Quadruped/kangaroo`
+- `poly-google/Quadruped/lion`
+- `poly-google/Quadruped/monkey`
+- `poly-google/Quadruped/mouse`
+- `poly-google/Quadruped/orangutan`
+- `poly-google/Quadruped/panda`
+- `poly-google/Quadruped/pig`
+- `poly-google/Quadruped/porcupine`
+- `poly-google/Quadruped/raccoon`
+- `poly-google/Quadruped/red-squirrel`
+- `poly-google/Quadruped/tiger`
+- `poly-google/Quadruped/tortoise`
+- `poly-google/Slitherer/earthworm`
+- `poly-google/Slitherer/snail`
+- `poly-google/Swimmer/crayfish`
+- `poly-google/Swimmer/goldfish`
+- `poly-google/Swimmer/octopus`
+- `poly-google/Swimmer/sea-lion`
+- `poly-google/Swimmer/sea-turtle`
 - `sketchfab/Flyer/african-penguin`
 - `sketchfab/Flyer/bee`
 - `sketchfab/Flyer/chick`
