@@ -9562,6 +9562,1257 @@
       "animations": []
     }
   },
+  "sketchfab-history/Prop/acheulean-hand-axe": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/acheulean-hand-axe.glb",
+        "sha256": "c70812db799c4a0637eaa325ee98f9df9fb8e1e87a4fd4b049f6a51adc4d4871"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 8000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 8000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/amphora": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/amphora.glb",
+        "sha256": "02007402930f17d7e3c43ea304ac6ba3ee877a2f4cabea218824f6cfe46b6285"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 8000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 8000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/anglo-saxon-helmet": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/anglo-saxon-helmet.glb",
+        "sha256": "c3aca5c9c44a88e20345ca25663d0bdd038aed4081eb71e35d5c1b263428a3a4"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7993,
+    "textureMaxPx": 256,
+    "fetchedSize": {
+      "triangles": 7993,
+      "textureMaxPx": 256
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [
+        "Plane",
+        "Plane.001"
+      ],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/anglo-saxon-sword": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/anglo-saxon-sword.glb",
+        "sha256": "1f61517e73ce0da43b81e9c4d829e1b8407f86de5eeb565430fb3385fcb89cbb"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7992,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7992,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/antenna-sword": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/antenna-sword.glb",
+        "sha256": "db03a0e60b7a8fdff52de6451ac5e7e4a9ac4c60b4c23e4ff81cfbac2192b5fa"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1392,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1392,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/bronze-horus": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/bronze-horus.glb",
+        "sha256": "0e10e3129a40d58070ba74111fbaaa52a860254a9c3fe2f071da8aba1d991c29"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7997,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7997,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/bronze-sword": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/bronze-sword.glb",
+        "sha256": "411acbce18f1d12efbea5737143c142d40aac66bb238f2a0dc47ec91f56d9d01"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1612,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1612,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/bust-of-tranquillina": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/bust-of-tranquillina.glb",
+        "sha256": "9c3c8d72c6b373b893993664d11f1222b1d5f34841df4a1c3519ad9701fb616a"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7998,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7998,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/canopic-jar-falcon": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/canopic-jar-falcon.glb",
+        "sha256": "296c5f8e3b8ec64f45a9fe0a12cf22bafbeddaf19ee3d3177b287f73738e007a"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7835,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7835,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/canopic-jar-human-head": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/canopic-jar-human-head.glb",
+        "sha256": "f3dd6254c0d0dc0d37a3fd8b80c862c9e4b5f7b0eb08d7c3eb2863449fe07301"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7991,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7991,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/carnfree-standing-stone": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/carnfree-standing-stone.glb",
+        "sha256": "d994d10729e53a235cffc6c8fa63ba2008e1e82b7d5d7c8bf381c6563fc70b5e"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19990,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19990,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/carved-stone-ball": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/carved-stone-ball.glb",
+        "sha256": "6757076d18ec5ed9412350ffd7ee18fca29f45edf58681a515199a8bc7b8b9e3"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7840,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7840,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/daithis-pillar-stone": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/daithis-pillar-stone.glb",
+        "sha256": "965e892be97187e3929a7f1023f8c2e9b39138a71c4375d160d08b22342d21c4"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19978,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19978,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/egyptian-coffin-gold": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/egyptian-coffin-gold.glb",
+        "sha256": "9a9b381c837a95dbb294dbe3af6cc76ee78a912e8744e151c2235224446f3e6e"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19408,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19408,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/egyptian-coffin-red": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/egyptian-coffin-red.glb",
+        "sha256": "6c36898cd151f828bf9a5da6b243f8c4a1618b5cdad61151383e43bbc3fcb615"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 20000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 20000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/egyptian-temple": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/egyptian-temple.glb",
+        "sha256": "6682d8d9a603923b680583fd150194791c76f7633056be148e4373a93df21ca2"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19571,
+    "textureMaxPx": 512,
+    "fetchedSize": {
+      "triangles": 19571,
+      "textureMaxPx": 512
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/eye-of-horus": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/eye-of-horus.glb",
+        "sha256": "aed618654787e1e9a545d5860bd32a7b1f418c0fb038f90aa921619f85198c15"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7978,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7978,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/great-pyramid": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/great-pyramid.glb",
+        "sha256": "834b529017f1809a3a46d9164846094695442994bb47f12111087a298f205e1d"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19892,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19892,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/great-sphinx": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/great-sphinx.glb",
+        "sha256": "e5ae45a0330d0b8462537a9aad2fc57c1b0cdc54a9a23dd6e0ed5328f2154087"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 20000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 20000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/head-of-maximian": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/head-of-maximian.glb",
+        "sha256": "a7d9a204af6463aca95688b4b1172f04b5c502ab3f810662912f193668cb9d2d"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7975,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7975,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/horus-falcon": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/horus-falcon.glb",
+        "sha256": "eed0b58741e2fb24daa589584e40ad485bcaa464c4f0cd0a9d42c5ce276757d4"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 8000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 8000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/iron-age-pot": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/iron-age-pot.glb",
+        "sha256": "4f158fd72452d630f320205065f825f386d354165dc4a2b1f881ca8bf2537894"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7982,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7982,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/iron-age-roundhouse": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/iron-age-roundhouse.glb",
+        "sha256": "0d00fcb520f9ba584175523d04f3cebeb859162c6d575eb0666b23b7754a42fc"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19998,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19998,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/iron-age-stone-lamp": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/iron-age-stone-lamp.glb",
+        "sha256": "030a7e0662da14727bf043140c205f90aac194a2958fc8fd6266b0e6ad202ea1"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7999,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7999,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/neolithic-axehead": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/neolithic-axehead.glb",
+        "sha256": "498d64a049f8e13e598e869aae3b7c89ae0faa01721ccececca243587e70c914"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7998,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7998,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/obelisk": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/obelisk.glb",
+        "sha256": "d18209b919ed256720ee51a1759788eca06ff362f5e37c4388db6d4cf71c31b1"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 488,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 488,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/pyramidion": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/pyramidion.glb",
+        "sha256": "74d368dc0e502f7a276f0e5ac01e8fe57f00299b2bcec5296d6807b66dabd807"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7997,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7997,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/pyramids-of-giza": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/pyramids-of-giza.glb",
+        "sha256": "cd2f9d4f46b7bae2626d0e3e3f4a6f03e92819cb5a733cc460465bcefc6fd849"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 20000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 20000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roman-coins": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roman-coins.glb",
+        "sha256": "d7b8ea2ab7fe0b666bfe70f264aaf3cc0a36b0be86bdd5ae86439330a4549942"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 8000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 8000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roman-column": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roman-column.glb",
+        "sha256": "db03942a8326651f7cda1e0eb9ba96ad0743ef9409802231dae993124ab379d0"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19997,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19997,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roman-crested-helmet": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roman-crested-helmet.glb",
+        "sha256": "4ef59a132e6aeb69fabe6a276ba31b20ab6c30735340f0b08814079355ab8b0c"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7995,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7995,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roman-dupondius": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roman-dupondius.glb",
+        "sha256": "791c6fe2a72882e09633eb072a90c47741735b069867741647fdc56cb7d40ba7"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 8000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 8000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roman-gold-coin": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roman-gold-coin.glb",
+        "sha256": "f5f993334df9e336030d410d229800b2c8a5996dd0ed276efc8b6ae221d8b88d"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7832,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7832,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roman-legionary-helmet": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roman-legionary-helmet.glb",
+        "sha256": "9c6cb14c56f7483a7b9412d7751a995b1429fb776159d4cccf3224f3250e83e4"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7836,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7836,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roman-oil-lamp": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roman-oil-lamp.glb",
+        "sha256": "4055f249200d901d6e32d6545bb1e907faff6fbeed86e06e81a73b381dcf1ead"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 8000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 8000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roman-temple": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roman-temple.glb",
+        "sha256": "954933a04257ef938660085d4c1916e17fe47ba5ff3090d1dfe53925384c8a9c"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19993,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19993,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roman-temple-white": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roman-temple-white.glb",
+        "sha256": "185b6a0864e1035725ad7f098edf916ee943d417c74080bd97622099c6132bce"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19631,
+    "textureMaxPx": 0,
+    "fetchedSize": {
+      "triangles": 19631,
+      "textureMaxPx": 0
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/roundhouse-simple": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/roundhouse-simple.glb",
+        "sha256": "87d158fe40aad69ae51fd56cbbdd56ab60fee456da6e2eed47674daa74b89c44"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 1808,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 1808,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/rune-stone": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/rune-stone.glb",
+        "sha256": "99c2f62fabb89a4932af7a5c1453492a1b008b0f2627c37dcb826a4c41a4dfc5"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 20000,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 20000,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/scarab": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/scarab.glb",
+        "sha256": "db6cd046a957e2aaf3a9076fdca29c2df80c1e025d0144a76db6b8606c20329a"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7835,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7835,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/shabti-of-ramose": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/shabti-of-ramose.glb",
+        "sha256": "852f6fea03b9c669bd19707484cf8a3170193e7763c6bd084b4fb41d4d90dced"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7998,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7998,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/simpelveld-sarcophagus": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/simpelveld-sarcophagus.glb",
+        "sha256": "f20cd849a954a8ad60bdff92003503d5e199c2a33510c7df6bb021734cdb5207"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19990,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19990,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/statue-of-minnefer": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/statue-of-minnefer.glb",
+        "sha256": "0344ea446ea65f927f49931170648dfd85ccf14fe6967c4ba1b17ceccb366c9a"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7838,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7838,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/stonehenge": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/stonehenge.glb",
+        "sha256": "3f8ad793c9f98aa85108a60f6ea0eebd6f12994196c669b1900cfe8db4fb38cb"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19988,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19988,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/stonehenge-low-poly": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/stonehenge-low-poly.glb",
+        "sha256": "2549bb7b0e5cd9ed0581579b71376be2ee2f48e5d0756792fb5fbcc978d32af1"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 18402,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 18402,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/temple-of-taffeh": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/temple-of-taffeh.glb",
+        "sha256": "b51ce5360389e11f25733e57d61e6948c3837cdf5eefddee877592a65d55086c"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19580,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19580,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/thoth-baboon": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/thoth-baboon.glb",
+        "sha256": "1031ee593139b32a766747e9d0366625c8bce338252ea58b645936dc293ab98f"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7863,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7863,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/viking-longhouse": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/viking-longhouse.glb",
+        "sha256": "2ee4399d55ea0868bdc18cdb55ff5a36e1bb64b579a781a38056477aab45725b"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 13582,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 13582,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Prop/yetholm-shield": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/yetholm-shield.glb",
+        "sha256": "d46dadac6242efad3ca7ee4d43481b1598d2a18718ee9985362f37df9b8f8ba6"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 7999,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 7999,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Transport/log-boat": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/log-boat.glb",
+        "sha256": "2d4bf3e6dc3c3ea7ffeb4e460b9e4244e25b39ef31ec19458937bb3318673951"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19999,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19999,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Transport/viking-longship": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/viking-longship.glb",
+        "sha256": "5c646e62692bf99ef591619c58104914c40cca1fd52590320bbf13005814496f"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 19973,
+    "textureMaxPx": 1024,
+    "fetchedSize": {
+      "triangles": 19973,
+      "textureMaxPx": 1024
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
+  "sketchfab-history/Transport/viking-longship-striped": {
+    "source": "sketchfab-history",
+    "fetched": [
+      {
+        "url": "https://raw.githubusercontent.com/storystage/backstage-assets/18b9d1ccd37d043f95c2b0bea98bbdf8f7705fa6/originals/sketchfab-history/viking-longship-striped.glb",
+        "sha256": "e612cc49f3b279f1cde440a935cfb9f0ed6453f3327fea78b86c1ececd087927"
+      }
+    ],
+    "retrieved": "2026-11-21",
+    "vrm": null,
+    "triangles": 3314,
+    "textureMaxPx": 256,
+    "fetchedSize": {
+      "triangles": 3314,
+      "textureMaxPx": 256
+    },
+    "fitsBudget": true,
+    "skeleton": "none",
+    "missingJoints": [],
+    "excluded": {
+      "nodes": [],
+      "animations": []
+    }
+  },
   "sketchfab/Biped/grandmother": {
     "source": "sketchfab",
     "fetched": [
