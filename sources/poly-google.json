@@ -1201,13 +1201,12 @@
       }
     },
     {
-      "id": "poly-google/Prop/potato",
-      "displayName": "Potato",
+      "id": "poly-google/Prop/baked-potato",
+      "displayName": "Baked potato",
       "class": "Prop",
       "section": "props",
       "themes": [
-        "food",
-        "farm"
+        "food"
       ],
       "description": "a baked potato with a pat of butter on top",
       "licence": "CC-BY-3.0",
@@ -1355,6 +1354,9 @@
       "credit": "Strawberry by Google, CC BY 3.0, via Poly Pizza",
       "page": "https://poly.pizza/m/4W3g1NixX1K",
       "height": 0.04,
+      "turn": {
+        "x": 180
+      },
       "fetch": {
         "github": "storystage/backstage-assets",
         "commit": "50982923f1502a734252ecb29d50f559cceed7b1",
