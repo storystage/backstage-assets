@@ -202,6 +202,8 @@ Cast
     osa/Biped/vladi: Vladi, a little vampire in a purple cloak [fantasy, spooky] 1.06 m, joints J5
     osa/Biped/weird-cat: Weird Cat, a cat with big round blue goggles and a brown waistcoat [fantasy, animals] 1.22 m, joints J6
     osa/Biped/yeti-dude: Yeti Dude, a white furry yeti with a long beard [fantasy, myth] 1.63 m, joints J5
+    poly-google/Biped/astronaut: Astronaut, an astronaut in a white spacesuit with a dark visor [space, adults] 1.8 m, no joints
+    poly-google/Biped/chimpanzee: Chimpanzee, a black chimpanzee standing up with long arms [animals, jungle] 1.2 m, no joints
     sketchfab/Biped/grandmother: Grandmother, an old village grandmother with grey hair, in a long orange dress [storybook, fairy tale, people] 1.55 m, joints J27
     sketchfab/Biped/red-riding-hood: Little Red Riding Hood, Little Red Riding Hood, a small girl in a long red hooded cloak [storybook, fairy tale] 1.2 m, joints J27
     storybook/Biped/anansi: Anansi, Anansi the Akan trickster: a man in orange and purple, with a striped headwrap and eight striped spider legs [storybook, folk tale, West African] 2.24 m, joints J1
@@ -226,6 +228,9 @@ Cast
     gobkit/Flyer/owl: Owl, a round orange-brown owl with ear tufts [animals, woodland, night] 0.4 m, no joints
     gobkit/Flyer/quail: Quail, a round blue-grey quail with a black face and a head plume [animals, farm] 0.2 m, no joints
     gobkit/Flyer/seagull: Seagull, a round white seagull with grey wings and a yellow beak [animals, seaside] 0.35 m, no joints
+    poly-google/Flyer/emu: Emu, a tall shaggy brown emu with long legs [animals, outback] 1.7 m, no joints
+    poly-google/Flyer/goose: Goose, a goose with a black neck and a white chin strap [animals, farm, pond] 0.8 m, no joints
+    poly-google/Flyer/parrot: Parrot, a red parrot with blue and yellow wings [animals, jungle, pirates] 0.5 m, no joints
     sketchfab/Flyer/african-penguin: African penguin, a black and white penguin with a black stripe across its chest [animals, sea] 0.6 m, joints J29
     sketchfab/Flyer/bee: Bee, a smiling round bee with yellow and black stripes [animals, minibeasts, garden] 0.08 m, no joints
     sketchfab/Flyer/chick: Chick, a fluffy golden-brown chick with orange feet [animals, farm] 0.15 m, joints J30
@@ -251,6 +256,33 @@ Cast
     gobkit/Quadruped/scorpion: Scorpion, a round orange-brown scorpion with a curled tail [animals, minibeasts, desert] 0.08 m, no joints
     gobkit/Quadruped/sea-otter: Sea otter, a chunky brown sea otter with a pale face [animals, sea] 0.4 m, no joints
     gobkit/Quadruped/tasmanian-devil: Tasmanian devil, a chunky black Tasmanian devil with pink ears and sharp teeth [animals, outback] 0.4 m, no joints
+    poly-google/Quadruped/aardvark: Aardvark, a grey-brown aardvark with a long snout and tall ears [animals, savanna, night] 0.6 m, no joints
+    poly-google/Quadruped/ant: Ant, a black ant [animals, minibeasts, garden] 0.03 m, no joints
+    poly-google/Quadruped/bactrian-camel: Bactrian camel, a shaggy brown camel with two humps [animals, desert, mountains] 2 m, no joints
+    poly-google/Quadruped/badger: Badger, a grey badger with a black and white striped face [animals, woodland, night] 0.3 m, no joints
+    poly-google/Quadruped/bear-cub: Bear cub, a small dark brown bear cub [animals, woodland, fairy tale] 0.5 m, no joints
+    poly-google/Quadruped/beaver: Beaver, a brown beaver with a flat tail [animals, river] 0.35 m, no joints
+    poly-google/Quadruped/black-bear: Black bear, a black bear on all fours [animals, woodland, mountains] 1 m, no joints
+    poly-google/Quadruped/brown-bear: Brown bear, a big brown bear on all fours [animals, woodland, fairy tale] 1.2 m, no joints
+    poly-google/Quadruped/camel: Camel, a sandy camel with one hump [animals, desert] 2 m, no joints
+    poly-google/Quadruped/crab: Crab, an orange crab with big claws [animals, sea, beach] 0.1 m, no joints
+    poly-google/Quadruped/gazelle: Gazelle, a sandy gazelle with curved ringed horns and a dark stripe on its side [animals, savanna] 0.9 m, no joints
+    poly-google/Quadruped/gorilla: Gorilla, a black gorilla with a silver back, leaning on its knuckles [animals, jungle] 1.4 m, no joints
+    poly-google/Quadruped/hamster: Hamster, a ginger hamster sitting up beside a little blue dish [animals, pets] 0.1 m, no joints
+    poly-google/Quadruped/hedgehog: Hedgehog, a brown hedgehog with a spiky back [animals, garden, woodland] 0.15 m, no joints
+    poly-google/Quadruped/jaguar: Jaguar, a golden jaguar with black spots [animals, jungle] 0.7 m, no joints
+    poly-google/Quadruped/kangaroo: Kangaroo, a tan kangaroo with a long tail [animals, outback] 1.5 m, no joints
+    poly-google/Quadruped/lion: Lion, a lion with a big shaggy mane [animals, savanna] 1.1 m, no joints
+    poly-google/Quadruped/monkey: Monkey, a small black monkey with a white face and a long tail [animals, jungle] 0.45 m, no joints
+    poly-google/Quadruped/mouse: Mouse, a small grey-brown mouse with a long tail [animals, garden, town] 0.08 m, no joints
+    poly-google/Quadruped/orangutan: Orangutan, an orange orangutan with long arms [animals, jungle] 0.9 m, no joints
+    poly-google/Quadruped/panda: Panda, a black and white giant panda on all fours [animals, forest, mountains] 0.9 m, no joints
+    poly-google/Quadruped/pig: Pig, a pink pig with a curly tail [animals, farm] 0.9 m, no joints
+    poly-google/Quadruped/porcupine: Porcupine, a dark porcupine covered in long quills [animals, woodland] 0.4 m, no joints
+    poly-google/Quadruped/raccoon: Raccoon, a grey raccoon with a dark mask and a ringed tail [animals, woodland, town] 0.3 m, no joints
+    poly-google/Quadruped/red-squirrel: Red squirrel, an orange squirrel sitting up with a big bushy tail [animals, woodland, park] 0.25 m, no joints
+    poly-google/Quadruped/tiger: Tiger, an orange tiger with black stripes [animals, jungle] 1 m, no joints
+    poly-google/Quadruped/tortoise: Tortoise, a tortoise with a domed brown shell [animals, pets, garden] 0.25 m, no joints
     sketchfab/Quadruped/buffalo: Buffalo, a blocky dark grey buffalo with big white curved horns [animals, savanna] 1.5 m, joints J37
     sketchfab/Quadruped/deer: Deer, a brown deer grazing, with a white tail [animals, woodland] 1.3 m, joints J38
     sketchfab/Quadruped/elephant: Elephant, a blocky grey elephant with big square ears, tusks and a trunk [animals, savanna] 3 m, joints J39
@@ -271,6 +303,9 @@ Cast
     styloo/Quadruped/giraffe: Giraffe, a tall giraffe with orange-brown patches and a long neck [animals, savanna] 5 m, joints J42
     vuena/Quadruped/cat: Cat, a chunky toy-style ginger cat with a white chest and big green eyes [animals, pets] 0.35 m, joints J50
     vuena/Quadruped/fox: Fox, a chunky toy-style orange fox with a white face and dark paws [animals, woodland] 0.45 m, joints J50
+  Slitherer
+    poly-google/Slitherer/earthworm: Earthworm, a pink earthworm [animals, minibeasts, garden] 0.03 m, no joints
+    poly-google/Slitherer/snail: Snail, a garden snail with a brown spiral shell [animals, minibeasts, garden] 0.08 m, no joints
   Swimmer
     gobkit/Swimmer/anglerfish: Anglerfish, a round pink anglerfish with a glowing lure on its head [animals, sea] 0.3 m, no joints
     gobkit/Swimmer/jellyfish: Jellyfish, a round blue jellyfish with short tentacles [animals, sea] 0.3 m, no joints
@@ -279,6 +314,11 @@ Cast
     gobkit/Swimmer/seal: Seal, a round lilac-grey seal with whiskers [animals, sea, polar] 0.6 m, no joints
     gobkit/Swimmer/shark: Shark, a round blue shark with a big fin [animals, sea] 0.8 m, no joints
     gobkit/Swimmer/whale: Whale, a round blue whale with a pale belly [animals, sea] 1.2 m, no joints
+    poly-google/Swimmer/crayfish: Crayfish, a red crayfish with long feelers and big claws [animals, river, pond] 0.1 m, no joints
+    poly-google/Swimmer/goldfish: Goldfish, a golden goldfish with a big tail [animals, pets, pond] 0.15 m, no joints
+    poly-google/Swimmer/octopus: Octopus, a pink octopus with curling arms [animals, sea] 0.4 m, no joints
+    poly-google/Swimmer/sea-lion: Sea lion, a dark brown sea lion sitting up on its flippers [animals, sea, beach] 0.9 m, no joints
+    poly-google/Swimmer/sea-turtle: Sea turtle, a yellow-green sea turtle with long flippers [animals, sea, beach] 0.3 m, no joints
     sketchfab/Swimmer/dolphin: Dolphin, a dark grey dolphin with an orange stripe and a white belly [animals, sea] 0.35 m, joints J51
     sketchfab/Swimmer/fish: Fish, a small silver fish [animals, sea, pond] 0.1 m, joints J52
     sketchfab/Swimmer/humpback-whale: Humpback whale, a dark humpback whale with very long flippers and a striped pale throat [animals, sea] 1.2 m, joints J53
@@ -307,6 +347,36 @@ Props
     nasa/Prop/space-helmet: Space helmet, a white astronaut's helmet with a clear visor [space] 0.4 m, no joints
     nasa/Prop/spacewalk-suit: Spacewalk suit, an empty white spacewalk suit with a big backpack [space] 1.9 m, no joints
     nasa/Prop/z2-spacesuit: Z2 spacesuit, an empty white and grey prototype spacesuit with a dark visor [space] 1.9 m, no joints
+    poly-google/Prop/aubergine: Aubergine, a shiny purple aubergine [food, farm] 0.1 m, no joints
+    poly-google/Prop/baked-potato: Baked potato, a baked potato with a pat of butter on top [food] 0.07 m, no joints
+    poly-google/Prop/barrel-cactus: Barrel cactus, a round barrel cactus with long spines [plants, desert] 0.5 m, no joints
+    poly-google/Prop/binoculars: Binoculars, a pair of black binoculars [adventure, exploration] 0.07 m, no joints
+    poly-google/Prop/bulrushes: Bulrushes, tall bulrushes with brown seed heads [plants, pond, river] 1.5 m, no joints
+    poly-google/Prop/bush: Bush, a round leafy green bush [plants, garden, woodland] 1.2 m, no joints
+    poly-google/Prop/cabbage: Cabbage, a round pale green cabbage [food, farm, garden] 0.2 m, no joints
+    poly-google/Prop/carrot: Carrot, an orange carrot with its green leaves [food, plants, farm] 0.25 m, no joints
+    poly-google/Prop/cherries: Cherries, two dark red cherries on their stalks [food] 0.08 m, no joints
+    poly-google/Prop/corn-on-the-cob: Corn on the cob, a yellow corn cob in its green husk [food, plants, farm] 0.25 m, no joints
+    poly-google/Prop/cucumber: Cucumber, a green cucumber [food, garden] 0.05 m, no joints
+    poly-google/Prop/daffodils: Daffodils, yellow daffodils in a patch of earth [plants, garden] 0.35 m, no joints
+    poly-google/Prop/daisy: Daisy, a white daisy with a yellow centre [plants, garden] 0.3 m, no joints
+    poly-google/Prop/flag: Flag, a white pennant on a tall pole [space, adventure] 2.5 m, no joints
+    poly-google/Prop/flowering-cactus: Flowering cactus, a ribbed cactus with a pink flower [plants, desert] 0.6 m, no joints
+    poly-google/Prop/grapes: Grapes, a bunch of purple grapes [food] 0.18 m, no joints
+    poly-google/Prop/green-pepper: Green pepper, a shiny green pepper [food, garden] 0.12 m, no joints
+    poly-google/Prop/hibiscus: Hibiscus, a big orange hibiscus flower [plants, jungle, garden] 0.25 m, no joints
+    poly-google/Prop/lettuce: Lettuce, a head of lettuce [food, garden] 0.25 m, no joints
+    poly-google/Prop/map: Map, a map of the world, opened flat [adventure, geography, school] 0.01 m, no joints
+    poly-google/Prop/orchid: Orchid, a purple orchid in a white pot [plants, home] 0.5 m, no joints
+    poly-google/Prop/prickly-pear: Prickly pear, a prickly pear cactus with flat paddles and a flower [plants, desert] 1 m, no joints
+    poly-google/Prop/pumpkin: Pumpkin, a big orange pumpkin [plants, farm, autumn] 0.4 m, no joints
+    poly-google/Prop/rose-bush: Rose bush, a climbing rose with red flowers [plants, garden, fairy tale] 0.8 m, no joints
+    poly-google/Prop/strawberry: Strawberry, a red strawberry with green leaves [food, garden] 0.04 m, no joints
+    poly-google/Prop/sunflower: Sunflower, a tall sunflower with a big brown centre [plants, garden, farm] 1.8 m, no joints
+    poly-google/Prop/telescope: Telescope, a telescope on a tripod [space, night, science] 1.5 m, no joints
+    poly-google/Prop/toadstools: Toadstools, three spotted toadstools: red, yellow and blue [plants, woodland, fairy tale] 0.2 m, no joints
+    poly-google/Prop/tomato: Tomato, a red tomato with a green stalk [food, garden] 0.08 m, no joints
+    poly-google/Prop/tulips: Tulips, five tulips in a row: white, red, yellow, pink and red [plants, garden] 0.4 m, no joints
     polyhaven/Prop/anthurium: Anthurium, a leafy green rainforest plant with long pointed leaves [plants, jungle] 0.5 m, no joints
     polyhaven/Prop/apple: Apple, a red apple [food, kitchen] 0.09 m, no joints
     polyhaven/Prop/avocado: Avocado, a dark green avocado [food, kitchen] 0.14 m, no joints
@@ -441,6 +511,10 @@ Set
     kaykit-forest/Prop/rock-3-q: Grey rock Q [nature] 3.72 m, no joints
     kaykit-forest/Prop/rock-3-r: Grey rock R [nature] 3.85 m, no joints
     nasa/Prop/vehicle-assembly-building: Vehicle Assembly Building, the huge box-shaped building where rockets are put together, a US flag on its side [space] 160 m, no joints
+    poly-google/Prop/bamboo: Bamboo, pale green bamboo canes [plants, jungle, forest] 3 m, no joints
+    poly-google/Prop/field-of-corn: Field of corn, rows of tall maize plants [plants, farm, countryside] 2 m, no joints
+    poly-google/Prop/field-of-wheat: Field of wheat, a patch of golden wheat [plants, farm, countryside] 1 m, no joints
+    poly-google/Prop/saguaro-cactus: Saguaro cactus, a tall cactus with arms curving upwards [plants, desert, wild west] 3 m, no joints
     polyhaven/Prop/boulder: Boulder, a big rough brown boulder [nature] 1 m, no joints
     polyhaven/Prop/fallen-log: Fallen log, a long fallen log with rough bark [woodland, nature] 0.29 m, no joints
     polyhaven/Prop/money-tree: Money tree, a small tree with a braided trunk and green leaves [plants, home] 1.9 m, no joints
@@ -512,6 +586,7 @@ Set
     nasa/Transport/saturn-v: Saturn V rocket, the giant white Saturn V rocket that launched the Apollo Moon missions [space, moon, history] 110.6 m, no joints
     nasa/Transport/space-shuttle: Space Shuttle, the white space shuttle orbiter with black tiles underneath and wings like a plane [space, history] 14 m, no joints
     nasa/Transport/viking-lander: Viking lander, the Viking lander that touched down on Mars, on three legs with a dish antenna [space, mars, history] 2.1 m, no joints
+    poly-google/Transport/space-shuttle: Space shuttle, a white space shuttle on its orange fuel tank, between two rocket boosters, ready to launch [space, transport] 56 m, no joints
     scottishmaritime/Transport/mv-spartan: Wrecked puffer ship, the wreck of a small old cargo ship, its hull broken and rusted [sea, boats, history] 9.14 m, no joints
     scottishmaritime/Transport/rnlb-jane-anne: Lifeboat, an old wooden lifeboat with a dark hull [sea, boats, history] 2.74 m, no joints
     sketchfab-history/Transport/log-boat: Log boat, a long narrow boat hollowed out of a single tree trunk [history, boats] 0.5 m, no joints

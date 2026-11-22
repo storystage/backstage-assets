@@ -221,6 +221,80 @@ Written by `tools/backstage-sources` (WP3.7). Before merging, look at each item'
 | `osa/Biped/vladi` | Vladi | CC0-1.0 | cast | 8697 | 2048 → 1024 | yes | mapped | 1.06 m | VRM 0 | — | 16 |
 | `osa/Biped/weird-cat` | Weird Cat | CC0-1.0 | cast | 6640 | 2048 → 1024 | yes | mapped | 1.22 m | VRM 0 | — | 16 |
 | `osa/Biped/yeti-dude` | Yeti Dude | CC0-1.0 | cast | 8240 | 2048 → 1024 | yes | mapped | 1.63 m | VRM 0 | — | 16 |
+| `poly-google/Biped/astronaut` | Astronaut | CC-BY-3.0 | cast | 1604 | 2048 → 1024 | yes | none | 1.8 m | glTF | — | 4 |
+| `poly-google/Biped/chimpanzee` | Chimpanzee | CC-BY-3.0 | cast | 704 | 32 | yes | none | 1.2 m | glTF | — | 4 |
+| `poly-google/Flyer/emu` | Emu | CC-BY-3.0 | cast | 548 | 32 | yes | none | 1.7 m | glTF | — | 4 |
+| `poly-google/Flyer/goose` | Goose | CC-BY-3.0 | cast | 460 | 32 | yes | none | 0.8 m | glTF | — | 4 |
+| `poly-google/Flyer/parrot` | Parrot | CC-BY-3.0 | cast | 651 | 64 | yes | none | 0.5 m | glTF | — | 4 |
+| `poly-google/Prop/aubergine` | Aubergine | CC-BY-3.0 | props | 376 | — | yes | none | 0.1 m | glTF | — | 4 |
+| `poly-google/Prop/baked-potato` | Baked potato | CC-BY-3.0 | props | 212 | — | yes | none | 0.07 m | glTF | — | 4 |
+| `poly-google/Prop/bamboo` | Bamboo | CC-BY-3.0 | set | 2576 | — | yes | none | 3 m | glTF | — | 4 |
+| `poly-google/Prop/barrel-cactus` | Barrel cactus | CC-BY-3.0 | props | 1400 | 2048 → 1024 | yes | none | 0.5 m | glTF | — | 4 |
+| `poly-google/Prop/binoculars` | Binoculars | CC-BY-3.0 | props | 928 | — | yes | none | 0.07 m | glTF | — | 4 |
+| `poly-google/Prop/bulrushes` | Bulrushes | CC-BY-3.0 | props | 473 | 512 | yes | none | 1.5 m | glTF | — | 4 |
+| `poly-google/Prop/bush` | Bush | CC-BY-3.0 | props | 470 | 2048 → 1024 | yes | none | 1.2 m | glTF | — | 4 |
+| `poly-google/Prop/cabbage` | Cabbage | CC-BY-3.0 | props | 704 | — | yes | none | 0.2 m | glTF | — | 4 |
+| `poly-google/Prop/carrot` | Carrot | CC-BY-3.0 | props | 598 | — | yes | none | 0.25 m | glTF | — | 4 |
+| `poly-google/Prop/cherries` | Cherries | CC-BY-3.0 | props | 568 | — | yes | none | 0.08 m | glTF | — | 4 |
+| `poly-google/Prop/corn-on-the-cob` | Corn on the cob | CC-BY-3.0 | props | 1168 | 2048 → 1024 | yes | none | 0.25 m | glTF | — | 4 |
+| `poly-google/Prop/cucumber` | Cucumber | CC-BY-3.0 | props | 144 | 2048 → 1024 | yes | none | 0.05 m | glTF | — | 4 |
+| `poly-google/Prop/daffodils` | Daffodils | CC-BY-3.0 | props | 5872 | — | yes | none | 0.35 m | glTF | — | 4 |
+| `poly-google/Prop/daisy` | Daisy | CC-BY-3.0 | props | 496 | 512 | yes | none | 0.3 m | glTF | — | 4 |
+| `poly-google/Prop/field-of-corn` | Field of corn | CC-BY-3.0 | set | 8448 | 2048 → 1024 | yes | none | 2 m | glTF | — | 4 |
+| `poly-google/Prop/field-of-wheat` | Field of wheat | CC-BY-3.0 | set | 4385 | 2048 → 1024 | yes | none | 1 m | glTF | — | 4 |
+| `poly-google/Prop/flag` | Flag | CC-BY-3.0 | props | 2284 | — | yes | none | 2.5 m | glTF | — | 4 |
+| `poly-google/Prop/flowering-cactus` | Flowering cactus | CC-BY-3.0 | props | 404 | 512 | yes | none | 0.6 m | glTF | — | 4 |
+| `poly-google/Prop/grapes` | Grapes | CC-BY-3.0 | props | 2064 | — | yes | none | 0.18 m | glTF | — | 4 |
+| `poly-google/Prop/green-pepper` | Green pepper | CC-BY-3.0 | props | 630 | — | yes | none | 0.12 m | glTF | — | 4 |
+| `poly-google/Prop/hibiscus` | Hibiscus | CC-BY-3.0 | props | 1160 | 512 | yes | none | 0.25 m | glTF | — | 4 |
+| `poly-google/Prop/lettuce` | Lettuce | CC-BY-3.0 | props | 812 | — | yes | none | 0.25 m | glTF | — | 4 |
+| `poly-google/Prop/map` | Map | CC-BY-3.0 | props | 480 | 4096 → 1024 | yes | none | 0.01 m | glTF | — | 4 |
+| `poly-google/Prop/orchid` | Orchid | CC-BY-3.0 | props | 3497 | 2048 → 1024 | yes | none | 0.5 m | glTF | — | 4 |
+| `poly-google/Prop/prickly-pear` | Prickly pear | CC-BY-3.0 | props | 1028 | 512 | yes | none | 1 m | glTF | — | 4 |
+| `poly-google/Prop/pumpkin` | Pumpkin | CC-BY-3.0 | props | 912 | — | yes | none | 0.4 m | glTF | — | 4 |
+| `poly-google/Prop/rose-bush` | Rose bush | CC-BY-3.0 | props | 4336 | — | yes | none | 0.8 m | glTF | — | 4 |
+| `poly-google/Prop/saguaro-cactus` | Saguaro cactus | CC-BY-3.0 | set | 592 | 2048 → 1024 | yes | none | 3 m | glTF | — | 4 |
+| `poly-google/Prop/strawberry` | Strawberry | CC-BY-3.0 | props | 212 | — | yes | none | 0.04 m | glTF | — | 4 |
+| `poly-google/Prop/sunflower` | Sunflower | CC-BY-3.0 | props | 340 | 512 | yes | none | 1.8 m | glTF | — | 4 |
+| `poly-google/Prop/telescope` | Telescope | CC-BY-3.0 | props | 3474 | — | yes | none | 1.5 m | glTF | — | 4 |
+| `poly-google/Prop/toadstools` | Toadstools | CC-BY-3.0 | props | 8088 → 7968 | — | yes | none | 0.2 m | glTF | — | 4 |
+| `poly-google/Prop/tomato` | Tomato | CC-BY-3.0 | props | 824 | — | yes | none | 0.08 m | glTF | — | 4 |
+| `poly-google/Prop/tulips` | Tulips | CC-BY-3.0 | props | 7880 | 2048 → 1024 | yes | none | 0.4 m | glTF | — | 4 |
+| `poly-google/Quadruped/aardvark` | Aardvark | CC-BY-3.0 | cast | 728 | 32 | yes | none | 0.6 m | glTF | — | 4 |
+| `poly-google/Quadruped/ant` | Ant | CC-BY-3.0 | cast | 2000 | — | yes | none | 0.03 m | glTF | — | 4 |
+| `poly-google/Quadruped/bactrian-camel` | Bactrian camel | CC-BY-3.0 | cast | 1402 | 2048 → 1024 | yes | none | 2 m | glTF | — | 4 |
+| `poly-google/Quadruped/badger` | Badger | CC-BY-3.0 | cast | 514 | 32 | yes | none | 0.3 m | glTF | — | 4 |
+| `poly-google/Quadruped/bear-cub` | Bear cub | CC-BY-3.0 | cast | 542 | 32 | yes | none | 0.5 m | glTF | — | 4 |
+| `poly-google/Quadruped/beaver` | Beaver | CC-BY-3.0 | cast | 568 | 32 | yes | none | 0.35 m | glTF | — | 4 |
+| `poly-google/Quadruped/black-bear` | Black bear | CC-BY-3.0 | cast | 666 | 2048 → 1024 | yes | none | 1 m | glTF | — | 4 |
+| `poly-google/Quadruped/brown-bear` | Brown bear | CC-BY-3.0 | cast | 326 | 512 | yes | none | 1.2 m | glTF | — | 4 |
+| `poly-google/Quadruped/camel` | Camel | CC-BY-3.0 | cast | 822 | 32 | yes | none | 2 m | glTF | — | 4 |
+| `poly-google/Quadruped/crab` | Crab | CC-BY-3.0 | cast | 1340 | — | yes | none | 0.1 m | glTF | — | 4 |
+| `poly-google/Quadruped/gazelle` | Gazelle | CC-BY-3.0 | cast | 810 | 32 | yes | none | 0.9 m | glTF | — | 4 |
+| `poly-google/Quadruped/gorilla` | Gorilla | CC-BY-3.0 | cast | 576 | 32 | yes | none | 1.4 m | glTF | — | 4 |
+| `poly-google/Quadruped/hamster` | Hamster | CC-BY-3.0 | cast | 1664 | — | yes | none | 0.1 m | glTF | — | 4 |
+| `poly-google/Quadruped/hedgehog` | Hedgehog | CC-BY-3.0 | cast | 376 | 32 | yes | none | 0.15 m | glTF | — | 4 |
+| `poly-google/Quadruped/jaguar` | Jaguar | CC-BY-3.0 | cast | 1020 | 2048 → 1024 | yes | none | 0.7 m | glTF | — | 4 |
+| `poly-google/Quadruped/kangaroo` | Kangaroo | CC-BY-3.0 | cast | 760 | 32 | yes | none | 1.5 m | glTF | — | 4 |
+| `poly-google/Quadruped/lion` | Lion | CC-BY-3.0 | cast | 1350 | 2048 → 1024 | yes | none | 1.1 m | glTF | — | 4 |
+| `poly-google/Quadruped/monkey` | Monkey | CC-BY-3.0 | cast | 1478 | 2048 → 1024 | yes | none | 0.45 m | glTF | — | 4 |
+| `poly-google/Quadruped/mouse` | Mouse | CC-BY-3.0 | cast | 568 | 32 | yes | none | 0.08 m | glTF | — | 4 |
+| `poly-google/Quadruped/orangutan` | Orangutan | CC-BY-3.0 | cast | 628 | 32 | yes | none | 0.9 m | glTF | — | 4 |
+| `poly-google/Quadruped/panda` | Panda | CC-BY-3.0 | cast | 780 | 32 | yes | none | 0.9 m | glTF | — | 4 |
+| `poly-google/Quadruped/pig` | Pig | CC-BY-3.0 | cast | 608 | 32 | yes | none | 0.9 m | glTF | — | 4 |
+| `poly-google/Quadruped/porcupine` | Porcupine | CC-BY-3.0 | cast | 1728 | 2048 → 1024 | yes | none | 0.4 m | glTF | — | 4 |
+| `poly-google/Quadruped/raccoon` | Raccoon | CC-BY-3.0 | cast | 807 | — | yes | none | 0.3 m | glTF | — | 4 |
+| `poly-google/Quadruped/red-squirrel` | Red squirrel | CC-BY-3.0 | cast | 292 | — | yes | none | 0.25 m | glTF | — | 4 |
+| `poly-google/Quadruped/tiger` | Tiger | CC-BY-3.0 | cast | 742 | 1024 | yes | none | 1 m | glTF | — | 4 |
+| `poly-google/Quadruped/tortoise` | Tortoise | CC-BY-3.0 | cast | 1468 | — | yes | none | 0.25 m | glTF | — | 4 |
+| `poly-google/Slitherer/earthworm` | Earthworm | CC-BY-3.0 | cast | 3617 | — | yes | none | 0.03 m | glTF | — | 4 |
+| `poly-google/Slitherer/snail` | Snail | CC-BY-3.0 | cast | 399 | 32 | yes | none | 0.08 m | glTF | — | 4 |
+| `poly-google/Swimmer/crayfish` | Crayfish | CC-BY-3.0 | cast | 1556 | — | yes | none | 0.1 m | glTF | — | 4 |
+| `poly-google/Swimmer/goldfish` | Goldfish | CC-BY-3.0 | cast | 1036 | — | yes | none | 0.15 m | glTF | — | 4 |
+| `poly-google/Swimmer/octopus` | Octopus | CC-BY-3.0 | cast | 754 | 2048 → 1024 | yes | none | 0.4 m | glTF | — | 4 |
+| `poly-google/Swimmer/sea-lion` | Sea lion | CC-BY-3.0 | cast | 714 | 2048 → 1024 | yes | none | 0.9 m | glTF | — | 4 |
+| `poly-google/Swimmer/sea-turtle` | Sea turtle | CC-BY-3.0 | cast | 1788 | — | yes | none | 0.3 m | glTF | — | 4 |
+| `poly-google/Transport/space-shuttle` | Space shuttle | CC-BY-3.0 | set | 1472 | 2048 → 1024 | yes | none | 56 m | glTF | — | 4 |
 | `polyhaven/Prop/anthurium` | Anthurium | CC0-1.0 | props | 15808 → 7999 | 1024 | yes | none | 0.5 m | glTF | 5 parts | 4 |
 | `polyhaven/Prop/apple` | Apple | CC0-1.0 | props | 7012 | 1024 | yes | none | 0.09 m | glTF | — | 4 |
 | `polyhaven/Prop/avocado` | Avocado | CC0-1.0 | props | 7743 | 1024 | yes | none | 0.14 m | glTF | — | 4 |
@@ -527,4 +601,4 @@ Triangles and textures show fetched → shipped where the build reduced them to 
 | `storystage/Sky/night` | #1c2647 | #374d8f | #0b0f1c |
 | `storystage/Sky/sunset` | #c6c1b4 | #a6c5ea | #4f4d48 |
 
-**Prompter catalogue:** the index in its system prompt is about 8,222 of 12,000 tokens; every full line, which requests carry a few at a time, about 27,910. `prompter-catalogue.txt` holds every full line exactly as Claude reads it; check its descriptions with the sketches.
+**Prompter catalogue:** the index in its system prompt is about 9,566 of 12,000 tokens; every full line, which requests carry a few at a time, about 30,846. `prompter-catalogue.txt` holds every full line exactly as Claude reads it; check its descriptions with the sketches.
