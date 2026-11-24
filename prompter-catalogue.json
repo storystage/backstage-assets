@@ -7409,11 +7409,15 @@
       "class": "Prop",
       "name": "Grey rock A",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-a: Grey rock A [nature] 0.86 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-a: Grey rock A, a small rounded grey rock, wide at the top [nature] 0.86 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-a: Grey rock A (no joints)",
       "words": [
         "grey",
         "rock",
+        "small",
+        "rounded",
+        "wide",
+        "top",
         "nature",
         "prop"
       ]
@@ -7424,11 +7428,14 @@
       "class": "Prop",
       "name": "Grey rock B",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-b: Grey rock B [nature] 1.03 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-b: Grey rock B, a small egg-shaped grey rock [nature] 1.03 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-b: Grey rock B (no joints)",
       "words": [
         "grey",
         "rock",
+        "small",
+        "egg",
+        "shaped",
         "nature",
         "prop"
       ]
@@ -7439,11 +7446,15 @@
       "class": "Prop",
       "name": "Grey rock C",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-c: Grey rock C [nature] 0.97 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-c: Grey rock C, a small oval grey rock, narrow at the bottom [nature] 0.97 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-c: Grey rock C (no joints)",
       "words": [
         "grey",
         "rock",
+        "small",
+        "oval",
+        "narrow",
+        "bottom",
         "nature",
         "prop"
       ]
@@ -7454,11 +7465,15 @@
       "class": "Prop",
       "name": "Grey rock D",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-d: Grey rock D [nature] 0.97 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-d: Grey rock D, a small oval grey rock, leaning a little [nature] 0.97 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-d: Grey rock D (no joints)",
       "words": [
         "grey",
         "rock",
+        "small",
+        "oval",
+        "leaning",
+        "little",
         "nature",
         "prop"
       ]
@@ -7469,11 +7484,15 @@
       "class": "Prop",
       "name": "Grey rock E",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-e: Grey rock E [nature] 1.29 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-e: Grey rock E, a grey rock shaped like a rounded triangle [nature] 1.29 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-e: Grey rock E (no joints)",
       "words": [
         "grey",
         "rock",
+        "shaped",
+        "like",
+        "rounded",
+        "triangle",
         "nature",
         "prop"
       ]
@@ -7484,11 +7503,13 @@
       "class": "Prop",
       "name": "Grey rock F",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-f: Grey rock F [nature] 1.18 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-f: Grey rock F, a broad, round grey rock [nature] 1.18 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-f: Grey rock F (no joints)",
       "words": [
         "grey",
         "rock",
+        "broad",
+        "round",
         "nature",
         "prop"
       ]
@@ -7499,11 +7520,15 @@
       "class": "Prop",
       "name": "Grey rock J",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-j: Grey rock J [nature] 1.9 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-j: Grey rock J, a big slanting grey rock with a flat top [nature] 1.9 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-j: Grey rock J (no joints)",
       "words": [
         "grey",
         "rock",
+        "big",
+        "slanting",
+        "flat",
+        "top",
         "nature",
         "prop"
       ]
@@ -10606,11 +10631,16 @@
       "class": "Prop",
       "name": "Grey rock G",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-g: Grey rock G [nature] 2 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-g: Grey rock G, a big grey rock with a pointed top and a wide base [nature] 2 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-g: Grey rock G (no joints)",
       "words": [
         "grey",
         "rock",
+        "big",
+        "pointed",
+        "top",
+        "wide",
+        "base",
         "nature",
         "prop"
       ]
@@ -10621,11 +10651,15 @@
       "class": "Prop",
       "name": "Grey rock H",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-h: Grey rock H [nature] 2.06 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-h: Grey rock H, a big round grey rock with a pointed top [nature] 2.06 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-h: Grey rock H (no joints)",
       "words": [
         "grey",
         "rock",
+        "big",
+        "round",
+        "pointed",
+        "top",
         "nature",
         "prop"
       ]
@@ -10636,11 +10670,16 @@
       "class": "Prop",
       "name": "Grey rock I",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-i: Grey rock I [nature] 2.11 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-i: Grey rock I, a big lumpy grey rock, leaning to one side [nature] 2.11 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-i: Grey rock I (no joints)",
       "words": [
         "grey",
         "rock",
+        "big",
+        "lumpy",
+        "leaning",
+        "one",
+        "side",
         "nature",
         "prop"
       ]
@@ -10651,11 +10690,15 @@
       "class": "Prop",
       "name": "Grey rock K",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-k: Grey rock K [nature] 2.22 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-k: Grey rock K, a big grey rock with pointed top and sides [nature] 2.22 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-k: Grey rock K (no joints)",
       "words": [
         "grey",
         "rock",
+        "big",
+        "pointed",
+        "top",
+        "sides",
         "nature",
         "prop"
       ]
@@ -10666,11 +10709,15 @@
       "class": "Prop",
       "name": "Grey rock L",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-l: Grey rock L [nature] 2.27 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-l: Grey rock L, a big smooth, wide, oval grey rock [nature] 2.27 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-l: Grey rock L (no joints)",
       "words": [
         "grey",
         "rock",
+        "big",
+        "smooth",
+        "wide",
+        "oval",
         "nature",
         "prop"
       ]
@@ -10681,11 +10728,14 @@
       "class": "Prop",
       "name": "Grey rock M",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-m: Grey rock M [nature] 3.6 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-m: Grey rock M, a huge rounded grey boulder [nature] 3.6 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-m: Grey rock M (no joints)",
       "words": [
         "grey",
         "rock",
+        "huge",
+        "rounded",
+        "boulder",
         "nature",
         "prop"
       ]
@@ -10696,11 +10746,16 @@
       "class": "Prop",
       "name": "Grey rock N",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-n: Grey rock N [nature] 3.53 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-n: Grey rock N, a huge craggy grey boulder with a ridge across it [nature] 3.53 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-n: Grey rock N (no joints)",
       "words": [
         "grey",
         "rock",
+        "huge",
+        "craggy",
+        "boulder",
+        "ridge",
+        "across",
         "nature",
         "prop"
       ]
@@ -10711,11 +10766,17 @@
       "class": "Prop",
       "name": "Grey rock O",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-o: Grey rock O [nature] 3.47 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-o: Grey rock O, a huge grey boulder, narrow at the top and wide at the base [nature] 3.47 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-o: Grey rock O (no joints)",
       "words": [
         "grey",
         "rock",
+        "huge",
+        "boulder",
+        "narrow",
+        "top",
+        "wide",
+        "base",
         "nature",
         "prop"
       ]
@@ -10726,11 +10787,16 @@
       "class": "Prop",
       "name": "Grey rock P",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-p: Grey rock P [nature] 3.68 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-p: Grey rock P, a huge tall grey boulder, narrower at the bottom [nature] 3.68 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-p: Grey rock P (no joints)",
       "words": [
         "grey",
         "rock",
+        "huge",
+        "tall",
+        "boulder",
+        "narrower",
+        "bottom",
         "nature",
         "prop"
       ]
@@ -10741,11 +10807,16 @@
       "class": "Prop",
       "name": "Grey rock Q",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-q: Grey rock Q [nature] 3.72 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-q: Grey rock Q, a huge craggy grey boulder with knobs on its sides [nature] 3.72 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-q: Grey rock Q (no joints)",
       "words": [
         "grey",
         "rock",
+        "huge",
+        "craggy",
+        "boulder",
+        "knobs",
+        "sides",
         "nature",
         "prop"
       ]
@@ -10756,11 +10827,16 @@
       "class": "Prop",
       "name": "Grey rock R",
       "joints": "none",
-      "line": "kaykit-forest/Prop/rock-3-r: Grey rock R [nature] 3.85 m, no joints",
+      "line": "kaykit-forest/Prop/rock-3-r: Grey rock R, a huge smooth grey boulder with a wide base [nature] 3.85 m, no joints",
       "short": "kaykit-forest/Prop/rock-3-r: Grey rock R (no joints)",
       "words": [
         "grey",
         "rock",
+        "huge",
+        "smooth",
+        "boulder",
+        "wide",
+        "base",
         "nature",
         "prop"
       ]
